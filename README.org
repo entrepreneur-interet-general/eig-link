@@ -1,0 +1,52 @@
+* Un séminaire de rentrée en février
+
+TBA.
+
+* Réunions de groupe
+
+Une réunion de groupe (tous les 15 jours ? les mois ?) pour échanger
+sur ce qu’on apprend, les problèmes qu’on rencontre, etc.
+
+* Canaux de communication
+
+Des rendez-vous d’une heure peuvent être pris une fois toutes les deux
+semaines (ou plus ?) avec toutes les équipes pour savoir ce qu’elles
+souhaitent partager avec les autres, si elles ont besoin d’aide sur
+des aspects techniques ou juridiques.
+
+** Liste de discussion eig2018@framalistes.org
+
+Tous les EIG2018 sont inscrits sur [[https://framalistes.org/sympa/review/eig2018][la liste eig2018]].
+
+** Canal de discussion sur slack
+
+Un slack ouvert par les EIG2017 peut être réutilisé : https://eig-hq.slack.com
+
+Je propose d’être sur le slack tous les après-midi.
+
+** Canal de visioconférence
+
+Un canal de visioconférence : https://meet.jit.si/eig2018
+
+** Lettre hebdomadaire pour les EIGs
+
+Une lettre envoyée en fin de semaine (le jeudi soir par exemple) avec
+les avancées et les demandes d’aide des uns et des autres.
+
+** Un blog ?
+
+Un entrée de blog toutes les deux semaines avec des nouvelles des
+défis, qui serait la version publique de la lettre hebdomadaire.
+
+* Contenus participatifs et évolutifs
+
+Des contenus qui évolueront au gré des contributions:
+
+- Une FAQ pour les EIG ;
+- Une FAQ pour les mentors ;
+- Une liste des langages/outils/framework.
+
+* Journal de bord
+
+Un « journal de bord collectif », intégrant les indicateurs communs
+(et peut-être les indicateurs propres à chaque projet).
