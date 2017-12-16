@@ -2,17 +2,21 @@
 
 TBA.
 
-* Réunions de groupe
+* Les réunions de groupe
 
 Une réunion de groupe (tous les 15 jours ? les mois ?) pour échanger
 sur ce qu’on apprend, les problèmes qu’on rencontre, etc.
 
-* Canaux de communication
+* Les canaux de communication
 
-Des rendez-vous d’une heure peuvent être pris une fois toutes les deux
-semaines (ou plus ?) avec toutes les équipes pour savoir ce qu’elles
-souhaitent partager avec les autres, si elles ont besoin d’aide sur
-des aspects techniques ou juridiques.
+** Rendez-vous bi-mensuels de 40 minutes avec les défis
+
+Des rendez-vous pourront être pris une fois toutes les deux semaines
+avec les équipes des défis pour savoir ce qu’elles souhaitent partager
+avec les autres, si elles ont besoin d’aide sur des aspects techniques
+ou juridiques, etc;
+
+Pour prendre rendez-vous : https://calendly.com/bzg/40min
 
 ** Liste de discussion eig2018@framalistes.org
 
@@ -20,25 +24,35 @@ Tous les EIG2018 sont inscrits sur [[https://framalistes.org/sympa/review/eig201
 
 ** Canal de discussion sur slack
 
-Un slack ouvert par les EIG2017 peut être réutilisé : https://eig-hq.slack.com
+Le [[https://eig-hq.slack.com][canal slack]] ouvert par les EIG2017 peut être réutilisé.
 
 Je propose d’être sur le slack tous les après-midi.
 
+Si les développeurs préfèrent, nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]].
+
 ** Canal de visioconférence
 
-Un canal de visioconférence : https://meet.jit.si/eig2018
+Il y a [[https://meet.jit.si/eig2018][un canal de visioconférence]] pour les rendez-vous.
 
 ** Lettre hebdomadaire pour les EIGs
 
 Une lettre envoyée en fin de semaine (le jeudi soir par exemple) avec
 les avancées et les demandes d’aide des uns et des autres.
 
-** Un blog ?
+** Le site entrepreneur-interet-general.etalab.gouv.fr
+
+Je peux aider à maintenir à jour le site
+https://entrepreneur-interet-general.etalab.gouv.fr.
+
+** Un blog
 
 Un entrée de blog toutes les deux semaines avec des nouvelles des
 défis, qui serait la version publique de la lettre hebdomadaire.
 
-* Contenus participatifs et évolutifs
+Il faut éventuellement réaménager
+entrepreneur-interet-general.etalab.gouv.fr pour y intégrer ce blog.
+
+* Des contenus participatifs et évolutifs
 
 Des contenus qui évolueront au gré des contributions:
 
@@ -46,7 +60,25 @@ Des contenus qui évolueront au gré des contributions:
 - Une FAQ pour les mentors ;
 - Une liste des langages/outils/framework.
 
-* Journal de bord
+* Un journal de bord
 
 Un « journal de bord collectif », intégrant les indicateurs communs
 (et peut-être les indicateurs propres à chaque projet).
+
+* Un agenda partagé
+
+L’agenda partagé contiendra :
+
+- Les sessions proposées par l’équipe encadrant EIG (bootcamp, etc.)
+
+- Les sessions d’animation technique proposées par EIG Link.
+
+- Les rendez-vous individuels par défi.
+
+- Les événements de l’écosystème administratif (par exemple, les
+  gitlunch du MTES.)
+
+Un lien public permettra aux EIG d’intégrer cet agenda dans leur
+agenda.  Si besoin, nous ferons plusieurs agendas.
+
+
