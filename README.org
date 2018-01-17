@@ -81,3 +81,7 @@ L’agenda est accessible via ce [[https://box.bzg.io/cloud/index.php/apps/calen
 l’exporter.
 
 Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
+
+* Comptes Twitter
+
+La liste des [[file:twitter.org][comptes Twitter des EIG]], toutes promos confondues.
