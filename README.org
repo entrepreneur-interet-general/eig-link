@@ -1,11 +1,11 @@
 * Un séminaire de rentrée en février
 
-TBA.
+Du 5 au 9 février, Mathilde a envoyé un pré-programme par email.
 
 * Les réunions de groupe
 
-Une réunion de groupe (tous les 15 jours ? les mois ?) pour échanger
-sur ce qu’on apprend, les problèmes qu’on rencontre, etc.
+Une réunion de groupe pour échanger sur ce qu’on apprend, les
+problèmes qu’on rencontre, etc.
 
 * Les canaux de communication
 
@@ -37,33 +37,32 @@ Il y a [[https://meet.jit.si/eig2018][un canal de visioconférence]] pour les re
 ** Lettre hebdomadaire pour les EIGs
 
 Une lettre envoyée en fin de semaine (le jeudi soir par exemple) avec
-les avancées et les demandes d’aide des uns et des autres.
+les avancées et les demandes d’aide des uns et des autres ou un retour
+sur la réunion de groupe.
 
 ** Le site entrepreneur-interet-general.etalab.gouv.fr
 
-Je peux aider à maintenir à jour le site
-https://entrepreneur-interet-general.etalab.gouv.fr.
+Le site https://entrepreneur-interet-general.etalab.gouv.fr est
+maintenu par Mathilde, Soizic, Paul et moi, mais vous pouvez soumettre
+des retours ou envoyer des PR via [[https://github.com/entrepreneur-interet-general/blog-eig2][le dépôt Github]].
 
 ** Un blog
 
 Un entrée de blog toutes les deux semaines avec des nouvelles des
 défis, qui serait la version publique de la lettre hebdomadaire.
 
-Il faut éventuellement réaménager
-entrepreneur-interet-general.etalab.gouv.fr pour y intégrer ce blog.
-
 * Des contenus participatifs et évolutifs
 
 Des contenus qui évolueront au gré des contributions:
 
-- Une FAQ pour les EIG ;
-- Une FAQ pour les mentors ;
-- Une liste des langages/outils/framework.
+- Une FAQ pour les EIG 2018 ([[https://github.com/entrepreneur-interet-general/faq-eig2][dépôt Github]]) ;
+- Une FAQ pour les mentors (même dépôt ?) ;
+- Une liste des langages/outils/framework (TBD).
 
 * Un journal de bord
 
 Un « journal de bord collectif », intégrant les indicateurs communs
-(et peut-être les indicateurs propres à chaque projet).
+(et peut-être les indicateurs propres à chaque projet) (TBD).
 
 * Un agenda partagé
 
@@ -78,7 +77,7 @@ L’agenda partagé contiendra :
 - Les événements de l’écosystème administratif (par exemple, les
   gitlunch du MTES.)
 
-Un lien public permettra aux EIG d’intégrer cet agenda dans leur
-agenda.  Si besoin, nous ferons plusieurs agendas.
+L’agenda est accessible via ce [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][lien public]], pour vous y abonner ou
+l’exporter.
 
-
+Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
