@@ -2,12 +2,15 @@
 
 Du 5 au 9 février, Mathilde a envoyé un pré-programme par email.
 
-* Les réunions de groupe
+* Les réunions de groupe en présentiel
 
-Une réunion de groupe pour échanger sur ce qu’on apprend, les
-problèmes qu’on rencontre, etc.
+Une réunion de groupe en présentiel tous les quinze jours.
 
 * Les canaux de communication
+
+** Rendez-vous sur slack 30 minutes toutes les semaines
+
+À définir ensemble lors du bootcamp
 
 ** Rendez-vous bi-mensuels de 40 minutes avec les défis
 
@@ -56,7 +59,6 @@ défis, qui serait la version publique de la lettre hebdomadaire.
 Des contenus qui évolueront au gré des contributions:
 
 - Une FAQ pour les EIG 2018 ([[https://github.com/entrepreneur-interet-general/faq-eig2][dépôt Github]]) ;
-- Une FAQ pour les mentors (même dépôt ?) ;
 - Une liste des langages/outils/framework (TBD).
 
 * Un journal de bord
@@ -82,6 +84,6 @@ l’exporter.
 
 Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
 
-* Comptes Twitter
+* Comptes Twitter et Github
 
-La liste des [[file:twitter.org][comptes Twitter des EIG]], toutes promos confondues.
+La liste des [[file:twitter.org][comptes des EIG]], toutes promos confondues.
