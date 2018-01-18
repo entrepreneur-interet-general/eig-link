@@ -29,9 +29,12 @@ Tous les EIG2018 sont inscrits sur [[https://framalistes.org/sympa/review/eig201
 
 Le [[https://eig-hq.slack.com][canal slack]] ouvert par les EIG2017 peut être réutilisé.
 
-Je propose d’être sur le slack tous les après-midi.
+Je serai sur le slack tous les après-midi.
 
-Si les développeurs préfèrent, nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]].
+- =@channel= pour notifier tout le canal
+- =@here= pour notifier tous ceux qui sont présents
+
+Nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]].
 
 ** Canal de visioconférence
 
