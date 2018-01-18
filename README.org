@@ -31,8 +31,8 @@ Le [[https://eig-hq.slack.com][canal slack]] ouvert par les EIG2017 peut être r
 
 Je serai sur le slack tous les après-midi.
 
-- =@channel= pour notifier tout le canal
-- =@here= pour notifier tous ceux qui sont présents
+- =@channel= pour notifier tout le canal ;
+- =@here= pour notifier tous ceux qui sont présents.
 
 Nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]].
 
