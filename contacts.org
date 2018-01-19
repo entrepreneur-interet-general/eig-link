@@ -26,7 +26,7 @@
 | Tiphaine Phe-Neau         | [[https://twitter.com/@datatiph][@datatiph]]       | [[https://github.com/tiphaine][tiphaine]]            |
 | Victor Schmidt            | [[https://twitter.com/@vict0rsch][@vict0rsch]]      |                     |
 | David Panou               |                 | [[https://github.com/pandav2][pandav2]]             |
-| Emmanuel Gautier          |                 | [[https://github.com/emmanuelgautier1994][emmanuelgautier1994]] |
+| Emmanuel Gautier          | [[https://twitter.com/@manutaust][@manutaust]]      | [[https://github.com/emmanuelgautier1994][emmanuelgautier1994]] |
 |---------------------------+-----------------+---------------------|
 | *EIG 2017*                  |                 |                     |
 |---------------------------+-----------------+---------------------|
