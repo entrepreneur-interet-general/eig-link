@@ -1,41 +1,42 @@
 #+title: Comptes Twitter EIG
 
-| Nom                       | Twitter         | Github         |
-|---------------------------+-----------------+----------------|
-| *EIG « forever » team*      |                 |                |
-|---------------------------+-----------------+----------------|
-| Adnène Trojette           | [[https://twitter.com/@trojette][@trojette]]       |                |
-| Mathilde Bras             | [[https://twitter.com/@Mathilde_Bras][@Mathilde_Bras]]  |                |
-| Paul Schmite              | [[https://twitter.com/@schmitologie][@schmitologie]]   |                |
-| Soizic Pénicaud           | [[https://twitter.com/@soizicpenicaud][@soizicpenicaud]] | [[https://github.com/spenicauddata][spenicauddata]]  |
-| Étalab                    | [[https://twitter.com/@etalab][@etalab]]         |                |
-|---------------------------+-----------------+----------------|
-| *EIG 2018*                  |                 |                |
-|---------------------------+-----------------+----------------|
-| Adrien Signorino          | [[https://twitter.com/@signoOngis][@signoOngis]]     | [[https://github.com/sign0][sign0]]          |
-| Antoine Augusti           | [[https://twitter.com/@AntoineAugusti][@AntoineAugusti]] | [[https://github.com/AntoineAugusti][AntoineAugusti]] |
-| Arnaud Rachez             | [[https://twitter.com/@zermelozf][@zermelozf]]      | [[https://github.com/zermelozf][zermelozf]]      |
-| Bastien Guerry            | [[https://twitter.com/@bzg2][@bzg2]]           | [[https://github.com/bzg][bzg]]            |
-| Benoît Guigal             | [[https://twitter.com/@BGuigal][@BGuigal]]        | [[https://github.com/benoitguigal][benoitguigal]]   |
-| Jean-Baptiste Le Dévéhat  | [[https://twitter.com/@jbledevehat][@jbledevehat]]    |                |
-| Julien Paris              | [[https://twitter.com/@jparis_py][@jparis_py]]      |                |
-| Laurie Chapotte           | [[https://twitter.com/@Lauriechapotte][@Lauriechapotte]] |                |
-| Ned Baldessin             | [[https://twitter.com/@ned][@ned]]            | [[https://github.com/nedbaldessin][nedbaldessin]]   |
-| Samah Ghalloussi          | [[https://twitter.com/@SamahNLP][@SamahNLP]]       |                |
-| Sami Moustachir           | [[https://twitter.com/@sa_mous][@sa_mous]]        |                |
-| Tiphaine Phe-Neau         | [[https://twitter.com/@datatiph][@datatiph]]       | [[https://github.com/tiphaine][tiphaine]]       |
-| Victor Schmidt            | [[https://twitter.com/@vict0rsch][@vict0rsch]]      |                |
-| David Panou               |                 | [[https://github.com/pandav2][pandav2]]        |
-|---------------------------+-----------------+----------------|
-| *EIG 2017*                  |                 |                |
-|---------------------------+-----------------+----------------|
-| Constance de Quatrebarbes | [[https://twitter.com/@c4barbes][@c4barbes]]       | [[https://github.com/c24b][c24b]]           |
-| Etienne David             | [[https://twitter.com/@EtienneDavid][@EtienneDavid]]   | [[https://github.com/EtienneDavid][EtienneDavid]]   |
-| Frédéric Bardolle         | [[https://twitter.com/@seiteta][@seiteta]]        | [[https://github.com/seiteta][seiteta]]        |
-| Martin Gross              | [[https://twitter.com/@TainMar][@TainMar]]        | [[https://github.com/SuperKiwi][SuperKiwi]]      |
-| Sébastien Cossin          | [[https://twitter.com/@sebcossin][@sebcossin]]      | [[https://github.com/scossin][scossin]]        |
-| Tristram Gräbener         | [[https://twitter.com/@tristramg][@tristramg]]      | [[https://github.com/Tristramg][Tristramg]]      |
-| Laurent Dupont            |                 | [[https://github.com/duplau][duplau]]         |
-| Francis Chabouis          |                 | [[https://github.com/fchabouis][fchabouis]]      |
-| Marion Paclot             |                 | [[https://github.com/marion-paclot][marion-paclot]]  |
-|---------------------------+-----------------+----------------|
+| Nom                       | Twitter         | Github              |
+|---------------------------+-----------------+---------------------|
+| *EIG « forever » team*      |                 |                     |
+|---------------------------+-----------------+---------------------|
+| Adnène Trojette           | [[https://twitter.com/@trojette][@trojette]]       |                     |
+| Mathilde Bras             | [[https://twitter.com/@Mathilde_Bras][@Mathilde_Bras]]  |                     |
+| Paul Schmite              | [[https://twitter.com/@schmitologie][@schmitologie]]   |                     |
+| Soizic Pénicaud           | [[https://twitter.com/@soizicpenicaud][@soizicpenicaud]] | [[https://github.com/spenicauddata][spenicauddata]]       |
+| Étalab                    | [[https://twitter.com/@etalab][@etalab]]         |                     |
+|---------------------------+-----------------+---------------------|
+| *EIG 2018*                  |                 |                     |
+|---------------------------+-----------------+---------------------|
+| Adrien Signorino          | [[https://twitter.com/@signoOngis][@signoOngis]]     | [[https://github.com/sign0][sign0]]               |
+| Antoine Augusti           | [[https://twitter.com/@AntoineAugusti][@AntoineAugusti]] | [[https://github.com/AntoineAugusti][AntoineAugusti]]      |
+| Arnaud Rachez             | [[https://twitter.com/@zermelozf][@zermelozf]]      | [[https://github.com/zermelozf][zermelozf]]           |
+| Bastien Guerry            | [[https://twitter.com/@bzg2][@bzg2]]           | [[https://github.com/bzg][bzg]]                 |
+| Benoît Guigal             | [[https://twitter.com/@BGuigal][@BGuigal]]        | [[https://github.com/benoitguigal][benoitguigal]]        |
+| Jean-Baptiste Le Dévéhat  | [[https://twitter.com/@jbledevehat][@jbledevehat]]    |                     |
+| Julien Paris              | [[https://twitter.com/@jparis_py][@jparis_py]]      |                     |
+| Laurie Chapotte           | [[https://twitter.com/@Lauriechapotte][@Lauriechapotte]] |                     |
+| Ned Baldessin             | [[https://twitter.com/@ned][@ned]]            | [[https://github.com/nedbaldessin][nedbaldessin]]        |
+| Samah Ghalloussi          | [[https://twitter.com/@SamahNLP][@SamahNLP]]       |                     |
+| Sami Moustachir           | [[https://twitter.com/@sa_mous][@sa_mous]]        |                     |
+| Tiphaine Phe-Neau         | [[https://twitter.com/@datatiph][@datatiph]]       | [[https://github.com/tiphaine][tiphaine]]            |
+| Victor Schmidt            | [[https://twitter.com/@vict0rsch][@vict0rsch]]      |                     |
+| David Panou               |                 | [[https://github.com/pandav2][pandav2]]             |
+| Emmanuel Gautier          |                 | [[https://github.com/emmanuelgautier1994][emmanuelgautier1994]] |
+|---------------------------+-----------------+---------------------|
+| *EIG 2017*                  |                 |                     |
+|---------------------------+-----------------+---------------------|
+| Constance de Quatrebarbes | [[https://twitter.com/@c4barbes][@c4barbes]]       | [[https://github.com/c24b][c24b]]                |
+| Etienne David             | [[https://twitter.com/@EtienneDavid][@EtienneDavid]]   | [[https://github.com/EtienneDavid][EtienneDavid]]        |
+| Frédéric Bardolle         | [[https://twitter.com/@seiteta][@seiteta]]        | [[https://github.com/seiteta][seiteta]]             |
+| Martin Gross              | [[https://twitter.com/@TainMar][@TainMar]]        | [[https://github.com/SuperKiwi][SuperKiwi]]           |
+| Sébastien Cossin          | [[https://twitter.com/@sebcossin][@sebcossin]]      | [[https://github.com/scossin][scossin]]             |
+| Tristram Gräbener         | [[https://twitter.com/@tristramg][@tristramg]]      | [[https://github.com/Tristramg][Tristramg]]           |
+| Laurent Dupont            |                 | [[https://github.com/duplau][duplau]]              |
+| Francis Chabouis          |                 | [[https://github.com/fchabouis][fchabouis]]           |
+| Marion Paclot             |                 | [[https://github.com/marion-paclot][marion-paclot]]       |
+|---------------------------+-----------------+---------------------|
