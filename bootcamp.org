@@ -5,8 +5,8 @@
 | Heure | Projet            | Référent        | Ressource                      | Dépôts              | Réutilisations             |
 |-------+-------------------+-----------------+--------------------------------+---------------------+----------------------------|
 | 9h30  | Datagouv          | Alexandre B.    | http://www.data.gouv.fr/fr/    | [[https://github.com/opendatateam/udata][udata]], [[https://github.com/etalab/udata-gouvfr][udata-gouvfr]] | https://data.public.lu/en/ |
-| 10h   | AGD / Datascience | Paul-Antoine    | https://agd.data.gouv.fr/      |                     |                            |
+| 10h   | AGD / Datascience | Paul-Antoine    | https://agd.data.gouv.fr       |                     |                            |
 | 10h30 | Cadre légal       | Thomas et Maud  |                                |                     |                            |
 | 11h   | API entreprise    | Alexandre de P. | https://entreprise.api.gouv.fr |                     |                            |
-| 11h30 | Open fisca        | Mauko           | https://www.openfisca.fr/      |                     |                            |
-| 12h   | Open gov          | Amélie          | https://www.etalab.gouv.fr/    |                     |                            |
+| 11h30 | Open fisca        | Mauko Quiroga   | https://www.openfisca.fr       | [[https://github.com/openfisca][openfisca]] | [[https://mes-aides.gouv.fr/][mes-aides]] |
+| 12h   | Open gov          | Amélie          | https://www.etalab.gouv.fr     |                     |                            |
