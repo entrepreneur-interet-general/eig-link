@@ -13,6 +13,7 @@
 | *EIG 2018*                  |                          |                 |                     |
 |---------------------------+--------------------------+-----------------+---------------------|
 | Adrien Signorino          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/][b@aliseNAV]]               | [[https://twitter.com/signoOngis][@signoOngis]]     | [[https://github.com/sign0][sign0]]               |
+| Ambre Arnaud              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]                  | [[https://twitter.com/ambreelmee][@ambreelmee]]     | [[https://github.com/ambreelmee][ambreelmee]]          |
 | Antoine Augusti           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/][PrédiSauvetage]]           | [[https://twitter.com/AntoineAugusti][@AntoineAugusti]] | [[https://github.com/AntoineAugusti][AntoineAugusti]]      |
 | Arnaud Rachez             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/][CoachÉlèves - AssistProf]] | [[https://twitter.com/zermelozf][@zermelozf]]      | [[https://github.com/zermelozf][zermelozf]]           |
 | Bastien Guerry            | EIG Link                 | [[https://twitter.com/bzg2][@bzg2]]           | [[https://github.com/bzg][bzg]]                 |
