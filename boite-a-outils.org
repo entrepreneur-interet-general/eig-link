@@ -1,0 +1,23 @@
+#+title: Boîte à outils
+
+* Outils de partage de code
+
+- https://glitch.com
+- https://jsfiddle.net
+
+* Outils de programmation en duo (/pair programming/)
+
+- [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
+- [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
+- [[https://tmux.github.io/][tmux]]
+
+* Outils de vidéo et de partage d’écran
+
+** Ne nécessitant pas de compte
+
+- https://appear.in
+- https://meet.jit.si
+
+* Outils pour de la revue de code
+
+TBD
