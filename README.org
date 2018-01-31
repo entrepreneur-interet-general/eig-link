@@ -82,7 +82,7 @@ L’agenda partagé contiendra :
 - Les événements de l’écosystème administratif (par exemple, les
   gitlunch du MTES.)
 
-L’agenda est accessible via ce [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][lien public]], pour vous y abonner ou
+L’agenda est accessible via ce [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][lien public]], pour vous y abonner ou
 l’exporter.
 
 Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
