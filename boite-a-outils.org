@@ -1,11 +1,24 @@
 #+title: Boîte à outils
 
+* Animation
+
+- « Clinique » (IRL ou en ligne) : chacun vient avec un problème et on
+  contribue tous à le résoudre.
+
+- « Bulloterie » : outil de mise en relation par intérêts et
+  savoir-faire, en groupe affinitaire, de façon ludique. [[http://wiki.mainstenant.org/wiki/la-bulloterie-experimentation-du-4-et-5-novembre][Exemple]].
+
 * Outils de partage de code
 
 - https://glitch.com
 - https://jsfiddle.net
+- https://codepen.io
 
-* Outils de programmation en duo (/pair programming/)
+* Outil d’exploration (REPL) de langages de programmation
+
+- https://repl.it
+
+* Outils de programmation à plusieurs mains
 
 - [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
 - [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
@@ -20,4 +33,3 @@
 
 * Outils pour de la revue de code
 
-TBD
