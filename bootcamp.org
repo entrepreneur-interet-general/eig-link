@@ -8,6 +8,6 @@
 | 10h   | AGD / Datascience | Paul-Antoine    | https://agd.data.gouv.fr       |                     |                            |
 | 10h30 | Cadre légal       | Thomas et Maud  |                                |                     |                            |
 | 11h   | API entreprise    | Alexandre de P. | https://entreprise.api.gouv.fr |                     |                            |
-| 11h30 | Open gov          | Amélie          | https://www.etalab.gouv.fr     |                     |                            |
+| 11h30 | Open gov          | Amélie          | [[https://www.etalab.gouv.fr/gouvernement-ouvert][page de synthèse sur le gouvernement ouvert]] ; [[https://www.etalab.gouv.fr/plan-daction-national][plan d'action pour un gouvernement ouvert 2015-2017]] ; [[https://suivi-gouvernement-ouvert.etalab.gouv.fr/fr/][suivi du plan d'action]] ; [[https://www.opengovpartnership.org/][site du partenariat pour un gouvernement ouvert]]      |                     |                            |
 | 12h | Open fisca        | Mauko Quiroga   | https://www.openfisca.fr       | [[https://github.com/openfisca][openfisca]] | [[https://mes-aides.gouv.fr/][mes-aides]] |
 
