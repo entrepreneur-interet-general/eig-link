@@ -1,4 +1,4 @@
-#+title: Préparation de l’atelier technique du <2018-02-06 mar.>
+#+title: Atelier technique du <2018-02-06 mar.>
 
 * Outils de communication / coordination
 
@@ -61,9 +61,9 @@
 
 * Animation et valorisation technique
 
-- Un point hebdomadaire le lundi de 11h30 à 12h30 (format stand-up)
+- Un point hebdomadaire le lundi de 11h30 à 12h30 (format stand-up) ?
 
-- Un point hebdomadaire pour une « clinique » (?)
+- Un point hebdomadaire (?) pour une « clinique »
 
 - Des sessions de /live coding/ ?
 
@@ -91,15 +91,17 @@
 
 ** Gestion de projet
 
-- Avez-vous besoin d’un outil commun pour la gestion de projets ?
+- Avez-vous *besoin* d’un outil commun pour la gestion de projets ?
 
   - Lesquels sont déjà utilisés ?
+
   - Est-ce qu’il vaut la peine d’en installer un ?
-    - Kanboard ?
-    - Phabricator ?
-    - Taiga.io ?
-    - Asana ?
-    - Github.com ?
+    - kanboard ?
+    - phabricator ?
+    - taiga ?
+    - asana ?
+    - gitlab.com ?
+    - github.com ?
 
 ** Documentation
 
@@ -112,6 +114,8 @@
 
 - Présentation du document en cours de rédaction par la DISIC :
   http://github.com/disic/politique-de-contribution-open-source/
+
+- Quelle licence à utiliser ?
 
 ** Politique d’ouverture des données
 
@@ -141,5 +145,14 @@ Oui ? Non ? Pourquoi ? Comment ?
 | Waterfall   | Agile       |
 | Outsourced  | In-house    |
 | Replace     | Enhance     |
+
+* Idées d’outils
+
+- Outil de journal de bord collectif (rex eig1, eig2)
+- Outil pour choisir une licence libre
+- Outil de mise en relation des compétences
+- Outil pour l’échelle de [[http://s3.cleverelephant.ca/2018-small-it.pdf][Costanza]]
+- Outil pour vérifier la qualité de la documentation ?
+- Outil pour évaluer si une administration est EIG ready ?
 
 * Le 10% EIG ?
