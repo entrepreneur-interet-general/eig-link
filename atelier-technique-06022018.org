@@ -1,0 +1,145 @@
+#+title: Préparation de l’atelier technique du <2018-02-06 mar.>
+
+* Outils de communication / coordination
+
+** Communication aynchrone
+
+- Adresse mail pour l’équipe Étalab :
+  entrepreneur-interet-general@data.gouv.fr
+
+- Listes de discussion
+  - eig2017@
+  - eig2018@
+  - eig2018-mentors@
+
+- Ficher avec les [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/contacts.org][contacts]]
+
+- Calendrier partagé : [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][blog]] et [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][html]]
+
+- FAQ EIG ?
+
+- Lettre interne EIG ?
+
+- Blog EIG ?
+
+** Communication asynchrone
+
+- https://meet.jit.si/eig2018
+
+- Rendez-vous bimensuel avec chaque projet ?
+
+- Canal slack pour tous les EIG : http://eig-hq.slack.com
+
+** Coordination générale
+
+- [[https://github.com/entrepreneur-interet-general/][Organisation Github]] permettant d’écrire à tous
+
+- Un espace de partage de fichiers : http://cloud.eig-forever.org
+
+- Espace de gestion de projet : http://board.eig-forever.org
+
+** Évaluation et discussion autour de la communication
+
+- Que pensez-vous du rendez-vous bimensuel : est-ce trop ?  Quels
+  objectifs se donner pour ce rendez-vous ?
+
+- Est-ce qu’il y a des outils que vous utilisez déjà et dont vous
+  pensez que nous pourrions les utiliser ?
+
+- Qu’est-ce qui vous est le plus utile dans les outils existants ?
+
+- Comment communiquer ensemble (à quelle fréquence, combien de temps)
+  pour que ça n’interfère pas avec vos habitude de travail.
+
+- Quel(s) outil(s) de gestion de projet ?
+
+- Quel articulation avec les outils proposés par vos administrations ?
+
+- Que voulez-vous voir dans la lettre EIG ?
+
+- Que voulez-vous voir dans le blog EIG ?
+
+* Animation et valorisation technique
+
+- Un point hebdomadaire le lundi de 11h30 à 12h30 (format stand-up)
+
+- Un point hebdomadaire pour une « clinique » (?)
+
+- Des sessions de /live coding/ ?
+
+- Des sessions de /pair programming/ ?
+
+** Évaluation et discussion
+
+- Comment éviter de créer trop de rendez-vous et de contraintes ?
+
+- Quels autres formats ?
+
+* Outils pour le code
+
+- Organisation github : http://github.com/entrepreneur-interet-general/
+
+- Forge pour les dépôts privés : https://code.eig-forever.org
+
+** Évaluation et discussion
+
+- Quels outils utilisez-vous déjà (au niveau perso) ?
+
+- Quels outils sont imposés par votre administration ?
+
+* Autour du code
+
+** Gestion de projet
+
+- Avez-vous besoin d’un outil commun pour la gestion de projets ?
+
+  - Lesquels sont déjà utilisés ?
+  - Est-ce qu’il vaut la peine d’en installer un ?
+    - Kanboard ?
+    - Phabricator ?
+    - Taiga.io ?
+    - Asana ?
+    - Github.com ?
+
+** Documentation
+
+- Êtes-vous déjà en train d’accumuler des notes qui seront peut-être
+  de la documentation ?
+
+- Quels outils utilisez-vous déjà pour la documentation ?
+
+** Politique d’ouverture des code sources
+
+- Présentation du document en cours de rédaction par la DISIC :
+  http://github.com/disic/politique-de-contribution-open-source/
+
+** Politique d’ouverture des données
+
+- Présentation de https://data.gouv.fr
+
+** Éco-conception, économie de l’attention
+
+Oui ? Non ? Pourquoi ? Comment ?
+
+** Code de conduite et inclusivité
+
+Oui ? Non ? Pourquoi ? Comment ?
+
+* Ressources mobilisables en interne
+
+- Correspondant Open Source
+- Correspondant Open Data
+- Correspondant sécurité
+
+* L’échelle de Costanza
+
+| Past        | Future      |
+|-------------+-------------|
+| Big         | Small       |
+| Proprietary | Open Source |
+| Opaque      | Transparent |
+| Waterfall   | Agile       |
+| Outsourced  | In-house    |
+| Replace     | Enhance     |
+
+* Le 10% EIG ?
