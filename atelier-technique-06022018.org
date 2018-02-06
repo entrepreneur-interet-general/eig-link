@@ -1,4 +1,4 @@
-#+title: Atelier technique du <2018-02-06 mar.>
+#+title: Atelier technique 2018-02-06
 
 * Outils de communication / coordination
 
@@ -53,7 +53,7 @@
 
 - Quel(s) outil(s) de gestion de projet ?
 
-- Quel articulation avec les outils proposés par vos administrations ?
+- Quelle articulation avec les outils proposés par vos administrations ?
 
 - Que voulez-vous voir dans la lettre EIG ?
 
@@ -96,10 +96,17 @@
   - Lesquels sont déjà utilisés ?
 
   - Est-ce qu’il vaut la peine d’en installer un ?
-    - kanboard ?
-    - phabricator ?
-    - taiga ?
-    - asana ?
+    - pivotal tracker
+    - taiga.io
+    - trello.com
+    - google spreadsheet
+    - pipefy
+    - mantis
+    - redmine
+    - confluence
+    - kanboard
+    - phabricator
+    - asana.com
     - gitlab.com ?
     - github.com ?
 
@@ -133,6 +140,7 @@ Oui ? Non ? Pourquoi ? Comment ?
 
 - Correspondant Open Source
 - Correspondant Open Data
+- Administrateur ministériel des données
 - Correspondant sécurité
 
 * L’échelle de Costanza
