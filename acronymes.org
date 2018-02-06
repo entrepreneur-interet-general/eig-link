@@ -1,5 +1,9 @@
 - *ANSSI* : Agence Nationale de Sécurité des Systèmes d’Information
 
+- *AMD* : Administrateur ministériel des données
+
+- *AGD* : Administrateur général des données
+
 - *DINSIC* : Direction interministérielle des systèmes d'information et
   de communication de l'État
 
