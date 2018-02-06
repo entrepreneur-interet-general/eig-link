@@ -1,3 +1,5 @@
+- *ANSSI* : Agence Nationale de Sécurité des Systèmes d’Information
+
 - *DINSIC* : Direction interministérielle des systèmes d'information et
   de communication de l'État
 
@@ -6,9 +8,14 @@
 - *DREES* : Direction de la recherche, des études, de l’évaluation et
   des statistiques
 
+- *RIE* : Réseau interministériel de l’État
+
 - *RIM* : Réunion interministérielle
 
 - *SCN* : Service à compétence nationale
+
+- *SGDSN* : Secrétariat Général de la Défense et de la Sécurité
+  Nationale
 
 - *SNDS* : Système National des Données de Santé
 
