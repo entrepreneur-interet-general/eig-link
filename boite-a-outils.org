@@ -1,6 +1,8 @@
 #+title: Boîte à outils
 
-* Animation
+* Formats d’animation
+
+- Stand up : chacun fait un point sur son projet pendant une minute.
 
 - « Clinique » (IRL ou en ligne) : chacun vient avec un problème et on
   contribue tous à le résoudre.
@@ -14,7 +16,28 @@
 - https://jsfiddle.net
 - https://codepen.io
 
-* Outil d’exploration (REPL) de langages de programmation
+* Outils de prototypage web
+
+- Sketch
+
+* Outils de gestion de projets
+
+- kanboard
+- trello
+- asana
+- https://taiga.io
+- phabricator
+- github
+
+Indiquer si l’outil permet de la revue de code.
+
+Indicateurs pour la gestion d’un projet :
+
+- milestones
+- releases
+- tasks
+
+* Outils d’exploration (REPL) de langages de programmation
 
 - https://repl.it
 
