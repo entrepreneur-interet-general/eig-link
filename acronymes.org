@@ -1,0 +1,18 @@
+- *DINSIC* : Direction interministérielle des systèmes d'information et
+  de communication de l'État
+
+- *DNE* : Direction du numérique pour l’éducation
+
+- *DREES* : Direction de la recherche, des études, de l’évaluation et
+  des statistiques
+
+- *RIM* : Réunion interministérielle
+
+- *SCN* : Service à compétence nationale
+
+- *SNDS* : Système National des Données de Santé
+
+- *SPM* : Service du Premier Ministre
+
+- *SSM* : Service Statistique Ministériel
+
