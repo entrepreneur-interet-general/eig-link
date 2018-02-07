@@ -13,21 +13,14 @@
 
 * Autres ressources mentionnées lors de la discussion
 
-| Thème | Lien |
-
-| Portail data de la DREES | [[http://www.data.drees.sante.gouv.fr]] |
-
-| Outils de visualisation des données de l'ESR | [[https://data.esr.gouv.fr/FR/]] |
-
-| Portail d'APIs de l'Etat | [[http://api.gouv.fr/]] |
-
-| Licences data et logicielles | [[https://www.data.gouv.fr/fr/licences]] |
-
-| Service public de la donnée | [[https://www.data.gouv.fr/fr/reference]] |
-
-| Entretiens utilisateurs | [[https://github.com/etalab/user-research]] | 
-
-| Verticale géo | [[http://geo.data.gouv.fr/]] |
-
-| Anonymisation/Pseudonymisation | [[https://github.com/SGMAP-AGD/anonymisation/wiki/Guide-de-l%27anonymisation]] |
+| Thème                                        | Lien                                                                       |
+|----------------------------------------------+----------------------------------------------------------------------------|
+| Portail data de la DREES                     | [[http://www.data.drees.sante.gouv.fr]]                                        |
+| Outils de visualisation des données de l'ESR | [[https://data.esr.gouv.fr/FR/]]                                               |
+| Portail d'APIs de l'Etat                     | [[http://api.gouv.fr/]]                                                        |
+| Licences data et logicielles                 | [[https://www.data.gouv.fr/fr/licences]]                                       |
+| Service public de la donnée                  | [[https://www.data.gouv.fr/fr/reference]]                                      |
+| Entretiens utilisateurs                      | [[https://github.com/etalab/user-research]]                                    |
+| Verticale géo                                | [[http://geo.data.gouv.fr/]]                                                   |
+| Anonymisation/Pseudonymisation               | [[https://github.com/SGMAP-AGD/anonymisation/wiki/Guide-de-l%27anonymisation]] |
 
