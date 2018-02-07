@@ -80,7 +80,7 @@ L’agenda partagé contiendra :
 - Les rendez-vous individuels par défi.
 
 - Les événements de l’écosystème administratif (par exemple, les
-  gitlunch du MTES.)
+  geek-lunch des Ministères de la Transition écologique et solidaire et de la Cohésion des territoires)
 
 L’agenda est accessible via ce [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][lien public]], pour vous y abonner ou
 l’exporter.
