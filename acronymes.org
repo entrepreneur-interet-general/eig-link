@@ -4,6 +4,8 @@
 
 - ANSSI : Agence nationale de sécurité des systèmes d’information
 
+- CADA : Commission d'accès aux documents administratifs
+
 - DAM : Direction des affaires maritimes
 
 - DINSIC : Direction interministérielle des systèmes d'information et
@@ -17,6 +19,8 @@
 - EPA : Établissement public administratif.  Voir EPIC
 
 - EPIC : Établissement public industriel et commercial.  Voir EPA
+
+- HATVP : Haute autorité pour la transparence de la vie publique
 
 - OIV : Organisme d’importance vitale
 
