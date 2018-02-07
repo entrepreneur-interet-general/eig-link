@@ -56,3 +56,7 @@ Indicateurs pour la gestion d’un projet :
 
 * Outils pour de la revue de code
 
+* Au quotidien
+
+- http://www.hackertyper.com/
+
