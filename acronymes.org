@@ -2,7 +2,7 @@
 
 - AMD : Administrateur ministériel des données
 
-- ANSSI : Agence Nationale de Sécurité des Systèmes d’Information
+- ANSSI : Agence nationale de sécurité des systèmes d’information
 
 - DINSIC : Direction interministérielle des systèmes d'information et
   de communication de l'État
@@ -12,20 +12,27 @@
 - DREES : Direction de la recherche, des études, de l’évaluation et
   des statistiques
 
+- EPA : Établissement public administratif.  Voir EPIC
+
+- EPIC : Établissement public industriel et commercial.  Voir EPA
+
+- OIV : Organisme d’importance vitale
+
 - RIE : Réseau interministériel de l’État
 
 - RIM : Réunion interministérielle
 
-- RNA : Répertoire National des Associations
+- RNA : Répertoire national des associations
 
 - SCN : Service à compétence nationale
 
-- SGDSN : Secrétariat Général de la Défense et de la Sécurité
-  Nationale
+- SGDSN : Secrétariat général de la défense et de la sécurité
+  nationale
 
-- SNDS : Système National des Données de Santé
+- SHOM : Service hydrographique et océanographique maritime
 
-- SPM : Service du Premier Ministre
+- SNDS : Système national des données de santé
 
-- SSM : Service Statistique Ministériel
+- SPM : Service du premier ministre
 
+- SSM : Service statistique ministériel
