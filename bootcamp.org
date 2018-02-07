@@ -2,7 +2,7 @@
 
 * Visite de la DINSIC le 7 février matin
 
-| Heure | Projet            | Référent        | Ressource                                                                                                                                                                    | Dépôts              | Réutilisations             |
+| Heure | Projet            | Référent        | Ressource                                                                                                                                                                    | Dépôts              | Réutilisations             | 
 |-------+-------------------+-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+----------------------------|
 | 9h30  | Datagouv          | Alexandre B.    | http://www.data.gouv.fr/fr/                                                                                                                                                  | [[https://github.com/opendatateam/udata][udata]], [[https://github.com/etalab/udata-gouvfr][udata-gouvfr]] | https://data.public.lu/en/ |
 | 10h   | AGD / Datascience | Paul-Antoine    | https://agd.data.gouv.fr                                                                                                                                                     |                     |                            |
@@ -10,4 +10,24 @@
 | 11h   | API entreprise    | Alexandre de P. | https://entreprise.api.gouv.fr                                                                                                                                               |                     |                            |
 | 11h30 | Open gov          | Amélie          | [[https://www.etalab.gouv.fr/gouvernement-ouvert][page de synthèse sur le gouvernement ouvert]] ; [[https://www.etalab.gouv.fr/plan-daction-national][plan d'action pour un gouvernement ouvert 2015-2017]] ; [[https://suivi-gouvernement-ouvert.etalab.gouv.fr/fr/][suivi du plan d'action]] ; [[https://www.opengovpartnership.org/][site du partenariat pour un gouvernement ouvert]] |                     |                            |
 | 12h   | Open fisca        | Mauko Quiroga   | https://www.openfisca.fr                                                                                                                                                     | [[https://github.com/openfisca][openfisca]]           | [[https://mes-aides.gouv.fr/][mes-aides]]                  |
+
+* Autres ressources mentionnées lors de la discussion
+
+| Thème | Lien |
+
+| Portail data de la DREES | [[http://www.data.drees.sante.gouv.fr]] |
+
+| Outils de visualisation des données de l'ESR | [[https://data.esr.gouv.fr/FR/]] |
+
+| Portail d'APIs de l'Etat | [[http://api.gouv.fr/]] |
+
+| Licences data et logicielles | [[https://www.data.gouv.fr/fr/licences]] |
+
+| Service public de la donnée | [[https://www.data.gouv.fr/fr/reference]] |
+
+| Entretiens utilisateurs | [[https://github.com/etalab/user-research]] | 
+
+| Verticale géo | [[http://geo.data.gouv.fr/]] |
+
+| Anonymisation/Pseudonymisation | [[https://github.com/SGMAP-AGD/anonymisation/wiki/Guide-de-l%27anonymisation]] |
 
