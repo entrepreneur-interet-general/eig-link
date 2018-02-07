@@ -1,29 +1,31 @@
-- *ANSSI* : Agence Nationale de Sécurité des Systèmes d’Information
+- AGD : Administrateur général des données
 
-- *AMD* : Administrateur ministériel des données
+- AMD : Administrateur ministériel des données
 
-- *AGD* : Administrateur général des données
+- ANSSI : Agence Nationale de Sécurité des Systèmes d’Information
 
-- *DINSIC* : Direction interministérielle des systèmes d'information et
+- DINSIC : Direction interministérielle des systèmes d'information et
   de communication de l'État
 
-- *DNE* : Direction du numérique pour l’éducation
+- DNE : Direction du numérique pour l’éducation
 
-- *DREES* : Direction de la recherche, des études, de l’évaluation et
+- DREES : Direction de la recherche, des études, de l’évaluation et
   des statistiques
 
-- *RIE* : Réseau interministériel de l’État
+- RIE : Réseau interministériel de l’État
 
-- *RIM* : Réunion interministérielle
+- RIM : Réunion interministérielle
 
-- *SCN* : Service à compétence nationale
+- RNA : Répertoire National des Associations
 
-- *SGDSN* : Secrétariat Général de la Défense et de la Sécurité
+- SCN : Service à compétence nationale
+
+- SGDSN : Secrétariat Général de la Défense et de la Sécurité
   Nationale
 
-- *SNDS* : Système National des Données de Santé
+- SNDS : Système National des Données de Santé
 
-- *SPM* : Service du Premier Ministre
+- SPM : Service du Premier Ministre
 
-- *SSM* : Service Statistique Ministériel
+- SSM : Service Statistique Ministériel
 
