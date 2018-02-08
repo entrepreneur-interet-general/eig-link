@@ -34,13 +34,14 @@ Je serai sur le slack tous les après-midi.
 - =@channel= pour notifier tout le canal ;
 - =@here= pour notifier tous ceux qui sont présents.
 
-Nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]].
+Nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]] pour permettre à des développeurs
+extérieurs de suivre notre travail.
 
 ** Canal de visioconférence
 
 Il y a [[https://meet.jit.si/eig2018][un canal de visioconférence]] pour les rendez-vous.
 
-** Lettre hebdomadaire pour les EIGs
+** Une lettre hebdomadaire pour les EIGs
 
 Une lettre envoyée en fin de semaine (le jeudi soir par exemple) avec
 les avancées et les demandes d’aide des uns et des autres ou un retour
@@ -80,13 +81,14 @@ L’agenda partagé contiendra :
 - Les rendez-vous individuels par défi.
 
 - Les événements de l’écosystème administratif (par exemple, les
-  geek-lunch des Ministères de la Transition écologique et solidaire et de la Cohésion des territoires)
+  geek-lunch des Ministères de la Transition écologique et solidaire
+  et de la Cohésion des territoires).
 
 L’agenda est accessible via ce [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][lien public]], pour vous y abonner ou
 l’exporter.
 
 Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
 
-* Comptes Twitter et Github
+* Comptes Twitter, Github, Mastodon
 
 La liste des [[file:contacts.org][comptes des EIG]], toutes promos confondues.
