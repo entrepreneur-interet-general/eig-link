@@ -96,10 +96,9 @@
   - Lesquels sont déjà utilisés ?
 
   - Est-ce qu’il vaut la peine d’en installer un ?
-    - pivotal tracker
-    - taiga.io
+    - pivotal tracker (gratuit max 3 users)
+    - taiga.io (gratuit max 3 users)
     - trello.com
-    - google spreadsheet
     - pipefy
     - mantis
     - redmine
@@ -107,6 +106,7 @@
     - kanboard
     - phabricator
     - asana.com
+    - google spreadsheet
     - gitlab.com ?
     - github.com ?
 
