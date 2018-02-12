@@ -9,7 +9,7 @@ Défi, Twitter/Mastodon, Github.
 | Adnène Trojette           |                          | [[https://twitter.com/trojette][@trojette]]         |                     |
 | Mathilde Bras             |                          | [[https://twitter.com/Mathilde_Bras][@Mathilde_Bras]]    |                     |
 | Paul Schmite              |                          | [[https://twitter.com/schmitologie][@schmitologie]]     |                     |
-| Soizic Pénicaud           |                          | [[https://twitter.com/soizicpenicaud][@soizicpenicaud]]   | [[https://github.com/spenicauddata][spenicauddata]]       |
+| Soizic Pénicaud           |                          | [[https://twitter.com/soizicpenicaud][@soizicpenicaud]]   | [[https://github.com/soizicpenicaud][soizicpenicaud]]       |
 | Étalab                    |                          | [[https://twitter.com/etalab][@etalab]]           |                     |
 |---------------------------+--------------------------+-------------------+---------------------|
 | *EIG 2018*                  |                          |                   |                     |
