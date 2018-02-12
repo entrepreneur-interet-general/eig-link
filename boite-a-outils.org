@@ -10,17 +10,17 @@
 - « Bulloterie » : outil de mise en relation par intérêts et
   savoir-faire, en groupe affinitaire, de façon ludique. [[http://wiki.mainstenant.org/wiki/la-bulloterie-experimentation-du-4-et-5-novembre][Exemple]].
 
-* Outils de partage de code
+* Partage de code
 
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
 - https://jsfiddle.net
 - https://codepen.io
 
-* Outils de prototypage web
+* Prototypage web
 
 - Sketch
 
-* Outils de gestion de projets
+* Gestion de projets
 
 - kanboard
 - trello
@@ -37,22 +37,32 @@ Indicateurs pour la gestion d’un projet :
 - releases
 - tasks
 
-* Outils d’exploration (REPL) de langages de programmation
+* Exploration (REPL) de langages de programmation
 
 - https://repl.it
 
-* Outils de programmation à plusieurs mains
+* Monitoring
+
+** Web
+
+- https://statuscake.com
+
+* Programmation à plusieurs mains
 
 - [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
 - [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
 - [[https://tmux.github.io/][tmux]]
 
-* Outils de vidéo et de partage d’écran
+* Vidéo et partage d’écran
 
 ** Ne nécessitant pas de compte
 
 - https://appear.in
 - https://meet.jit.si
+
+** Partage de screencasts
+
+- https://asciinema.org
 
 * Outils pour de la revue de code
 
