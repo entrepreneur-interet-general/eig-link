@@ -1,5 +1,26 @@
 #+title: Stack
 
-* [Votre défi]
+* EIG Link
 
-- [Outil 1]
+** Stack
+
+- Langages principaux : [[https://clojure.org/][Clojure]] et [[https://clojurescript.org/][Clojurescript]]
+- Framework pour application web : [[https://github.com/Day8/re-frame][re-frame]]
+- Design : [[https://getbootstrap.com/][Bootstrap]] via [[https://github.com/Day8/re-com][re-com]] ou [[https://ant.design/][Ant]] via [[https://github.com/priornix/antizer][antizer]]
+- https://www.datomic.com pour la base de données
+- https://auth0.com pour la gestion des utilisateurs
+- http://filestack.com pour la gestion des fichiers
+
+** Projets à maintenir
+
+- Site web [[https://github.com/entrepreneur-interet-general/blog-eig2][blog-eig2]]
+- Dépôt d’information [[https://github.com/entrepreneur-interet-general/eig-link][eig-link]]
+
+** Outils à développer
+
+- Outil web pour choisir une licence libre
+- Outil web de mise en relation des compétences
+- Outil web de journal de bord collectif (rex eig1 eig2)
+- Outil web « EIG Readiness Scale »
+- Outil web « échelle de Costanza » (voir [[http://s3.cleverelephant.ca/2018-small-it.pdf][ce doc]])
+
