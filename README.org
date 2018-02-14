@@ -1,94 +1,18 @@
-* Un séminaire de rentrée en février
+#+title: EIG Link - ressources EIG
 
-Du 5 au 9 février, Mathilde a envoyé un pré-programme par email.
+* L’essentiel
 
-* Les réunions de groupe en présentiel
+- [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][L’Agenda public des EIG]]
+- [[file:contacts.org][Les contacts des EIG]]
+- [[file:stack.org][Les stacks des projets]]
+- [[file:suivi.org][Le suivi des projets]]
 
-Une réunion de groupe en présentiel tous les quinze jours.
+* Autre
 
-* Les canaux de communication
-
-** Rendez-vous sur slack 30 minutes toutes les semaines
-
-À définir ensemble lors du bootcamp
-
-** Rendez-vous bi-mensuels de 40 minutes avec les défis
-
-Des rendez-vous pourront être pris une fois toutes les deux semaines
-avec les équipes des défis pour savoir ce qu’elles souhaitent partager
-avec les autres, si elles ont besoin d’aide sur des aspects techniques
-ou juridiques, etc;
-
-Pour prendre rendez-vous : https://calendly.com/bzg/40min
-
-** Liste de discussion eig2018@framalistes.org
-
-Tous les EIG2018 sont inscrits sur [[https://framalistes.org/sympa/review/eig2018][la liste eig2018]].
-
-** Canal de discussion sur slack
-
-Le [[https://eig-hq.slack.com][canal slack]] ouvert par les EIG2017 peut être réutilisé.
-
-Je serai sur le slack tous les après-midi.
-
-- =@channel= pour notifier tout le canal ;
-- =@here= pour notifier tous ceux qui sont présents.
-
-Nous pouvons aussi utiliser [[https://gitter.im/entrepreneur-interet-general][gitter]] pour permettre à des développeurs
-extérieurs de suivre notre travail.
-
-** Canal de visioconférence
-
-Il y a [[https://meet.jit.si/eig2018][un canal de visioconférence]] pour les rendez-vous.
-
-** Une lettre hebdomadaire pour les EIGs
-
-Une lettre envoyée en fin de semaine (le jeudi soir par exemple) avec
-les avancées et les demandes d’aide des uns et des autres ou un retour
-sur la réunion de groupe.
-
-** Le site entrepreneur-interet-general.etalab.gouv.fr
-
-Le site https://entrepreneur-interet-general.etalab.gouv.fr est
-maintenu par Mathilde, Soizic, Paul et moi, mais vous pouvez soumettre
-des retours ou envoyer des PR via [[https://github.com/entrepreneur-interet-general/blog-eig2][le dépôt Github]].
-
-** Un blog
-
-Un entrée de blog toutes les deux semaines avec des nouvelles des
-défis, qui serait la version publique de la lettre hebdomadaire.
-
-* Des contenus participatifs et évolutifs
-
-Des contenus qui évolueront au gré des contributions:
-
-- Une FAQ pour les EIG 2018 ([[https://github.com/entrepreneur-interet-general/faq-eig2][dépôt Github]]) ;
-- Une liste des langages/outils/framework (TBD).
-
-* Un journal de bord
-
-Un « journal de bord collectif », intégrant les indicateurs communs
-(et peut-être les indicateurs propres à chaque projet) (TBD).
-
-* Un agenda partagé
-
-L’agenda partagé contiendra :
-
-- Les sessions proposées par l’équipe encadrant EIG (bootcamp, etc.)
-
-- Les sessions d’animation technique proposées par EIG Link.
-
-- Les rendez-vous individuels par défi.
-
-- Les événements de l’écosystème administratif (par exemple, les
-  geek-lunch des Ministères de la Transition écologique et solidaire
-  et de la Cohésion des territoires).
-
-L’agenda est accessible via ce [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][lien public]], pour vous y abonner ou
-l’exporter.
-
-Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
-
-* Comptes Twitter, Github, Mastodon
-
-La liste des [[file:contacts.org][comptes des EIG]], toutes promos confondues.
+- [[file:communication.org][Communication]]
+- [[https://github.com/entrepreneur-interet-general/tutos-2018][Tutoriels utiles]]
+- [[file:boite-a-outils.org][Boîte à outils]]
+- [[file:bootcamp.org][Bootcamp]]
+- [[file:revue-de-presse.org][Revue de presse]]
+- [[file:acronymes.org][Acronymes]]
+# - [[file:faq.org][FAQ EIG]]

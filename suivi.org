@@ -1,0 +1,27 @@
+#+title: Suivi des défis
+
+Cette page propose une vue en survol des défis.
+
+Chaque défi peut avoir un outil de gestion de projet à part.
+
+Si cet outil est public, un lien est ajouté.
+
+* TODO Archifiltre
+* TODO b@liseNAV
+* TODO BrigadeNumérique
+* TODO CoachÉlève
+* TODO dataESR
+* EIG Link
+
+| Tâche | Date de fin | Type | Commentaire |
+|-------+-------------+------+-------------|
+|       |             |      |             |
+
+* TODO Gobelins
+* TODO Hopkins
+* TODO Lab Santé
+* TODO PrédiSauvetage
+* TODO Prévisecours
+* TODO Signaux Faibles
+* TODO SocialConnect
+

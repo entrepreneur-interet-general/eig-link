@@ -1,0 +1,86 @@
+* Le programme d’accompagnement
+
+Une réunion de groupe en présentiel tous les quinze jours au Liberté
+Living Lab.
+
+Des éléments de programme ont été proposés pendant la semaine de
+bootcamp, le programme définitif est en cours d’élaboration et sera
+partagé sur le [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][calendrier]].
+
+* Les échanges hebdomadaires entre EIG
+
+- *Stand up* : le stand a lieu en ligne, sur IRC ou sur slack, le
+  vendredi de 11h30 à 12h30.  Chaque EIG a une minute pour faire le
+  point sur sa semaine passée et à venir.  Le stand up permet de
+  maintenir à jour le document de [[file:suivi.org][suivi]].
+
+- *Clinique* : la clinique a lieu en ligne sur IRC ou sur slack, le
+  lundi de 11h30 à 12h30.  En amont de la clinique, on collecte des
+  points de blocage et on en choisi un sur lequel avancer ensemble.
+
+* Autres canaux de communication
+
+** Rendez-vous bi-mensuels de 40 minutes avec les défis
+
+Des rendez-vous pourront être pris une fois toutes les deux semaines
+avec les équipes des défis pour savoir ce qu’elles souhaitent partager
+avec les autres, si elles ont besoin d’aide sur des aspects techniques
+ou juridiques, etc;
+
+Pour prendre rendez-vous : https://calendly.com/bzg/40min
+
+** Canal de discussion sur slack
+
+Le [[https://eig-hq.slack.com][canal slack]] ouvert par les EIG2017 peut être réutilisé.
+
+Bastien sera sur le slack tous les après-midi.
+
+- =@channel= pour notifier tout le canal ;
+- =@here= pour notifier tous ceux qui sont présents.
+
+** Liste de discussion eig2018@framalistes.org
+
+Tous les EIG2018 sont inscrits sur [[https://framalistes.org/sympa/review/eig2018][la liste eig2018]].
+
+** Une lettre hebdomadaire pour les EIGs
+
+Après les stand up du vendredi, un email sera envoyé à tous les EIG
+pour récapituler les avancées de chacun, lesquelles sont aussi notées
+dans le document de [[file:suivi.org][suivi]].
+
+** Le site entrepreneur-interet-general.etalab.gouv.fr
+
+Le site https://entrepreneur-interet-general.etalab.gouv.fr est
+maintenu par Mathilde, Soizic, Paul et moi, mais vous pouvez soumettre
+des retours ou envoyer des PR via [[https://github.com/entrepreneur-interet-general/blog-eig2][le dépôt Github]].
+
+* Contenus participatifs
+
+Des contenus qui évolueront au gré des contributions:
+
+- Une liste de [[https://github.com/entrepreneur-interet-general/tutos-2018][tutoriels utiles]].
+- Une liste des [[file:stack.org][stacks]].
+
+* Agenda partagé
+
+L’agenda partagé contiendra :
+
+- Les sessions proposées par l’équipe encadrant EIG (bootcamp, etc.)
+
+- Les sessions d’animation technique proposées par EIG Link.
+
+- Les rendez-vous individuels par défi.
+
+- Les événements de l’écosystème administratif (par exemple, les
+  geek-lunch des Ministères de la Transition écologique et solidaire
+  et de la Cohésion des territoires).
+
+L’agenda est accessible via ce [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][lien public]], pour vous y abonner ou
+l’exporter.
+
+Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][cette page]].
+
+* Comptes Twitter, Github, Mastodon
+
+La liste des [[file:contacts.org][comptes des EIG]], toutes promos confondues.
+

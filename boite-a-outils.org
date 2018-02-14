@@ -1,15 +1,5 @@
 #+title: Boîte à outils
 
-* Formats d’animation
-
-- Stand up : chacun fait un point sur son projet pendant une minute.
-
-- « Clinique » (IRL ou en ligne) : chacun vient avec un problème et on
-  contribue tous à le résoudre.
-
-- « Bulloterie » : outil de mise en relation par intérêts et
-  savoir-faire, en groupe affinitaire, de façon ludique. [[http://wiki.mainstenant.org/wiki/la-bulloterie-experimentation-du-4-et-5-novembre][Exemple]].
-
 * Partage de code
 
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
