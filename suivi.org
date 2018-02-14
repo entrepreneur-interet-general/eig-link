@@ -1,10 +1,24 @@
 #+title: Suivi des défis
 
-Cette page propose une vue en survol des défis.
+Chaque défi peut avoir son outil de gestion dédié.  S’il est public,
+un lien est ajouté.
 
-Chaque défi peut avoir un outil de gestion de projet à part.
+* Structure
 
-Si cet outil est public, un lien est ajouté.
+Pour chaque projet, nous proposons ce tableau indicatif :
+
+| Livrable | Tâche | État | Fait le | Date de fin | Type | Commentaire |
+|----------+-------+------+---------+-------------+------+-------------|
+|          |       |      |         |             |      |             |
+
+=Type= pouvant être :
+
+- Développement
+- Gestion de données
+- Interaction avec l’administration
+- Transformation numérique
+- Gestion de projet
+- Communication externe
 
 * TODO Archifiltre
 * TODO b@liseNAV
@@ -13,9 +27,11 @@ Si cet outil est public, un lien est ajouté.
 * TODO dataESR
 * EIG Link
 
-| Tâche | Date de fin | Type | Commentaire |
-|-------+-------------+------+-------------|
-|       |             |      |             |
+| Livrable                    | Tâche            | État     | Fait le           | Date de fin       | Type          | Commentaire |
+|-----------------------------+------------------+----------+-------------------+-------------------+---------------+-------------|
+| Maintenance des outils      | Installation IRC | DONE     | <2018-02-13 mar.> | <2018-02-16 ven.> | Développement |             |
+| Ajout d’un blog sur le site | Créer un blog    | DONE     | <2018-02-14 mer.> | <2018-02-15 jeu.> | Développement |             |
+| Outil web bulloterie        | Mini-proto web   | EN COURS |                   | <2018-02-22 jeu.> | Développement |             |
 
 * TODO Gobelins
 * TODO Hopkins
