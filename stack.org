@@ -1,8 +1,15 @@
 #+title: Stack
 
-* [Votre défi]
-* EIG Link
+Ce document décrit les outils employés et déployés dans chacun des
+défis EIG.
 
+* TODO Archifiltre
+* TODO b@liseNAV
+* TODO BrigadeNumérique
+* TODO CoachÉlève
+* TODO dataESR
+* EIG Link
+  
 ** Stack
 
 - Langages principaux : [[https://clojure.org/][Clojure]] et [[https://clojurescript.org/][Clojurescript]]
@@ -12,12 +19,18 @@
 - https://auth0.com pour la gestion des utilisateurs
 - http://filestack.com pour la gestion des fichiers
 
-** Projets à maintenir
+** Outils de développement
+
+- [[https://www.gnu.org/software/emacs/][GNU Emacs]]
+- [[https://orgmode.org/][Org-mode]]
+- [[https://github.com/clojure-emacs/cider][cider]]
+
+** Livrables d’information
 
 - Site web [[https://github.com/entrepreneur-interet-general/blog-eig2][blog-eig2]]
 - Dépôt d’information [[https://github.com/entrepreneur-interet-general/eig-link][eig-link]]
 
-** Outils à développer
+** Livrables code
 
 - Outil web pour choisir une licence libre
 - Outil web de mise en relation des compétences
@@ -25,3 +38,10 @@
 - Outil web « EIG Readiness Scale »
 - Outil web « échelle de Costanza » (voir [[http://s3.cleverelephant.ca/2018-small-it.pdf][ce doc]])
 
+* TODO Gobelins
+* TODO Hopkins
+* TODO Lab Santé
+* TODO PrédiSauvetage
+* TODO Prévisecours
+* TODO Signaux Faibles
+* TODO SocialConnect
