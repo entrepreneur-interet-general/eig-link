@@ -1,5 +1,7 @@
 - AGD : Administrateur général des données
 
+- AIFE : Agence pour l'informatique financière de l'État
+
 - AMD : Administrateur ministériel des données
 
 - ANSSI : Agence nationale de sécurité des systèmes d’information
