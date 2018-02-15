@@ -1,0 +1,40 @@
+#+title: Présentation du programme d’accompagnement
+
+* L’esprit de l’ensemble du programme
+
+- ...
+
+* Résumé de l’ensemble des sessions
+
+| Date       | EIG / Mentors | Thématique        | Objectifs                                         |
+|------------+---------------+-------------------+---------------------------------------------------|
+| 22 février | Mentors seuls | Bootcamp mentors  | Rex mentors et construction programme             |
+| 8 mars     | EIG seuls     | Gestion de projet | Vérifier que chaque défi est clair sur sa roadmap |
+| ...        |               |                   |                                                   |
+
+* Session du 22 février : bootcamp des mentors
+
+- Quels sont les objectifs de la session ?
+  - Écouter les mentors EIG et leurs premiers retours
+  - Faire une bulloterie pour les mentors
+  - Présenter les ressources techniques
+  - Avancer ensemble sur le programme d’accompagnement
+- Qui va animer ?
+  - Mathilde pour la partie sollicitation des retours
+  - Soizic et Paul pour la bulloterie
+  - Bastien pour la présention des ressources techniques
+  - Mathilde pour la co-construction du programme
+- Qui va intervenir [ressources LLL et/ou extérieur]
+  - L’équipe EIG
+- Quel déroulé pour la session ?
+  - 14h-15h : premiers retours
+  - 15h-16h30 : bulloterie
+  - 16h45-17h15 : présentation des ressources techniques
+  - 17h15-18h : construction de la suite du programme
+
+* Section du 8 mars
+
+: - Quels sont les objectifs de la session ?
+: - Qui va animer ?
+: - Qui va intervenir [ressources LLL et/ou extérieur]
+: - Quel déroulé pour la session ?
