@@ -15,10 +15,9 @@
 * Session du 22 février : bootcamp des mentors
 
 - Quels sont les objectifs de la session ?
-  - Écouter les mentors EIG et leurs premiers retours
-  - Faire une bulloterie pour les mentors
+  - Favoriser le partage d'expériences et l'entraide entre les mentors 
   - Présenter les ressources techniques
-  - Avancer ensemble sur le programme d’accompagnement
+  - Avancer ensemble sur les formats et le contenu du programme d’accompagnement
 - Qui va animer ?
   - Mathilde pour la partie sollicitation des retours
   - Soizic et Paul pour la bulloterie
@@ -27,8 +26,8 @@
 - Qui va intervenir [ressources LLL et/ou extérieur]
   - L’équipe EIG
 - Quel déroulé pour la session ?
-  - 14h-15h : premiers retours
-  - 15h-16h30 : bulloterie
+  - 14h-15h : écouter les mentors EIG et leurs premiers retours sur l'arrivée des EIG 
+  - 15h-16h30 : atelier "bulloterie" pour les mentors
   - 16h45-17h15 : présentation des ressources techniques
   - 17h15-18h : construction de la suite du programme
 
