@@ -4,7 +4,12 @@
 
 - AMD : Administrateur ministériel des données
 
+- ANFR : Agence Nationale des Fréquences
+
 - ANSSI : Agence nationale de sécurité des systèmes d’information
+
+- ARCEP : Autorité de régulation des communications électroniques et
+  des postes
 
 - CADA : Commission d'accès aux documents administratifs
 
