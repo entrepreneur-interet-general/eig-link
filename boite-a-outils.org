@@ -42,6 +42,7 @@ Indicateurs pour la gestion d’un projet :
 - [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
 - [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
 - [[https://tmux.github.io/][tmux]]
+- [[https://mobaxterm.mobatek.net/][MobaXterm]]
 
 * Vidéo et partage d’écran
 
