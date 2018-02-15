@@ -10,6 +10,8 @@
 
 - DAM : Direction des affaires maritimes
 
+- DHUP : Direction de l'habitat, de l'urbanisme et des paysages
+
 - DINSIC : Direction interministérielle des systèmes d'information et
   de communication de l'État
 
