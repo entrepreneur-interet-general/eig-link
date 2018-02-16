@@ -31,6 +31,11 @@
   - 16h45-17h15 : présentation des ressources techniques
   - 17h15-18h : construction de la suite du programme
 
+On pourrait aussi le mettre au début et faire un point visualisation de la bulloterie des EIG à la fin pour leur montrer ce que ça a donné. A voir avec Bastien, s’il a le temps d’avancer dessus avant le 22.
+Aussi, on pourrait intégrer des problématiques plus  outils pour permettre des synergiesentre défis  (utilisation de dataiku, plateforme open data du ministère…)
+Paul
+
+
 * Section du 8 mars
 
 : - Quels sont les objectifs de la session ?
