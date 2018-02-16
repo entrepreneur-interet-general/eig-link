@@ -39,17 +39,24 @@ défis EIG.
 - Outil web « échelle de Costanza » (voir [[http://s3.cleverelephant.ca/2018-small-it.pdf][ce doc]])
 
 * TODO Gobelins
-* TODO Hopkins
+* Hopkins
+
 ** Stack
+
 - Langages principaux: Python et Scala
 - Librairies: scikit-learn, pandas, TensorFlow, pyspark
 - Base de données: Hive, ElasticSearch, Titan (à venir)
-** Outils de datascience 
-- Dataiku 
+
+** Outils de datascience
+
+- Dataiku
+
 ** Livrables code 
+
 - algo de matching: dédoublonnage de base + recherche (semi-)temps réel
 - graphes 
 - classification sur du texte
+
 * TODO Lab Santé
 * TODO PrédiSauvetage
 * TODO Prévisecours
