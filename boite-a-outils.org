@@ -49,6 +49,8 @@ Indicateurs pour la gestion d’un projet :
 - [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
 - [[https://tmux.github.io/][tmux]]
 - [[https://mobaxterm.mobatek.net/][MobaXterm]]
+- http://prose.io pour éditer des dépôts Github facilement
+- https://stackedit.io pour éditer du markdown en WYSIWYG
 
 * Vidéo et partage d’écran
 
