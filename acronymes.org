@@ -32,6 +32,8 @@
 
 - EPIC : Établissement public industriel et commercial.  Voir EPA
 
+- HAS : Haute autorité de santé
+
 - HATVP : Haute autorité pour la transparence de la vie publique
 
 - OIV : Organisme d’importance vitale
