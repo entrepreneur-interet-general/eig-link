@@ -4,13 +4,28 @@
 
 - ...
 
-* Résumé de l’ensemble des sessions
+* Résumé de l’ensemble des sessions (horaires : 15h-18h30)
 
 | Date       | EIG / Mentors | Thématique        | Objectifs                                         |
 |------------+---------------+-------------------+---------------------------------------------------|
 | 22 février | Mentors seuls | Bootcamp mentors  | Rex mentors et construction programme             |
 | 8 mars     | EIG seuls     | Gestion de projet | Vérifier que chaque défi est clair sur sa roadmap |
-| ...        |               |                   |                                                   |
+| 22 mars    | EIG + mentors |                   |                                                   |
+| 5 avril    | EIG seuls     |                   |                                                   |
+| 12 avril   | EIG + mentors |                   |                                                   |
+| 3 mai      | EIG seuls     |                   |                                                   |
+| 17 mai     | EIG + mentors |                   |                                                   |
+| 31 mai     | EIG seuls     |                   |                                                   |
+| 14 juin    | EIG + mentors |                   |                                                   |
+| 21 juin    | EIG seuls     |                   |                                                   |
+| 6 juillet  | EIG + mentors |                   |                                                   |
+| 30 août    | EIG seuls     |                   |                                                   |
+| 13 sept    | EIG + mentors |                   |                                                   |
+| 27 sept    | EIG seuls     |                   |                                                   |
+| 11 oct     | EIG + mentors |                   |                                                   |
+| 25 oct     | EIG seuls     |                   |                                                   |
+| 8 nov      | EIG + mentors |                   |                                                   |
+| 22 nov     | EIG seuls     |                   |                                                   |
 
 * Session du 22 février : bootcamp des mentors
 
