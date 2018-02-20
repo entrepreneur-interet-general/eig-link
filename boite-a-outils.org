@@ -1,5 +1,9 @@
 #+title: Boîte à outils
 
+* Outils géo
+
+osrm: Modern C++ routing engine for shortest paths in road networks.
+
 * Partage de code
 
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
@@ -9,6 +13,8 @@
 * Prototypage web
 
 - Sketch
+- Selenium
+- https://framework7.io
 
 * Gestion de projets
 
