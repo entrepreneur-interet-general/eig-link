@@ -2,6 +2,7 @@
 
 * 2018
 
+| <2018-02-19 lun.> | [[https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec]][L'Etat doit réinternaliser certaines fonctions critiques] | Payant |
 | <2018-01-18 jeu.> | [[https://cdonnees.com/2018/01/18/quand-la-techno-part-a-lassaut-de-la-democratie-partie-3-la-civictech/][Quand la techno part à l’assaut de la démocratie. Partie 3 : la Civictech]]                           | Public |
 | <2018-01-18 jeu.> | [[http://www.hospimedia.fr/actualite/nominations/20180118-trois-entrepreneurs-d-interet-general-travaillent-a-la][Trois entrepreneurs d'intérêt général travaillent à la valorisation du système des données de santé]] | Payant |
 | <2018-01-17 mer.> | [[https://www.nextinpact.com/brief/installation-d-une-seconde-promotion-d-entrepreneurs-d-interet-general-2156.htm][Installation d’une seconde promotion d’entrepreneurs d’intérêt général]]                              | Public |
