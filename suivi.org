@@ -3,7 +3,7 @@
 Chaque défi peut avoir son outil de gestion dédié.  S’il est public,
 un lien est ajouté.
 
-* Format des synthèse
+* Format des synthèses
 
 Pour chaque projet, nous proposons ce tableau indicatif :
 
@@ -24,12 +24,25 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 
 Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]].
 
-* TODO Archifiltre
-* TODO b@liseNAV
-* TODO BrigadeNumérique
-* TODO CoachÉlève
-* TODO dataESR
+* Archifiltre
+* b@liseNAV
+* BrigadeNumérique
+* CoachÉlève
+
+** Dépôt 
+
+- https://github.com/entrepreneur-interet-general/numerilab
+
+* DataESR
 * EIG Link
+
+** Dépôts
+
+- https://github.com/entrepreneur-interet-general/eig-link
+- https://github.com/entrepreneur-interet-general/blog-eig2
+- https://github.com/entrepreneur-interet-general/agenda-eig2018
+
+** Journal
 
 | Livrable                    | Tâche            | État     | Fait le           | Date de fin       | Type          | Commentaire |
 |-----------------------------+------------------+----------+-------------------+-------------------+---------------+-------------|
@@ -37,13 +50,25 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 | Ajout d’un blog sur le site | Créer un blog    | DONE     | <2018-02-14 mer.> | <2018-02-15 jeu.> | Développement |             |
 | Outil web bulloterie        | Mini-proto web   | EN COURS |                   | <2018-02-22 jeu.> | Développement |             |
 
-* TODO Gobelins
-* TODO Hopkins
-* TODO Lab Santé
-* TODO PrédiSauvetage
-* TODO Prévisecours
-* TODO Signaux Faibles
-* TODO SocialConnect
+* Gobelins
+* Hopkins
+* Lab Santé
+* PrédiSauvetage
+
+** Dépôt
+
+- https://github.com/entrepreneur-interet-general/predisauvetage
+
+** Journal
+
+* Prévisecours
+* Signaux Faibles
+* SocialConnect
+
+** Dépôt
+
+- https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper
+
 * Détail des catégories
 
 ** Accompagnement informatique (dans l’administration)
