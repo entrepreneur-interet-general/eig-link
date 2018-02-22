@@ -22,6 +22,10 @@
 
 - https://www.contributor-covenant.org
 
+* Guides de contribution à des projets open source
+
+- https://opensource.guide
+
 * Guide d’écriture de code
 
 - https://github.com/alphagov/styleguides/
@@ -59,6 +63,15 @@
 | [[https://www.redmine.org/][redmine]]                                 |                      |            |          |       |               |
 | [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
 | [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
+
+* Design pattern
+
+- Python : https://github.com/faif/python-patterns
+
+* Méthodes de projet
+
+- Agile : https://www.gov.uk/service-manual/agile-delivery
+- TDD : https://fr.wikipedia.org/wiki/Test_driven_development
 
 * Exploration (REPL) de langages de programmation
 
