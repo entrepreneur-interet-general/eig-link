@@ -23,7 +23,7 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 - Services informatique (pour l’administration)
 - Transformation de la culture informatique
 
-Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]].
+Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org#d%25C3%25A9tail-des-cat%25C3%25A9gories][plus bas]].
 
 * Archifiltre
 
