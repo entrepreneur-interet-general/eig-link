@@ -2,36 +2,63 @@
 
 * Outils géo
 
-osrm: Modern C++ routing engine for shortest paths in road networks.
+- http://project-osrm.org : Modern C++ routing engine for shortest
+  paths in road networks
 
-* Partage de code
+* Outils pour des tests d’intégration
+
+- https://jenkins.io
+- https://circleci.com
+- https://travis-ci.org
+- https://codeship.com
+
+* Site web pour partager du code
 
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
 - https://jsfiddle.net
 - https://codepen.io
 
-* Prototypage web
+* Codes de conduite
 
-- Sketch
-- Selenium
+- https://www.contributor-covenant.org
+
+* Guide d’écriture de code
+
+- https://github.com/alphagov/styleguides/
+- https://fr.wikipedia.org/wiki/GNU_coding_standards
+
+* Programmation à plusieurs mains (pair programming)
+
+- [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
+- [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
+- [[https://tmux.github.io/][tmux]]
+- [[https://mobaxterm.mobatek.net/][MobaXterm]]
+- http://prose.io pour éditer des dépôts Github facilement
+- https://stackedit.io pour éditer du markdown en WYSIWYG
+
+* Outils de prototypage/test web
+
+- [[https://www.sketchapp.com/][Sketch]]
+- [[https://docs.seleniumhq.org/][Selenium]]
 - https://framework7.io
 
-* Gestion de projets
+* Outils de gestion de projets
 
-- kanboard
-- trello
-- asana
-- https://taiga.io
-- phabricator
-- github
-
-Indiquer si l’outil permet de la revue de code.
-
-Indicateurs pour la gestion d’un projet :
-
-- milestones
-- releases
-- tasks
+| Site                                    | Outil                | Milestones | Releases | Tasks | Revue de code |
+|-----------------------------------------+----------------------+------------+----------+-------+---------------|
+| https://framaboard.org                  | https://kanboard.org |            |          |       |               |
+| https://trello.com                      |                      |            |          |       |               |
+| https://asana.com                       |                      |            |          |       |               |
+| https://taiga.io                        |                      |            |          |       |               |
+| https://phabricator.com                 |                      |            |          |       |               |
+| https://github.com                      |                      |            |          |       |               |
+| https://www.atlassian.com/software/jira |                      |            |          |       |               |
+| [[https://github.com/getpatchwork/patchwork][patchwork]]                               |                      |            |          |       |               |
+| [[https://www.atlassian.com/software/confluence][confluence]]                              |                      |            |          |       |               |
+| [[https://www.mantisbt.org/][mantis]]                                  |                      |            |          |       |               |
+| [[https://www.redmine.org/][redmine]]                                 |                      |            |          |       |               |
+| [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
+| [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
 
 * Exploration (REPL) de langages de programmation
 
@@ -42,15 +69,6 @@ Indicateurs pour la gestion d’un projet :
 ** Web
 
 - https://statuscake.com
-
-* Programmation à plusieurs mains
-
-- [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
-- [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
-- [[https://tmux.github.io/][tmux]]
-- [[https://mobaxterm.mobatek.net/][MobaXterm]]
-- http://prose.io pour éditer des dépôts Github facilement
-- https://stackedit.io pour éditer du markdown en WYSIWYG
 
 * Vidéo et partage d’écran
 
@@ -67,5 +85,4 @@ Indicateurs pour la gestion d’un projet :
 
 * Au quotidien
 
-- http://www.hackertyper.com/
-
+- http://www.hackertyper.com
