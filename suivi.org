@@ -13,19 +13,40 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 
 =Catégorie= pouvant être :
 
-- Accompagnement informatique (dans l’administration)
+- Apprentissage
 - Communication (interne et externe)
 - Données (accès)
 - Installation (physique et informatique)
 - Management (réunions, gestion de projet)
 - Production (code, données, doc, etc.)
 - Retours utilisateur (entretiens, UX, UI)
+- Services informatique (pour l’administration)
 - Transformation de la culture informatique
 
 Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]].
 
 * Archifiltre
 * b@liseNAV
+
+** Dépôt
+
+** Journal
+
+| Livrable      | Tâche                     | Fait le           | Cat | Commentaire |
+|---------------+---------------------------+-------------------+-----+-------------|
+| POC           | Backend du POC            | <2018-02-15 jeu.> | P   |             |
+| Habiter Brest | Signature bail            | <2018-02-15 jeu.> | I   |             |
+|               | Suivi cours sur les bases | <2018-02-15 jeu.> | A   |             |
+|               | Import de données ALADIN  | <2018-02-14 mer.> | P   |             |
+|               | Travail sur la roadmap    | <2018-02-16 ven.>                  | M   |             |
+
+** Suite
+
+- Migration vers PostgreSQL, consolidation
+- installation fibre à la maison, déménagement
+- refonte du POC
+- accès serveur
+
 * BrigadeNumérique
 * CoachÉlève
 
@@ -44,12 +65,12 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 ** Journal
 
-| Livrable                    | Tâche            | Fait le           | Catégorie  | Commentaire |
-|-----------------------------+------------------+-------------------+------------+-------------|
-| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | Production |             |
-| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | Production |             |
+| Livrable                    | Tâche            | Fait le           | Cat | Commentaire |
+|-----------------------------+------------------+-------------------+-----+-------------|
+| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | P   |             |
+| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | P   |             |
 
-** Next
+** Suite
 
 - Outil de visualisation de la bulloterie
 
@@ -74,11 +95,10 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 * Détail des catégories
 
-** Accompagnement informatique (dans l’administration)
+** Apprentissage
 
-- Recette informatique
-
-- Services rendus autour de soi
+- Acquisition de nouvelles techniques
+- Formations reçues
 
 ** Communication (interne et externe)
 
@@ -128,6 +148,11 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 - Entretiens individuels avec les utilisateurs
 
 - Ateliers utilisateurs
+
+** Services informatique (pour l’administration)
+
+- Recette informatique
+- Services rendus autour de soi
 
 ** Transformation de la culture informatique
 
