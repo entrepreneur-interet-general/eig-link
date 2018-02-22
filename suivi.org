@@ -13,15 +13,15 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 
 =Catégorie= pouvant être :
 
-- Apprentissage
-- Communication (interne et externe)
-- Données (accès)
-- Installation (physique et informatique)
-- Management (réunions, gestion de projet)
-- Production (code, données, doc, etc.)
-- Retours utilisateur (entretiens, UX, UI)
-- Services informatique (pour l’administration)
-- Transformation de la culture informatique
+- [A]pprentissage
+- [C]ommunication (interne et externe)
+- [D]onnées (accès)
+- [I]nstallation (physique et informatique)
+- [M]anagement (réunions, gestion de projet)
+- [P]roduction (code, données, doc, etc.)
+- [R]etours utilisateur (entretiens, UX, UI)
+- [S]ervices informatique (pour l’administration)
+- [T]ransformation de la culture informatique
 
 Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org#d%25C3%25A9tail-des-cat%25C3%25A9gories][plus bas]].
 
