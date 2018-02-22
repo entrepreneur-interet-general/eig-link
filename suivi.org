@@ -7,9 +7,9 @@ un lien est ajouté.
 
 Pour chaque projet, nous proposons ce tableau indicatif :
 
-| Tâche | Date | Statut | Date de fin | Catégorie | Commentaire |
-|-------+------+--------+-------------+-----------+-------------|
-|       |      |        |             |           |             |
+| Livrable | Tâche | Fait le | Catégorie | Commentaire |
+|----------+-------+---------+-----------+-------------|
+|          |       |         |           |             |
 
 =Catégorie= pouvant être :
 
@@ -44,11 +44,14 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 ** Journal
 
-| Livrable                    | Tâche            | État     | Fait le           | Date de fin       | Type          | Commentaire |
-|-----------------------------+------------------+----------+-------------------+-------------------+---------------+-------------|
-| Maintenance des outils      | Installation IRC | DONE     | <2018-02-13 mar.> | <2018-02-16 ven.> | Développement |             |
-| Ajout d’un blog sur le site | Créer un blog    | DONE     | <2018-02-14 mer.> | <2018-02-15 jeu.> | Développement |             |
-| Outil web bulloterie        | Mini-proto web   | EN COURS |                   | <2018-02-22 jeu.> | Développement |             |
+| Livrable                    | Tâche            | Fait le           | Catégorie  | Commentaire |
+|-----------------------------+------------------+-------------------+------------+-------------|
+| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | Production |             |
+| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | Production |             |
+
+** Next
+
+- Outil de visualisation de la bulloterie
 
 * Gobelins
 * Hopkins
