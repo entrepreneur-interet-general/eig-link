@@ -3,22 +3,26 @@
 Chaque défi peut avoir son outil de gestion dédié.  S’il est public,
 un lien est ajouté.
 
-* Structure
+* Format des synthèse
 
 Pour chaque projet, nous proposons ce tableau indicatif :
 
-| Livrable | Tâche | État | Fait le | Date de fin | Type | Commentaire |
-|----------+-------+------+---------+-------------+------+-------------|
-|          |       |      |         |             |      |             |
+| Tâche | Date | Statut | Date de fin | Catégorie | Commentaire |
+|-------+------+--------+-------------+-----------+-------------|
+|       |      |        |             |           |             |
 
-=Type= pouvant être :
+=Catégorie= pouvant être :
 
-- Développement
-- Gestion de données
-- Interaction avec l’administration
-- Transformation numérique
-- Gestion de projet
-- Communication externe
+- Accompagnement informatique (dans l’administration)
+- Communication (interne et externe)
+- Données (accès)
+- Installation (physique et informatique)
+- Management (réunions, gestion de projet)
+- Production (code, données, doc, etc.)
+- Retours utilisateur (entretiens, UX, UI)
+- Transformation de la culture informatique
+
+Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]].
 
 * TODO Archifiltre
 * TODO b@liseNAV
@@ -40,4 +44,67 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 * TODO Prévisecours
 * TODO Signaux Faibles
 * TODO SocialConnect
+* Détail des catégories
+
+** Accompagnement informatique (dans l’administration)
+
+- Recette informatique
+
+- Services rendus autour de soi
+
+** Communication (interne et externe)
+
+- Rédaction de conventions (pour l’accès aux données)
+- Trouver un logo
+- Trouver un slogan / méthode
+- Lettre envoyée Lemoine
+
+** Données (accès)
+
+- Rencontre avec les personnes dépositaires des données
+- Acquisition des mots de passe pour l’accès aux postes
+- Compréhension des données
+
+** Installation (physique et informatique)
+
+- Installation physique
+  - Récupération de badges
+  - Visite des lieux
+  - Rencontre avec des voisins de bureau
+- Installation informatique
+  - Récupération du matériel
+  - Configuration du matériel
+- Acculturation aux méthodes de travail
+
+** Management (réunions, gestion de projet)
+
+- Réunions avec les mentors
+- Réunions de cadrage avec l’équipe EIG
+
+** Production (code, données, doc, etc.)
+
+- Immersion dans le code passé
+- Création de modèles de données
+- Création de tests unitaires
+- Implémentation de nouvelles fonctionnalités
+- Traitement des données
+- Maquettes / mock-ups
+- Design
+- Benchmarks
+- Création d’outils annexe
+
+** Retours utilisateur (entretiens, UX, UI)
+
+- Définir qui sont les utilisateurs
+
+- Entretiens individuels avec les utilisateurs
+
+- Ateliers utilisateurs
+
+** Transformation de la culture informatique
+
+- Faire évoluer l’environnement informatique (par exemple : "passer à
+  Python3")
+
+- Donner des formations données en interne (git, R, python)
 
