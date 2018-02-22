@@ -55,8 +55,8 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 | Livrable      | Tâche                              | Fait le           | Cat |
 |---------------+------------------------------------+-------------------+-----|
 | POC           | Backend du POC                     | <2018-02-15 jeu.> | P   |
-| Habiter Brest | Signature bail                     | <2018-02-15 jeu.> | I   |
-|               | Suivi cours sur les bases          | <2018-02-15 jeu.> | A   |
+| Habiter Brest | Signature du bail                  | <2018-02-15 jeu.> | I   |
+|               | Suivi d’un cours sur les bases     | <2018-02-15 jeu.> | A   |
 |               | Import de données ALADIN           | <2018-02-15 jeu.> | P   |
 |               | Travail sur la roadmap             | <2018-02-15 jeu.> | M   |
 |               | Carto de l’environnement technique | <2018-02-15 jeu.> | P   |
@@ -65,9 +65,9 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 ** Suite
 
 - Migration vers PostgreSQL, consolidation
-- installation fibre à la maison, déménagement
-- refonte du POC
-- accès serveur
+- Installation fibre à la maison, déménagement
+- Refonte du POC
+- Accès à un serveur
 
 * BrigadeNumérique
 * CoachÉlève
