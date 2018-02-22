@@ -26,19 +26,41 @@ Pour chaque projet, nous proposons ce tableau indicatif :
 Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]].
 
 * Archifiltre
+
+** Dépôt
+** Journal
+
+| Livrable | Tâche                                   | Fait le           | Cat |
+|----------+-----------------------------------------+-------------------+-----|
+| Roadmap  | Élaboration du macro-planning           | <2018-02-15 jeu.> | M   |
+|          | Préparation du premier sprint           | <2018-02-15 jeu.> | P   |
+|          | Réflexion sur la com du projet          | <2018-02-15 jeu.> | P   |
+|          | Réalisation d'un premier logo           | <2018-02-15 jeu.> | P   |
+|          | Comprendre l'architecture du format PST | <2018-02-15 jeu.> | D   |
+|          | Benchmark d'outils de parsing PST       | <2018-02-15 jeu.> | P   |
+|          | Atelier créativité sur les interfaces   | <2018-02-15 jeu.> | R   |
+
+** Suite
+
+- Sprint : parsing de fichiers PST
+
+- Réception de nos accès VM et de nos machines de dev du ministère.
+
 * b@liseNAV
 
 ** Dépôt
 
 ** Journal
 
-| Livrable      | Tâche                     | Fait le           | Cat | Commentaire |
-|---------------+---------------------------+-------------------+-----+-------------|
-| POC           | Backend du POC            | <2018-02-15 jeu.> | P   |             |
-| Habiter Brest | Signature bail            | <2018-02-15 jeu.> | I   |             |
-|               | Suivi cours sur les bases | <2018-02-15 jeu.> | A   |             |
-|               | Import de données ALADIN  | <2018-02-14 mer.> | P   |             |
-|               | Travail sur la roadmap    | <2018-02-16 ven.>                  | M   |             |
+| Livrable      | Tâche                              | Fait le           | Cat |
+|---------------+------------------------------------+-------------------+-----|
+| POC           | Backend du POC                     | <2018-02-15 jeu.> | P   |
+| Habiter Brest | Signature bail                     | <2018-02-15 jeu.> | I   |
+|               | Suivi cours sur les bases          | <2018-02-15 jeu.> | A   |
+|               | Import de données ALADIN           | <2018-02-15 jeu.> | P   |
+|               | Travail sur la roadmap             | <2018-02-15 jeu.> | M   |
+|               | Carto de l’environnement technique | <2018-02-15 jeu.> | P   |
+| Roadmap       | Travail sur un doc de synthèse     | <2018-02-15 jeu.> | M   |
 
 ** Suite
 
@@ -54,7 +76,47 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 - https://github.com/entrepreneur-interet-general/numerilab
 
+** Journal
+
+| Livrable | Tâche                                 | Fait le           | Cat |
+|----------+---------------------------------------+-------------------+-----|
+|          | Rencontre détenteurs données          | <2018-02-15 jeu.> | D   |
+|          | Rencontre Pôle Emploi Store           | <2018-02-15 jeu.> | M   |
+|          | Point légal sur propriété des données | <2018-02-15 jeu.> | D   |
+
+** Suite
+
+- Cadrage de projet
+
+- Processus de cartographie des données au sein du ministère
+
+- Repérage contacts opérationnels
+
 * DataESR
+
+** Dépôt
+** Journal
+
+| Livrable | Tâche                                    | Fait le           | Cat |
+|----------+------------------------------------------+-------------------+-----|
+|          | Debrief semaine d'intégration            | <2018-02-15 jeu.> | I   |
+|          | Interviews membres de l'équipe           | <2018-02-15 jeu.> | R   |
+|          | Exploration de jeux de données           | <2018-02-15 jeu.> | D   |
+|          | Installation environnement de travail    | <2018-02-15 jeu.> | I   |
+|          | Interview personne en charge de scanr.fr | <2018-02-15 jeu.> | R   |
+|          | Contact avec istex.fr                    | <2018-02-15 jeu.> | D   |
+
+** Suite
+
+- Définir un modèle de base de données initial.
+
+- Approfondir les publications / données du département.
+
+- Continuer les interviews de l'équipe pour comprendre en détail
+  comment la donnée est stockée, traitée..
+
+- Utiliser l'API de istex.fr
+
 * EIG Link
 
 ** Dépôts
@@ -65,19 +127,96 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 ** Journal
 
-| Livrable                    | Tâche            | Fait le           | Cat | Commentaire |
-|-----------------------------+------------------+-------------------+-----+-------------|
-| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | P   |             |
-| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | P   |             |
+| Livrable                    | Tâche            | Fait le           | Cat |
+|-----------------------------+------------------+-------------------+-----|
+| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | P   |
+| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | P   |
 
 ** Suite
 
 - Outil de visualisation de la bulloterie
 
 * Gobelins
+
+** Dépôt
+
+** Journal
+
+| Livrable | Tâche                          | Fait le           | Cat |
+|----------+--------------------------------+-------------------+-----|
+|          | installation matériel          | <2018-02-15 jeu.> | I   |
+|          | visite des lieux               | <2018-02-15 jeu.> | I   |
+|          | Prise de RDV avec le personnel | <2018-02-15 jeu.> | R   |
+|          | Collecte ressources photo.     | <2018-02-15 jeu.> | D   |
+| Roadmap  | Phasage du projet              | <2018-02-15 jeu.> | M   |
+
+** Suite
+
+- on continue les visites (paris + province)
+- on continue les RDV avec le personnel
+- on continue l’installation
+
 * Hopkins
+
+** Dépôt
+** Journal
+
+| Livrable | Tâche                                                    | Fait le           | Cat |
+|----------+----------------------------------------------------------+-------------------+-----|
+|          | Biblio sur le matching                                   | <2018-02-15 jeu.> | P   |
+|          | Installation de matchID                                  | <2018-02-15 jeu.> | I   |
+|          | Familiarisation avec ElasticSearch                       | <2018-02-15 jeu.> | A   |
+|          | Exploration jeu de données sur Dataiku                   | <2018-02-15 jeu.> | D   |
+|          | Reprise en main de python                                | <2018-02-15 jeu.> | A   |
+|          | Découverte travail d’orientation auprès d’un utilisateur | <2018-02-15 jeu.> | R   |
+|          | Test de la librairie fuzzywuzzy                          | <2018-02-15 jeu.> | P   |
+|          | Trouver un workflow correct entre un ordi Windows        | <2018-02-15 jeu.> | I   |
+|          | Setup serveurs (zsh oh-my-zsh micro et tmux)             | <2018-02-15 jeu.> | I   |
+|          | Lire du code pour me mettre à jour                       | <2018-02-15 jeu.> | A   |
+
+** Suite
+
+- Continuer le travail exploratoire sur le jeu de données
+- Premier test de matching live sur des datasets réduits avec des
+  approches « naïves » 
+- Rencontre avec Fabien Antoine du MI qui a repris le projet matchID
+- Reprendre un code de matching écrit en Scala
+- Réfléchir à un format de formation / session de partage de
+  connaissance
+- Switcher à python3
+- Installer KanBoard
+- Premier modèle Tensorflow
+
 * Lab Santé
-* PrédiSauvetage
+
+** Dépôt
+** Journal
+
+| Livrable | Tâche                                  | Fait le           | Cat |
+|----------+----------------------------------------+-------------------+-----|
+|          | Formation agents DREES à R             | <2018-02-15 jeu.> | T   |
+|          | Scraping annuairesante.ameli.fr        | <2018-02-15 jeu.> | P   |
+|          | extraction dans avis de la HAS (NLP)   | <2018-02-15 jeu.> | P   |
+|          | Obtention des mdp pour accès aux bases | <2018-02-15 jeu.> | I   |
+|          | Aidé sur #support-sysadmin             | <2018-02-15 jeu.> | T   |
+|          | Push de la bulloterie sur shinyapps    | <2018-02-15 jeu.> | P   |
+|          | Avancée sur un benchmark SAS/R         | <2018-02-15 jeu.> | P   |
+
+** Suite
+
+- Application de l'algo d'extraction de nom de médicament sur une
+  nouvelle base.
+
+- Découverte des données hospitalières exhaustives (PMSI)
+
+- Revoir la formation en passant moins de temps sur les fonctions de
+  base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
+
+- Cadrage sur le projet "Distancier"
+
+- Exploration de http://project-osrm.org
+
+* Prédisauvetage
 
 ** Dépôt
 
@@ -85,13 +224,91 @@ Ces catégories sont détaillées [[*D%C3%A9tail des cat%C3%A9gories][plus bas]]
 
 ** Journal
 
+| Livrable | Tâche                  | Fait le           | Cat |
+|----------+------------------------+-------------------+-----|
+| Roadmap  | Cadrage projet         | <2018-02-15 jeu.> | M   |
+|          | Nettoyage données SNSM | <2018-02-15 jeu.> | P   |
+|          | POC appli prévention   | <2018-02-15 jeu.> | P   |
+
+** Suite
+
+- Rédaction de conventions pour de la collecte de données avec SAMU 64
+  / SDIS (56 / 64)
+
+- Nettoyage des données SNSM
+
+- Accès direct aux données Direction des Affaires Maritimes
+
 * Prévisecours
+
+** Site/Dépôt
+
+- http://previsecours.fr
+- https://github.com/previsecours
+
+** Journal
+
+| Livrable | Tâche                                       | Fait le           | Cat |
+|----------+---------------------------------------------+-------------------+-----|
+|          | Ajout Indicateurs idh2 par commune          | <2018-02-15 jeu.> | P   |
+|          | Premières versions naïves des features      | <2018-02-15 jeu.> | P   |
+|          | Trouver endroit où travailler au LLL        | <2018-02-15 jeu.> | I   |
+|          | Rencontre avec service de PJ                | <2018-02-15 jeu.> | R   |
+|          | Point avec mentor                           | <2018-02-15 jeu.> | M   |
+|          | Petit déjeuner pour se présenter au service | <2018-02-15 jeu.> | I   |
+|          | Exploration de données                      | <2018-02-15 jeu.> | D   |
+
+** Suite
+
+- Analyse statistique plus poussée des interventions pour choisir la
+  maille temporelle du modèle et les regroupements sur type de secours
+
+- Récupération des données de délinquance
+
+- Intégration des données ERP
+
+- Tester open-moulinette pour intégration potentielle
+
 * Signaux Faibles
+
+** Dépôt
+** Journal
+
+| Livrable | Tâche                         | Fait le           | Cat |
+|----------+-------------------------------+-------------------+-----|
+|          | Immersion dans le code        | <2018-02-15 jeu.> | A   |
+|          | Correction d’un bug           | <2018-02-15 jeu.> | P   |
+|          | Connaissance avec les données | <2018-02-15 jeu.> | D   |
+
+** Suite
+
+- Rencontre avec les statisticiens de la DIRECCTE
+- Revival d’opensignauxfaibles/R
+- Conception d’un nouveau modèlen de données plus simple
+- Participation à un comité de pilotage
+
 * SocialConnect
 
 ** Dépôt
 
 - https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper
+
+** Journal
+
+| Livrable | Tâche                           | Fait le           | Cat |
+|----------+---------------------------------+-------------------+-----|
+|          | entretiens parties prenantes    | <2018-02-15 jeu.> | R   |
+|          | atelier nomenclature            | <2018-02-15 jeu.> | D   |
+|          | préparer atelier communication  | <2018-02-15 jeu.> | P   |
+| Roadmap  | Rétroplanning jusqu'au 09 avril | <2018-02-15 jeu.> | M   |
+
+** Suite
+
+- Mettre les mains dans le code du POC
+- Préciser encore l'archi minimale de la plateforme
+- mettre en place et tester en local quelques points d'API
+- Avoir un Wifi normal
+- Debriefer les entretiens et en sortir les grands enseignements
 
 * Détail des catégories
 
