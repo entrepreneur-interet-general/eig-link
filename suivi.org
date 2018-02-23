@@ -292,18 +292,41 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                         | Fait le           | Cat |
-|----------+-------------------------------+-------------------+-----|
-|          | Immersion dans le code        | <2018-02-15 jeu.> | A   |
-|          | Correction d’un bug           | <2018-02-15 jeu.> | P   |
-|          | Connaissance avec les données | <2018-02-15 jeu.> | D   |
+| Livrable          | Tâche                                  | Fait le           | Cat |
+|-------------------+----------------------------------------+-------------------+-----|
+|                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
+|                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
+|                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
+|-------------------+----------------------------------------+-------------------+-----|
+|                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
+|                   | Installation du container              | <2018-02-23 ven.> | I   |
+|                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
+|                   | Première prédiction                    | <2018-02-23 ven.> | P   |
+|                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
+|                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
+| Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
+|                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
 
 ** Suite
 
-- Rencontre avec les statisticiens de la DIRECCTE
-- Revival d’opensignauxfaibles/R
-- Conception d’un nouveau modèlen de données plus simple
-- Participation à un comité de pilotage
+- Plus de prospection dans les sources de données non encore
+  exploitées.
+
+- Début de codage du nouveau modèle de données orienté document et
+  suivi de modification.
+
+- Réflexion sur un framework permettant de faciliter l'insertion et
+  l'exploitation de nouvelles données dans le modèle (il existe déjà
+  sans doute des choses).
+
+- Vérification avec les utilisateurs (accompagnement inclu) des
+  données produites par la première prédiction.
+
+- Échanges avec DIRECCTE pour mettre en place des scripts d'extraction
+  des données.
+
+- Tentative de croisement SIRENE/DARES pour remplacer un algorithme
+  humain de data quality.
 
 * SocialConnect
 
