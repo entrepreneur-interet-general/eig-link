@@ -46,6 +46,8 @@
 
 - SCN : Service à compétence nationale
 
+- SDIS : Service d’incendie et de Secours
+
 - SGDSN : Secrétariat général de la défense et de la sécurité
   nationale
 
