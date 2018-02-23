@@ -59,14 +59,15 @@ défis EIG.
 
 * TODO Lab Santé
 * TODO PrédiSauvetage
-* TODO Prévisecours
-** datascience : Dataiku
-** dataviz (à confirmer): Tableau ou Superset ?
-** appli/carto : Vue.js + Leaflet (reuse de cartAV ?)
-** backend : python 3
-** bdd : elasticsearch / postgres ?
-** rp : nginx
-** packagin: docker
+* Prévisecours
+
+- Datascience : Dataiku
+- Dataviz (à confirmer): Tableau ou Superset ?
+- Appli/carto : Vue.js + Leaflet (reuse de cartAV ?)
+- Backend : python 3
+- Bdd : elasticsearch / postgres ?
+- Rp : nginx
+- Packagin: docker
 
 * TODO Signaux Faibles
 * TODO SocialConnect
