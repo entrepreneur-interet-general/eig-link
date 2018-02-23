@@ -59,22 +59,33 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable      | Tâche                              | Fait le           | Cat |
-|---------------+------------------------------------+-------------------+-----|
-| POC           | Backend du POC                     | <2018-02-15 jeu.> | P   |
-| Habiter Brest | Signature du bail                  | <2018-02-15 jeu.> | I   |
-|               | Suivi d’un cours sur les bases     | <2018-02-15 jeu.> | A   |
-|               | Import de données ALADIN           | <2018-02-15 jeu.> | P   |
-|               | Travail sur la roadmap             | <2018-02-15 jeu.> | M   |
-|               | Carto de l’environnement technique | <2018-02-15 jeu.> | P   |
-| Roadmap       | Travail sur un doc de synthèse     | <2018-02-15 jeu.> | M   |
+| Livrable      | Tâche                                                          | Fait le           | Cat |
+|---------------+----------------------------------------------------------------+-------------------+-----|
+| POC           | Backend du POC                                                 | <2018-02-15 jeu.> | P   |
+| Habiter Brest | Signature du bail                                              | <2018-02-15 jeu.> | I   |
+|               | Suivi d’un cours sur les bases                                 | <2018-02-15 jeu.> | A   |
+|               | Import de données ALADIN                                       | <2018-02-15 jeu.> | P   |
+|               | Travail sur la roadmap                                         | <2018-02-15 jeu.> | M   |
+|               | Carto de l’environnement technique                             | <2018-02-15 jeu.> | P   |
+| Roadmap       | Travail sur un doc de synthèse                                 | <2018-02-15 jeu.> | M   |
+|---------------+----------------------------------------------------------------+-------------------+-----|
+|               | On a la fibre à l’appart!                                      | <2018-02-23 ven.> | I   |
+|               | Document de synthèse du premier sprint                         | <2018-02-23 ven.> | P   |
+|               | Visite de la DAM à Saint-Malo                                  | <2018-02-23 ven.> | M   |
+|               | Récupération d'un échantillon AIS                              | <2018-02-23 ven.> | D   |
+|               | Chargement et exploration de la base de données Aladin         | <2018-02-23 ven.> | D   |
+|               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
+|               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
+|               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
 
 ** Suite
 
-- Migration vers PostgreSQL, consolidation
-- Installation fibre à la maison, déménagement
-- Refonte du POC
-- Accès à un serveur
+- Revue en profondeur des démonstrateurs réalisés au Shom
+- Etat des lieux ALADIN <=> S-201 <=> SHOM
+- Faire une petite API avec NodeJS de la base ALADIN
+- Faire un script visualisant/synthétisant les anomalies entre ALADIN et SHOM
+- Construction d’une roadmap à partir de la cartographie
+- Introduction au NoSQL (présentation MongoDB à un interne)
 
 * BrigadeNumérique
 * CoachÉlève
