@@ -445,6 +445,15 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 - Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
 - 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
 
+
+* Applications/bibliothèques intégrées à l’écosystème open source
+
+| Hopkins | https://pypi.org/project/mkinx |
+
+* Tickets ouverts sur des projets open source
+
+| Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355 |
+
 * Détail des catégories
 
 ** Apprentissage
