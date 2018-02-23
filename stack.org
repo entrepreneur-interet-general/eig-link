@@ -63,7 +63,7 @@ défis EIG.
 
 ** Stack
 
-- Datascience : Dataiku + scikit-learn + pandas + SQL
+- Datascience : Dataiku + python 2 (scikit-learn, pandas) + SQL
 - Dataviz (à confirmer): Tableau ou Superset ?
 - Appli/carto : Vue.js + Leaflet (reuse de cartAV ?)
 - Backend : python 3
@@ -79,6 +79,8 @@ défis EIG.
 ** Livrables code
 
 - Modèle de machine learning répondant à différent scénarios?
+- Application standalone pour faire tourner les modèles?
+- Application standalone pour la carto?
 - Outil de génération de différent scénario pour les features dites "variables" (meteo par exemple)?
 
 
