@@ -119,25 +119,36 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                                    | Fait le           | Cat |
-|----------+------------------------------------------+-------------------+-----|
-|          | Debrief semaine d'intégration            | <2018-02-15 jeu.> | I   |
-|          | Interviews membres de l'équipe           | <2018-02-15 jeu.> | R   |
-|          | Exploration de jeux de données           | <2018-02-15 jeu.> | D   |
-|          | Installation environnement de travail    | <2018-02-15 jeu.> | I   |
-|          | Interview personne en charge de scanr.fr | <2018-02-15 jeu.> | R   |
-|          | Contact avec istex.fr                    | <2018-02-15 jeu.> | D   |
+| Livrable | Tâche                                                                    | Fait le           | Cat |
+|----------+--------------------------------------------------------------------------+-------------------+-----|
+|          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
+|          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | R   |
+|          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
+|          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
+|          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | R   |
+|          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
+|----------+--------------------------------------------------------------------------+-------------------+-----|
+|          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
+|          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
+|          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
+|          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
+|          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
 
 ** Suite
 
-- Définir un modèle de base de données initial.
+- Prise de contact avec Fabien pour voir comment on peut travailler
+  ensemble au développement de matchID sur la partie qui nous
+  intéresse.
 
-- Approfondir les publications / données du département.
+- Continuer sur les règles de recoupement entre la BCE et SIRET et
+  prévoir le cas de maj.
 
-- Continuer les interviews de l'équipe pour comprendre en détail
-  comment la donnée est stockée, traitée..
+- Continuer à explorer la BCE pour comprendre comment retrouver les
+  liens entre établissements.
 
-- Utiliser l'API de istex.fr
+- Définir la structure de cette base commune que l'on veut constituer.
+
+- Faire les demandes de serveur ou en tout cas, évaluer le besoin.
 
 * EIG Link
 
