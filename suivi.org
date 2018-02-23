@@ -192,29 +192,26 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                                  | Fait le           | Cat |
-|----------+----------------------------------------+-------------------+-----|
-|          | Formation agents DREES à R             | <2018-02-15 jeu.> | T   |
-|          | Scraping annuairesante.ameli.fr        | <2018-02-15 jeu.> | P   |
-|          | extraction dans avis de la HAS (NLP)   | <2018-02-15 jeu.> | P   |
-|          | Obtention des mdp pour accès aux bases | <2018-02-15 jeu.> | I   |
-|          | Aidé sur #support-sysadmin             | <2018-02-15 jeu.> | T   |
-|          | Push de la bulloterie sur shinyapps    | <2018-02-15 jeu.> | P   |
-|          | Avancée sur un benchmark SAS/R         | <2018-02-15 jeu.> | P   |
+| Livrable                | Tâche                                      | Fait le           | Cat |
+|-------------------------+--------------------------------------------+-------------------+-----|
+|                         | Formation agents DREES à R                 | <2018-02-15 jeu.> | T   |
+|                         | Scraping annuairesante.ameli.fr            | <2018-02-15 jeu.> | P   |
+|                         | extraction dans avis de la HAS (NLP)       | <2018-02-15 jeu.> | P   |
+|                         | Obtention des mdp pour accès aux bases     | <2018-02-15 jeu.> | I   |
+|                         | Aidé sur #support-sysadmin                 | <2018-02-15 jeu.> | T   |
+|                         | Push de la bulloterie sur shinyapps        | <2018-02-15 jeu.> | P   |
+|                         | Avancée sur un benchmark SAS/R             | <2018-02-15 jeu.> | P   |
+| Amélioration du simplex | Réunion avec DGOS                          | <2018-02-23 ven.> | MR  |
+|                         | Réunion  Distancier INSEE                  | <2018-02-23 ven.> | M   |
+|                         | Réunion pertinence des soins               | <2018-02-23 ven.> | M   |
+|                         | Passage à git pour extraction des avis HAS | <2018-02-23 ven.> | P   |
+|                         | Travaux sur l'extraction des avis HAS      | <2018-02-23 ven.> | P   |
 
 ** Suite
 
-- Application de l'algo d'extraction de nom de médicament sur une
-  nouvelle base.
-
-- Découverte des données hospitalières exhaustives (PMSI)
-
-- Revoir la formation en passant moins de temps sur les fonctions de
-  base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
-
-- Cadrage sur le projet "Distancier"
-
-- Exploration de http://project-osrm.org
+- Travaux sur le Simplex
+- Continuer extraction HAS
+- Amélioration du guide gitlab pour les utilisateurs DREES
 
 * Prédisauvetage
 
