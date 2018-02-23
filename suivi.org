@@ -72,7 +72,7 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 * BrigadeNumérique
 * CoachÉlève
 
-** Dépôt 
+** Dépôt
 
 - https://github.com/entrepreneur-interet-general/numerilab
 
@@ -169,31 +169,35 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                                                    | Fait le           | Cat |
-|----------+----------------------------------------------------------+-------------------+-----|
-|          | Biblio sur le matching                                   | <2018-02-15 jeu.> | P   |
-|          | Installation de matchID                                  | <2018-02-15 jeu.> | I   |
-|          | Familiarisation avec ElasticSearch                       | <2018-02-15 jeu.> | A   |
-|          | Exploration jeu de données sur Dataiku                   | <2018-02-15 jeu.> | D   |
-|          | Reprise en main de python                                | <2018-02-15 jeu.> | A   |
-|          | Découverte travail d’orientation auprès d’un utilisateur | <2018-02-15 jeu.> | R   |
-|          | Test de la librairie fuzzywuzzy                          | <2018-02-15 jeu.> | P   |
-|          | Trouver un workflow correct entre un ordi Windows        | <2018-02-15 jeu.> | I   |
-|          | Setup serveurs (zsh oh-my-zsh micro et tmux)             | <2018-02-15 jeu.> | I   |
-|          | Lire du code pour me mettre à jour                       | <2018-02-15 jeu.> | A   |
+| Livrable          | Tâche                                                    | Fait le           | Cat |
+|-------------------+----------------------------------------------------------+-------------------+-----|
+|                   | Biblio sur le matching                                   | <2018-02-15 jeu.> | P   |
+|                   | Installation de matchID                                  | <2018-02-15 jeu.> | I   |
+|                   | Familiarisation avec ElasticSearch                       | <2018-02-15 jeu.> | A   |
+|                   | Exploration jeu de données sur Dataiku                   | <2018-02-15 jeu.> | D   |
+|                   | Reprise en main de python                                | <2018-02-15 jeu.> | A   |
+|                   | Découverte travail d’orientation auprès d’un utilisateur | <2018-02-15 jeu.> | R   |
+|                   | Test de la librairie fuzzywuzzy                          | <2018-02-15 jeu.> | P   |
+|                   | Trouver un workflow correct entre un ordi Windows        | <2018-02-15 jeu.> | I   |
+|                   | Setup serveurs (zsh oh-my-zsh micro et tmux)             | <2018-02-15 jeu.> | I   |
+|                   | Lire du code pour me mettre à jour                       | <2018-02-15 jeu.> | A   |
+|-------------------+----------------------------------------------------------+-------------------+-----|
+|                   | Rencontre avec Fabien de matchID                         | <2018-02-23 ven.> | A   |
+| Dataset labellisé | Exploration des données COSI                             | <2018-02-23 ven.> | DP  |
+| 1er matching      | Test de matchID sur un dataset réduit                    | <2018-02-23 ven.> | P   |
 
 ** Suite
 
-- Continuer le travail exploratoire sur le jeu de données
-- Premier test de matching live sur des datasets réduits avec des
-  approches « naïves » 
-- Rencontre avec Fabien Antoine du MI qui a repris le projet matchID
-- Reprendre un code de matching écrit en Scala
-- Réfléchir à un format de formation / session de partage de
-  connaissance
-- Switcher à python3
-- Installer KanBoard
-- Premier modèle Tensorflow
+- Continuer de prendre en main de MatchID (Apprentissage)
+- Finir le 1er test de matchID avec l'interface de validation (Production)
+- Intégrer un autre dataset manuellement labellisé précédemment
+  (Production)[ nouveau dataset labellisé]
+- Tester la possibilité de différents types d'indexages sur Elastic
+  Search : phonétique, n-grams (Production)
+- Demander un serveur plus puissant pour tester matchID sur un plus
+  gros dataset (Installation)
+- Mesurer la performance qualitative d'un matching existant
+  précédemment.
 
 * Lab Santé
 
@@ -209,6 +213,7 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 |                         | Aidé sur #support-sysadmin                 | <2018-02-15 jeu.> | T   |
 |                         | Push de la bulloterie sur shinyapps        | <2018-02-15 jeu.> | P   |
 |                         | Avancée sur un benchmark SAS/R             | <2018-02-15 jeu.> | P   |
+|-------------------------+--------------------------------------------+-------------------+-----|
 | Amélioration du simplex | Réunion avec DGOS                          | <2018-02-23 ven.> | MR  |
 |                         | Réunion  Distancier INSEE                  | <2018-02-23 ven.> | M   |
 |                         | Réunion pertinence des soins               | <2018-02-23 ven.> | M   |
@@ -383,4 +388,3 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
   Python3")
 
 - Donner des formations données en interne (git, R, python)
-
