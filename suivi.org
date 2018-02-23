@@ -7,9 +7,9 @@ un lien est ajouté.
 
 Pour chaque projet, nous proposons ce tableau indicatif :
 
-| Livrable | Tâche | Fait le | Catégorie | Commentaire |
-|----------+-------+---------+-----------+-------------|
-|          |       |         |           |             |
+| Livrable | Tâche | Fait le | Catégorie |
+|----------+-------+---------+-----------|
+|          |       |         |           |
 
 =Catégorie= pouvant être :
 
@@ -127,14 +127,22 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable                    | Tâche            | Fait le           | Cat |
-|-----------------------------+------------------+-------------------+-----|
-| Maintenance des outils      | Installation IRC | <2018-02-13 mar.> | P   |
-| Ajout d’un blog sur le site | Créer un blog    | <2018-02-14 mer.> | P   |
+| Livrable                    | Tâche                               | Fait le           | Cat |
+|-----------------------------+-------------------------------------+-------------------+-----|
+| Maintenance des outils      | Installation IRC                    | <2018-02-13 mar.> | P   |
+| Ajout d’un blog sur le site | Créer un blog                       | <2018-02-14 mer.> | P   |
+|-----------------------------+-------------------------------------+-------------------+-----|
+|                             | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
+|                             | Participation session mentors       | <2018-02-23 ven.> | M   |
+|                             | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
+|                             | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
+|                             | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
 
 ** Suite
 
-- Outil de visualisation de la bulloterie
+- Mise en forme web pour les saisines AGD
+- Outil web bulloterie
+- Outil web journal EIG
 
 * Gobelins
 
