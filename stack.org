@@ -61,13 +61,28 @@ défis EIG.
 * TODO PrédiSauvetage
 * Prévisecours
 
-- Datascience : Dataiku
+** Stack
+
+- Datascience : Dataiku + python 2 (scikit-learn, pandas) + SQL
 - Dataviz (à confirmer): Tableau ou Superset ?
 - Appli/carto : Vue.js + Leaflet (reuse de cartAV ?)
 - Backend : python 3
-- Bdd : elasticsearch / postgres ?
+- Bdd : elasticsearch / postgres / Vertica
 - Rp : nginx
-- Packagin: docker
+- Packaging: docker
+
+** Outils de développement
+
+- SublimeText
+- Atom
+
+** Livrables code
+
+- Modèle de machine learning répondant à différent scénarios?
+- Application standalone pour faire tourner les modèles?
+- Application standalone pour la carto?
+- Outil de génération de différent scénario pour les features dites "variables" (meteo par exemple)?
+
 
 * TODO Signaux Faibles
 * TODO SocialConnect
