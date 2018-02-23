@@ -206,24 +206,28 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable          | Tâche                                                    | Fait le           | Cat |
-|-------------------+----------------------------------------------------------+-------------------+-----|
-|                   | Biblio sur le matching                                   | <2018-02-15 jeu.> | P   |
-|                   | Installation de matchID                                  | <2018-02-15 jeu.> | I   |
-|                   | Familiarisation avec ElasticSearch                       | <2018-02-15 jeu.> | A   |
-|                   | Exploration jeu de données sur Dataiku                   | <2018-02-15 jeu.> | D   |
-|                   | Reprise en main de python                                | <2018-02-15 jeu.> | A   |
-|                   | Découverte travail d’orientation auprès d’un utilisateur | <2018-02-15 jeu.> | R   |
-|                   | Test de la librairie fuzzywuzzy                          | <2018-02-15 jeu.> | P   |
-|                   | Trouver un workflow correct entre un ordi Windows        | <2018-02-15 jeu.> | I   |
-|                   | Setup serveurs (zsh oh-my-zsh micro et tmux)             | <2018-02-15 jeu.> | I   |
-|                   | Lire du code pour me mettre à jour                       | <2018-02-15 jeu.> | A   |
-|-------------------+----------------------------------------------------------+-------------------+-----|
-|                   | Rencontre avec Fabien de matchID                         | <2018-02-23 ven.> | A   |
-| Dataset labellisé | Exploration des données COSI                             | <2018-02-23 ven.> | DP  |
-| 1er matching      | Test de matchID sur un dataset réduit                    | <2018-02-23 ven.> | P   |
-|                   | Tour de l'étage des enquêteurs                           | <2018-02-23 ven.> | R   |
-|                   | Installation du kanboard                                 | <2018-02-23 ven.> | I   |
+| Livrable          | Tâche                                                       | Fait le           | Cat |
+|-------------------+-------------------------------------------------------------+-------------------+-----|
+|                   | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
+|                   | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
+|                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
+|                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
+|                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
+|                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | R   |
+|                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
+|                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
+|                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
+|                   | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
+|-------------------+-------------------------------------------------------------+-------------------+-----|
+|                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
+| Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
+| 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
+|                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | R   |
+|                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
+|                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
+|                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
+|                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
+|                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
 
 ** Suite
 
@@ -239,6 +243,10 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
   précédemment.
 - Faire tourner l'algo de matching d'un ancien stagiaire. Le porter
   éventuellement sur Spark pour améliorer les perfs.
+- Installer mon package sur la VM qui host le Gitlab interne
+- Définir métriques/moyens de validation des modèles NLP (catégorie ?)
+- Passage python 3
+- Premier modèle tensorflow
 
 * Lab Santé
 
