@@ -421,12 +421,18 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 |          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
 |          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
 |          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
+|          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
+|          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
+|          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
 
 ** Suite
 
 - Illustrations pour nos supports de com'
 - Mock-up des écrans principaux
 - Avancer sur la landing page
+- Sprint sur OpenScrapper : mvp fonctionnant en local.
+- Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
+- 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
 
 * Détail des catégories
 
