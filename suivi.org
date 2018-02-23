@@ -266,26 +266,34 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                       | Fait le           | Cat |
-|----------+---------------------------------------------+-------------------+-----|
-|          | Ajout Indicateurs idh2 par commune          | <2018-02-15 jeu.> | P   |
-|          | Premières versions naïves des features      | <2018-02-15 jeu.> | P   |
-|          | Trouver endroit où travailler au LLL        | <2018-02-15 jeu.> | I   |
-|          | Rencontre avec service de PJ                | <2018-02-15 jeu.> | R   |
-|          | Point avec mentor                           | <2018-02-15 jeu.> | M   |
-|          | Petit déjeuner pour se présenter au service | <2018-02-15 jeu.> | I   |
-|          | Exploration de données                      | <2018-02-15 jeu.> | D   |
+| Livrable | Tâche                                           | Fait le           | Cat |
+|----------+-------------------------------------------------+-------------------+-----|
+|          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
+|          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
+|          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
+|          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | R   |
+|          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
+|          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
+|          | Exploration de données                          | <2018-02-15 jeu.> | D   |
+|----------+-------------------------------------------------+-------------------+-----|
+|          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
+|          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
+|          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
+|          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
+|          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
+|          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
+|          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
+|          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
+|          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
 
 ** Suite
 
-- Analyse statistique plus poussée des interventions pour choisir la
-  maille temporelle du modèle et les regroupements sur type de secours
+- Point sur le livrable à fournir au mentor opérationnel
 
-- Récupération des données de délinquance
+- livraison d'un CR rapide sur les corrélations open data x
+  interventions.
 
-- Intégration des données ERP
-
-- Tester open-moulinette pour intégration potentielle
+- Déplacement dans le centre de réception d'appels du 91 (?)
 
 * Signaux Faibles
 
