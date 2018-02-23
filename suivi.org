@@ -264,20 +264,28 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                  | Fait le           | Cat |
-|----------+------------------------+-------------------+-----|
-| Roadmap  | Cadrage projet         | <2018-02-15 jeu.> | M   |
-|          | Nettoyage données SNSM | <2018-02-15 jeu.> | P   |
-|          | POC appli prévention   | <2018-02-15 jeu.> | P   |
+| Livrable | Tâche                                                              | Fait le           | Cat |
+|----------+--------------------------------------------------------------------+-------------------+-----|
+| Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
+|          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
+|          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
+|----------+--------------------------------------------------------------------+-------------------+-----|
+|          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
+|          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
+|          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
+|          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
+|          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
+|          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
 
 ** Suite
 
-- Rédaction de conventions pour de la collecte de données avec SAMU 64
-  / SDIS (56 / 64)
+- Fusion des différentes bases d'intervention et premières analyses.
 
-- Nettoyage des données SNSM
+- Nouveau rendez-vous avec Navily.
 
-- Accès direct aux données Direction des Affaires Maritimes
+- Rendez-vous avec [[http://www.safetrxapp.com][Safetrx]]
+
+- Cadrage du projet et des objectifs.
 
 * Prévisecours
 
