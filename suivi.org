@@ -234,27 +234,41 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable                | Tâche                                      | Fait le           | Cat |
-|-------------------------+--------------------------------------------+-------------------+-----|
-|                         | Formation agents DREES à R                 | <2018-02-15 jeu.> | T   |
-|                         | Scraping annuairesante.ameli.fr            | <2018-02-15 jeu.> | P   |
-|                         | extraction dans avis de la HAS (NLP)       | <2018-02-15 jeu.> | P   |
-|                         | Obtention des mdp pour accès aux bases     | <2018-02-15 jeu.> | I   |
-|                         | Aidé sur #support-sysadmin                 | <2018-02-15 jeu.> | T   |
-|                         | Push de la bulloterie sur shinyapps        | <2018-02-15 jeu.> | P   |
-|                         | Avancée sur un benchmark SAS/R             | <2018-02-15 jeu.> | P   |
-|-------------------------+--------------------------------------------+-------------------+-----|
-| Amélioration du simplex | Réunion avec DGOS                          | <2018-02-23 ven.> | MR  |
-|                         | Réunion  Distancier INSEE                  | <2018-02-23 ven.> | M   |
-|                         | Réunion pertinence des soins               | <2018-02-23 ven.> | M   |
-|                         | Passage à git pour extraction des avis HAS | <2018-02-23 ven.> | P   |
-|                         | Travaux sur l'extraction des avis HAS      | <2018-02-23 ven.> | P   |
+| Livrable                | Tâche                                             | Fait le           | Cat |
+|-------------------------+---------------------------------------------------+-------------------+-----|
+|                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
+|                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
+|                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
+|                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
+|                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
+|                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
+|                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
+|-------------------------+---------------------------------------------------+-------------------+-----|
+| Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
+|                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
+|                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
+|                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
+|                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
+|                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
+|                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
+|                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
 
 ** Suite
 
 - Travaux sur le Simplex
 - Continuer extraction HAS
 - Amélioration du guide gitlab pour les utilisateurs DREES
+- Restitution à l'utilisateur final et appel du script .R depuis SAS
+  avec pipe
+- Simplex passage de tcl-tk à Shiny
+- Simplex passage de cartography à leaflet pour la carto
+- Simplex, choix d'une meilleur outil d'optimisation numérique lpSolve
+  => GPLK ou PICOSAT à essayer
+- Revoir la formation en passant moins de temps sur les fonctions de
+  base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
+- Avancer sur App Shiny standard pour toutes les publications DREES
+- Découverte des données hospitalières exhaustives (PMSI)
+- Accès aux "grosses" données (DCIR) via autre chose qu'un portail SAS
 
 * Prédisauvetage
 
