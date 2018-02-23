@@ -7,9 +7,9 @@ un lien est ajouté.
 
 Pour chaque projet, nous proposons ce tableau indicatif :
 
-| Livrable | Tâche | Fait le | Catégorie |
-|----------+-------+---------+-----------|
-|          |       |         |           |
+| Défi | Livrable | Tâche | Fait le | Catégorie |
+|------+----------+-------+---------+-----------|
+|      |          |       |         |           |
 
 =Catégorie= pouvant être :
 
@@ -30,20 +30,20 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable               | Tâche                                     | Fait le           | Cat |
-|------------------------+-------------------------------------------+-------------------+-----|
-| Roadmap                | Élaboration du macro-planning             | <2018-02-15 jeu.> | M   |
-|                        | Préparation du premier sprint             | <2018-02-15 jeu.> | P   |
-|                        | Réflexion sur la com du projet            | <2018-02-15 jeu.> | P   |
-|                        | Réalisation d'un premier logo             | <2018-02-15 jeu.> | P   |
-|                        | Comprendre l'architecture du format PST   | <2018-02-15 jeu.> | D   |
-|                        | Benchmark d'outils de parsing PST         | <2018-02-15 jeu.> | P   |
-|                        | Atelier créativité sur les interfaces     | <2018-02-15 jeu.> | R   |
-|------------------------+-------------------------------------------+-------------------+-----|
-| Bib Java pour lire PST | Conversion d'archive Outlook              | <2018-02-23 ven.> | P   |
-|                        | Script bash avec robocopy                 | <2018-02-23 ven.> | P   |
-| User stories           | Défintion des futurs sprints              | <2018-02-23 ven.> | P   |
-| Accès VM               | Prise en main de la VM fournie par la DSI | <2018-02-23 ven.> | I   |
+| Défi        | Livrable               | Tâche                                     | Fait le           | Cat |
+|-------------+------------------------+-------------------------------------------+-------------------+-----|
+| Archifiltre | Roadmap                | Élaboration du macro-planning             | <2018-02-15 jeu.> | M   |
+| Archifiltre |                        | Préparation du premier sprint             | <2018-02-15 jeu.> | P   |
+| Archifiltre |                        | Réflexion sur la com du projet            | <2018-02-15 jeu.> | P   |
+| Archifiltre |                        | Réalisation d'un premier logo             | <2018-02-15 jeu.> | P   |
+| Archifiltre |                        | Comprendre l'architecture du format PST   | <2018-02-15 jeu.> | D   |
+| Archifiltre |                        | Benchmark d'outils de parsing PST         | <2018-02-15 jeu.> | P   |
+| Archifiltre |                        | Atelier créativité sur les interfaces     | <2018-02-15 jeu.> | R   |
+|-------------+------------------------+-------------------------------------------+-------------------+-----|
+| Archifiltre | Bib Java pour lire PST | Conversion d'archive Outlook              | <2018-02-23 ven.> | P   |
+| Archifiltre |                        | Script bash avec robocopy                 | <2018-02-23 ven.> | P   |
+| Archifiltre | User stories           | Défintion des futurs sprints              | <2018-02-23 ven.> | P   |
+| Archifiltre | Accès VM               | Prise en main de la VM fournie par la DSI | <2018-02-23 ven.> | I   |
 
 ** Suite
 
@@ -59,24 +59,24 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable      | Tâche                                                          | Fait le           | Cat |
-|---------------+----------------------------------------------------------------+-------------------+-----|
-| POC           | Backend du POC                                                 | <2018-02-15 jeu.> | P   |
-| Habiter Brest | Signature du bail                                              | <2018-02-15 jeu.> | I   |
-|               | Suivi d’un cours sur les bases                                 | <2018-02-15 jeu.> | A   |
-|               | Import de données ALADIN                                       | <2018-02-15 jeu.> | P   |
-|               | Travail sur la roadmap                                         | <2018-02-15 jeu.> | M   |
-|               | Carto de l’environnement technique                             | <2018-02-15 jeu.> | P   |
-| Roadmap       | Travail sur un doc de synthèse                                 | <2018-02-15 jeu.> | M   |
-|---------------+----------------------------------------------------------------+-------------------+-----|
-|               | On a la fibre à l’appart!                                      | <2018-02-23 ven.> | I   |
-|               | Document de synthèse du premier sprint                         | <2018-02-23 ven.> | P   |
-|               | Visite de la DAM à Saint-Malo                                  | <2018-02-23 ven.> | M   |
-|               | Récupération d'un échantillon AIS                              | <2018-02-23 ven.> | D   |
-|               | Chargement et exploration de la base de données Aladin         | <2018-02-23 ven.> | D   |
-|               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
-|               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
-|               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
+| Défi      | Livrable      | Tâche                                                          | Fait le           | Cat |
+|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+| b@liseNAV | POC           | Backend du POC                                                 | <2018-02-15 jeu.> | P   |
+| b@liseNAV | Habiter Brest | Signature du bail                                              | <2018-02-15 jeu.> | I   |
+| b@liseNAV |               | Suivi d’un cours sur les bases                                 | <2018-02-15 jeu.> | A   |
+| b@liseNAV |               | Import de données ALADIN                                       | <2018-02-15 jeu.> | P   |
+| b@liseNAV |               | Travail sur la roadmap                                         | <2018-02-15 jeu.> | M   |
+| b@liseNAV |               | Carto de l’environnement technique                             | <2018-02-15 jeu.> | P   |
+| b@liseNAV | Roadmap       | Travail sur un doc de synthèse                                 | <2018-02-15 jeu.> | M   |
+|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+| b@liseNAV |               | On a la fibre à l’appart!                                      | <2018-02-23 ven.> | I   |
+| b@liseNAV |               | Document de synthèse du premier sprint                         | <2018-02-23 ven.> | P   |
+| b@liseNAV |               | Visite de la DAM à Saint-Malo                                  | <2018-02-23 ven.> | M   |
+| b@liseNAV |               | Récupération d'un échantillon AIS                              | <2018-02-23 ven.> | D   |
+| b@liseNAV |               | Chargement et exploration de la base de données Aladin         | <2018-02-23 ven.> | D   |
+| b@liseNAV |               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
+| b@liseNAV |               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
+| b@liseNAV |               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
 
 ** Suite
 
@@ -96,16 +96,17 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                  | Fait le           | Cat |
-|----------+----------------------------------------+-------------------+-----|
-|          | Rencontre détenteurs données           | <2018-02-15 jeu.> | D   |
-|          | Rencontre Pôle Emploi Store            | <2018-02-15 jeu.> | M   |
-|          | Point légal sur propriété des données  | <2018-02-15 jeu.> | D   |
-|----------+----------------------------------------+-------------------+-----|
-|          | https://arachez.shinyapps.io/quickwin/ | <2018-02-23 ven.> | P   |
-|          | Point feuille de route                 | <2018-02-23 ven.> | M   |
-|          | Interview d’une Start-up               | <2018-02-23 ven.> | M   |
-|          | Rencontre DSI                          | <2018-02-23 ven.> | M   |
+| Défi       | Livrable | Tâche                                  | Fait le           | Cat |
+|------------+----------+----------------------------------------+-------------------+-----|
+| CoachÉlève |          | Rencontre détenteurs données           | <2018-02-15 jeu.> | D   |
+| CoachÉlève |          | Rencontre Pôle Emploi Store            | <2018-02-15 jeu.> | M   |
+| CoachÉlève |          | Point légal sur propriété des données  | <2018-02-15 jeu.> | D   |
+|------------+----------+----------------------------------------+-------------------+-----|
+| CoachÉlève |          | https://arachez.shinyapps.io/quickwin/ | <2018-02-23 ven.> | P   |
+| CoachÉlève |          | Point feuille de route                 | <2018-02-23 ven.> | M   |
+| CoachÉlève |          | Interview d’une Start-up               | <2018-02-23 ven.> | M   |
+| CoachÉlève |          | Rencontre DSI                          | <2018-02-23 ven.> | M   |
+| CoachÉlève |          |                                        |                   |     |
 
 ** Suite
 
@@ -119,20 +120,20 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                                                                    | Fait le           | Cat |
-|----------+--------------------------------------------------------------------------+-------------------+-----|
-|          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
-|          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | R   |
-|          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
-|          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
-|          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | R   |
-|          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
-|----------+--------------------------------------------------------------------------+-------------------+-----|
-|          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
-|          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
-|          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
-|          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
-|          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
+| Défi    | Livrable | Tâche                                                                    | Fait le           | Cat |
+|---------+----------+--------------------------------------------------------------------------+-------------------+-----|
+| DataESR |          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
+| DataESR |          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | R   |
+| DataESR |          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
+| DataESR |          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
+| DataESR |          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | R   |
+| DataESR |          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
+|---------+----------+--------------------------------------------------------------------------+-------------------+-----|
+| DataESR |          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
+| DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
+| DataESR |          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
+| DataESR |          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
+| DataESR |          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
 
 ** Suite
 
@@ -160,16 +161,16 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable               | Tâche                               | Fait le           | Cat |
-|------------------------+-------------------------------------+-------------------+-----|
-| Maintenance des outils | Installation IRC                    | <2018-02-13 mar.> | P   |
-| blog-eig2              | Créer un blog                       | <2018-02-14 mer.> | P   |
-|------------------------+-------------------------------------+-------------------+-----|
-|                        | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
-|                        | Participation session mentors       | <2018-02-23 ven.> | M   |
-| eig-link               | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
-|                        | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
-|                        | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
+| Défi     | Livrable               | Tâche                               | Fait le           | Cat |
+|----------+------------------------+-------------------------------------+-------------------+-----|
+| EIG Link | Maintenance des outils | Installation IRC                    | <2018-02-13 mar.> | P   |
+| EIG Link | blog-eig2              | Créer un blog                       | <2018-02-14 mer.> | P   |
+|----------+------------------------+-------------------------------------+-------------------+-----|
+| EIG Link |                        | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
+| EIG Link |                        | Participation session mentors       | <2018-02-23 ven.> | M   |
+| EIG Link | eig-link               | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
+| EIG Link |                        | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
+| EIG Link |                        | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
 
 ** Suite
 
@@ -183,20 +184,20 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                                         | Fait le           | Cat |
-|----------+---------------------------------------------------------------+-------------------+-----|
-|          | installation matériel                                         | <2018-02-15 jeu.> | I   |
-|          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
-|          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | R   |
-|          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
-| Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
-|----------+---------------------------------------------------------------+-------------------+-----|
-|          | Lecture des analyses déjà réalisées par le MN                 | <2018-02-23 ven.> | AI  |
-|          | Découverte de nouvelles sources de données                    | <2018-02-23 ven.> | D   |
-|          | Récolte des vidéos, textes existants                          | <2018-02-23 ven.> | C   |
-|          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
-|          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
-|          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
+| Défi     | Livrable | Tâche                                                         | Fait le           | Cat |
+|----------+----------+---------------------------------------------------------------+-------------------+-----|
+| Gobelins |          | installation matériel                                         | <2018-02-15 jeu.> | I   |
+| Gobelins |          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
+| Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | R   |
+| Gobelins |          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
+| Gobelins | Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
+|----------+----------+---------------------------------------------------------------+-------------------+-----|
+| Gobelins |          | Lecture des analyses déjà réalisées par le MN                 | <2018-02-23 ven.> | AI  |
+| Gobelins |          | Découverte de nouvelles sources de données                    | <2018-02-23 ven.> | D   |
+| Gobelins |          | Récolte des vidéos, textes existants                          | <2018-02-23 ven.> | C   |
+| Gobelins |          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
+| Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
+| Gobelins |          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
 
 ** Suite
 
@@ -217,28 +218,28 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable          | Tâche                                                       | Fait le           | Cat |
-|-------------------+-------------------------------------------------------------+-------------------+-----|
-|                   | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
-|                   | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
-|                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
-|                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
-|                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
-|                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | R   |
-|                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
-|                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
-|                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
-|                   | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
-|-------------------+-------------------------------------------------------------+-------------------+-----|
-|                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
-| Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
-| 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
-|                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | R   |
-|                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
-|                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
-|                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
-|                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
-|                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
+| Défi    | Livrable          | Tâche                                                       | Fait le           | Cat |
+|---------+-------------------+-------------------------------------------------------------+-------------------+-----|
+| Hopkins |                   | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
+| Hopkins |                   | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
+| Hopkins |                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
+| Hopkins |                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
+| Hopkins |                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
+| Hopkins |                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | R   |
+| Hopkins |                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
+| Hopkins |                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
+| Hopkins |                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
+| Hopkins |                   | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
+|---------+-------------------+-------------------------------------------------------------+-------------------+-----|
+| Hopkins |                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
+| Hopkins | Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
+| Hopkins | 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
+| Hopkins |                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | R   |
+| Hopkins |                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
+| Hopkins |                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
+| Hopkins |                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
+| Hopkins |                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
+| Hopkins |                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
 
 ** Suite
 
@@ -264,24 +265,24 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable                | Tâche                                             | Fait le           | Cat |
-|-------------------------+---------------------------------------------------+-------------------+-----|
-|                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
-|                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
-|                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
-|                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
-|                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
-|                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
-|                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
-|-------------------------+---------------------------------------------------+-------------------+-----|
-| Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
-|                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
-|                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
-|                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
-|                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
-|                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
-|                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
-|                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
+| Défi      | Livrable                | Tâche                                             | Fait le           | Cat |
+|-----------+-------------------------+---------------------------------------------------+-------------------+-----|
+| Lab Santé |                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
+| Lab Santé |                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
+| Lab Santé |                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
+| Lab Santé |                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
+| Lab Santé |                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
+| Lab Santé |                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
+| Lab Santé |                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
+|-----------+-------------------------+---------------------------------------------------+-------------------+-----|
+| Lab Santé | Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
+| Lab Santé |                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
+| Lab Santé |                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
+| Lab Santé |                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
+| Lab Santé |                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
+| Lab Santé |                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
+| Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
+| Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
 
 ** Suite
 
@@ -308,18 +309,18 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                                              | Fait le           | Cat |
-|----------+--------------------------------------------------------------------+-------------------+-----|
-| Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
-|          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
-|          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
-|----------+--------------------------------------------------------------------+-------------------+-----|
-|          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
-|          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
-|          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
-|          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
-|          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
-|          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
+| Défi           | Livrable | Tâche                                                              | Fait le           | Cat |
+|----------------+----------+--------------------------------------------------------------------+-------------------+-----|
+| Prédisauvetage | Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
+| Prédisauvetage |          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
+| Prédisauvetage |          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
+|----------------+----------+--------------------------------------------------------------------+-------------------+-----|
+| Prédisauvetage |          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
+| Prédisauvetage |          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
+| Prédisauvetage |          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
+| Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
+| Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
+| Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
 
 ** Suite
 
@@ -341,25 +342,25 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                           | Fait le           | Cat |
-|----------+-------------------------------------------------+-------------------+-----|
-|          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
-|          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
-|          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
-|          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | R   |
-|          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
-|          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
-|          | Exploration de données                          | <2018-02-15 jeu.> | D   |
-|----------+-------------------------------------------------+-------------------+-----|
-|          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
-|          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
-|          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
-|          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
-|          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
-|          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
-|          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
-|          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
-|          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
+| Défi         | Livrable | Tâche                                           | Fait le           | Cat |
+|--------------+----------+-------------------------------------------------+-------------------+-----|
+| Prévisecours |          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
+| Prévisecours |          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
+| Prévisecours |          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
+| Prévisecours |          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | R   |
+| Prévisecours |          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
+| Prévisecours |          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
+| Prévisecours |          | Exploration de données                          | <2018-02-15 jeu.> | D   |
+|--------------+----------+-------------------------------------------------+-------------------+-----|
+| Prévisecours |          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
+| Prévisecours |          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
+| Prévisecours |          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
+| Prévisecours |          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
+| Prévisecours |          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
+| Prévisecours |          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
+| Prévisecours |          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
+| Prévisecours |          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
+| Prévisecours |          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
 
 ** Suite
 
@@ -375,20 +376,20 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable          | Tâche                                  | Fait le           | Cat |
-|-------------------+----------------------------------------+-------------------+-----|
-|                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
-|                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
-|                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
-|-------------------+----------------------------------------+-------------------+-----|
-|                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
-|                   | Installation du container              | <2018-02-23 ven.> | I   |
-|                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
-|                   | Première prédiction                    | <2018-02-23 ven.> | P   |
-|                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
-|                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
-| Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
-|                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
+| Défi            | Livrable          | Tâche                                  | Fait le           | Cat |
+|-----------------+-------------------+----------------------------------------+-------------------+-----|
+| Signaux Faibles |                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
+| Signaux Faibles |                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
+| Signaux Faibles |                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
+|-----------------+-------------------+----------------------------------------+-------------------+-----|
+| Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
+| Signaux Faibles |                   | Installation du container              | <2018-02-23 ven.> | I   |
+| Signaux Faibles |                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
+| Signaux Faibles |                   | Première prédiction                    | <2018-02-23 ven.> | P   |
+| Signaux Faibles |                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
+| Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
+| Signaux Faibles | Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
+| Signaux Faibles |                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
 
 ** Suite
 
@@ -419,22 +420,22 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                                      | Fait le           | Cat |
-|----------+------------------------------------------------------------+-------------------+-----|
-|          | entretiens parties prenantes                               | <2018-02-15 jeu.> | R   |
-|          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
-|          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
-| Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
-|----------+------------------------------------------------------------+-------------------+-----|
-|          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
-|          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
-|          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | R   |
-|          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
-|          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
-|          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
-|          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
-|          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
-|          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
+| Défi          | Livrable | Tâche                                                      | Fait le           | Cat |
+|---------------+----------+------------------------------------------------------------+-------------------+-----|
+| SocialConnect |          | entretiens parties prenantes                               | <2018-02-15 jeu.> | R   |
+| SocialConnect |          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
+| SocialConnect |          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
+| SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
+|---------------+----------+------------------------------------------------------------+-------------------+-----|
+| SocialConnect |          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
+| SocialConnect |          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
+| SocialConnect |          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | R   |
+| SocialConnect |          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
+| SocialConnect |          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
+| SocialConnect |          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
+| SocialConnect |          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
+| SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
+| SocialConnect |          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
 
 ** Suite
 
@@ -445,13 +446,16 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 - Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
 - 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
 
-
 * Applications/bibliothèques intégrées à l’écosystème open source
 
+| Défi    | Appli / bibli                  |
+|---------+--------------------------------|
 | Hopkins | https://pypi.org/project/mkinx |
 
 * Tickets ouverts sur des projets open source
 
+| Défi            | Ticket ouvert                                  |
+|-----------------+------------------------------------------------|
 | Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355 |
 
 * Détail des catégories
