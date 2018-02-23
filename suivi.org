@@ -452,11 +452,12 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 |---------+--------------------------------|
 | Hopkins | https://pypi.org/project/mkinx |
 
-* Tickets ouverts sur des projets open source
+* Tickets/PR ouverts sur des projets open source
 
-| Défi            | Ticket ouvert                                  |
-|-----------------+------------------------------------------------|
-| Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355 |
+| Défi            | Ticket ouvert                                      |
+|-----------------+----------------------------------------------------|
+| Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355     |
+| Prévisecours    | https://github.com/anthill/open-moulinette/pull/61 |
 
 * Détail des catégories
 
