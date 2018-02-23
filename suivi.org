@@ -85,19 +85,23 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                                 | Fait le           | Cat |
-|----------+---------------------------------------+-------------------+-----|
-|          | Rencontre détenteurs données          | <2018-02-15 jeu.> | D   |
-|          | Rencontre Pôle Emploi Store           | <2018-02-15 jeu.> | M   |
-|          | Point légal sur propriété des données | <2018-02-15 jeu.> | D   |
+| Livrable | Tâche                                  | Fait le           | Cat |
+|----------+----------------------------------------+-------------------+-----|
+|          | Rencontre détenteurs données           | <2018-02-15 jeu.> | D   |
+|          | Rencontre Pôle Emploi Store            | <2018-02-15 jeu.> | M   |
+|          | Point légal sur propriété des données  | <2018-02-15 jeu.> | D   |
+|----------+----------------------------------------+-------------------+-----|
+|          | https://arachez.shinyapps.io/quickwin/ | <2018-02-23 ven.> | P   |
+|          | Point feuille de route                 | <2018-02-23 ven.> | M   |
+|          | Interview d’une Start-up               | <2018-02-23 ven.> | M   |
+|          | Rencontre DSI                          | <2018-02-23 ven.> | M   |
 
 ** Suite
 
-- Cadrage de projet
-
-- Processus de cartographie des données au sein du ministère
-
-- Repérage contacts opérationnels
+- Terminer la feuille de route
+- Cadrage de la mission avec mentor
+- Rencontres acteurs EdTech
+- Passage de Bastien à l’Éduc Nat
 
 * DataESR
 
