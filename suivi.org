@@ -30,21 +30,28 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 ** Dépôt
 ** Journal
 
-| Livrable | Tâche                                   | Fait le           | Cat |
-|----------+-----------------------------------------+-------------------+-----|
-| Roadmap  | Élaboration du macro-planning           | <2018-02-15 jeu.> | M   |
-|          | Préparation du premier sprint           | <2018-02-15 jeu.> | P   |
-|          | Réflexion sur la com du projet          | <2018-02-15 jeu.> | P   |
-|          | Réalisation d'un premier logo           | <2018-02-15 jeu.> | P   |
-|          | Comprendre l'architecture du format PST | <2018-02-15 jeu.> | D   |
-|          | Benchmark d'outils de parsing PST       | <2018-02-15 jeu.> | P   |
-|          | Atelier créativité sur les interfaces   | <2018-02-15 jeu.> | R   |
+| Livrable               | Tâche                                     | Fait le           | Cat |
+|------------------------+-------------------------------------------+-------------------+-----|
+| Roadmap                | Élaboration du macro-planning             | <2018-02-15 jeu.> | M   |
+|                        | Préparation du premier sprint             | <2018-02-15 jeu.> | P   |
+|                        | Réflexion sur la com du projet            | <2018-02-15 jeu.> | P   |
+|                        | Réalisation d'un premier logo             | <2018-02-15 jeu.> | P   |
+|                        | Comprendre l'architecture du format PST   | <2018-02-15 jeu.> | D   |
+|                        | Benchmark d'outils de parsing PST         | <2018-02-15 jeu.> | P   |
+|                        | Atelier créativité sur les interfaces     | <2018-02-15 jeu.> | R   |
+|------------------------+-------------------------------------------+-------------------+-----|
+| Bib Java pour lire PST | Conversion d'archive Outlook              | <2018-02-23 ven.> | P   |
+|                        | Script bash avec robocopy                 | <2018-02-23 ven.> | P   |
+| User stories           | Défintion des futurs sprints              | <2018-02-23 ven.> | P   |
+| Accès VM               | Prise en main de la VM fournie par la DSI | <2018-02-23 ven.> | I   |
 
 ** Suite
 
-- Sprint : parsing de fichiers PST
-
-- Réception de nos accès VM et de nos machines de dev du ministère.
+- Sprint n°1B : visualiser une arborescence Windows efficacement dans
+  l'optique d'y faire du tri archivistique
+- Point de fin de sprint n°1
+- Avancer sur le site de présentation d'ArchiFiltre
+- Avancer sur la définition des user stories
 
 * b@liseNAV
 
