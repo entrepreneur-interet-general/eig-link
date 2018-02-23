@@ -211,6 +211,8 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 |                   | Rencontre avec Fabien de matchID                         | <2018-02-23 ven.> | A   |
 | Dataset labellisé | Exploration des données COSI                             | <2018-02-23 ven.> | DP  |
 | 1er matching      | Test de matchID sur un dataset réduit                    | <2018-02-23 ven.> | P   |
+|                   | Tour de l'étage des enquêteurs                           | <2018-02-23 ven.> | R   |
+|                   | Installation du kanboard                                 | <2018-02-23 ven.> | I   |
 
 ** Suite
 
@@ -224,6 +226,8 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
   gros dataset (Installation)
 - Mesurer la performance qualitative d'un matching existant
   précédemment.
+- Faire tourner l'algo de matching d'un ancien stagiaire. Le porter
+  éventuellement sur Spark pour améliorer les perfs.
 
 * Lab Santé
 
