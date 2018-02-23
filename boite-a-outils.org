@@ -94,8 +94,12 @@
 
 - https://asciinema.org
 
-* Outils pour de la revue de code
+* Déploiement rapide d’applications
 
+- https://cloudron.io
+- https://bitnami.com
+
+* Outils pour de la revue de code
 * Au quotidien
 
 - http://www.hackertyper.com
