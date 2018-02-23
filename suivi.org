@@ -245,6 +245,7 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 - http://previsecours.fr
 - https://github.com/previsecours
+- https://github.com/entrepreneur-interet-general/open-moulinette
 
 ** Journal
 
