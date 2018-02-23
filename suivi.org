@@ -448,10 +448,14 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 * Applications/bibliothèques intégrées à l’écosystème open source
 
+| Défi    | Appli / bibli                  |
+|---------+--------------------------------|
 | Hopkins | https://pypi.org/project/mkinx |
 
 * Tickets ouverts sur des projets open source
 
+| Défi            | Ticket ouvert                                  |
+|-----------------+------------------------------------------------|
 | Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355 |
 
 * Détail des catégories
