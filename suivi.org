@@ -190,6 +190,9 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 * Hopkins
 
 ** Dépôt
+
+- https://github.com/entrepreneur-interet-general/mkinx
+
 ** Journal
 
 | Livrable          | Tâche                                                    | Fait le           | Cat |
