@@ -389,20 +389,25 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Livrable | Tâche                           | Fait le           | Cat |
-|----------+---------------------------------+-------------------+-----|
-|          | entretiens parties prenantes    | <2018-02-15 jeu.> | R   |
-|          | atelier nomenclature            | <2018-02-15 jeu.> | D   |
-|          | préparer atelier communication  | <2018-02-15 jeu.> | P   |
-| Roadmap  | Rétroplanning jusqu'au 09 avril | <2018-02-15 jeu.> | M   |
+| Livrable | Tâche                                                      | Fait le           | Cat |
+|----------+------------------------------------------------------------+-------------------+-----|
+|          | entretiens parties prenantes                               | <2018-02-15 jeu.> | R   |
+|          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
+|          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
+| Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
+|----------+------------------------------------------------------------+-------------------+-----|
+|          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
+|          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
+|          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | R   |
+|          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
+|          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
+|          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
 
 ** Suite
 
-- Mettre les mains dans le code du POC
-- Préciser encore l'archi minimale de la plateforme
-- mettre en place et tester en local quelques points d'API
-- Avoir un Wifi normal
-- Debriefer les entretiens et en sortir les grands enseignements
+- Illustrations pour nos supports de com'
+- Mock-up des écrans principaux
+- Avancer sur la landing page
 
 * Détail des catégories
 
