@@ -20,7 +20,8 @@
 | 31 mai     | EIG seuls     |                   |                                                   |
 | 14 juin    | EIG + mentors |                   |                                                   |
 | 21 juin    | EIG seuls     |                   |                                                   |
-| 6 juillet  | EIG + mentors | Mi parcours       | Etablir un bilan et ajuster la feuille de route   |                               | 30 août    | EIG seuls     |                   |                                                   |
+| 6 juillet  | EIG + mentors | Mi parcours       | Etablir un bilan et ajuster la feuille de route   |
+| 30 août    | EIG seuls     |                   |                                                   |
 | 13 sept    | EIG + mentors |                   |                                                   |
 | 27 sept    | EIG seuls     |                   |                                                   |
 | 11 oct     | EIG + mentors |                   |                                                   |
