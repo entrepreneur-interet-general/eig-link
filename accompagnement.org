@@ -18,9 +18,9 @@
 | *8 mars*     | *EIG seuls*     | *Marylène*         | *Feuille de route* | *Vérifier que chaque défi est clair sur sa roadmap* |
 | 22 mars    | EIG + mentors | Quentin | Utilisateurs/Com | Concevoir un produit avec ses utilisateurs        |
 | 5 avril    | EIG seuls     |         | Data             |                                                   |
-| 12 avril   | EIG + mentors | Quentin | Pérennisation    |                                                   |
-| 3 mai      | EIG seuls     |         | Barcamp EIG²     |                                                   |
-| 17 mai     | EIG + mentors |         | DSI              | Anticiper l'industrialisation des défis           |
+| 11 avril   | EIG + mentors | Quentin | Pérennisation    |                                                   |
+| 2 mai      | EIG seuls     |         | Barcamp EIG²     |                                                   |
+| 16 mai     | EIG + mentors |         | DSI              | Anticiper l'industrialisation des défis           |
 | 31 mai     | EIG seuls     | Quentin |                  |                                                   |
 | 14 juin    | EIG + mentors | Quentin |                  |                                                   |
 | 21 juin    | EIG seuls     |         | Démos / Pitchs   |                                                   |
