@@ -45,6 +45,7 @@
 - [[https://www.sketchapp.com/][Sketch]]
 - [[https://docs.seleniumhq.org/][Selenium]]
 - https://framework7.io
+- https://github.com/stevenvachon/broken-link-checker
 
 * Outils de gestion de projets
 
@@ -76,6 +77,10 @@
 * Exploration (REPL) de langages de programmation
 
 - https://repl.it
+- https://www.pythonanywhere.com
+- http://interactivepython.org/runestone/static/thinkcspy/index.html
+- https://mybinder.org : Turn a GitHub repo into a collection of interactive notebooks
+- https://books.trinket.io/thinkjava/
 
 * Monitoring
 
