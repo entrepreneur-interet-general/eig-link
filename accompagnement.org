@@ -18,7 +18,7 @@
 | *8 mars*     | *EIG seuls*     |         | *Feuille de route* | *Vérifier que chaque défi est clair sur sa roadmap* |
 | 22 mars    | EIG + mentors | Quentin | Utilisateurs/Com | Concevoir un produit avec ses utilisateurs        |
 | 5 avril    | EIG seuls     |         | Data             |                                                   |
-| 12 avril   | EIG + mentors |         | Pérenisation     |                                                   |
+| 12 avril   | EIG + mentors |         | Pérennisation    |                                                   |
 | 3 mai      | EIG seuls     |         |                  |                                                   |
 | 17 mai     | EIG + mentors |         | DSI              | Anticiper l'industrialisation des défis           |
 | 31 mai     | EIG seuls     |         |                  |                                                   |
