@@ -40,6 +40,10 @@
 - http://prose.io pour éditer des dépôts Github facilement
 - https://stackedit.io pour éditer du markdown en WYSIWYG
 
+* Machine learning
+
+- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
+
 * Éco-conception web
 
 - http://www.ecoindex.fr
