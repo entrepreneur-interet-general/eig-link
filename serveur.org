@@ -1,0 +1,106 @@
+#+title: Serveur EIG
+
+* Usage du serveur
+
+Le serveur EIG a été installé par Étalab.
+
+C’est un serveur de 32GO de RAM acheté auprès d’OVH avec Proxmox VE.
+
+Il sert à :
+
+- héberger des prototypes d’application
+- avoir un peu de puissance de calcul à sa disposition
+
+Il n’a *pas* vocation à :
+
+- héberger des applications des défis sur le long terme
+- faire d’énorme calculs (nous n’avons que 32GO à partager).
+
+Un deuxième serveur du même calibre est en cours d’achat pour EIG.
+
+* Systèmes d’exploitation disponibles
+
+Pour les containers :
+
+- debian-9.0-standard_9.3.1_amd64.tar.gz
+- ubuntu-16.04-standard_16.04-1_amd64.tar.gz
+
+Pour les VM :
+
+- debian-9.3.0-amd64-netinst.iso
+- ubuntu-16.04.3-server-amd64.iso
+
+* Créer un container (CT)
+
+Voir [[https://vimeo.com/256433385][cette vidéo]].
+
+Les étapes à ne pas manquer sont :
+
+- la configuration de l’adresse IP: 192.168.0.XXX/24 avec XXX qui est
+  l’identifiant du container donné par Proxmox
+
+- la configuration de la passerelle: 192.168.0.254
+
+- l’utilisation du bridge =vmbr1=
+
+* Créer une machine virtuelle (VM)
+
+Laissez-vous guider par Proxmox.
+
+Les étapes à ne pas manquer sont :
+
+- l’utilisation du bridge =vmbr1= dans la configuration de la VM dans
+  Proxmox
+
+- la configuration de l’adresse IP: 192.168.0.XXX/24 au moment de la
+  configuration de votre système
+
+- l’utilisation de 9.9.9.9 comme serveur de nom DNS
+
+* Associer un sous-domaine de eig-forever.org à un CT/VM 
+
+Demander à Bastien en indiquant :
+
+- le sous-domaine que vous voulez utiliser
+- l’adresse IP du CT ou de la VM que vous voulez utiliser
+- le port de ce CT ou de cette VM que vous voulez atteindre
+
+Par exemple :
+
+: Hello Bastien,
+: 
+: je voudrais que le sous-domaine blabla[.eig-forever.org] renvoie
+: vers le port 8080 de ma VM 192.168.0.107.
+
+* Vous connecter à votre CT/VM
+
+1. Demandez à Bastien de vous créer un utilisateur sur la machine
+   =eig.etalab.gouv.fr= et dans l’interface de Proxmox (ex: "robert")
+
+2. Créez votre container ou votre VM (ex: CT identifié par "101")
+
+3. Sur votre machine locale, éditez le fichier ~/.ssh/config :
+
+   : Host eig101
+   :    user root
+   :    ProxyCommand ssh robert@eig.etalab.gouv.fr nc -w 1 192.168.0.101 22
+   
+   Cette configuration vous permettra de taper =~$ ssh eig101= dans un
+   Terminal et d’être connecté en tant que =root= à votre container,
+   depuis votre connexion sur la machine =eig.etalab.gouv.fr= sous
+   l’identifiant =robert=.
+
+4. Vous pouvez aussi ajouter une clef publique de votre machine locale
+   à l’utilisateur =root= du container et à l’utilisateur =robert= de la
+   machine =eig.etalab.gouv.fr= pour ne pas avoir à taper deux mots de
+   passe à chaque fois.
+
+* Utiliser =sshfs= pour monter un répertoire distant
+
+Créer un dossier sur sa machine :
+
+: ~$ mkdir serveur_eig101
+
+Monter le répertoire distant :
+
+: ~$ sshfs eig101:/home/ serveur_eig101/
