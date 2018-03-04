@@ -9,12 +9,12 @@
 
 * Ressources
 
-- Serveur de 32 GO (Proxmox VE)
+- [[file:serveur.org][Serveur]] de 32 GO (Proxmox VE)
 - https://cloud.eig-forever.org (Nextcloud)
 - https://code.eig-forever.org (Gogs)
 - https://board.eig-forever.org (Kanboard)
 - https://irc.eig-forever.org (Kiwiirc)
-- Instance Matomo (ex-Piwik) pour des statistiques
+- Instance [[https://stats.eig-forever.org][Matomo]] (ex-Piwik) pour des statistiques
 
 * Autre
 
