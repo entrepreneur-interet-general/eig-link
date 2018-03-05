@@ -117,24 +117,30 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Défi       | Livrable | Tâche                                  | Fait le           | Cat |
-|------------+----------+----------------------------------------+-------------------+-----|
-| CoachÉlève |          | Rencontre détenteurs données           | <2018-02-16 ven.> | D   |
-| CoachÉlève |          | Rencontre Pôle Emploi Store            | <2018-02-16 ven.> | M   |
-| CoachÉlève |          | Point légal sur propriété des données  | <2018-02-16 ven.> | D   |
-|------------+----------+----------------------------------------+-------------------+-----|
-| CoachÉlève |          | https://arachez.shinyapps.io/quickwin/ | <2018-02-23 ven.> | P   |
-| CoachÉlève |          | Point feuille de route                 | <2018-02-23 ven.> | M   |
-| CoachÉlève |          | Interview d’une Start-up               | <2018-02-23 ven.> | M   |
-| CoachÉlève |          | Rencontre DSI                          | <2018-02-23 ven.> | M   |
-| CoachÉlève |          |                                        |                   |     |
+| Défi       | Livrable | Tâche                                                        | Fait le           | Cat |
+|------------+----------+--------------------------------------------------------------+-------------------+-----|
+| CoachÉlève |          | Rencontre détenteurs données                                 | <2018-02-16 ven.> | D   |
+| CoachÉlève |          | Rencontre Pôle Emploi Store                                  | <2018-02-16 ven.> | M   |
+| CoachÉlève |          | Point légal sur propriété des données                        | <2018-02-16 ven.> | D   |
+|------------+----------+--------------------------------------------------------------+-------------------+-----|
+| CoachÉlève |          | https://arachez.shinyapps.io/quickwin/                       | <2018-02-23 ven.> | P   |
+| CoachÉlève |          | Point feuille de route                                       | <2018-02-23 ven.> | M   |
+| CoachÉlève |          | Interview d’une Start-up                                     | <2018-02-23 ven.> | M   |
+| CoachÉlève |          | Rencontre DSI                                                | <2018-02-23 ven.> | M   |
+|------------+----------+--------------------------------------------------------------+-------------------+-----|
+| CoachÉlève |          | Construction d'un document décrivant plusieur scénarios      | <2018-03-02 ven.> | PM  |
+| CoachÉlève |          | Discussion des scénarios mentor et Bastien                   | <2018-03-02 ven.> | M   |
+| CoachÉlève |          | Discussion du projet d'occupation des sols                   | <2018-03-02 ven.> | M   |
+| CoachÉlève |          | Rencontre pour discuter des données de la DNE                | <2018-03-02 ven.> | M   |
 
 ** Suite
 
-- Terminer la feuille de route
-- Cadrage de la mission avec mentor
-- Rencontres acteurs EdTech
-- Passage de Bastien à l’Éduc Nat
+- Travailler sur le quickwin de demande CNIL des établissments
+- Rapport d'étonement aux mentors
+- Discussion des scénarios et construction d'une feuille de route avec
+  les mentors
+- Préparation d'une présentation sur le machine learning pour le
+  numérilab
 
 * DataESR
 
