@@ -496,41 +496,38 @@ un lien est ajouté.
 ** Dépôt
 ** Journal
 
-   | Défi            | Livrable          | Tâche                                  | Fait le           | Cat |
-   |-----------------+-------------------+----------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
-   | Signaux Faibles |                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
-   | Signaux Faibles |                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
-   |-----------------+-------------------+----------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Installation du container              | <2018-02-23 ven.> | I   |
-   | Signaux Faibles |                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
-   | Signaux Faibles |                   | Première prédiction                    | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
-   | Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
-   | Signaux Faibles | Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
+   | Défi            | Livrable          | Tâche                                                                    | Fait le           | Cat |
+   |-----------------+-------------------+--------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Immersion dans le code                                                   | <2018-02-15 jeu.> | A   |
+   | Signaux Faibles |                   | Correction d’un bug                                                      | <2018-02-15 jeu.> | P   |
+   | Signaux Faibles |                   | Connaissance avec les données                                            | <2018-02-15 jeu.> | D   |
+   |-----------------+-------------------+--------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire                                   | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Installation du container                                                | <2018-02-23 ven.> | I   |
+   | Signaux Faibles |                   | Inventaire des données                                                   | <2018-02-23 ven.> | D   |
+   | Signaux Faibles |                   | Première prédiction                                                      | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Rencontre statisticienne DIRECCTE                                        | <2018-02-23 ven.> | M   |
+   | Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté                                     | <2018-02-23 ven.> | M   |
+   | Signaux Faibles | Modèle de données | Conception achevée                                                       | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Présentation ppt sur le projet                                           | <2018-02-23 ven.> | C   |
+   |-----------------+-------------------+--------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Prospection fichiers Banque de France et base Sirene                     | <2018-03-02 ven.> | D   |
+   | Signaux Faibles |                   | Upload dataset réutilisant base SIREN pour extraire changements de SIRET | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Début de codage du nouveau modèle de données orienté document            | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Vérif. avec utilisateurs données produites par 1ère prédiction           | <2018-03-02 ven.> | U   |
+   | Signaux Faibles |                   | Croisement SIRENE/DARES pour remplacer un algo humain de data quality    | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Installation/config post de travail + outils                             | <2018-03-02 ven.> | I   |
+
 
 ** Suite
 
-   - Plus de prospection dans les sources de données non encore
-     exploitées.
+- Plus de prospection dans les sources de données (DARES + fichiers déjà disponibles et non utilisés)
+- Modèle de données/Framework
+- Suite de la vérification/recette des prédictions avec d'autres utilisateurs (urssaf)
+- Tentative de conversion SAS -> monde libre.
+- Rentrer dans le code
+- Quick & dirty algo logistique et SVM
 
-   - Début de codage du nouveau modèle de données orienté document et
-     suivi de modification.
-
-   - Réflexion sur un framework permettant de faciliter l'insertion et
-     l'exploitation de nouvelles données dans le modèle (il existe déjà
-     sans doute des choses).
-
-   - Vérification avec les utilisateurs (accompagnement inclu) des
-     données produites par la première prédiction.
-
-   - Échanges avec DIRECCTE pour mettre en place des scripts d'extraction
-     des données.
-
-   - Tentative de croisement SIRENE/DARES pour remplacer un algorithme
-     humain de data quality.
 
 * SocialConnect
 
@@ -572,6 +569,12 @@ un lien est ajouté.
 - CODIR + COPIL du projet Carrefour des innovations sociales / SocialConnect
 - Itération sur le kit de comm avec les partenaires du projet
 - Macrozoning des écrans principaux
+
+* Nouveau jeux de données publiés
+
+  | Défi           | Appli / bibli                                                                   |
+  |----------------+---------------------------------------------------------------------------------|
+  | SignauxFaibles | https://www.data.gouv.fr/fr/datasets/historique-des-changements-de-codes-siret/ |
 
 * Applications/bibliothèques intégrées à l’écosystème open source
 
