@@ -15,7 +15,7 @@ un lien est ajouté.
 
   - [A]pprentissage
   - [C]ommunication (interne et externe)
-  - [D]onnées (accès)
+  - [D]onnées (recherche, accès, compréhension)
   - [I]nstallation (physique et informatique)
   - [M]anagement (réunions, gestion de projet)
   - [P]roduction (code, données, doc, etc.)
@@ -376,6 +376,7 @@ un lien est ajouté.
 ** Dépôt
 
    - https://github.com/entrepreneur-interet-general/predisauvetage
+   - https://github.com/AntoineAugusti/avurnav-api ([[https://antoineaugusti.github.io/avurnav-api/][démo]])
 
 ** Journal
 
@@ -391,16 +392,22 @@ un lien est ajouté.
    | Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
    | Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
    | Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
+   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Nettoyage des bases de données SNSM                                | <2018-03-02 ven.> | PD  |
+   | Prédisauvetage |          | Croisement des bases citées précédemment                           | <2018-03-02 ven.> | PD  |
+   | Prédisauvetage |          | Tour d'horizon applis de plaisance                                 | <2018-03-02 ven.> | P   |
+   | Prédisauvetage |          | Réalisation d'un PoC d'API pour diffusion des AVURNAV              | <2018-03-02 ven.> | P   |
+   | Prédisauvetage |          | Deuxième RDV avec acteur privé pour récupérer ses données          | <2018-03-02 ven.> | DM  |
+   | Prédisauvetage |          | Questions à l'observatoire de l'accidentologie en montagne         | <2018-03-02 ven.> | AM  |
+   | Prédisauvetage |          | Relance mise à disposition serveur + accès direct aux bases DAM    | <2018-03-02 ven.> | D   |
 
 ** Suite
 
-   - Fusion des différentes bases d'intervention et premières analyses.
+- Nettoyage / croisement des bases
 
-   - Nouveau rendez-vous avec Navily.
+- Contact des Préfets Maritimes au sujet du scraping des données /
+  quelle suite pour l'API des AVURNAV
 
-   - Rendez-vous avec [[http://www.safetrxapp.com][Safetrx]]
-
-   - Cadrage du projet et des objectifs.
 
 * Prévisecours
 
