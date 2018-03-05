@@ -157,36 +157,40 @@ un lien est ajouté.
 ** Dépôt
 ** Journal
 
-   | Défi    | Livrable | Tâche                                                                    | Fait le           | Cat |
-   |---------+----------+--------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
-   | DataESR |          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | U |
-   | DataESR |          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
-   | DataESR |          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
-   | DataESR |          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | U |
-   | DataESR |          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
-   |---------+----------+--------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
-   | DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
-   | DataESR |          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
-   | DataESR |          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
-   | DataESR |          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
+   | Défi    | Livrable | Tâche                                                                       | Fait le           | Cat |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Debrief semaine d'intégration                                               | <2018-02-15 jeu.> | I   |
+   | DataESR |          | Interviews membres de l'équipe                                              | <2018-02-15 jeu.> | U   |
+   | DataESR |          | Exploration de jeux de données                                              | <2018-02-15 jeu.> | D   |
+   | DataESR |          | Installation environnement de travail                                       | <2018-02-15 jeu.> | I   |
+   | DataESR |          | Interview personne en charge de scanr.fr                                    | <2018-02-15 jeu.> | U   |
+   | DataESR |          | Contact avec istex.fr                                                       | <2018-02-15 jeu.> | D   |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Réunion de cadrage du projet                                                | <2018-02-23 ven.> | M   |
+   | DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise    | <2018-02-23 ven.> | D   |
+   | DataESR |          | Installation et prise en mains des outils techniques                        | <2018-02-23 ven.> | I   |
+   | DataESR |          | Découverte de matchID                                                       | <2018-02-23 ven.> | A   |
+   | DataESR |          | Réunion métier pour comprendre problématique brevets                        | <2018-02-23 ven.> | MD  |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Plus besoin de se concentrer sur les pb d'intégration des données           | <2018-03-02 ven.> | M   |
+   | DataESR |          | Avancée sur la conception du modèle de données                              | <2018-03-02 ven.> | D   |
+   | DataESR |          | Travail sur connexions entre ce modèle est base centrale des établissements | <2018-03-02 ven.> | D   |
+   | DataESR |          | Construction d'une bdd avec méta données de publications                    | <2018-03-02 ven.> | P   |
+   | DataESR |          | Point avec les mentors pour valider la roadmap                              | <2018-03-02 ven.> | M   |
+   | DataESR |          | Demande de serveur reportée                                                 | <2018-03-02 ven.> | I   |
 
 ** Suite
 
-   - Prise de contact avec Fabien pour voir comment on peut travailler
-     ensemble au développement de matchID sur la partie qui nous
-     intéresse.
+- Détailler la roadmap et les grandes étapes associées pour estimer le
+  temps de construction du MVP
 
-   - Continuer sur les règles de recoupement entre la BCE et SIRET et
-     prévoir le cas de maj.
+- Valider le choix technologique de Flask pour notre architecture
 
-   - Continuer à explorer la BCE pour comprendre comment retrouver les
-     liens entre établissements.
+- Finaliser le modèle de base de données
 
-   - Définir la structure de cette base commune que l'on veut constituer.
+- Construire la base Postgres
 
-   - Faire les demandes de serveur ou en tout cas, évaluer le besoin.
+- Remplir la base avec un premier import de données manuel
 
 * EIG Link
 
