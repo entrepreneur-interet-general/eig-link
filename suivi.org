@@ -145,7 +145,6 @@ un lien est ajouté.
 
 - Test l'environnement test de France connect.
 
-
 * CoachÉlève
 
 ** Dépôt
@@ -226,25 +225,33 @@ un lien est ajouté.
    - https://github.com/entrepreneur-interet-general/eig-link
    - https://github.com/entrepreneur-interet-general/blog-eig2
    - https://github.com/entrepreneur-interet-general/agenda-eig2018
+   - https://github.com/entrepreneur-interet-general/csv2html
 
 ** Journal
 
-   | Défi     | Livrable               | Tâche                               | Fait le           | Cat |
-   |----------+------------------------+-------------------------------------+-------------------+-----|
-   | EIG Link | Maintenance des outils | Installation IRC                    | <2018-02-13 mar.> | P   |
-   | EIG Link | blog-eig2              | Créer un blog                       | <2018-02-14 mer.> | P   |
-   |----------+------------------------+-------------------------------------+-------------------+-----|
-   | EIG Link |                        | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
-   | EIG Link |                        | Participation session mentors       | <2018-02-23 ven.> | M   |
-   | EIG Link | eig-link               | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
-   | EIG Link |                        | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
-   | EIG Link |                        | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
+   | Défi     | Livrable    | Tâche                                                      | Fait le           | Cat |
+   |----------+-------------+------------------------------------------------------------+-------------------+-----|
+   | EIG Link | Maintenance | Installation IRC                                           | <2018-02-13 mar.> | P   |
+   | EIG Link | blog-eig2   | Créer un blog                                              | <2018-02-14 mer.> | P   |
+   |----------+-------------+------------------------------------------------------------+-------------------+-----|
+   | EIG Link | Maintenance | Mise à dispo du serveur de calcul                          | <2018-02-23 ven.> | P   |
+   | EIG Link |             | Participation session mentors                              | <2018-02-23 ven.> | M   |
+   | EIG Link | eig-link    | Avancée sur eig-link                                       | <2018-02-23 ven.> | P   |
+   | EIG Link |             | Réunion technique aux Gobelins                             | <2018-02-23 ven.> | M   |
+   | EIG Link | Maintenance | Vidéo pour la prise en main serveur                        | <2018-02-23 ven.> | P   |
+   |----------+-------------+------------------------------------------------------------+-------------------+-----|
+   | EIG Link | csv2html    | Outil de mise en forme d'un csv en HTML/JS avec datatables | <2018-03-02 ven.> | P   |
+   | EIG Link | Maintenance | Fin de la mise en place du serveur EIG                     | <2018-03-02 ven.> | P   |
+   | EIG Link | Maintenance | Installation d'une instance de Matomo                      | <2018-03-02 ven.> | P   |
+   | EIG Link |             | Réunion scénario avec CoachÉlèves                          | <2018-03-02 ven.> |     |
 
 ** Suite
 
-   - Mise en forme web pour les saisines AGD
-   - Outil web bulloterie
-   - Outil web journal EIG
+- Obtenir ma carte de cantine :/
+- Finir la migration des données sur mon poste fixe.
+- Rendez-vous "roadmap" avec mon mentor.
+- Publier un retour technique sur le blog EIG.
+- Faire évoluer le format des stand-ups du vendredi.
 
 * Gobelins
 
