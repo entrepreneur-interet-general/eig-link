@@ -307,7 +307,6 @@ un lien est ajouté.
     - Peut être enfin lancer un modèle (P)
     - Setup Gitlab + homemade package de documentation (mkinx) (I)
 
-
 * Lab Santé
 
 ** Dépôt
@@ -390,34 +389,44 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi         | Livrable | Tâche                                           | Fait le           | Cat |
-   |--------------+----------+-------------------------------------------------+-------------------+-----|
-   | Prévisecours |          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
-   | Prévisecours |          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
-   | Prévisecours |          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
-   | Prévisecours |          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | U |
-   | Prévisecours |          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
-   | Prévisecours |          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
-   | Prévisecours |          | Exploration de données                          | <2018-02-15 jeu.> | D   |
-   |--------------+----------+-------------------------------------------------+-------------------+-----|
-   | Prévisecours |          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
-   | Prévisecours |          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
-   | Prévisecours |          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
-   | Prévisecours |          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
-   | Prévisecours |          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
-   | Prévisecours |          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
-   | Prévisecours |          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
-   | Prévisecours |          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
-   | Prévisecours |          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
+   | Défi         | Livrable  | Tâche                                                       | Fait le           | Cat |
+   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Ajout Indicateurs idh2 par commune                          | <2018-02-15 jeu.> | P   |
+   | Prévisecours |           | Premières versions naïves des features                      | <2018-02-15 jeu.> | P   |
+   | Prévisecours |           | Trouver endroit où travailler au LLL                        | <2018-02-15 jeu.> | I   |
+   | Prévisecours |           | Rencontre avec service de PJ                                | <2018-02-15 jeu.> | U   |
+   | Prévisecours |           | Point avec mentor                                           | <2018-02-15 jeu.> | M   |
+   | Prévisecours |           | Petit déjeuner pour se présenter au service                 | <2018-02-15 jeu.> | I   |
+   | Prévisecours |           | Exploration de données                                      | <2018-02-15 jeu.> | D   |
+   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Apprentissage Docker                                        | <2018-02-23 ven.> | A   |
+   | Prévisecours |           | Microservice upload de ficher                               | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Appels pour obtenir de la data                              | <2018-02-23 ven.> | D   |
+   | Prévisecours |           | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                                     | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Résolution pb DNS avec Cloudflare                           | <2018-02-23 ven.> | I   |
+   | Prévisecours |           | Analyses statistiques sur données interventions             | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Création des aggrégats à la semaine                         | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Aide interne sur informations réseaux du futur              | <2018-02-23 ven.> | T   |
+   | Prévisecours |           | Demande des données interventions avant 2016                | <2018-02-23 ven.> | D   |
+   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Récupération des données métiers depuis 2010                | <2018-03-02 ven.> | D   |
+   | Prévisecours |           | Travail sur les flux de normalisation de données métiers    | <2018-03-02 ven.> | D   |
+   | Prévisecours | Dashboard | Customisation des matrices de confusion pour dashboard      | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Livraison d'un CR au métier pour expl. choix techniques     | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Récup données open data ISO périmètre 2017 pour 2010 à 2016 | <2018-03-02 ven.> | D   |
+   | Prévisecours |           | Draft de roadmap projet                                     | <2018-03-02 ven.> | MP  |
+   | Prévisecours |           | Recherche de data: Prises de nouveaux contacts              | <2018-03-02 ven.> | DM  |
+   | Prévisecours |           | Recherche de modèle similaire à PreviSecours                | <2018-03-02 ven.> | UM  |
+   | Prévisecours |           | Après-midi surprise avec un stagiaire de 3ème               | <2018-03-02 ven.> | M   |
+   | Prévisecours |           | 1er draft pour un projet interne micro service d'upload     | <2018-03-02 ven.> | PS  |
 
 ** Suite
 
-   - Point sur le livrable à fournir au mentor opérationnel
-
-   - livraison d'un CR rapide sur les corrélations open data x
-     interventions.
-
-   - Déplacement dans le centre de réception d'appels du 91 (?)
+- Point avec le métier sur le CR1?
+- Déplacement dans le centre de réception d'appels du 91?
+- Continuer le rapatriement et la normalisation de l'open data 2010 à 2016
+- Feature engineering sur les données métiers historiques
+- Création d'un outil de visualisation des interventions pompiers dans DSS
 
 * Signaux Faibles
 
