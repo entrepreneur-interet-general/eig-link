@@ -77,15 +77,16 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 | b@liseNAV |               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
 | b@liseNAV |               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
 | b@liseNAV |               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
+|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+| b@liseNAV |               | Brainshomstorming roadmap et techniques                        | <2018-03-02 ven.> | P   |
+| b@liseNAV |               | Analyse des attributs S-57                                     | <2018-03-02 ven.> | D   |
+| b@liseNAV |               | Mapping bases de données (Aladin - BDGS)                       | <2018-03-02 ven.> | D   |
+| b@liseNAV |               | Modèle de données S-201                                        | <2018-03-02 ven.> | D   |
+| b@liseNAV |               | Revue du démonstrateur Infoport                                | <2018-03-02 ven.> | P   |
 
 ** Suite
 
-- Revue en profondeur des démonstrateurs réalisés au Shom
-- Etat des lieux ALADIN <=> S-201 <=> SHOM
-- Faire une petite API avec NodeJS de la base ALADIN
-- Faire un script visualisant/synthétisant les anomalies entre ALADIN et SHOM
-- Construction d’une roadmap à partir de la cartographie
-- Introduction au NoSQL (présentation MongoDB à un interne)
+- Codage mapping Aladin - S201
 
 * BrigadeNumérique
 
