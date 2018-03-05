@@ -107,17 +107,44 @@ un lien est ajouté.
    | BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                          | <2018-02-16 ven.> | M   |
    | BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs | <2018-02-16 ven.> | MCR |
    | BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                 | <2018-02-16 ven.> | C   |
-   | BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                    | <2018-02-16 ven.> | U |
+   | BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                    | <2018-02-16 ven.> | U   |
    | BrigadeNumérique |          | Mise en place de KanBoard                                      | <2018-02-16 ven.> | PM  |
-
-   # |------------------+----------+----------------------------------------------------------------+-------------------+-----|
-   # | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation            | <2018-02-23 ven.> | P   |
-   # | BrigadeNumérique |          | ​RdV Dinsic pour premier contact avec FranceConnect             | <2018-02-23 ven.> | M   |
-   # | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV              | <2018-02-23 ven.> | U |
-   # | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction             | <2018-02-23 ven.> | P   |
-   # |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation            | <2018-02-23 ven.> | P   |
+   | BrigadeNumérique |          | ​RDV DINSIC pour premier contact avec FranceConnect             | <2018-02-23 ven.> | M   |
+   | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV              | <2018-02-23 ven.> | U   |
+   | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction             | <2018-02-23 ven.> | P   |
+   |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | Tests sur l'accueil numérique de la gendarmerie                | <2018-02-23 ven.> | P   |
+   | BrigadeNumérique |          | Organisation de la venue du Ministre de l'intérieur            | <2018-02-23 ven.> | CM  |
+   | BrigadeNumérique |          | Investigation approfondie des settings de VLC player           | <2018-02-23 ven.> | A   |
+   | BrigadeNumérique |          | Contact avec France connect                                    | <2018-02-23 ven.> | M   |
+   | BrigadeNumérique |          | RDV avec le service API de la Gendarmerie                      | <2018-02-23 ven.> | M   |
+   | BrigadeNumérique |          | Prise de contact avec la développeuse de Pulsar                | <2018-02-23 ven.> | M   |
+   | BrigadeNumérique |          | Atelier sur les processus concerné par la prise de RV en ligne | <2018-02-23 ven.> | P   |
+   | BrigadeNumérique |          | Voyage à Rennes pour un RV avec les magistrats                 | <2018-02-23 ven.> | M   |
+   | BrigadeNumérique |          | Premières maquettes de l'outil de RV                           | <2018-02-23 ven.> | P   |
+   |                  |          |                                                                |                   |     |
 
 ** Suite
+
+- RV de décision sur la définition de l'outil de RV mardi (les
+  processus métier visé par une prise de RV online avec le citoyen)
+
+- Maquettes version 2
+
+- Premières lignes de code!
+
+- Suivi de projet, tests de l'accueil numérique de la gendarmerie.
+
+- Mise en place d'un système de reporting personnalisé dans l'accueil
+  numérique.
+
+- Chercher un bon webmailer compatible avec toutes les règles de la
+  Gendarmerie.
+
+- Test l'environnement test de France connect.
+
 
 * CoachÉlève
 
@@ -407,7 +434,6 @@ un lien est ajouté.
 
 - Contact des Préfets Maritimes au sujet du scraping des données /
   quelle suite pour l'API des AVURNAV
-
 
 * Prévisecours
 
