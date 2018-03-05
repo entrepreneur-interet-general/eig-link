@@ -507,31 +507,38 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi          | Livrable | Tâche                                                      | Fait le           | Cat |
-   |---------------+----------+------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | entretiens parties prenantes                               | <2018-02-15 jeu.> | U |
-   | SocialConnect |          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
-   | SocialConnect |          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
-   | SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
-   |---------------+----------+------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
-   | SocialConnect |          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
-   | SocialConnect |          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | U |
-   | SocialConnect |          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
-   | SocialConnect |          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
+   | Défi          | Livrable | Tâche                                                        | Fait le           | Cat |
+   |---------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |          | entretiens parties prenantes                                 | <2018-02-15 jeu.> | U   |
+   | SocialConnect |          | atelier nomenclature                                         | <2018-02-15 jeu.> | D   |
+   | SocialConnect |          | préparer atelier communication                               | <2018-02-15 jeu.> | P   |
+   | SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                              | <2018-02-15 jeu.> | M   |
+   |---------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |          | Obtention de la suite Adobe par la DSI                       | <2018-02-23 ven.> | I   |
+   | SocialConnect |          | Debrief et synthèse des 15 entretiens                        | <2018-02-23 ven.> | RP  |
+   | SocialConnect |          | Définition des profils cibles pour V1 et V2                  | <2018-02-23 ven.> | U   |
+   | SocialConnect |          | Priorisation des fonctionnalités V1                          | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | Benchmark identité graphique CIS                             | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | Réflexion sur la stratégie de communication / landing page   | <2018-02-23 ven.> | C   |
+   | SocialConnect |          | Étude du code dont on hérite                                 | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                            | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | test du statut de résident nomade au lll                     | <2018-02-23 ven.> | I   |
+   |---------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |          | Sprint sur le projet OpenScraper, service public du scraping | <2018-03-02 ven.> | P   |
+   | SocialConnect |          | Pédagogie avec la mentor : expliquer le stack technique      | <2018-03-02 ven.> | TM  |
+   | SocialConnect |          | Rencontre avec OpenDataFrance au LLL                         | <2018-03-02 ven.> | M   |
+   | SocialConnect |          | Atelier comm sur le projet                                   | <2018-03-02 ven.> | CMP |
+   | SocialConnect |          | Recherche et choix d'un univers visuel                       | <2018-03-02 ven.> | P   |
+   | SocialConnect |          | Réalisation flyer et posters explicatifs du projet           | <2018-03-02 ven.> | P   |
+   | SocialConnect |          | Atelier nomenclature avec un autre groupe de partenaires     | <2018-03-02 ven.> | MU  |
 
 ** Suite
 
-   - Illustrations pour nos supports de com'
-   - Mock-up des écrans principaux
-   - Avancer sur la landing page
-   - Sprint sur OpenScrapper : mvp fonctionnant en local.
-   - Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
-   - 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
+- Finir le sprint OpenScraper pour arriver à un MVP du scraper générique
+- Requêter la bdd de l’instance d’OpenScraper pour accéder aux données scrapées
+- CODIR + COPIL du projet Carrefour des innovations sociales / SocialConnect
+- Itération sur le kit de comm avec les partenaires du projet
+- Macrozoning des écrans principaux
 
 * Applications/bibliothèques intégrées à l’écosystème open source
 
