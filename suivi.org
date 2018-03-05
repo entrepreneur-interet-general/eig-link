@@ -262,7 +262,7 @@ un lien est ajouté.
    | Hopkins |                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
    | Hopkins |                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
    | Hopkins |                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
-   | Hopkins |                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | U |
+   | Hopkins |                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | U   |
    | Hopkins |                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
    | Hopkins |                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
    | Hopkins |                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
@@ -271,31 +271,42 @@ un lien est ajouté.
    | Hopkins |                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
    | Hopkins | Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
    | Hopkins | 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
-   | Hopkins |                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | U |
+   | Hopkins |                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | U   |
    | Hopkins |                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
    | Hopkins |                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
    | Hopkins |                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
    | Hopkins |                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
    | Hopkins |                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
+   |---------+-------------------+-------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                   | Test matching 1 MatchId sur dataset réduit                  | <2018-03-02 ven.> | P   |
+   | Hopkins |                   | Biblio évaluation d’entity resolution                       | <2018-03-02 ven.> | P   |
+   | Hopkins |                   | Evaluation matching 1                                       | <2018-03-02 ven.> | P   |
+   | Hopkins |                   | Discussion avec Samsoft, solution de matching               | <2018-03-02 ven.> | A   |
+   | Hopkins |                   | Débug code de matching existant ([[https://github.com/ekzhu/datasketch/][datasketch]])                | <2018-03-02 ven.> | P   |
+   | Hopkins |                   | VM (64Go) en cours d'obtention pour installer matchID       | <2018-03-02 ven.> | I   |
+   | Hopkins |                   | Web app d'exploration des résultats de classification       | <2018-03-02 ven.> | P   |
+   | Hopkins |                   | Obtenir une VM avec gitlab (et être sudoer)                 | <2018-03-02 ven.> | S   |
+   | Hopkins |                   | Réparer install python 3 sur dataiku                        | <2018-03-02 ven.> | I   |
 
 ** Suite
 
-   - Continuer de prendre en main de MatchID (Apprentissage)
-   - Finir le 1er test de matchID avec l'interface de validation (Production)
-   - Intégrer un autre dataset manuellement labellisé précédemment
-     (Production)[ nouveau dataset labellisé]
-   - Tester la possibilité de différents types d'indexages sur Elastic
-     Search : phonétique, n-grams (Production)
-   - Demander un serveur plus puissant pour tester matchID sur un plus
-     gros dataset (Installation)
-   - Mesurer la performance qualitative d'un matching existant
-     précédemment.
-   - Faire tourner l'algo de matching d'un ancien stagiaire. Le porter
-     éventuellement sur Spark pour améliorer les perfs.
-   - Installer mon package sur la VM qui host le Gitlab interne
-   - Définir métriques/moyens de validation des modèles NLP (catégorie ?)
-   - Passage python 3
-   - Premier modèle tensorflow
+- [Matching] (Paul, Benoit)
+
+    - Comprendre erreurs matching 1 (P)
+    - Améliorer matching 1 et vérifier que les mesures de performance
+      sont cohérentes (P)
+    - Installer matchID (ou à minima ElasticSearch) sur la VM de 64Go
+      (I)
+    - Débug visualisation graphe existante, explorer d'autres
+      solutions (P)
+
+- [Classification] (Victor)
+
+    - Continuer réflexion sur l'évaluation des modèles (Réflexion, P)
+    - Préparer benchmark de comparaison des modèles (P)
+    - Peut être enfin lancer un modèle (P)
+    - Setup Gitlab + homemade package de documentation (mkinx) (I)
+
 
 * Lab Santé
 
