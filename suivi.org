@@ -229,7 +229,7 @@ un lien est ajouté.
    |----------+----------+---------------------------------------------------------------+-------------------+-----|
    | Gobelins |          | installation matériel                                         | <2018-02-15 jeu.> | I   |
    | Gobelins |          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
-   | Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | U |
+   | Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | U   |
    | Gobelins |          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
    | Gobelins | Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
    |----------+----------+---------------------------------------------------------------+-------------------+-----|
@@ -239,17 +239,26 @@ un lien est ajouté.
    | Gobelins |          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
    | Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
    | Gobelins |          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
+   |----------+----------+---------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Débrief mentor et présentation phasage du projet              | <2018-03-02 ven.> | M   |
+   | Gobelins |          | Début d’organisation pour permettre l’opendata                | <2018-03-02 ven.> | T   |
+   | Gobelins |          | Installation : j’ai la lumière                                | <2018-03-02 ven.> | I   |
+   | Gobelins |          | Outil de sensibilisation à notre travail                      | <2018-03-02 ven.> | CM  |
+   | Gobelins |          | Questionnaire pour les usagers internes au MN                 | <2018-03-02 ven.> | U   |
+   | Gobelins |          | Lecture des demandes d’usagers externes + Identification      | <2018-03-02 ven.> | U   |
+   | Gobelins |          | Prise de contact avec outil similaire (CNAP)                  | <2018-03-02 ven.> | UM  |
+   | Gobelins |          | Prise de contact avec détenteurs autres base de données       | <2018-03-02 ven.> | DM  |
 
 ** Suite
 
-   - Débrief avec notre mentor / échange sur les directions à prendre
-   - Présentation du phasage du projet à notre mentor
-   - Poursuite des visites, entretiens, compte rendu
-   - Mind mapping des possibles du projet
-   - Partir en quête des données cachées
-   - Premiers pas pour induire l’opendata
-   - Premiers pas pour induire une numérisation HD des tapisseries
-   - Jeudi on accueille Ned !
+- Roadmap avec Ned (M)
+- Définition de nos outils de travail commun (M)
+- Formation à la tapisserie (A, R)
+- Installation logiciel (I)
+- RDV avec les acteurs détenant les autres bases de données (R, D)
+- Mind mapping des possibles du projet (M,R)
+- Organisation suivi de projet avec mentors direction (M)
+- Benchmark (P)
 
 * Hopkins
 
