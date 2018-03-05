@@ -325,42 +325,52 @@ un lien est ajouté.
 ** Dépôt
 ** Journal
 
-   | Défi      | Livrable                | Tâche                                             | Fait le           | Cat |
-   |-----------+-------------------------+---------------------------------------------------+-------------------+-----|
-   | Lab Santé |                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
-   | Lab Santé |                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
-   | Lab Santé |                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
-   | Lab Santé |                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
-   | Lab Santé |                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
-   | Lab Santé |                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
-   | Lab Santé |                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
-   |-----------+-------------------------+---------------------------------------------------+-------------------+-----|
-   | Lab Santé | Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
-   | Lab Santé |                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
-   | Lab Santé |                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
-   | Lab Santé |                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
-   | Lab Santé |                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
-   | Lab Santé |                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
-   | Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
-   | Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
+   | Défi      | Livrable                | Tâche                                                                          | Fait le           | Cat |
+   |-----------+-------------------------+--------------------------------------------------------------------------------+-------------------+-----|
+   | Lab Santé |                         | Formation agents DREES à R                                                     | <2018-02-15 jeu.> | T   |
+   | Lab Santé |                         | Scraping annuairesante.ameli.fr                                                | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | extraction dans avis de la HAS (NLP)                                           | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | Obtention des mdp pour accès aux bases                                         | <2018-02-15 jeu.> | I   |
+   | Lab Santé |                         | Aidé sur #support-sysadmin                                                     | <2018-02-15 jeu.> | T   |
+   | Lab Santé |                         | Push de la bulloterie sur shinyapps                                            | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | Avancée sur un benchmark SAS/R                                                 | <2018-02-15 jeu.> | P   |
+   |-----------+-------------------------+--------------------------------------------------------------------------------+-------------------+-----|
+   | Lab Santé | Amélioration du simplex | Réunion avec DGOS                                                              | <2018-02-23 ven.> | MR  |
+   | Lab Santé |                         | Réunion  Distancier INSEE                                                      | <2018-02-23 ven.> | M   |
+   | Lab Santé |                         | Réunion pertinence des soins                                                   | <2018-02-23 ven.> | M   |
+   | Lab Santé |                         | Passage à git pour extraction des avis HAS                                     | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Travaux sur l'extraction des avis HAS                                          | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Implémenter R pour microsimulations de retraites                               | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv                                   | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts                              | <2018-02-23 ven.> | P   |
+   |-----------+-------------------------+--------------------------------------------------------------------------------+-------------------+-----|
+   | Lab Santé |                         | Version stable pour l'extraction des médicaments                               | <2018-03-02 ven.> | P   |
+   | Lab Santé |                         | Tuto Inscription GitLab et Utilisation GitLab via navigateur                   | <2018-03-02 ven.> | PTC |
+   | Lab Santé |                         | Préparation présentation WebScraping pour la 1ère du GUEPARD                   | <2018-03-02 ven.> | P   |
+   | Lab Santé |                         | Exploration existant pour faire une formation python                           | <2018-03-02 ven.> | P   |
+   | Lab Santé |                         | Restitution à l'utilisateur final et appel du script .R depuis SAS avec pipe   | <2018-03-02 ven.> | CP  |
+   | Lab Santé |                         | Début pour équivalent python du code sur les microsimulations                  | <2018-03-02 ven.> | P   |
+   | Lab Santé |                         | Nouveau sujet imputation de valeurs manquantes dans l'enquête OC (WIP)         | <2018-03-02 ven.> | PM  |
+   | Lab Santé |                         | Amélioration appli Shiny de restitution des enquêtes VQS (WIP)                 | <2018-03-02 ven.> | PC  |
+   | Lab Santé |                         | Découverte/amélioration appli Shiny « Condition de vie des enfants »           | <2018-03-02 ven.> | AP  |
+   | Lab Santé | Simplex next            | Simplex passage de tcl-tk à Shiny (DONE)                                       | <2018-03-02 ven.> | P   |
+   | Lab Santé | Simplex next            | Simplex passage cartography à leaflet pour carto – besoin d’améliorer UX (WIP) | <2018-03-02 ven.> | P   |
+   | Lab Santé | Simplex next            | Simplex, choix meilleur outil optimisation des transports (WIP)                | <2018-03-02 ven.> | P   |
+   | Lab Santé |                         | Galère sur la plateforme des données hospitalières                             | <2018-03-02 ven.> | CA  |
 
 ** Suite
 
-   - Travaux sur le Simplex
-   - Continuer extraction HAS
-   - Amélioration du guide gitlab pour les utilisateurs DREES
-   - Restitution à l'utilisateur final et appel du script .R depuis SAS
-     avec pipe
-   - Simplex passage de tcl-tk à Shiny
-   - Simplex passage de cartography à leaflet pour la carto
-   - Simplex, choix d'une meilleur outil d'optimisation numérique lpSolve
-     => GPLK ou PICOSAT à essayer
-   - Revoir la formation en passant moins de temps sur les fonctions de
-     base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
-   - Avancer sur App Shiny standard pour toutes les publications DREES
-   - Découverte des données hospitalières exhaustives (PMSI)
-   - Accès aux "grosses" données (DCIR) via autre chose qu'un portail SAS
+- Rencontre avec Bison futé (M, D?)
 
+- Cadrage pour la future formation python.
+
+- Réalisation premiers modèles d’imputation enquête OC (Prod).
+
+- Itération Simplex pour améliorer l’UX, adapter l’offre aux nouveaux
+  besoins (Prod, Com et UX).
+
+- Itération avec l’ATIH pour améliorer leur gestion de RStudio Server
+  Pro : pour le besoin, la version gratuite est suffisante.
 * Prédisauvetage
 
 ** Dépôt
