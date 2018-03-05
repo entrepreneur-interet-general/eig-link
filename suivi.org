@@ -5,53 +5,62 @@ un lien est ajouté.
 
 * Format des synthèses
 
-Pour chaque projet, nous proposons ce tableau indicatif :
+  Pour chaque projet, nous proposons ce tableau indicatif :
 
-| Défi | Livrable | Tâche | Fait le | Catégorie |
-|------+----------+-------+---------+-----------|
-|      |          |       |         |           |
+  | Défi | Livrable | Tâche | Fait le | Catégorie |
+  |------+----------+-------+---------+-----------|
+  |      |          |       |         |           |
 
-=Catégorie= pouvant être :
+  =Catégorie= pouvant être :
 
-- [A]pprentissage
-- [C]ommunication (interne et externe)
-- [D]onnées (accès)
-- [I]nstallation (physique et informatique)
-- [M]anagement (réunions, gestion de projet)
-- [P]roduction (code, données, doc, etc.)
-- [R]etours utilisateur (entretiens, UX, UI)
-- [S]ervices informatique (pour l’administration)
-- [T]ransformation de la culture informatique
+  - [A]pprentissage
+  - [C]ommunication (interne et externe)
+  - [D]onnées (accès)
+  - [I]nstallation (physique et informatique)
+  - [M]anagement (réunions, gestion de projet)
+  - [P]roduction (code, données, doc, etc.)
+  - [S]ervices informatique (pour l’administration)
+  - [T]ransformation de la culture informatique
+  - [U]tilisateur (entretiens, retours, UX, UI)
 
-Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org#d%25C3%25A9tail-des-cat%25C3%25A9gories][plus bas]].
+  Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org#d%25C3%25A9tail-des-cat%25C3%25A9gories][plus bas]].
 
 * Archifiltre
 
 ** Dépôt
 ** Journal
 
-| Défi        | Livrable               | Tâche                                     | Fait le           | Cat |
-|-------------+------------------------+-------------------------------------------+-------------------+-----|
-| Archifiltre | Roadmap                | Élaboration du macro-planning             | <2018-02-15 jeu.> | M   |
-| Archifiltre |                        | Préparation du premier sprint             | <2018-02-15 jeu.> | P   |
-| Archifiltre |                        | Réflexion sur la com du projet            | <2018-02-15 jeu.> | P   |
-| Archifiltre |                        | Réalisation d'un premier logo             | <2018-02-15 jeu.> | P   |
-| Archifiltre |                        | Comprendre l'architecture du format PST   | <2018-02-15 jeu.> | D   |
-| Archifiltre |                        | Benchmark d'outils de parsing PST         | <2018-02-15 jeu.> | P   |
-| Archifiltre |                        | Atelier créativité sur les interfaces     | <2018-02-15 jeu.> | R   |
-|-------------+------------------------+-------------------------------------------+-------------------+-----|
-| Archifiltre | Bib Java pour lire PST | Conversion d'archive Outlook              | <2018-02-23 ven.> | P   |
-| Archifiltre |                        | Script bash avec robocopy                 | <2018-02-23 ven.> | P   |
-| Archifiltre | User stories           | Défintion des futurs sprints              | <2018-02-23 ven.> | P   |
-| Archifiltre | Accès VM               | Prise en main de la VM fournie par la DSI | <2018-02-23 ven.> | I   |
+   | Défi        | Livrable               | Tâche                                                         | Fait le           | Cat |
+   |-------------+------------------------+---------------------------------------------------------------+-------------------+-----|
+   | Archifiltre | Roadmap                | Élaboration du macro-planning                                 | <2018-02-15 jeu.> | M   |
+   | Archifiltre |                        | Préparation du premier sprint                                 | <2018-02-15 jeu.> | P   |
+   | Archifiltre |                        | Réflexion sur la com du projet                                | <2018-02-15 jeu.> | P   |
+   | Archifiltre |                        | Réalisation d'un premier logo                                 | <2018-02-15 jeu.> | P   |
+   | Archifiltre |                        | Comprendre l'architecture du format PST                       | <2018-02-15 jeu.> | D   |
+   | Archifiltre |                        | Benchmark d'outils de parsing PST                             | <2018-02-15 jeu.> | P   |
+   | Archifiltre |                        | Atelier créativité sur les interfaces                         | <2018-02-15 jeu.> | U   |
+   |-------------+------------------------+---------------------------------------------------------------+-------------------+-----|
+   | Archifiltre | Bib Java pour lire PST | Conversion d'archive Outlook                                  | <2018-02-23 ven.> | P   |
+   | Archifiltre |                        | Script bash avec robocopy                                     | <2018-02-23 ven.> | P   |
+   | Archifiltre | User stories           | Défintion des futurs sprints                                  | <2018-02-23 ven.> | P   |
+   | Archifiltre | Accès VM               | Prise en main de la VM fournie par la DSI                     | <2018-02-23 ven.> | I   |
+   |-------------+------------------------+---------------------------------------------------------------+-------------------+-----|
+   | Archifiltre |                        | Prise en main de notre VM                                     | <2018-03-02 ven.> | I   |
+   | Archifiltre |                        | Réception et prise en main de nos PCs de dev                  | <2018-03-02 ven.> | I   |
+   | Archifiltre |                        | Nouvelle passe sur l'extraction de mails dans une archive PST | <2018-03-02 ven.> | P   |
+   | Archifiltre |                        | Premier outil de visualisation d'une arborescence système     | <2018-03-02 ven.> | P   |
+   | Archifiltre |                        | Tests utilisateurs informels                                  | <2018-03-02 ven.> | U   |
+   | Archifiltre | Site web vitrine       | Début de site web vitrine                                     | <2018-03-02 ven.> | P   |
+   | Archifiltre |                        | Point de fin du premier sprint                                | <2018-03-02 ven.> | M   |
 
 ** Suite
 
-- Sprint n°1B : visualiser une arborescence Windows efficacement dans
-  l'optique d'y faire du tri archivistique
-- Point de fin de sprint n°1
-- Avancer sur le site de présentation d'ArchiFiltre
-- Avancer sur la définition des user stories
+   - début du sprint numéro 2, sur la détection des conversations (parmi
+     les mails) et des doublons (mails ou autres fichiers)
+   - tests utilisateur sur le sprint 2
+   - tests utilisateur sur le Finder de macOS (que les archivistes
+     connaissent peu et qui a des fonctionnalités qui peuvent nous
+     inspirer)
 
 * b@liseNAV
 
@@ -59,54 +68,54 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Défi      | Livrable      | Tâche                                                          | Fait le           | Cat |
-|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
-| b@liseNAV | POC           | Backend du POC                                                 | <2018-02-15 jeu.> | P   |
-| b@liseNAV | Habiter Brest | Signature du bail                                              | <2018-02-15 jeu.> | I   |
-| b@liseNAV |               | Suivi d’un cours sur les bases                                 | <2018-02-15 jeu.> | A   |
-| b@liseNAV |               | Import de données ALADIN                                       | <2018-02-15 jeu.> | P   |
-| b@liseNAV |               | Travail sur la roadmap                                         | <2018-02-15 jeu.> | M   |
-| b@liseNAV |               | Carto de l’environnement technique                             | <2018-02-15 jeu.> | P   |
-| b@liseNAV | Roadmap       | Travail sur un doc de synthèse                                 | <2018-02-15 jeu.> | M   |
-|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
-| b@liseNAV |               | On a la fibre à l’appart!                                      | <2018-02-23 ven.> | I   |
-| b@liseNAV |               | Document de synthèse du premier sprint                         | <2018-02-23 ven.> | P   |
-| b@liseNAV |               | Visite de la DAM à Saint-Malo                                  | <2018-02-23 ven.> | M   |
-| b@liseNAV |               | Récupération d'un échantillon AIS                              | <2018-02-23 ven.> | D   |
-| b@liseNAV |               | Chargement et exploration de la base de données Aladin         | <2018-02-23 ven.> | D   |
-| b@liseNAV |               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
-| b@liseNAV |               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
-| b@liseNAV |               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
-|-----------+---------------+----------------------------------------------------------------+-------------------+-----|
-| b@liseNAV |               | Brainshomstorming roadmap et techniques                        | <2018-03-02 ven.> | P   |
-| b@liseNAV |               | Analyse des attributs S-57                                     | <2018-03-02 ven.> | D   |
-| b@liseNAV |               | Mapping bases de données (Aladin - BDGS)                       | <2018-03-02 ven.> | D   |
-| b@liseNAV |               | Modèle de données S-201                                        | <2018-03-02 ven.> | D   |
-| b@liseNAV |               | Revue du démonstrateur Infoport                                | <2018-03-02 ven.> | P   |
+   | Défi      | Livrable      | Tâche                                                          | Fait le           | Cat |
+   |-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV | POC           | Backend du POC                                                 | <2018-02-15 jeu.> | P   |
+   | b@liseNAV | Habiter Brest | Signature du bail                                              | <2018-02-15 jeu.> | I   |
+   | b@liseNAV |               | Suivi d’un cours sur les bases                                 | <2018-02-15 jeu.> | A   |
+   | b@liseNAV |               | Import de données ALADIN                                       | <2018-02-15 jeu.> | P   |
+   | b@liseNAV |               | Travail sur la roadmap                                         | <2018-02-15 jeu.> | M   |
+   | b@liseNAV |               | Carto de l’environnement technique                             | <2018-02-15 jeu.> | P   |
+   | b@liseNAV | Roadmap       | Travail sur un doc de synthèse                                 | <2018-02-15 jeu.> | M   |
+   |-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |               | On a la fibre à l’appart!                                      | <2018-02-23 ven.> | I   |
+   | b@liseNAV |               | Document de synthèse du premier sprint                         | <2018-02-23 ven.> | P   |
+   | b@liseNAV |               | Visite de la DAM à Saint-Malo                                  | <2018-02-23 ven.> | M   |
+   | b@liseNAV |               | Récupération d'un échantillon AIS                              | <2018-02-23 ven.> | D   |
+   | b@liseNAV |               | Chargement et exploration de la base de données Aladin         | <2018-02-23 ven.> | D   |
+   | b@liseNAV |               | Feuille de style S-52 pour affichage des cartes nautiques S-57 | <2018-02-23 ven.> | P   |
+   | b@liseNAV |               | Symboles SVG pour les cartes nautiques                         | <2018-02-23 ven.> | P   |
+   | b@liseNAV |               | Découverte de Proxmox, et notamment la configuration d’une VM  | <2018-02-23 ven.> | A   |
+   |-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |               | Brainshomstorming roadmap et techniques                        | <2018-03-02 ven.> | P   |
+   | b@liseNAV |               | Analyse des attributs S-57                                     | <2018-03-02 ven.> | D   |
+   | b@liseNAV |               | Mapping bases de données (Aladin - BDGS)                       | <2018-03-02 ven.> | D   |
+   | b@liseNAV |               | Modèle de données S-201                                        | <2018-03-02 ven.> | D   |
+   | b@liseNAV |               | Revue du démonstrateur Infoport                                | <2018-03-02 ven.> | P   |
 
 ** Suite
 
-- Codage mapping Aladin - S201
+   - Codage mapping Aladin - S201
 
 * BrigadeNumérique
 
 ** Dépôt
 ** Journal
 
-| Défi             | Livrable | Tâche                                                          | Fait le           | Cat |
-|------------------+----------+----------------------------------------------------------------+-------------------+-----|
-| BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                          | <2018-02-16 ven.> | M   |
-| BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs | <2018-02-16 ven.> | MCR |
-| BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                 | <2018-02-16 ven.> | C   |
-| BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                    | <2018-02-16 ven.> | R   |
-| BrigadeNumérique |          | Mise en place de KanBoard                                      | <2018-02-16 ven.> | PM  |
+   | Défi             | Livrable | Tâche                                                          | Fait le           | Cat |
+   |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                          | <2018-02-16 ven.> | M   |
+   | BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs | <2018-02-16 ven.> | MCR |
+   | BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                 | <2018-02-16 ven.> | C   |
+   | BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                    | <2018-02-16 ven.> | U |
+   | BrigadeNumérique |          | Mise en place de KanBoard                                      | <2018-02-16 ven.> | PM  |
 
-# |------------------+----------+----------------------------------------------------------------+-------------------+-----|
-# | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation            | <2018-02-23 ven.> | P   |
-# | BrigadeNumérique |          | ​RdV Dinsic pour premier contact avec FranceConnect             | <2018-02-23 ven.> | M   |
-# | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV              | <2018-02-23 ven.> | R   |
-# | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction             | <2018-02-23 ven.> | P   |
-# |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   # |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+   # | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation            | <2018-02-23 ven.> | P   |
+   # | BrigadeNumérique |          | ​RdV Dinsic pour premier contact avec FranceConnect             | <2018-02-23 ven.> | M   |
+   # | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV              | <2018-02-23 ven.> | U |
+   # | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction             | <2018-02-23 ven.> | P   |
+   # |------------------+----------+----------------------------------------------------------------+-------------------+-----|
 
 ** Suite
 
@@ -114,97 +123,97 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Dépôt
 
-- https://github.com/entrepreneur-interet-general/numerilab
+   - https://github.com/entrepreneur-interet-general/numerilab
 
 ** Journal
 
-| Défi       | Livrable | Tâche                                                        | Fait le           | Cat |
-|------------+----------+--------------------------------------------------------------+-------------------+-----|
-| CoachÉlève |          | Rencontre détenteurs données                                 | <2018-02-16 ven.> | D   |
-| CoachÉlève |          | Rencontre Pôle Emploi Store                                  | <2018-02-16 ven.> | M   |
-| CoachÉlève |          | Point légal sur propriété des données                        | <2018-02-16 ven.> | D   |
-|------------+----------+--------------------------------------------------------------+-------------------+-----|
-| CoachÉlève |          | https://arachez.shinyapps.io/quickwin/                       | <2018-02-23 ven.> | P   |
-| CoachÉlève |          | Point feuille de route                                       | <2018-02-23 ven.> | M   |
-| CoachÉlève |          | Interview d’une Start-up                                     | <2018-02-23 ven.> | M   |
-| CoachÉlève |          | Rencontre DSI                                                | <2018-02-23 ven.> | M   |
-|------------+----------+--------------------------------------------------------------+-------------------+-----|
-| CoachÉlève |          | Construction d'un document décrivant plusieur scénarios      | <2018-03-02 ven.> | PM  |
-| CoachÉlève |          | Discussion des scénarios mentor et Bastien                   | <2018-03-02 ven.> | M   |
-| CoachÉlève |          | Discussion du projet d'occupation des sols                   | <2018-03-02 ven.> | M   |
-| CoachÉlève |          | Rencontre pour discuter des données de la DNE                | <2018-03-02 ven.> | M   |
+   | Défi       | Livrable | Tâche                                                        | Fait le           | Cat |
+   |------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève |          | Rencontre détenteurs données                                 | <2018-02-16 ven.> | D   |
+   | CoachÉlève |          | Rencontre Pôle Emploi Store                                  | <2018-02-16 ven.> | M   |
+   | CoachÉlève |          | Point légal sur propriété des données                        | <2018-02-16 ven.> | D   |
+   |------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève |          | https://arachez.shinyapps.io/quickwin/                       | <2018-02-23 ven.> | P   |
+   | CoachÉlève |          | Point feuille de route                                       | <2018-02-23 ven.> | M   |
+   | CoachÉlève |          | Interview d’une Start-up                                     | <2018-02-23 ven.> | M   |
+   | CoachÉlève |          | Rencontre DSI                                                | <2018-02-23 ven.> | M   |
+   |------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève |          | Construction d'un document décrivant plusieur scénarios      | <2018-03-02 ven.> | PM  |
+   | CoachÉlève |          | Discussion des scénarios mentor et Bastien                   | <2018-03-02 ven.> | M   |
+   | CoachÉlève |          | Discussion du projet d'occupation des sols                   | <2018-03-02 ven.> | M   |
+   | CoachÉlève |          | Rencontre pour discuter des données de la DNE                | <2018-03-02 ven.> | M   |
 
 ** Suite
 
-- Travailler sur le quickwin de demande CNIL des établissments
-- Rapport d'étonement aux mentors
-- Discussion des scénarios et construction d'une feuille de route avec
-  les mentors
-- Préparation d'une présentation sur le machine learning pour le
-  numérilab
+   - Travailler sur le quickwin de demande CNIL des établissments
+   - Rapport d'étonement aux mentors
+   - Discussion des scénarios et construction d'une feuille de route avec
+     les mentors
+   - Préparation d'une présentation sur le machine learning pour le
+     numérilab
 
 * DataESR
 
 ** Dépôt
 ** Journal
 
-| Défi    | Livrable | Tâche                                                                    | Fait le           | Cat |
-|---------+----------+--------------------------------------------------------------------------+-------------------+-----|
-| DataESR |          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
-| DataESR |          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | R   |
-| DataESR |          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
-| DataESR |          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
-| DataESR |          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | R   |
-| DataESR |          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
-|---------+----------+--------------------------------------------------------------------------+-------------------+-----|
-| DataESR |          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
-| DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
-| DataESR |          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
-| DataESR |          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
-| DataESR |          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
+   | Défi    | Livrable | Tâche                                                                    | Fait le           | Cat |
+   |---------+----------+--------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Debrief semaine d'intégration                                            | <2018-02-15 jeu.> | I   |
+   | DataESR |          | Interviews membres de l'équipe                                           | <2018-02-15 jeu.> | U |
+   | DataESR |          | Exploration de jeux de données                                           | <2018-02-15 jeu.> | D   |
+   | DataESR |          | Installation environnement de travail                                    | <2018-02-15 jeu.> | I   |
+   | DataESR |          | Interview personne en charge de scanr.fr                                 | <2018-02-15 jeu.> | U |
+   | DataESR |          | Contact avec istex.fr                                                    | <2018-02-15 jeu.> | D   |
+   |---------+----------+--------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Réunion de cadrage du projet                                             | <2018-02-23 ven.> | M   |
+   | DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise | <2018-02-23 ven.> | D   |
+   | DataESR |          | Installation et prise en mains des outils techniques                     | <2018-02-23 ven.> | I   |
+   | DataESR |          | Découverte de matchID                                                    | <2018-02-23 ven.> | A   |
+   | DataESR |          | Réunion métier pour comprendre problématique brevets                     | <2018-02-23 ven.> | MD  |
 
 ** Suite
 
-- Prise de contact avec Fabien pour voir comment on peut travailler
-  ensemble au développement de matchID sur la partie qui nous
-  intéresse.
+   - Prise de contact avec Fabien pour voir comment on peut travailler
+     ensemble au développement de matchID sur la partie qui nous
+     intéresse.
 
-- Continuer sur les règles de recoupement entre la BCE et SIRET et
-  prévoir le cas de maj.
+   - Continuer sur les règles de recoupement entre la BCE et SIRET et
+     prévoir le cas de maj.
 
-- Continuer à explorer la BCE pour comprendre comment retrouver les
-  liens entre établissements.
+   - Continuer à explorer la BCE pour comprendre comment retrouver les
+     liens entre établissements.
 
-- Définir la structure de cette base commune que l'on veut constituer.
+   - Définir la structure de cette base commune que l'on veut constituer.
 
-- Faire les demandes de serveur ou en tout cas, évaluer le besoin.
+   - Faire les demandes de serveur ou en tout cas, évaluer le besoin.
 
 * EIG Link
 
 ** Dépôts
 
-- https://github.com/entrepreneur-interet-general/eig-link
-- https://github.com/entrepreneur-interet-general/blog-eig2
-- https://github.com/entrepreneur-interet-general/agenda-eig2018
+   - https://github.com/entrepreneur-interet-general/eig-link
+   - https://github.com/entrepreneur-interet-general/blog-eig2
+   - https://github.com/entrepreneur-interet-general/agenda-eig2018
 
 ** Journal
 
-| Défi     | Livrable               | Tâche                               | Fait le           | Cat |
-|----------+------------------------+-------------------------------------+-------------------+-----|
-| EIG Link | Maintenance des outils | Installation IRC                    | <2018-02-13 mar.> | P   |
-| EIG Link | blog-eig2              | Créer un blog                       | <2018-02-14 mer.> | P   |
-|----------+------------------------+-------------------------------------+-------------------+-----|
-| EIG Link |                        | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
-| EIG Link |                        | Participation session mentors       | <2018-02-23 ven.> | M   |
-| EIG Link | eig-link               | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
-| EIG Link |                        | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
-| EIG Link |                        | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
+   | Défi     | Livrable               | Tâche                               | Fait le           | Cat |
+   |----------+------------------------+-------------------------------------+-------------------+-----|
+   | EIG Link | Maintenance des outils | Installation IRC                    | <2018-02-13 mar.> | P   |
+   | EIG Link | blog-eig2              | Créer un blog                       | <2018-02-14 mer.> | P   |
+   |----------+------------------------+-------------------------------------+-------------------+-----|
+   | EIG Link |                        | Mise à dispo du serveur de calcul   | <2018-02-23 ven.> | P   |
+   | EIG Link |                        | Participation session mentors       | <2018-02-23 ven.> | M   |
+   | EIG Link | eig-link               | Avancée sur eig-link                | <2018-02-23 ven.> | P   |
+   | EIG Link |                        | Réunion technique aux Gobelins      | <2018-02-23 ven.> | M   |
+   | EIG Link |                        | Vidéo pour la prise en main serveur | <2018-02-23 ven.> | P   |
 
 ** Suite
 
-- Mise en forme web pour les saisines AGD
-- Outil web bulloterie
-- Outil web journal EIG
+   - Mise en forme web pour les saisines AGD
+   - Outil web bulloterie
+   - Outil web journal EIG
 
 * Gobelins
 
@@ -212,345 +221,345 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 ** Journal
 
-| Défi     | Livrable | Tâche                                                         | Fait le           | Cat |
-|----------+----------+---------------------------------------------------------------+-------------------+-----|
-| Gobelins |          | installation matériel                                         | <2018-02-15 jeu.> | I   |
-| Gobelins |          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
-| Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | R   |
-| Gobelins |          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
-| Gobelins | Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
-|----------+----------+---------------------------------------------------------------+-------------------+-----|
-| Gobelins |          | Lecture des analyses déjà réalisées par le MN                 | <2018-02-23 ven.> | AI  |
-| Gobelins |          | Découverte de nouvelles sources de données                    | <2018-02-23 ven.> | D   |
-| Gobelins |          | Récolte des vidéos, textes existants                          | <2018-02-23 ven.> | C   |
-| Gobelins |          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
-| Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
-| Gobelins |          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
+   | Défi     | Livrable | Tâche                                                         | Fait le           | Cat |
+   |----------+----------+---------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | installation matériel                                         | <2018-02-15 jeu.> | I   |
+   | Gobelins |          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
+   | Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | U |
+   | Gobelins |          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
+   | Gobelins | Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
+   |----------+----------+---------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Lecture des analyses déjà réalisées par le MN                 | <2018-02-23 ven.> | AI  |
+   | Gobelins |          | Découverte de nouvelles sources de données                    | <2018-02-23 ven.> | D   |
+   | Gobelins |          | Récolte des vidéos, textes existants                          | <2018-02-23 ven.> | C   |
+   | Gobelins |          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
+   | Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
+   | Gobelins |          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
 
 ** Suite
 
-- Débrief avec notre mentor / échange sur les directions à prendre
-- Présentation du phasage du projet à notre mentor
-- Poursuite des visites, entretiens, compte rendu
-- Mind mapping des possibles du projet
-- Partir en quête des données cachées
-- Premiers pas pour induire l’opendata
-- Premiers pas pour induire une numérisation HD des tapisseries
-- Jeudi on accueille Ned !
+   - Débrief avec notre mentor / échange sur les directions à prendre
+   - Présentation du phasage du projet à notre mentor
+   - Poursuite des visites, entretiens, compte rendu
+   - Mind mapping des possibles du projet
+   - Partir en quête des données cachées
+   - Premiers pas pour induire l’opendata
+   - Premiers pas pour induire une numérisation HD des tapisseries
+   - Jeudi on accueille Ned !
 
 * Hopkins
 
 ** Dépôt
 
-- https://github.com/entrepreneur-interet-general/mkinx
+   - https://github.com/entrepreneur-interet-general/mkinx
 
 ** Journal
 
-| Défi    | Livrable          | Tâche                                                       | Fait le           | Cat |
-|---------+-------------------+-------------------------------------------------------------+-------------------+-----|
-| Hopkins |                   | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
-| Hopkins |                   | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
-| Hopkins |                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
-| Hopkins |                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
-| Hopkins |                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
-| Hopkins |                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | R   |
-| Hopkins |                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
-| Hopkins |                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
-| Hopkins |                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
-| Hopkins |                   | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
-|---------+-------------------+-------------------------------------------------------------+-------------------+-----|
-| Hopkins |                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
-| Hopkins | Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
-| Hopkins | 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
-| Hopkins |                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | R   |
-| Hopkins |                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
-| Hopkins |                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
-| Hopkins |                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
-| Hopkins |                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
-| Hopkins |                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
+   | Défi    | Livrable          | Tâche                                                       | Fait le           | Cat |
+   |---------+-------------------+-------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                   | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
+   | Hopkins |                   | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
+   | Hopkins |                   | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
+   | Hopkins |                   | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
+   | Hopkins |                   | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
+   | Hopkins |                   | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | U |
+   | Hopkins |                   | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
+   | Hopkins |                   | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
+   | Hopkins |                   | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
+   | Hopkins |                   | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
+   |---------+-------------------+-------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                   | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
+   | Hopkins | Dataset labellisé | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
+   | Hopkins | 1er matching      | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
+   | Hopkins |                   | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | U |
+   | Hopkins |                   | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
+   | Hopkins |                   | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
+   | Hopkins |                   | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
+   | Hopkins |                   | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
+   | Hopkins |                   | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
 
 ** Suite
 
-- Continuer de prendre en main de MatchID (Apprentissage)
-- Finir le 1er test de matchID avec l'interface de validation (Production)
-- Intégrer un autre dataset manuellement labellisé précédemment
-  (Production)[ nouveau dataset labellisé]
-- Tester la possibilité de différents types d'indexages sur Elastic
-  Search : phonétique, n-grams (Production)
-- Demander un serveur plus puissant pour tester matchID sur un plus
-  gros dataset (Installation)
-- Mesurer la performance qualitative d'un matching existant
-  précédemment.
-- Faire tourner l'algo de matching d'un ancien stagiaire. Le porter
-  éventuellement sur Spark pour améliorer les perfs.
-- Installer mon package sur la VM qui host le Gitlab interne
-- Définir métriques/moyens de validation des modèles NLP (catégorie ?)
-- Passage python 3
-- Premier modèle tensorflow
+   - Continuer de prendre en main de MatchID (Apprentissage)
+   - Finir le 1er test de matchID avec l'interface de validation (Production)
+   - Intégrer un autre dataset manuellement labellisé précédemment
+     (Production)[ nouveau dataset labellisé]
+   - Tester la possibilité de différents types d'indexages sur Elastic
+     Search : phonétique, n-grams (Production)
+   - Demander un serveur plus puissant pour tester matchID sur un plus
+     gros dataset (Installation)
+   - Mesurer la performance qualitative d'un matching existant
+     précédemment.
+   - Faire tourner l'algo de matching d'un ancien stagiaire. Le porter
+     éventuellement sur Spark pour améliorer les perfs.
+   - Installer mon package sur la VM qui host le Gitlab interne
+   - Définir métriques/moyens de validation des modèles NLP (catégorie ?)
+   - Passage python 3
+   - Premier modèle tensorflow
 
 * Lab Santé
 
 ** Dépôt
 ** Journal
 
-| Défi      | Livrable                | Tâche                                             | Fait le           | Cat |
-|-----------+-------------------------+---------------------------------------------------+-------------------+-----|
-| Lab Santé |                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
-| Lab Santé |                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
-| Lab Santé |                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
-| Lab Santé |                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
-| Lab Santé |                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
-| Lab Santé |                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
-| Lab Santé |                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
-|-----------+-------------------------+---------------------------------------------------+-------------------+-----|
-| Lab Santé | Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
-| Lab Santé |                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
-| Lab Santé |                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
-| Lab Santé |                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
-| Lab Santé |                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
-| Lab Santé |                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
-| Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
-| Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
+   | Défi      | Livrable                | Tâche                                             | Fait le           | Cat |
+   |-----------+-------------------------+---------------------------------------------------+-------------------+-----|
+   | Lab Santé |                         | Formation agents DREES à R                        | <2018-02-15 jeu.> | T   |
+   | Lab Santé |                         | Scraping annuairesante.ameli.fr                   | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | extraction dans avis de la HAS (NLP)              | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | Obtention des mdp pour accès aux bases            | <2018-02-15 jeu.> | I   |
+   | Lab Santé |                         | Aidé sur #support-sysadmin                        | <2018-02-15 jeu.> | T   |
+   | Lab Santé |                         | Push de la bulloterie sur shinyapps               | <2018-02-15 jeu.> | P   |
+   | Lab Santé |                         | Avancée sur un benchmark SAS/R                    | <2018-02-15 jeu.> | P   |
+   |-----------+-------------------------+---------------------------------------------------+-------------------+-----|
+   | Lab Santé | Amélioration du simplex | Réunion avec DGOS                                 | <2018-02-23 ven.> | MR  |
+   | Lab Santé |                         | Réunion  Distancier INSEE                         | <2018-02-23 ven.> | M   |
+   | Lab Santé |                         | Réunion pertinence des soins                      | <2018-02-23 ven.> | M   |
+   | Lab Santé |                         | Passage à git pour extraction des avis HAS        | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Travaux sur l'extraction des avis HAS             | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Implémenter R pour microsimulations de retraites  | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv      | <2018-02-23 ven.> | P   |
+   | Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts | <2018-02-23 ven.> | P   |
 
 ** Suite
 
-- Travaux sur le Simplex
-- Continuer extraction HAS
-- Amélioration du guide gitlab pour les utilisateurs DREES
-- Restitution à l'utilisateur final et appel du script .R depuis SAS
-  avec pipe
-- Simplex passage de tcl-tk à Shiny
-- Simplex passage de cartography à leaflet pour la carto
-- Simplex, choix d'une meilleur outil d'optimisation numérique lpSolve
-  => GPLK ou PICOSAT à essayer
-- Revoir la formation en passant moins de temps sur les fonctions de
-  base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
-- Avancer sur App Shiny standard pour toutes les publications DREES
-- Découverte des données hospitalières exhaustives (PMSI)
-- Accès aux "grosses" données (DCIR) via autre chose qu'un portail SAS
+   - Travaux sur le Simplex
+   - Continuer extraction HAS
+   - Amélioration du guide gitlab pour les utilisateurs DREES
+   - Restitution à l'utilisateur final et appel du script .R depuis SAS
+     avec pipe
+   - Simplex passage de tcl-tk à Shiny
+   - Simplex passage de cartography à leaflet pour la carto
+   - Simplex, choix d'une meilleur outil d'optimisation numérique lpSolve
+     => GPLK ou PICOSAT à essayer
+   - Revoir la formation en passant moins de temps sur les fonctions de
+     base, focus tidyverse (dplyr, ggplot2, tidyr, rvest...)
+   - Avancer sur App Shiny standard pour toutes les publications DREES
+   - Découverte des données hospitalières exhaustives (PMSI)
+   - Accès aux "grosses" données (DCIR) via autre chose qu'un portail SAS
 
 * Prédisauvetage
 
 ** Dépôt
 
-- https://github.com/entrepreneur-interet-general/predisauvetage
+   - https://github.com/entrepreneur-interet-general/predisauvetage
 
 ** Journal
 
-| Défi           | Livrable | Tâche                                                              | Fait le           | Cat |
-|----------------+----------+--------------------------------------------------------------------+-------------------+-----|
-| Prédisauvetage | Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
-| Prédisauvetage |          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
-| Prédisauvetage |          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
-|----------------+----------+--------------------------------------------------------------------+-------------------+-----|
-| Prédisauvetage |          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
-| Prédisauvetage |          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
-| Prédisauvetage |          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
-| Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
-| Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
-| Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
+   | Défi           | Livrable | Tâche                                                              | Fait le           | Cat |
+   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage | Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
+   | Prédisauvetage |          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
+   | Prédisauvetage |          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
+   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
+   | Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
 
 ** Suite
 
-- Fusion des différentes bases d'intervention et premières analyses.
+   - Fusion des différentes bases d'intervention et premières analyses.
 
-- Nouveau rendez-vous avec Navily.
+   - Nouveau rendez-vous avec Navily.
 
-- Rendez-vous avec [[http://www.safetrxapp.com][Safetrx]]
+   - Rendez-vous avec [[http://www.safetrxapp.com][Safetrx]]
 
-- Cadrage du projet et des objectifs.
+   - Cadrage du projet et des objectifs.
 
 * Prévisecours
 
 ** Site/Dépôt
 
-- http://previsecours.fr
-- https://github.com/previsecours
-- https://github.com/entrepreneur-interet-general/open-moulinette
+   - http://previsecours.fr
+   - https://github.com/previsecours
+   - https://github.com/entrepreneur-interet-general/open-moulinette
 
 ** Journal
 
-| Défi         | Livrable | Tâche                                           | Fait le           | Cat |
-|--------------+----------+-------------------------------------------------+-------------------+-----|
-| Prévisecours |          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
-| Prévisecours |          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
-| Prévisecours |          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
-| Prévisecours |          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | R   |
-| Prévisecours |          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
-| Prévisecours |          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
-| Prévisecours |          | Exploration de données                          | <2018-02-15 jeu.> | D   |
-|--------------+----------+-------------------------------------------------+-------------------+-----|
-| Prévisecours |          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
-| Prévisecours |          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
-| Prévisecours |          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
-| Prévisecours |          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
-| Prévisecours |          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
-| Prévisecours |          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
-| Prévisecours |          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
-| Prévisecours |          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
-| Prévisecours |          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
+   | Défi         | Livrable | Tâche                                           | Fait le           | Cat |
+   |--------------+----------+-------------------------------------------------+-------------------+-----|
+   | Prévisecours |          | Ajout Indicateurs idh2 par commune              | <2018-02-15 jeu.> | P   |
+   | Prévisecours |          | Premières versions naïves des features          | <2018-02-15 jeu.> | P   |
+   | Prévisecours |          | Trouver endroit où travailler au LLL            | <2018-02-15 jeu.> | I   |
+   | Prévisecours |          | Rencontre avec service de PJ                    | <2018-02-15 jeu.> | U |
+   | Prévisecours |          | Point avec mentor                               | <2018-02-15 jeu.> | M   |
+   | Prévisecours |          | Petit déjeuner pour se présenter au service     | <2018-02-15 jeu.> | I   |
+   | Prévisecours |          | Exploration de données                          | <2018-02-15 jeu.> | D   |
+   |--------------+----------+-------------------------------------------------+-------------------+-----|
+   | Prévisecours |          | Apprentissage Docker                            | <2018-02-23 ven.> | A   |
+   | Prévisecours |          | Microservice upload de ficher                   | <2018-02-23 ven.> | P   |
+   | Prévisecours |          | Appels pour obtenir de la data                  | <2018-02-23 ven.> | D   |
+   | Prévisecours |          | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                         | <2018-02-23 ven.> | P   |
+   | Prévisecours |          | Résolution pb DNS avec Cloudflare               | <2018-02-23 ven.> | I   |
+   | Prévisecours |          | Analyses statistiques sur données interventions | <2018-02-23 ven.> | P   |
+   | Prévisecours |          | Création des aggrégats à la semaine             | <2018-02-23 ven.> | P   |
+   | Prévisecours |          | Aide interne sur informations réseaux du futur  | <2018-02-23 ven.> | T   |
+   | Prévisecours |          | Demande des données interventions avant 2016    | <2018-02-23 ven.> | D   |
 
 ** Suite
 
-- Point sur le livrable à fournir au mentor opérationnel
+   - Point sur le livrable à fournir au mentor opérationnel
 
-- livraison d'un CR rapide sur les corrélations open data x
-  interventions.
+   - livraison d'un CR rapide sur les corrélations open data x
+     interventions.
 
-- Déplacement dans le centre de réception d'appels du 91 (?)
+   - Déplacement dans le centre de réception d'appels du 91 (?)
 
 * Signaux Faibles
 
 ** Dépôt
 ** Journal
 
-| Défi            | Livrable          | Tâche                                  | Fait le           | Cat |
-|-----------------+-------------------+----------------------------------------+-------------------+-----|
-| Signaux Faibles |                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
-| Signaux Faibles |                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
-| Signaux Faibles |                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
-|-----------------+-------------------+----------------------------------------+-------------------+-----|
-| Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
-| Signaux Faibles |                   | Installation du container              | <2018-02-23 ven.> | I   |
-| Signaux Faibles |                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
-| Signaux Faibles |                   | Première prédiction                    | <2018-02-23 ven.> | P   |
-| Signaux Faibles |                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
-| Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
-| Signaux Faibles | Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
-| Signaux Faibles |                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
+   | Défi            | Livrable          | Tâche                                  | Fait le           | Cat |
+   |-----------------+-------------------+----------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Immersion dans le code                 | <2018-02-15 jeu.> | A   |
+   | Signaux Faibles |                   | Correction d’un bug                    | <2018-02-15 jeu.> | P   |
+   | Signaux Faibles |                   | Connaissance avec les données          | <2018-02-15 jeu.> | D   |
+   |-----------------+-------------------+----------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Installation du container              | <2018-02-23 ven.> | I   |
+   | Signaux Faibles |                   | Inventaire des données                 | <2018-02-23 ven.> | D   |
+   | Signaux Faibles |                   | Première prédiction                    | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Rencontre statisticienne DIRECCTE      | <2018-02-23 ven.> | M   |
+   | Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté   | <2018-02-23 ven.> | M   |
+   | Signaux Faibles | Modèle de données | Conception achevée                     | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Présentation ppt sur le projet         | <2018-02-23 ven.> | C   |
 
 ** Suite
 
-- Plus de prospection dans les sources de données non encore
-  exploitées.
+   - Plus de prospection dans les sources de données non encore
+     exploitées.
 
-- Début de codage du nouveau modèle de données orienté document et
-  suivi de modification.
+   - Début de codage du nouveau modèle de données orienté document et
+     suivi de modification.
 
-- Réflexion sur un framework permettant de faciliter l'insertion et
-  l'exploitation de nouvelles données dans le modèle (il existe déjà
-  sans doute des choses).
+   - Réflexion sur un framework permettant de faciliter l'insertion et
+     l'exploitation de nouvelles données dans le modèle (il existe déjà
+     sans doute des choses).
 
-- Vérification avec les utilisateurs (accompagnement inclu) des
-  données produites par la première prédiction.
+   - Vérification avec les utilisateurs (accompagnement inclu) des
+     données produites par la première prédiction.
 
-- Échanges avec DIRECCTE pour mettre en place des scripts d'extraction
-  des données.
+   - Échanges avec DIRECCTE pour mettre en place des scripts d'extraction
+     des données.
 
-- Tentative de croisement SIRENE/DARES pour remplacer un algorithme
-  humain de data quality.
+   - Tentative de croisement SIRENE/DARES pour remplacer un algorithme
+     humain de data quality.
 
 * SocialConnect
 
 ** Dépôt
 
-- https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper
+   - https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper
 
 ** Journal
 
-| Défi          | Livrable | Tâche                                                      | Fait le           | Cat |
-|---------------+----------+------------------------------------------------------------+-------------------+-----|
-| SocialConnect |          | entretiens parties prenantes                               | <2018-02-15 jeu.> | R   |
-| SocialConnect |          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
-| SocialConnect |          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
-| SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
-|---------------+----------+------------------------------------------------------------+-------------------+-----|
-| SocialConnect |          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
-| SocialConnect |          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
-| SocialConnect |          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | R   |
-| SocialConnect |          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
-| SocialConnect |          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
-| SocialConnect |          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
-| SocialConnect |          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
-| SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
-| SocialConnect |          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
+   | Défi          | Livrable | Tâche                                                      | Fait le           | Cat |
+   |---------------+----------+------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |          | entretiens parties prenantes                               | <2018-02-15 jeu.> | U |
+   | SocialConnect |          | atelier nomenclature                                       | <2018-02-15 jeu.> | D   |
+   | SocialConnect |          | préparer atelier communication                             | <2018-02-15 jeu.> | P   |
+   | SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                            | <2018-02-15 jeu.> | M   |
+   |---------------+----------+------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |          | Obtention de la suite Adobe par la DSI                     | <2018-02-23 ven.> | I   |
+   | SocialConnect |          | Debrief et synthèse des 15 entretiens                      | <2018-02-23 ven.> | RP  |
+   | SocialConnect |          | Définition des profils cibles pour V1 et V2                | <2018-02-23 ven.> | U |
+   | SocialConnect |          | Priorisation des fonctionnalités V1                        | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | Benchmark identité graphique CIS                           | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | Réflexion sur la stratégie de communication / landing page | <2018-02-23 ven.> | C   |
+   | SocialConnect |          | Étude du code dont on hérite                               | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                          | <2018-02-23 ven.> | P   |
+   | SocialConnect |          | test du statut de résident nomade au lll                   | <2018-02-23 ven.> | I   |
 
 ** Suite
 
-- Illustrations pour nos supports de com'
-- Mock-up des écrans principaux
-- Avancer sur la landing page
-- Sprint sur OpenScrapper : mvp fonctionnant en local.
-- Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
-- 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
+   - Illustrations pour nos supports de com'
+   - Mock-up des écrans principaux
+   - Avancer sur la landing page
+   - Sprint sur OpenScrapper : mvp fonctionnant en local.
+   - Poser les bases du projet socialConnectAPI (flask+restplus+jwt)
+   - 2 meetups ‘socialtech’ : un lundi, l’autre mercredi
 
 * Applications/bibliothèques intégrées à l’écosystème open source
 
-| Défi    | Appli / bibli                  |
-|---------+--------------------------------|
-| Hopkins | https://pypi.org/project/mkinx |
+  | Défi    | Appli / bibli                  |
+  |---------+--------------------------------|
+  | Hopkins | https://pypi.org/project/mkinx |
 
 * Tickets/PR ouverts sur des projets open source
 
-| Défi            | Ticket ouvert                                      |
-|-----------------+----------------------------------------------------|
-| Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355     |
-| Prévisecours    | https://github.com/anthill/open-moulinette/pull/61 |
+  | Défi            | Ticket ouvert                                      |
+  |-----------------+----------------------------------------------------|
+  | Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355     |
+  | Prévisecours    | https://github.com/anthill/open-moulinette/pull/61 |
 
 * Détail des catégories
 
 ** Apprentissage
 
-- Acquisition de nouvelles techniques
-- Formations reçues
+   - Acquisition de nouvelles techniques
+   - Formations reçues
 
 ** Communication (interne et externe)
 
-- Rédaction de conventions (pour l’accès aux données)
-- Trouver un logo
-- Trouver un slogan / méthode
-- Lettre envoyée Lemoine
+   - Rédaction de conventions (pour l’accès aux données)
+   - Trouver un logo
+   - Trouver un slogan / méthode
+   - Lettre envoyée Lemoine
 
 ** Données (accès)
 
-- Rencontre avec les personnes dépositaires des données
-- Acquisition des mots de passe pour l’accès aux postes
-- Compréhension des données
+   - Rencontre avec les personnes dépositaires des données
+   - Acquisition des mots de passe pour l’accès aux postes
+   - Compréhension des données
 
 ** Installation (physique et informatique)
 
-- Installation physique
-  - Récupération de badges
-  - Visite des lieux
-  - Rencontre avec des voisins de bureau
-- Installation informatique
-  - Récupération du matériel
-  - Configuration du matériel
-- Acculturation aux méthodes de travail
+   - Installation physique
+     - Récupération de badges
+     - Visite des lieux
+     - Rencontre avec des voisins de bureau
+   - Installation informatique
+     - Récupération du matériel
+     - Configuration du matériel
+   - Acculturation aux méthodes de travail
 
 ** Management (réunions, gestion de projet)
 
-- Réunions avec les mentors
-- Réunions de cadrage avec l’équipe EIG
+   - Réunions avec les mentors
+   - Réunions de cadrage avec l’équipe EIG
 
 ** Production (code, données, doc, etc.)
 
-- Immersion dans le code passé
-- Création de modèles de données
-- Création de tests unitaires
-- Implémentation de nouvelles fonctionnalités
-- Traitement des données
-- Maquettes / mock-ups
-- Design
-- Benchmarks
-- Création d’outils annexe
+   - Immersion dans le code passé
+   - Création de modèles de données
+   - Création de tests unitaires
+   - Implémentation de nouvelles fonctionnalités
+   - Traitement des données
+   - Maquettes / mock-ups
+   - Design
+   - Benchmarks
+   - Création d’outils annexe
 
 ** Retours utilisateur (entretiens, UX, UI)
 
-- Définir qui sont les utilisateurs
+   - Définir qui sont les utilisateurs
 
-- Entretiens individuels avec les utilisateurs
+   - Entretiens individuels avec les utilisateurs
 
-- Ateliers utilisateurs
+   - Ateliers utilisateurs
 
 ** Services informatique (pour l’administration)
 
-- Recette informatique
-- Services rendus autour de soi
+   - Recette informatique
+   - Services rendus autour de soi
 
 ** Transformation de la culture informatique
 
-- Faire évoluer l’environnement informatique (par exemple : "passer à
-  Python3")
+   - Faire évoluer l’environnement informatique (par exemple : "passer à
+     Python3")
 
-- Donner des formations données en interne (git, R, python)
+   - Donner des formations données en interne (git, R, python)
