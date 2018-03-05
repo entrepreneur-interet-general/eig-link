@@ -11,6 +11,8 @@
 - ARCEP : Autorité de régulation des communications électroniques et
   des postes
 
+- AVURNAV : Avis urgents aux navigateurs
+
 - CADA : Commission d'accès aux documents administratifs
 
 - DAM : Direction des affaires maritimes
