@@ -88,6 +88,27 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 - Introduction au NoSQL (présentation MongoDB à un interne)
 
 * BrigadeNumérique
+
+** Dépôt
+** Journal
+
+| Défi             | Livrable | Tâche                                                          | Fait le           | Cat |
+|------------------+----------+----------------------------------------------------------------+-------------------+-----|
+| BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                          | <2018-02-16 ven.> | M   |
+| BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs | <2018-02-16 ven.> | MCR |
+| BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                 | <2018-02-16 ven.> | C   |
+| BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                    | <2018-02-16 ven.> | R   |
+| BrigadeNumérique |          | Mise en place de KanBoard                                      | <2018-02-16 ven.> | PM  |
+
+# |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+# | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation            | <2018-02-23 ven.> | P   |
+# | BrigadeNumérique |          | ​RdV Dinsic pour premier contact avec FranceConnect             | <2018-02-23 ven.> | M   |
+# | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV              | <2018-02-23 ven.> | R   |
+# | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction             | <2018-02-23 ven.> | P   |
+# |------------------+----------+----------------------------------------------------------------+-------------------+-----|
+
+** Suite
+
 * CoachÉlève
 
 ** Dépôt
@@ -98,9 +119,9 @@ Ces catégories sont détaillées [[https://github.com/entrepreneur-interet-gene
 
 | Défi       | Livrable | Tâche                                  | Fait le           | Cat |
 |------------+----------+----------------------------------------+-------------------+-----|
-| CoachÉlève |          | Rencontre détenteurs données           | <2018-02-15 jeu.> | D   |
-| CoachÉlève |          | Rencontre Pôle Emploi Store            | <2018-02-15 jeu.> | M   |
-| CoachÉlève |          | Point légal sur propriété des données  | <2018-02-15 jeu.> | D   |
+| CoachÉlève |          | Rencontre détenteurs données           | <2018-02-16 ven.> | D   |
+| CoachÉlève |          | Rencontre Pôle Emploi Store            | <2018-02-16 ven.> | M   |
+| CoachÉlève |          | Point légal sur propriété des données  | <2018-02-16 ven.> | D   |
 |------------+----------+----------------------------------------+-------------------+-----|
 | CoachÉlève |          | https://arachez.shinyapps.io/quickwin/ | <2018-02-23 ven.> | P   |
 | CoachÉlève |          | Point feuille de route                 | <2018-02-23 ven.> | M   |
