@@ -85,4 +85,38 @@ défis EIG.
 
 
 * TODO Signaux Faibles
-* TODO SocialConnect
+
+* SocialConnect
+
+** Stack(s) : 
+- Langages principaux : python et javascript
+- Backend : Tornado et Flask + Nginx (Python 2.7) pour les webapps, Wordpress pour la landing
+- Frontends css : Bulma, Bootstrap
+- Frontend js : Vue.js, ou angular.js ou encore pure websockets (à décider)
+- Dataviz : Leaflet.js, charts.js, d3.js... 
+- Données tabulaires (client) : Datatables (?)
+- BDD : principalement MongoDB, Postgres si nécessaire
+
+** Livrables code : 
+- de manière générale des webapps intéropérables (briques d'un workflow) + documentation : 
+- webapp n°1 de webscraping + API primaire ([OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper))
+- webapp n°2 d'agrégation / enrichissement de données brutes / API sur les données de la webapp n°1
+- webapp n°3 de dataviz / moteur de recherche sur les données de la webapp n°2
+- webapp n°4 ou landing wordpress + iframes allant taper des modules dans la webapp n°3
+
+** Outils de développement code :
+- VIM : virtualenv
+- Notebook : Jupyter
+- Editeur : Visual studio code
+- Prod : OVH, ... ?
+- Git
+
+** Livrables UI/UX (à mettre à jour par Elise) :
+- kit de communication du projet 
+- écrans UX
+- ...
+
+** Outils de développement UI/UX (à mettre à jour par Elise) :
+- Suite Adobe : XD, Illustrator, InDesign
+- Entretiens, focus groups, ...
+- ...
