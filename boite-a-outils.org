@@ -120,3 +120,8 @@
 * Au quotidien
 
 - http://www.hackertyper.com
+* Article de fond
+
+** Sur la donnée
+
+- [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment (pdf)]]
