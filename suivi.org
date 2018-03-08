@@ -28,6 +28,9 @@ un lien est ajouté.
 * Archifiltre
 
 ** Dépôt
+
+http://archifiltre.com/
+
 ** Journal
 
    | Défi        | Livrable               | Tâche                                                         | Fait le           | Cat |
@@ -527,7 +530,6 @@ un lien est ajouté.
 - Tentative de conversion SAS -> monde libre.
 - Rentrer dans le code
 - Quick & dirty algo logistique et SVM
-
 
 * SocialConnect
 
