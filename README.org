@@ -2,10 +2,11 @@
 
 * L’essentiel
 
+- EIG sur [[http://github.com/entrepreneur-interet-general/][Github]] et [[https://gitlab.com/eig][Gitlab]]
+- [[file:suivi.org][Le suivi des projets]]
+- [[file:stack.org][Les stacks des projets]]
 - [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][L’agenda public des EIG]]
 - [[file:contacts.org][Les contacts des EIG]]
-- [[file:stack.org][Les stacks des projets]]
-- [[file:suivi.org][Le suivi des projets]]
 
 * Ressources
 
