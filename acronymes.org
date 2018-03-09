@@ -34,6 +34,8 @@
 
 - EPIC : Établissement public industriel et commercial.  Voir EPA
 
+- FINESS : Fichier National des Etablissements Sanitaires et Sociaux
+
 - HAS : Haute autorité de santé
 
 - HATVP : Haute autorité pour la transparence de la vie publique
