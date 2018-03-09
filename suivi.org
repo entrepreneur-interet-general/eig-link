@@ -19,7 +19,7 @@ un lien est ajouté.
   - [I]nstallation (physique et informatique)
   - [M]anagement (réunions, gestion de projet)
   - [P]roduction (code, données, doc, etc.)
-  - [S]ervices informatique (pour l’administration)
+  - [S]ervices informatiques (rendus à l’administration)
   - [T]ransformation de la culture informatique
   - [U]tilisateur (entretiens, retours, UX, UI)
 
@@ -647,7 +647,7 @@ http://archifiltre.com/
 
    - Ateliers utilisateurs
 
-** Services informatique (pour l’administration)
+** Services informatiques (rendus à l’administration)
 
    - Recette informatique
    - Services rendus autour de soi
