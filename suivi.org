@@ -246,15 +246,21 @@ http://archifiltre.com/
    | EIG Link | csv2html    | Outil de mise en forme d'un csv en HTML/JS avec datatables | <2018-03-02 ven.> | P   |
    | EIG Link | Maintenance | Fin de la mise en place du serveur EIG                     | <2018-03-02 ven.> | P   |
    | EIG Link | Maintenance | Installation d'une instance de Matomo                      | <2018-03-02 ven.> | P   |
-   | EIG Link |             | Réunion scénario avec CoachÉlèves                          | <2018-03-02 ven.> |     |
+   | EIG Link |             | Réunion scénario avec CoachÉlèves                          | <2018-03-02 ven.> | M   |
+   |----------+-------------+------------------------------------------------------------+-------------------+-----|
+   | EIG Link |             | Travail sur la roadmap avec mentor puis LLL                | <2018-03-09 ven.> | MP  |
+   | EIG Link |             | Préparation de la revue de code du 14 mars                 | <2018-03-09 ven.> | M   |
+   | EIG Link |             | Mini rapport d’étonnement                                  | <2018-03-09 ven.> | P   |
+   | EIG Link |             | Participation séminaire interne Étalab                     | <2018-03-09 ven.> | M   |
+   | EIG Link |             | Réunion-canapé avec Julien pour OpenScraper                | <2018-03-09 ven.> | M   |
+   | EIG Link |             | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                     | <2018-03-09 ven.> | P   |
+   | EIG Link |             | Module ox-timeline.el pour produire des frises             | <2018-03-09 ven.> | P   |
+   | EIG Link |             | J’ai ma carte de cantine et accès etemptation              | <2018-03-09 ven.> | I   |
 
 ** Suite
 
-- Obtenir ma carte de cantine :/
+- Première version du journal de bord [P]
 - Finir la migration des données sur mon poste fixe.
-- Rendez-vous "roadmap" avec mon mentor.
-- Publier un retour technique sur le blog EIG.
-- Faire évoluer le format des stand-ups du vendredi.
 
 * Gobelins
 
