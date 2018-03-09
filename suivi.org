@@ -171,15 +171,22 @@ http://archifiltre.com/
    | CoachÉlève |          | Discussion des scénarios mentor et Bastien                   | <2018-03-02 ven.> | M   |
    | CoachÉlève |          | Discussion du projet d'occupation des sols                   | <2018-03-02 ven.> | M   |
    | CoachÉlève |          | Rencontre pour discuter des données de la DNE                | <2018-03-02 ven.> | M   |
+   |------------+----------+--------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève |          | Visite équipe DataESR pour retex sur leur solution           | <2018-03-09 ven.> | A   |
+   | CoachÉlève |          | Proposition scénarios aux mentors et priorisation des pistes | <2018-03-09 ven.> | M   |
+   | CoachÉlève |          | Discussion des ressources dont nous avons besoin             | <2018-03-09 ven.> | M   |
+   | CoachÉlève |          | RDV avec Urbaniste SI                                        | <2018-03-09 ven.> | D   |
+   | CoachÉlève |          | RDV avec Chef de département SI                              | <2018-03-09 ven.> | D   |
 
 ** Suite
 
-   - Travailler sur le quickwin de demande CNIL des établissments
-   - Rapport d'étonement aux mentors
-   - Discussion des scénarios et construction d'une feuille de route avec
-     les mentors
-   - Préparation d'une présentation sur le machine learning pour le
-     numérilab
+- RDV à Nantes avec équipe de pôle emploi store pour inspiration
+  projet centralisation des données [A]
+- RDV sur la gouvernance des données [D]
+- Préparation d'une présentation sur l'IA pour le MEN [C]
+- Installation d'un LRS en local [I]
+- Discussion du quickwin CNIL avec François [P]
+- Prise de RDV avec élèves et profs [U]
 
 * DataESR
 
