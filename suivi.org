@@ -456,6 +456,7 @@ http://archifiltre.com/
 ** Site/Dépôt
 
    - http://previsecours.fr
+   - http://previsecours.fr/previsecours-slides/#/
    - https://github.com/previsecours
    - https://github.com/entrepreneur-interet-general/open-moulinette
 
