@@ -17,6 +17,8 @@
 
 - DAM : Direction des affaires maritimes
 
+- DGCS : Direction Générale de la Cohésion Sociale
+
 - DHUP : Direction de l'habitat, de l'urbanisme et des paysages
 
 - DINSIC : Direction interministérielle des systèmes d'information et
