@@ -444,33 +444,45 @@ http://archifiltre.com/
 
 ** Journal
 
-   | Défi           | Livrable | Tâche                                                              | Fait le           | Cat |
-   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
-   | Prédisauvetage | Roadmap  | Cadrage projet                                                     | <2018-02-15 jeu.> | M   |
-   | Prédisauvetage |          | Nettoyage données SNSM                                             | <2018-02-15 jeu.> | P   |
-   | Prédisauvetage |          | POC appli prévention                                               | <2018-02-15 jeu.> | P   |
-   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
-   | Prédisauvetage |          | Scraping de données sur les balises de signalisation en mer        | <2018-02-23 ven.> | P   |
-   | Prédisauvetage |          | Scraping de données sur les localisations des postes de plage SNSM | <2018-02-23 ven.> | P   |
-   | Prédisauvetage |          | Cleaning de la base d'intervention 2017 des CROSS                  | <2018-02-23 ven.> | P   |
-   | Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                              | <2018-02-23 ven.> | M   |
-   | Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                      | <2018-02-23 ven.> | P   |
-   | Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                  | <2018-02-23 ven.> | M   |
-   |----------------+----------+--------------------------------------------------------------------+-------------------+-----|
-   | Prédisauvetage |          | Nettoyage des bases de données SNSM                                | <2018-03-02 ven.> | PD  |
-   | Prédisauvetage |          | Croisement des bases citées précédemment                           | <2018-03-02 ven.> | PD  |
-   | Prédisauvetage |          | Tour d'horizon applis de plaisance                                 | <2018-03-02 ven.> | P   |
-   | Prédisauvetage |          | Réalisation d'un PoC d'API pour diffusion des AVURNAV              | <2018-03-02 ven.> | P   |
-   | Prédisauvetage |          | Deuxième RDV avec acteur privé pour récupérer ses données          | <2018-03-02 ven.> | DM  |
-   | Prédisauvetage |          | Questions à l'observatoire de l'accidentologie en montagne         | <2018-03-02 ven.> | AM  |
-   | Prédisauvetage |          | Relance mise à disposition serveur + accès direct aux bases DAM    | <2018-03-02 ven.> | D   |
+   | Défi           | Livrable | Tâche                                                                      | Fait le           | Cat |
+   |----------------+----------+----------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage | Roadmap  | Cadrage projet                                                             | <2018-02-15 jeu.> | M   |
+   | Prédisauvetage |          | Nettoyage données SNSM                                                     | <2018-02-15 jeu.> | P   |
+   | Prédisauvetage |          | POC appli prévention                                                       | <2018-02-15 jeu.> | P   |
+   |----------------+----------+----------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Scraping de données sur les balises de signalisation en mer                | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Scraping de données sur les localisations des postes de plage SNSM         | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Cleaning de la base d'intervention 2017 des CROSS                          | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Rendez-vous avec l'application [[http://www.navily.com/fr/][Navily]]                                      | <2018-02-23 ven.> | M   |
+   | Prédisauvetage |          | Rédaction d'une convention type avec les SDIS                              | <2018-02-23 ven.> | P   |
+   | Prédisauvetage |          | Déplacement à St Malo pour rencontrer l'équipe SI                          | <2018-02-23 ven.> | M   |
+   |----------------+----------+----------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Nettoyage des bases de données SNSM                                        | <2018-03-02 ven.> | PD  |
+   | Prédisauvetage |          | Croisement des bases citées précédemment                                   | <2018-03-02 ven.> | PD  |
+   | Prédisauvetage |          | Tour d'horizon applis de plaisance                                         | <2018-03-02 ven.> | P   |
+   | Prédisauvetage |          | Réalisation d'un PoC d'API pour diffusion des AVURNAV                      | <2018-03-02 ven.> | P   |
+   | Prédisauvetage |          | Deuxième RDV avec acteur privé pour récupérer ses données                  | <2018-03-02 ven.> | DM  |
+   | Prédisauvetage |          | Questions à l'observatoire de l'accidentologie en montagne                 | <2018-03-02 ven.> | AM  |
+   | Prédisauvetage |          | Relance mise à disposition serveur + accès direct aux bases DAM            | <2018-03-02 ven.> | D   |
+   |----------------+----------+----------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Obtention données accidents mortels en kayak / rafting / eau vive          | <2018-03-09 ven.> | D   |
+   | Prédisauvetage |          | Analyses du croisement bases DAM / SNSM                                    | <2018-03-09 ven.> | D   |
+   | Prédisauvetage |          | Rapport d'incohérence relevées entre ces 2 bases et conseils               | <2018-03-09 ven.> | DPT |
+   | Prédisauvetage |          | Questions à l'observatoire de l'accidentologie en montagne                 | <2018-03-09 ven.> | M   |
+   | Prédisauvetage |          | Lecture rapport de l'institut national de veille sanitaire sur les noyades | <2018-03-09 ven.> | D   |
+   | Prédisauvetage |          | Relance SI de St Malo pour accès directs SQL aux bdd                       | <2018-03-09 ven.> | D   |
+   | Prédisauvetage |          | Relance SI St Malo pour mise à disposition d'une VM                        | <2018-03-09 ven.> | S   |
 
 ** Suite
 
-- Nettoyage / croisement des bases
+- Analyses du croisement bases Direction Affaires Maritimes / SNSM [D]
 
-- Contact des Préfets Maritimes au sujet du scraping des données /
-  quelle suite pour l'API des AVURNAV
+- Rédaction d'un rapport d'incohérence relevées entre ces 2 bases et
+  conseils pour faire mieux [D,P,T]
+
+- Échanges avec l'observatoire de l'accidentologie en montagne [M]
+
+- Cadrage du projet suite à la qualité des données [M]
 
 * Prévisecours
 
