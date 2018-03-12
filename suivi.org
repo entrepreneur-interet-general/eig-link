@@ -214,19 +214,19 @@ http://archifiltre.com/
    | DataESR |          | Construction d'une bdd avec méta données de publications                    | <2018-03-02 ven.> | P   |
    | DataESR |          | Point avec les mentors pour valider la roadmap                              | <2018-03-02 ven.> | M   |
    | DataESR |          | Demande de serveur reportée                                                 | <2018-03-02 ven.> | I   |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Réunion avec CoachElève                                                     | <2018-03-09 ven.> | C   |
+   | DataESR |          | Modélisation de la future BDD                                               | <2018-03-09 ven.> | P   |
+   | DataESR |          | Dataviz des établissements d'enseignements supérieur                        | <2018-03-09 ven.> | P   |
+   | DataESR |          | Benchmark des framework front                                               | <2018-03-09 ven.> | T   |
+   | DataESR |          | Réalisation des premiers mockups du MVP                                     | <2018-03-09 ven.> | P   |
 
 ** Suite
 
-- Détailler la roadmap et les grandes étapes associées pour estimer le
-  temps de construction du MVP
-
-- Valider le choix technologique de Flask pour notre architecture
-
-- Finaliser le modèle de base de données
-
-- Construire la base Postgres
-
-- Remplir la base avec un premier import de données manuel
+- Contact préliminaire avec la DSI [C]
+- Commencer le back du MVP en Flask [P]
+- Feuille de route du scientific tagger [M]
+- Debrief des vacances de Sami
 
 * EIG Link
 
