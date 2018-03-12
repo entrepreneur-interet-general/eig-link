@@ -84,3 +84,6 @@ Vous pouvez aussi le lire en ligne sur [[https://entrepreneur-interet-general.gi
 
 La liste des [[file:contacts.org][comptes des EIG]], toutes promos confondues.
 
+* Ressources
+
+Le logo EIG en haute définition: [[https://user-images.githubusercontent.com/5756228/37242060-35c025b4-2463-11e8-9c8c-89208b4c0d31.png][png]] et [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/img/eig.svg][svg]].
