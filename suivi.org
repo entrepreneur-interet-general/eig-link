@@ -286,40 +286,58 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi     | Livrable | Tâche                                                         | Fait le           | Cat |
-   |----------+----------+---------------------------------------------------------------+-------------------+-----|
-   | Gobelins |          | installation matériel                                         | <2018-02-15 jeu.> | I   |
-   | Gobelins |          | visite des lieux                                              | <2018-02-15 jeu.> | I   |
-   | Gobelins |          | Prise de RDV avec le personnel                                | <2018-02-15 jeu.> | U   |
-   | Gobelins |          | Collecte ressources photo.                                    | <2018-02-15 jeu.> | D   |
-   | Gobelins | Roadmap  | Phasage du projet                                             | <2018-02-15 jeu.> | M   |
-   |----------+----------+---------------------------------------------------------------+-------------------+-----|
-   | Gobelins |          | Lecture des analyses déjà réalisées par le MN                 | <2018-02-23 ven.> | AI  |
-   | Gobelins |          | Découverte de nouvelles sources de données                    | <2018-02-23 ven.> | D   |
-   | Gobelins |          | Récolte des vidéos, textes existants                          | <2018-02-23 ven.> | C   |
-   | Gobelins |          | Réflexion sur outil pour com interne sur le projet            | <2018-02-23 ven.> | CM  |
-   | Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi | <2018-02-23 ven.> | MD  |
-   | Gobelins |          | Accès au logiciel de suivi des collections                    | <2018-02-23 ven.> | D   |
-   |----------+----------+---------------------------------------------------------------+-------------------+-----|
-   | Gobelins |          | Débrief mentor et présentation phasage du projet              | <2018-03-02 ven.> | M   |
-   | Gobelins |          | Début d’organisation pour permettre l’opendata                | <2018-03-02 ven.> | T   |
-   | Gobelins |          | Installation : j’ai la lumière                                | <2018-03-02 ven.> | I   |
-   | Gobelins |          | Outil de sensibilisation à notre travail                      | <2018-03-02 ven.> | CM  |
-   | Gobelins |          | Questionnaire pour les usagers internes au MN                 | <2018-03-02 ven.> | U   |
-   | Gobelins |          | Lecture des demandes d’usagers externes + Identification      | <2018-03-02 ven.> | U   |
-   | Gobelins |          | Prise de contact avec outil similaire (CNAP)                  | <2018-03-02 ven.> | UM  |
-   | Gobelins |          | Prise de contact avec détenteurs autres base de données       | <2018-03-02 ven.> | DM  |
+   | Défi     | Livrable | Tâche                                                                             | Fait le           | Cat |
+   |----------+----------+-----------------------------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | installation matériel                                                             | <2018-02-15 jeu.> | I   |
+   | Gobelins |          | visite des lieux                                                                  | <2018-02-15 jeu.> | I   |
+   | Gobelins |          | Prise de RDV avec le personnel                                                    | <2018-02-15 jeu.> | U   |
+   | Gobelins |          | Collecte ressources photo.                                                        | <2018-02-15 jeu.> | D   |
+   | Gobelins | Roadmap  | Phasage du projet                                                                 | <2018-02-15 jeu.> | M   |
+   |----------+----------+-----------------------------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Lecture des analyses déjà réalisées par le MN                                     | <2018-02-23 ven.> | AI  |
+   | Gobelins |          | Découverte de nouvelles sources de données                                        | <2018-02-23 ven.> | D   |
+   | Gobelins |          | Récolte des vidéos, textes existants                                              | <2018-02-23 ven.> | C   |
+   | Gobelins |          | Réflexion sur outil pour com interne sur le projet                                | <2018-02-23 ven.> | CM  |
+   | Gobelins |          | Rencontre avec le prestataire s’occupant du logiciel de suivi                     | <2018-02-23 ven.> | MD  |
+   | Gobelins |          | Accès au logiciel de suivi des collections                                        | <2018-02-23 ven.> | D   |
+   |----------+----------+-----------------------------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Débrief mentor et présentation phasage du projet                                  | <2018-03-02 ven.> | M   |
+   | Gobelins |          | Début d’organisation pour permettre l’opendata                                    | <2018-03-02 ven.> | T   |
+   | Gobelins |          | Installation : j’ai la lumière                                                    | <2018-03-02 ven.> | I   |
+   | Gobelins |          | Outil de sensibilisation à notre travail                                          | <2018-03-02 ven.> | CM  |
+   | Gobelins |          | Questionnaire pour les usagers internes au MN                                     | <2018-03-02 ven.> | U   |
+   | Gobelins |          | Lecture des demandes d’usagers externes + Identification                          | <2018-03-02 ven.> | U   |
+   | Gobelins |          | Prise de contact avec outil similaire (CNAP)                                      | <2018-03-02 ven.> | UM  |
+   | Gobelins |          | Prise de contact avec détenteurs autres base de données                           | <2018-03-02 ven.> | DM  |
+   |----------+----------+-----------------------------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Récolte de la base de données principale (SCOM)                                   | <2018-03-09 ven.> | D   |
+   | Gobelins |          | Obtention poste ministère et bientôt accès à l’outil de gestion des collections   | <2018-03-09 ven.> | I   |
+   | Gobelins |          | Obtention / installation logiciels Adobe                                          | <2018-03-09 ven.> | I   |
+   | Gobelins |          | Formation à la tapisserie                                                         | <2018-03-09 ven.> | A   |
+   | Gobelins |          | Visites + interview + compte rendu                                                | <2018-03-09 ven.> | U   |
+   | Gobelins |          | Prise de RDV pour récolter la base de données textile                             | <2018-03-09 ven.> | UD  |
+   | Gobelins |          | Première ébauche pour la feuille de route                                         | <2018-03-09 ven.> | M   |
+   | Gobelins |          | Identification des personnes pour obtenir le nuancier informatisé                 | <2018-03-09 ven.> | U   |
+   | Gobelins |          | Organisation du suivi de projet avec la direction                                 | <2018-03-09 ven.> | M   |
+   | Gobelins |          | première approche sur l’ouverture des données                                     | <2018-03-09 ven.> | M   |
+   | Gobelins |          | Identification des contacts au CNAP ayant participé à la mise en ligne des œuvres | <2018-03-09 ven.> | UM  |
 
 ** Suite
 
-- Roadmap avec Ned (M)
-- Définition de nos outils de travail commun (M)
-- Formation à la tapisserie (A, R)
-- Installation logiciel (I)
-- RDV avec les acteurs détenant les autres bases de données (R, D)
-- Mind mapping des possibles du projet (M,R)
-- Organisation suivi de projet avec mentors direction (M)
-- Benchmark (P)
+- [D] Découverte de la base de donnée principale
+- [M] Roadmap
+- [M] Définition de nos outils de travail commun avec Ned
+- [U] Benchmark
+- [U] Mind mapping des possibles avec Ned
+- [U] Définition des utilisateurs 
+- [D] Accès à l’outil de gestion des collections (SCOM)
+- [DU] Compréhension de la base textile
+- [C] Analyse des éléments de communication existants + réunion avec
+  le service com / définition du positionnement graphique
+- [U] Découverte des lieux de stocks + fonctionnement / Découverte du
+  service aménagement + fonctionnement
+- [M] Création de la liste des personnes à remercier en fin de projet
+  (Thanks Tiphaine)
 
 * Hopkins
 
