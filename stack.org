@@ -73,7 +73,7 @@ défis EIG.
 
 ** Livrables code
 
-- Plusieurs quickwin sur un gitlab privé DREES que l'on a créé
+- Plusieurs quickwins sur un gitlab privé DREES que l'on a créé
 - Formations R et python
 - ???
 
