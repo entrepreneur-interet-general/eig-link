@@ -56,6 +56,10 @@
 
 - http://www.ecoindex.fr
 
+* Outils de gestion de fichiers
+
+- https://github.com/hsoft/dupeguru : outil de détection des doublons.
+
 * Outils de prototypage/test web
 
 - [[https://www.sketchapp.com/][Sketch]]
