@@ -64,7 +64,7 @@ défis EIG.
 - Langages principaux: R et python
 - Librairies: 
  - python: pandas, scikit-learn, BeautifulSoup, Selenium
- - R: data.table, dplyr, harvest, shiny, plotly
+ - R: data.table, dplyr, rvest, shiny, plotly
 
 ** Outils de développement
 
