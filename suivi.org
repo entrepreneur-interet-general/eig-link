@@ -27,9 +27,9 @@ un lien est ajouté.
 
 * Archifiltre
 
-** Dépôt
+** Dépôt et site
 
-http://archifiltre.com/
+- http://archifiltre.com
 
 ** Journal
 
@@ -55,15 +55,25 @@ http://archifiltre.com/
    | Archifiltre |                        | Tests utilisateurs informels                                  | <2018-03-02 ven.> | U   |
    | Archifiltre | Site web vitrine       | Début de site web vitrine                                     | <2018-03-02 ven.> | P   |
    | Archifiltre |                        | Point de fin du premier sprint                                | <2018-03-02 ven.> | M   |
+   |-------------+------------------------+---------------------------------------------------------------+-------------------+-----|
+   | Archifiltre |                        | Outil de visualisation avec retours utilisateur               | <2018-03-09 ven.> | P   |
+   | Archifiltre |                        | Dév outil de détection des fichiers en doublons               | <2018-03-09 ven.> | P   |
+   | Archifiltre |                        | Amélioration continue de archifiltre.com                      | <2018-03-09 ven.> | C   |
+   | Archifiltre |                        | Entretien avec potentielle future stagiaire                   | <2018-03-09 ven.> | M   |
+   | Archifiltre |                        | Réorganisation de l'espace de travail (Velleda!)              | <2018-03-09 ven.> | I   |
 
 ** Suite
 
-   - début du sprint numéro 2, sur la détection des conversations (parmi
-     les mails) et des doublons (mails ou autres fichiers)
-   - tests utilisateur sur le sprint 2
-   - tests utilisateur sur le Finder de macOS (que les archivistes
-     connaissent peu et qui a des fonctionnalités qui peuvent nous
-     inspirer)
+- Toujours des itérations sur les outils créés jusqu'ici ! (Notamment
+  avec les retours qu'on a eu de certains d'entre vous sur notre outil
+  de visualisation ;))
+
+- Sprint 2, partie 2 : Développement d'une solution qui permette de
+  rassembler les emails par conversation
+
+- Point de suivi avec notre DSI
+
+- Point de fin de sprint 2
 
 * b@liseNAV
 
