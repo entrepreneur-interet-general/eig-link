@@ -166,7 +166,6 @@ un lien est ajouté.
   prod Vacances :) (je vais m'excuser pour cette méchanceté à mon
   retour)
 
-
 * CoachÉlève
 
 ** Dépôt
