@@ -37,7 +37,7 @@
 * Historique
 
 
-*** session du 22 mars : utilisateurs
+*** Session du 22 mars : utilisateurs
 
 - Quels sont les objectifs de la session ?
   -	Se situer dans l’avancement de son défi du point de vue utilisateurs
