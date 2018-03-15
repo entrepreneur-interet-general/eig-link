@@ -105,10 +105,25 @@ un lien est ajouté.
    | b@liseNAV |               | Mapping bases de données (Aladin - BDGS)                       | <2018-03-02 ven.> | D   |
    | b@liseNAV |               | Modèle de données S-201                                        | <2018-03-02 ven.> | D   |
    | b@liseNAV |               | Revue du démonstrateur Infoport                                | <2018-03-02 ven.> | P   |
+   |-----------+---------------+----------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |               | Codage mapping Aladin -> S-57 -> S-201 en JS                   | <2018-03-09 ven.> | P   |
+   | b@liseNAV |               | Codage du modèle de donnée S-201 en C#                         | <2018-03-09 ven.> | P   |
+   | b@liseNAV |               | Roadmap                                                        | <2018-03-09 ven.> | M   |
+   | b@liseNAV |               | Insertion dans la "boucle" des contributeurs de la norme S-201 | <2018-03-09 ven.> | U   |
+   | b@liseNAV |               | Commencement d’un module JS S-57/GeoJson to S-201/GML3         | <2018-03-09 ven.> | P   |
+   | b@liseNAV |               | RDV avec Christian Quest                                       | <2018-03-09 ven.> | T   |
 
 ** Suite
 
-   - Codage mapping Aladin - S201
+- [M] Consolidation de la roadmap en prenant en compte le rdv de
+  Christian Q.
+- [P] Suite codage mapping Aladin -> S-57 -> S-201 en JS
+- [P] Finalisation du module JS S-57/GeoJson to S-201/GML3
+- [P] Consolidation de l’API PoC avec toutes les nouvelles
+  fonctionnalités (Aladin->S-57/json, Aladin->S-57/geojson, Aladin->
+  S-201/GML3)
+- [T] Rapport d'étonnement sur la gouvernance informatique @ Shom,
+  pour une députée intéressée par le sujet
 
 * BrigadeNumérique
 
