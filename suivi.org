@@ -442,48 +442,48 @@ un lien est ajouté.
 
    | Défi      | Livrable                | Tâche                                                                                      | Fait le           | Cat  |
    |-----------+-------------------------+--------------------------------------------------------------------------------------------+-------------------+------|
-   | Lab Santé |                         | Formation agents DREES à R                                                                 | <2018-02-15 jeu.> | T    |
+   | Lab Santé |Formation| Formation agents DREES à R                                                                 | <2018-02-15 jeu.> | T    |
    | Lab Santé |                         | Scraping annuairesante.ameli.fr                                                            | <2018-02-15 jeu.> | P    |
    | Lab Santé |                         | extraction dans avis de la HAS (NLP)                                                       | <2018-02-15 jeu.> | P    |
    | Lab Santé |                         | Obtention des mdp pour accès aux bases                                                     | <2018-02-15 jeu.> | I    |
    | Lab Santé |                         | Aidé sur #support-sysadmin                                                                 | <2018-02-15 jeu.> | T    |
-   | Lab Santé |                         | Push de la bulloterie sur shinyapps                                                        | <2018-02-15 jeu.> | P    |
-   | Lab Santé |                         | Avancée sur un benchmark SAS/R                                                             | <2018-02-15 jeu.> | P    |
+   | Lab Santé |Communauté EIG| Push de la bulloterie sur shinyapps                                                        | <2018-02-15 jeu.> | P    |
+   | Lab Santé |Benchmark SAS/R/Python| Avancée sur un benchmark SAS/R                                                             | <2018-02-15 jeu.> | P    |
    |-----------+-------------------------+--------------------------------------------------------------------------------------------+-------------------+------|
-   | Lab Santé | Amélioration du simplex | Réunion avec DGOS                                                                          | <2018-02-23 ven.> | MR   |
-   | Lab Santé |                         | Réunion  Distancier INSEE                                                                  | <2018-02-23 ven.> | M    |
-   | Lab Santé |                         | Réunion pertinence des soins                                                               | <2018-02-23 ven.> | M    |
+   | Lab Santé |Simplex| Réunion avec DGOS                                                                          | <2018-02-23 ven.> | MR   |
+   | Lab Santé |Distancier| Réunion  Distancier INSEE                                                                  | <2018-02-23 ven.> | M    |
+   | Lab Santé |Pertinence| Réunion pertinence des soins                                                               | <2018-02-23 ven.> | M    |
    | Lab Santé |                         | Passage à git pour extraction des avis HAS                                                 | <2018-02-23 ven.> | P    |
    | Lab Santé |                         | Travaux sur l'extraction des avis HAS                                                      | <2018-02-23 ven.> | P    |
-   | Lab Santé |                         | Implémenter R pour microsimulations de retraites                                           | <2018-02-23 ven.> | P    |
-   | Lab Santé |                         | Débroussaillage Simplex données .dbf -> .csv                                               | <2018-02-23 ven.> | P    |
-   | Lab Santé |                         | Débroussaillage Simplex schéma du code 10 scripts                                          | <2018-02-23 ven.> | P    |
+   | Lab Santé |MicroSim & Benchmark SAS/R/Python| Implémenter R pour microsimulations de retraites                                           | <2018-02-23 ven.> | P    |
+   | Lab Santé |Simplex| Débroussaillage Simplex données .dbf -> .csv                                               | <2018-02-23 ven.> | P    |
+   | Lab Santé |Simplex| Débroussaillage Simplex schéma du code 10 scripts                                          | <2018-02-23 ven.> | P    |
    |-----------+-------------------------+--------------------------------------------------------------------------------------------+-------------------+------|
    | Lab Santé |                         | Version stable pour l'extraction des médicaments                                           | <2018-03-02 ven.> | P    |
    | Lab Santé |                         | Tuto Inscription GitLab et Utilisation GitLab via navigateur                               | <2018-03-02 ven.> | PTC  |
-   | Lab Santé |                         | Préparation présentation WebScraping pour la 1ère du GUEPARD                               | <2018-03-02 ven.> | P    |
-   | Lab Santé |                         | Exploration existant pour faire une formation python                                       | <2018-03-02 ven.> | P    |
-   | Lab Santé |                         | Restitution à l'utilisateur final et appel du script .R depuis SAS avec pipe               | <2018-03-02 ven.> | CP   |
-   | Lab Santé |                         | Début pour équivalent python du code sur les microsimulations                              | <2018-03-02 ven.> | P    |
-   | Lab Santé |                         | Nouveau sujet imputation de valeurs manquantes dans l'enquête OC (WIP)                     | <2018-03-02 ven.> | PM   |
-   | Lab Santé |                         | Amélioration appli Shiny de restitution des enquêtes VQS (WIP)                             | <2018-03-02 ven.> | PC   |
-   | Lab Santé |                         | Découverte/amélioration appli Shiny « Condition de vie des enfants »                       | <2018-03-02 ven.> | AP   |
-   | Lab Santé | Simplex next            | Simplex passage de tcl-tk à Shiny (DONE)                                                   | <2018-03-02 ven.> | P    |
-   | Lab Santé | Simplex next            | Simplex passage cartography à leaflet pour carto – besoin d’améliorer UX (WIP)             | <2018-03-02 ven.> | P    |
-   | Lab Santé | Simplex next            | Simplex, choix meilleur outil optimisation des transports (WIP)                            | <2018-03-02 ven.> | P    |
-   | Lab Santé |                         | Galère sur la plateforme des données hospitalières                                         | <2018-03-02 ven.> | CA   |
+   | Lab Santé |GUEPARD| Préparation présentation WebScraping pour la 1ère du GUEPARD                               | <2018-03-02 ven.> | P    |
+   | Lab Santé |Formation| Exploration existant pour faire une formation python                                       | <2018-03-02 ven.> | P    |
+   | Lab Santé |MicroSim| Restitution à l'utilisateur final et appel du script .R depuis SAS avec pipe               | <2018-03-02 ven.> | CP   |
+   | Lab Santé |MicroSim & Benchmark SAS/R/Python| Début pour équivalent python du code sur les microsimulations                              | <2018-03-02 ven.> | P    |
+   | Lab Santé |Imputation| Nouveau sujet imputation de valeurs manquantes dans l'enquête OC (WIP)                     | <2018-03-02 ven.> | PM   |
+   | Lab Santé |VQS| Amélioration appli Shiny de restitution des enquêtes VQS (WIP)                             | <2018-03-02 ven.> | PC   |
+   | Lab Santé |Formation| Découverte/amélioration appli Shiny « Condition de vie des enfants »                       | <2018-03-02 ven.> | AP   |
+   | Lab Santé |Simplex| Simplex passage de tcl-tk à Shiny (DONE)                                                   | <2018-03-02 ven.> | P    |
+   | Lab Santé |Simplex| Simplex passage cartography à leaflet pour carto – besoin d’améliorer UX (WIP)             | <2018-03-02 ven.> | P    |
+   | Lab Santé |Simplex| Simplex, choix meilleur outil optimisation des transports (WIP)                            | <2018-03-02 ven.> | P    |
+   | Lab Santé |SNDS| Galère sur la plateforme des données hospitalières                                         | <2018-03-02 ven.> | CA   |
    |-----------+-------------------------+--------------------------------------------------------------------------------------------+-------------------+------|
-   | Lab Santé |                         | Sujet Enquête OC : chgt données en entrée et proposition de nouvelles méthodo ML           | <2018-03-09 ven.> | MAUP |
-   | Lab Santé |                         | Sujet Enquête OC : check état de l’art package R Simputation                               | <2018-03-09 ven.> | APC  |
-   | Lab Santé |                         | Simplex, doc état de l’art pour l’allocation des flux                                      | <2018-03-09 ven.> | CP   |
-   | Lab Santé | Simplex next            | Simplex, shiny app pour restitution                                                        | <2018-03-09 ven.> | P    |
-   | Lab Santé | Simplex next            | Simplex, changement d’approche pour l’allocation des flux                                  | <2018-03-09 ven.> | PMU  |
-   | Lab Santé |                         | Galère sur la plateforme des données hospitalières (ATIH – PMSI)                           | <2018-03-09 ven.> | T    |
-   | Lab Santé |                         | Communauté MicroSim : Demande d’accès adullact.net à la DSI                                | <2018-03-09 ven.> | T    |
-   | Lab Santé |                         | SNDS : tests de fonctions/packages R pour lire des fichiers txt à plat avec ou sans schéma | <2018-03-09 ven.> | P    |
-   | Lab Santé |                         | Réunion Bison futé pour pb d’accès aux données limités                                     | <2018-03-09 ven.> | MD   |
-   | Lab Santé |                         | Formation Python: Construction de la future formation avec des agents de la DREES          | <2018-03-09 ven.> | P    |
-   | Lab Santé |                         | GUEPARD: Amélioration du code pour le Groupe Utilisateur GUEPARD                           | <2018-03-09 ven.> | P    |
+   | Lab Santé |Imputation| Sujet Enquête OC : chgt données en entrée et proposition de nouvelles méthodo ML           | <2018-03-09 ven.> | MAUP |
+   | Lab Santé |Imputation| Sujet Enquête OC : check état de l’art package R Simputation                               | <2018-03-09 ven.> | APC  |
+   | Lab Santé |Simplex| Simplex, doc état de l’art pour l’allocation des flux                                      | <2018-03-09 ven.> | CP   |
+   | Lab Santé |Simplex| Simplex, shiny app pour restitution                                                        | <2018-03-09 ven.> | P    |
+   | Lab Santé |Simplex| Simplex, changement d’approche pour l’allocation des flux                                  | <2018-03-09 ven.> | PMU  |
+   | Lab Santé |SNDS| Galère sur la plateforme des données hospitalières (ATIH – PMSI)                           | <2018-03-09 ven.> | T    |
+   | Lab Santé |MicroSim| Communauté MicroSim : Demande d’accès adullact.net à la DSI                                | <2018-03-09 ven.> | T    |
+   | Lab Santé |SNDS| SNDS : tests de fonctions/packages R pour lire des fichiers txt à plat avec ou sans schéma | <2018-03-09 ven.> | P    |
+   | Lab Santé |Distancier| Réunion Bison futé pour pb d’accès aux données limités                                     | <2018-03-09 ven.> | MD   |
+   | Lab Santé |Formation| Formation Python: Construction de la future formation avec des agents de la DREES          | <2018-03-09 ven.> | P    |
+   | Lab Santé |GUEPARD| GUEPARD: Amélioration du code pour le Groupe Utilisateur GUEPARD                           | <2018-03-09 ven.> | P    |
    | Lab Santé |                         | Scraping: Test du passage par tor pour roulement d'IP en vue de scraping                   | <2018-03-09 ven.> | AP   |
    | Lab Santé |                         | Séminaire Big Data par Sébastion Cossin: retex et présentation de son appli                | <2018-03-09 ven.> | AM   |
 
