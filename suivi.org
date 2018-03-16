@@ -295,8 +295,8 @@ un lien est ajouté.
    | EIG Link |             | Réunion-canapé avec Julien pour OpenScraper                | <2018-03-09 ven.> | M   |
    | EIG Link |             | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                     | <2018-03-09 ven.> | P   |
    | EIG Link |             | Module ox-timeline.el pour produire des frises             | <2018-03-09 ven.> | P   |
-   | EIG Link |             | J’ai ma carte de cantine et accès etemptation              | <2018-03-09 ven.> | I   |
-   | EIG Link |             | Réunion avec Framasoft pou Storify next                    | <2018-03-09 ven.> | M   |
+   | EIG Link |             | J’ai ma carte de cantine                                   | <2018-03-09 ven.> | I   |
+   | EIG Link |             | Réunion avec Framasoft pour Storify next                   | <2018-03-09 ven.> | M   |
 
 ** Suite
 
