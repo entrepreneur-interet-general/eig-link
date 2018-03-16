@@ -44,6 +44,10 @@
 
 - [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
 
+* Design
+
+- Accessibilité : http://accessibility.voxmedia.com/
+
 * CSS frameworks
 
 - https://bulma.io/
