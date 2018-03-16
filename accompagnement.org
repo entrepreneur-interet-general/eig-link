@@ -36,6 +36,36 @@
 
 * Historique
 
+
+*** Session du 22 mars : utilisateurs
+
+- Quels sont les objectifs de la session ?
+  -	Se situer dans l’avancement de son défi du point de vue utilisateurs
+  -	S’inspirer de réalisations de plusieurs équipes EIG
+  -	Intégrer des bonnes pratiques utilisateurs, de la conception du produit à la documentation technique, en passant bien sûr par l’UX/l’UI
+
+- Qui va animer ?
+  - Mathilde pour la présentation/clôture
+  - Quentin pour l'atelier 1
+  - Des EIG pour l'atelier 2 ?
+  - Bastien pour l'atelier 3
+ 
+- Qui va intervenir ? 
+
+- Quel déroulé pour la session ?
+  - 15h-15h15 : présentation de la session
+  - 15h15-17h15 : Ateliers (2 fois 1 heure)
+    - ATELIER 1 Product research : Qui sont mes utilisateurs ? Quel est leur problème ? Quelle solution leur apporte mon produit ? Comment construire la typologie des usages ?
+    - ATELIER 2 Product design : Comment tester mon expérience utilisateur ? Quelles informations collecter en amont du travail sur le design de l’interface 
+    - ATELIER 3 Product opening : Quelles bonnes pratiques open source sont pertinentes pour mon défi ? Quelle licence utiliser ? Comment développer la documentation ? Comment mobiliser de nouveaux contributeurs ?
+
+  -	17H15-17h30 : Pause
+
+  -	17h30-18h30 : Démos défis avec un focus sur : comment mon produit s’adresse aux utilisateurs ?
+
+
+
+
 ** Session du 8 mars : feuille de route
 ** Session du 22 février : bootcamp des mentors
 
