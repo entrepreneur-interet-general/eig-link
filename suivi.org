@@ -486,7 +486,26 @@ un lien est ajouté.
    | Lab Santé |GUEPARD| GUEPARD: Amélioration du code pour le Groupe Utilisateur GUEPARD                           | <2018-03-09 ven.> | P    |
    | Lab Santé |                         | Scraping: Test du passage par tor pour roulement d'IP en vue de scraping                   | <2018-03-09 ven.> | AP   |
    | Lab Santé |                         | Séminaire Big Data par Sébastion Cossin: retex et présentation de son appli                | <2018-03-09 ven.> | AM   |
-
+   | Lab Santé |                         |Arrivée de Samah jeudi 15 !| <2018-03-16 ven.> |    |
+   | Lab Santé |Simplex|Ajout de données COMMUNALES/EPCI/ARR/DEPINSEE et FINESS par scraping du site finess.sante.gouv.fr. Galère car tout en .xls. Je n’utilise pas open-moulinette car je veux sélectionner certains champs et gérer l’imputation des valeurs : commune si possible, sinon epci si possible, sinon arr si possible, sinon dep...| <2018-03-16 ven.> |D|
+   | Lab Santé |Simplex |proposition d’un meilleur distancier point représentation d’une commune -> localisation précise de l’établissement puis calcul durations A->B par OSRM sur 600k trajets| <2018-03-16 ven.> |D|
+   | Lab Santé |Simplex |amélioration du modéle de préférence en changeant la target et la granularité des observations commune->commune => commune->établissement| <2018-03-16 ven.> |P|
+   | Lab Santé |Simplex |Doc du projet en l’état, rapport d’étonnement et propositions d’amélioration http://rpubs.com/arifelk/simplex1 | <2018-03-16 ven.> |CP|
+   | Lab Santé |Imputation|retour du bureau utilisateur => ils veulent un benchmark des différentes méthodes| <2018-03-16 ven.> |CU|
+   | Lab Santé |Communauté EIG|Revue de code au LLL (Prédi(--Secours--)Sauvetage et JPy pour Social Connect)| <2018-03-16 ven.> |    |
+   | Lab Santé |GUEPARD|présentation scraping| <2018-03-16 ven.> |PCT|
+   | Lab Santé |GUEPARD|google form pour retour utilisateur| <2018-03-16 ven.> |U|
+   | Lab Santé |GUEPARD|élargissement communauté gitlab et liens vers les démos| <2018-03-16 ven.> |CTU|
+   | Lab Santé |Formation|Tuto Install anaconda : https://gitlab.com/jnaour/tutoriel-gitlab/blob/master/README.md| <2018-03-16 ven.> |PTC |
+   | Lab Santé |Formation|Tuto Install TortoiseGit : https://gitlab.com/jnaour/tutoriel-gitlab/blob/master/README.md| <2018-03-16 ven.> |PTC|
+   | Lab Santé |Formation|Tuto Install Git : https://gitlab.com/jnaour/tutoriel-gitlab/blob/master/README.md| <2018-03-16 ven.> |PTC|
+   | Lab Santé |Formation|Formation Python - Module de base| <2018-03-16 ven.> |P|
+   | Lab Santé |                         |Rencontre OpenDataSoft| <2018-03-16 ven.> |M|
+   | Lab Santé |                         |Transmission scraping médecin| <2018-03-16 ven.> |MC|
+   | Lab Santé |                         |Rencontre sous-dir OSAM et alignement| <2018-03-16 ven.> |M|
+   | Lab Santé |                         |Stabilisation du code pour extraction de médicament et scraping médecins| <2018-03-16 ven.> |P|
+   | Lab Santé |random | tentative de connection RDCOM R <-> Outlook pour faire reporting sur mes mails et les trier automatiquement par regexp ou autre… echec ! (initiatives abandonnées depuis 10 ans sauf pour l’envoi de mails)| <2018-03-16 ven.> |AP|
+   | Lab Santé |Communauté EIG|Déj EIG ce 03-16, organisé via le channel slack SBFS| <2018-03-16 ven.> |    |
 
 ** Suite
 
