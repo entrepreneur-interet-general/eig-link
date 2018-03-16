@@ -48,6 +48,9 @@
 
 - Accessibilité : http://accessibility.voxmedia.com/
 
+- Gestion cookies/données personnelles :
+  https://opt-out.ferank.eu/en/install/
+
 * CSS frameworks
 
 - https://bulma.io/
