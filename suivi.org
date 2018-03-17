@@ -345,11 +345,24 @@ un lien est ajouté.
    | EIG Link |             | Module ox-timeline.el pour produire des frises             | <2018-03-09 ven.> | P   |
    | EIG Link |             | J’ai ma carte de cantine                                   | <2018-03-09 ven.> | I   |
    | EIG Link |             | Réunion avec Framasoft pour Storify next                   | <2018-03-09 ven.> | M   |
+   |----------+-------------+------------------------------------------------------------+-------------------+-----|
+   | EIG Link |             | Écriture d’une entrée de blog                              | <2018-03-16 ven.> | P   |
+   | EIG Link |             | Saisie des retours hebdomadaires                           | <2018-03-16 ven.> | P   |
+   | EIG Link |             | Session de revue de code                                   | <2018-03-16 ven.> | M   |
+   | EIG Link |             | Déjeuner avec Archifiltre sur l’open source                | <2018-03-16 ven.> | M   |
+   | EIG Link |             | Réunion Étalab sur la communication EIG                    | <2018-03-16 ven.> | M   |
+   | EIG Link |             | Réunion MIMDEV                                             | <2018-03-16 ven.> | M   |
+   | EIG Link |             | Onboarding Sophie                                          | <2018-03-16 ven.> | IM  |
+   | EIG Link |             | Mises à jour sur le blog                                   | <2018-03-16 ven.> | P   |
+   | EIG Link |             | Test de Cloudron et sshuttle                               | <2018-03-16 ven.> | P   |
 
 ** Suite
 
-- Première version du journal de bord [P]
-- Finir la migration des données sur mon poste fixe.
+- Premier test d’un outil de journal de bord [P]
+- Préparation de la session d’accompagnement [P]
+- Participation au séminaire d’Étalab [M]
+- Participation à la session d’accompagnement [P]
+- Congé le 23 mars
 
 * Gobelins
 
