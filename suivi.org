@@ -605,53 +605,63 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi         | Livrable  | Tâche                                                       | Fait le           | Cat |
-   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
-   | Prévisecours |           | Ajout Indicateurs idh2 par commune                          | <2018-02-15 jeu.> | P   |
-   | Prévisecours |           | Premières versions naïves des features                      | <2018-02-15 jeu.> | P   |
-   | Prévisecours |           | Trouver endroit où travailler au LLL                        | <2018-02-15 jeu.> | I   |
-   | Prévisecours |           | Rencontre avec service de PJ                                | <2018-02-15 jeu.> | U   |
-   | Prévisecours |           | Point avec mentor                                           | <2018-02-15 jeu.> | M   |
-   | Prévisecours |           | Petit déjeuner pour se présenter au service                 | <2018-02-15 jeu.> | I   |
-   | Prévisecours |           | Exploration de données                                      | <2018-02-15 jeu.> | D   |
-   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
-   | Prévisecours |           | Apprentissage Docker                                        | <2018-02-23 ven.> | A   |
-   | Prévisecours |           | Microservice upload de ficher                               | <2018-02-23 ven.> | P   |
-   | Prévisecours |           | Appels pour obtenir de la data                              | <2018-02-23 ven.> | D   |
-   | Prévisecours |           | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                                     | <2018-02-23 ven.> | P   |
-   | Prévisecours |           | Résolution pb DNS avec Cloudflare                           | <2018-02-23 ven.> | I   |
-   | Prévisecours |           | Analyses statistiques sur données interventions             | <2018-02-23 ven.> | P   |
-   | Prévisecours |           | Création des aggrégats à la semaine                         | <2018-02-23 ven.> | P   |
-   | Prévisecours |           | Aide interne sur informations réseaux du futur              | <2018-02-23 ven.> | T   |
-   | Prévisecours |           | Demande des données interventions avant 2016                | <2018-02-23 ven.> | D   |
-   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
-   | Prévisecours |           | Récupération des données métiers depuis 2010                | <2018-03-02 ven.> | D   |
-   | Prévisecours |           | Travail sur les flux de normalisation de données métiers    | <2018-03-02 ven.> | D   |
-   | Prévisecours | Dashboard | Customisation des matrices de confusion pour dashboard      | <2018-03-02 ven.> | P   |
-   | Prévisecours |           | Livraison d'un CR au métier pour expl. choix techniques     | <2018-03-02 ven.> | P   |
-   | Prévisecours |           | Récup données open data ISO périmètre 2017 pour 2010 à 2016 | <2018-03-02 ven.> | D   |
-   | Prévisecours |           | Draft de roadmap projet                                     | <2018-03-02 ven.> | MP  |
-   | Prévisecours |           | Recherche de data: Prises de nouveaux contacts              | <2018-03-02 ven.> | DM  |
-   | Prévisecours |           | Recherche de modèle similaire à PreviSecours                | <2018-03-02 ven.> | UM  |
-   | Prévisecours |           | Après-midi surprise avec un stagiaire de 3ème               | <2018-03-02 ven.> | M   |
-   | Prévisecours |           | 1er draft pour un projet interne micro service d'upload     | <2018-03-02 ven.> | PS  |
-   |--------------+-----------+-------------------------------------------------------------+-------------------+-----|
-   | Prévisecours |           | Récupération de nos badges agents                           | <2018-03-02 ven.> | I   |
-   | Prévisecours |           | Refactoring des données opendata                            | <2018-03-02 ven.> | P   |
-   | Prévisecours |           | Ajout des données FINESS                                    | <2018-03-02 ven.> | P   |
-   | Prévisecours |           | Création [[http://previsecours.fr/previsecours-slides/][slides]] pour présenter le projet                    | <2018-03-02 ven.> | C   |
-   | Prévisecours |           | Discussion sur nouveaux types de prédiction potentiels      | <2018-03-02 ven.> | M   |
-   | Prévisecours |           | Discussion avec meteofrance                                 | <2018-03-02 ven.> | MD  |
-   | Prévisecours |           | WebApp DSS pour explorer cartographie de données            | <2018-03-02 ven.> | P   |
-   | Prévisecours |           | Récupération données pollen RNSA                            | <2018-03-02 ven.> | D   |
+   | Défi         | Livrable  | Tâche                                                                 | Fait le           | Cat |
+   |--------------+-----------+-----------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Ajout Indicateurs idh2 par commune                                    | <2018-02-15 jeu.> | P   |
+   | Prévisecours |           | Premières versions naïves des features                                | <2018-02-15 jeu.> | P   |
+   | Prévisecours |           | Trouver endroit où travailler au LLL                                  | <2018-02-15 jeu.> | I   |
+   | Prévisecours |           | Rencontre avec service de PJ                                          | <2018-02-15 jeu.> | U   |
+   | Prévisecours |           | Point avec mentor                                                     | <2018-02-15 jeu.> | M   |
+   | Prévisecours |           | Petit déjeuner pour se présenter au service                           | <2018-02-15 jeu.> | I   |
+   | Prévisecours |           | Exploration de données                                                | <2018-02-15 jeu.> | D   |
+   |--------------+-----------+-----------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Apprentissage Docker                                                  | <2018-02-23 ven.> | A   |
+   | Prévisecours |           | Microservice upload de ficher                                         | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Appels pour obtenir de la data                                        | <2018-02-23 ven.> | D   |
+   | Prévisecours |           | fork de [[https://github.com/entrepreneur-interet-general/open-moulinette][open-moulinette]]                                               | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Résolution pb DNS avec Cloudflare                                     | <2018-02-23 ven.> | I   |
+   | Prévisecours |           | Analyses statistiques sur données interventions                       | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Création des aggrégats à la semaine                                   | <2018-02-23 ven.> | P   |
+   | Prévisecours |           | Aide interne sur informations réseaux du futur                        | <2018-02-23 ven.> | T   |
+   | Prévisecours |           | Demande des données interventions avant 2016                          | <2018-02-23 ven.> | D   |
+   |--------------+-----------+-----------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Récupération des données métiers depuis 2010                          | <2018-03-02 ven.> | D   |
+   | Prévisecours |           | Travail sur les flux de normalisation de données métiers              | <2018-03-02 ven.> | D   |
+   | Prévisecours | Dashboard | Customisation des matrices de confusion pour dashboard                | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Livraison d'un CR au métier pour expl. choix techniques               | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Récup données open data ISO périmètre 2017 pour 2010 à 2016           | <2018-03-02 ven.> | D   |
+   | Prévisecours |           | Draft de roadmap projet                                               | <2018-03-02 ven.> | MP  |
+   | Prévisecours |           | Recherche de data: Prises de nouveaux contacts                        | <2018-03-02 ven.> | DM  |
+   | Prévisecours |           | Recherche de modèle similaire à PreviSecours                          | <2018-03-02 ven.> | UM  |
+   | Prévisecours |           | Après-midi surprise avec un stagiaire de 3ème                         | <2018-03-02 ven.> | M   |
+   | Prévisecours |           | 1er draft pour un projet interne micro service d'upload               | <2018-03-02 ven.> | PS  |
+   |--------------+-----------+-----------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Récupération de nos badges agents                                     | <2018-03-02 ven.> | I   |
+   | Prévisecours |           | Refactoring des données opendata                                      | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Ajout des données FINESS                                              | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Création [[http://previsecours.fr/previsecours-slides/][slides]] pour présenter le projet                              | <2018-03-02 ven.> | C   |
+   | Prévisecours |           | Discussion sur nouveaux types de prédiction potentiels                | <2018-03-02 ven.> | M   |
+   | Prévisecours |           | Discussion avec meteofrance                                           | <2018-03-02 ven.> | MD  |
+   | Prévisecours |           | WebApp DSS pour explorer cartographie de données                      | <2018-03-02 ven.> | P   |
+   | Prévisecours |           | Récupération données pollen RNSA                                      | <2018-03-02 ven.> | D   |
+   |--------------+-----------+-----------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Présentation interne (DSIC/MGMSIC) de PreviSecours (cadre et avancée) | <2018-03-16 ven.> | C   |
+   | Prévisecours |           | Préparation slides en anglais pour présentation Etalab du 27 mars     | <2018-03-16 ven.> | C   |
+   | Prévisecours |           | Tentative de geoMapping des casernes VS communes -> à approfondir     | <2018-03-16 ven.> | P   |
+   | Prévisecours |           | WebApp DSS Mise en place des nuages de points (format HeatMap)        | <2018-03-16 ven.> | P   |
+   | Prévisecours |           | WebApp DSS amélioration (variabilisation des années…)                 | <2018-03-16 ven.> | P   |
+   | Prévisecours |           | WebApp DSS visualisation des Prédictions par communes                 | <2018-03-16 ven.> | P   |
+   | Prévisecours |           | Création de la liste des contacts à remercier en fin de projet        | <2018-03-16 ven.> | M   |
+   | Prévisecours |           | V1 des données open data aggrégées à la semaine pour 2014-2017        | <2018-03-16 ven.> | P   |
+   | Prévisecours |           | Script d'export en batch des projets de DSS                           | <2018-03-16 ven.> | P   |
 
 ** Suite
 
-- Point avec les mentors et le métier?
-- Fin du refactoring des données opendata actuelles
-- Nouvelle version des modèles de prédiction
-- WebApp amélioration (visu des diff, variablisisation des années)
-- Création liste de la liste des contacts à remercier en fin de projet
+- [M] Discussion Metiers sur le format du livrable
+- [P] WebApp DSS ameliorations
+- [P] Nouvelle version des modèles de prédictions avec les données 2014-2017
+- [P] Script de commit des back ups sur github
+- [P] Mise en place de la sauvegarde automatique des projets
 
 * Signaux Faibles
 
