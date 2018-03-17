@@ -568,6 +568,7 @@ un lien est ajouté.
    | Lab Santé | GUEPARD                           | GUEPARD: Amélioration du code pour le Groupe Utilisateur GUEPARD                                                                                                                                                                                                                                                           | <2018-03-09 ven.> | P    |
    | Lab Santé |                                   | Scraping: Test du passage par tor pour roulement d'IP en vue de scraping                                                                                                                                                                                                                                                   | <2018-03-09 ven.> | AP   |
    | Lab Santé |                                   | Séminaire Big Data par Sébastion Cossin: retex et présentation de son appli                                                                                                                                                                                                                                                | <2018-03-09 ven.> | AM   |
+   |-----------+-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+------|
    | Lab Santé |                                   | Arrivée de Samah jeudi 15 !                                                                                                                                                                                                                                                                                                | <2018-03-16 ven.> |      |
    | Lab Santé | Simplex                           | Ajout de données COMMUNALES/EPCI/ARR/DEPINSEE et FINESS par scraping du site finess.sante.gouv.fr. Galère car tout en .xls. Je n’utilise pas open-moulinette car je veux sélectionner certains champs et gérer l’imputation des valeurs : commune si possible, sinon epci si possible, sinon arr si possible, sinon dep... | <2018-03-16 ven.> | D    |
    | Lab Santé | Simplex                           | proposition d’un meilleur distancier point représentation d’une commune -> localisation précise de l’établissement puis calcul durations A->B par OSRM sur 600k trajets                                                                                                                                                    | <2018-03-16 ven.> | D    |
@@ -591,27 +592,29 @@ un lien est ajouté.
 
 ** Suite
 
-- Arrivée de Samah !
+- Lundi formation R débutants (TS)
 
-- Simplex : Avancer sur la refonte du modèle d’allocation (P,C,U)
+- Simplex : Avancer sur la refonte du modèle d’allocation (P)
 
-- Simplex : ajout de données communales INSEE et autres (D)
+- Simplex : Présentation de l’avancement et du projet à des
+  utilisateurs extérieurs (hors DREES) en particulier ARS (C)
 
-- Simplex : proposition d’un meilleur distancier point représentation
-  d’une commune -> localisation précise de l’établissement (D)
-
-- Sujet Enquête OC : avancer sur les modèles d’imputation après retour
-  du bureau utilisateur (P)
+- Enquête OC : Benchmark des différentes méthodes (P)
 
 - Sujet Enquête OC : créer une communauté des chargés d’études qui
   travaillent sur des enquêtes et pourraient avoir un besoin
   d’imputation (C,U)
 
-- Sujet extraction médicament: Restitution/point d'étape
+- Sujet extraction médicament: Restitution/point d'étape (C)
 
-- Revue de code au LLL
+- Mentoring EIG LLL (A)
 
-- GUEPARD: Lancement du groupe utilisateur
+- Rencontre ancienne EIG (Marion Paclot), maintenant data scientist
+  Etalab sur des sujets sociaux (A,C)
+
+- Création communauté Slack DREES (C)
+
+- Préparation formation Python@DREES (P)
 
 * Prédisauvetage
 
