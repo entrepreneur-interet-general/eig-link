@@ -51,18 +51,20 @@
 - Gestion cookies/données personnelles :
   https://opt-out.ferank.eu/en/install/
 
-* CSS frameworks
+** CSS frameworks
 
-- https://bulma.io/
-- https://framework7.io/
+- https://bulma.io
+- https://framework7.io
+- https://material.io
+- http://getbootstrap.com
+
+** Éco-conception web
+
+- http://www.ecoindex.fr
 
 * Web scraping
 
 - http://webscraper.io
-
-* Éco-conception web
-
-- http://www.ecoindex.fr
 
 * Outils de gestion de fichiers
 
