@@ -265,6 +265,36 @@ un lien est ajouté.
 - Feuille de route du scientific tagger [M]
 - Debrief des vacances de Sami
 
+* EIG Node
+
+** Journal
+
+   | Défi     | Livrable | Tâche                                                                      | Fait le           | Cat |
+   |----------+----------+----------------------------------------------------------------------------+-------------------+-----|
+   | EIG Node |          | Accueil et onboarding de Sophie qui fait ses premières PR sur github !     | <2018-03-16 ven.> | I   |
+   | EIG Node |          | Code review au LLL                                                         | <2018-03-16 ven.> | A   |
+   | EIG Node |          | Préparation de la session EIG-mentors du 22/03                             | <2018-03-16 ven.> | M   |
+   | EIG Node |          | « Levée de fonds » pour la promotion EIG3                                  | <2018-03-16 ven.> | M   |
+   | EIG Node |          | Avancée sur le rapport EIG                                                 | <2018-03-16 ven.> | M   |
+   | EIG Node |          | Pitch du programme à l’événement « Ma fonction publique au 21^ème siècle » | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Commande de goodies pour les EIG (Paul)                                    | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Restitution du diagnostic sur la communication du programme                | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Relecture prochain blog site EIG de Bastien                                | <2018-03-16 ven.> | C   |
+
+** Suite
+
+- [M] Rencontre avec la team Lab Santé
+
+- [M] Réunion gouvernance des données du ministère de l’éducation
+  nationale avec la team Coach Eleves
+
+- [A] Session de mentoring 22/03
+
+- [M] Première rédaction du cahier des charges pour sélectionner les
+  défis EIG3
+
+- [C] Préparation d’un datadring (date prévue 05/04)
+
 * EIG Link
 
 ** Dépôts
