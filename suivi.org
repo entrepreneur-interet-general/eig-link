@@ -901,6 +901,11 @@ un lien est ajouté.
   | Signaux faibles | https://github.com/tidyverse/dplyr/issues/3355     |
   | Prévisecours    | https://github.com/anthill/open-moulinette/pull/61 |
 
+* Vidéos publiées
+
+- [[https://vimeo.com/256433385][Présentation Proxmox]]
+- [[https://www.youtube.com/watch?v=vRxaOQq3jJ8][Démonstration carto SECMAR]]
+
 * Détail des catégories
 
 ** Apprentissage
