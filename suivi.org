@@ -794,59 +794,76 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi          | Livrable | Tâche                                                                      | Fait le           | Cat |
-   |---------------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | entretiens parties prenantes                                               | <2018-02-15 jeu.> | U   |
-   | SocialConnect |          | atelier nomenclature                                                       | <2018-02-15 jeu.> | D   |
-   | SocialConnect |          | préparer atelier communication                                             | <2018-02-15 jeu.> | P   |
-   | SocialConnect | Roadmap  | Rétroplanning jusqu'au 09 avril                                            | <2018-02-15 jeu.> | M   |
-   |---------------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | Obtention de la suite Adobe par la DSI                                     | <2018-02-23 ven.> | I   |
-   | SocialConnect |          | Debrief et synthèse des 15 entretiens                                      | <2018-02-23 ven.> | RP  |
-   | SocialConnect |          | Définition des profils cibles pour V1 et V2                                | <2018-02-23 ven.> | U   |
-   | SocialConnect |          | Priorisation des fonctionnalités V1                                        | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | Benchmark identité graphique CIS                                           | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | Réflexion sur la stratégie de communication / landing page                 | <2018-02-23 ven.> | C   |
-   | SocialConnect |          | Étude du code dont on hérite                                               | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                                          | <2018-02-23 ven.> | P   |
-   | SocialConnect |          | test du statut de résident nomade au lll                                   | <2018-02-23 ven.> | I   |
-   |---------------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | Sprint sur le projet OpenScraper, service public du scraping               | <2018-03-02 ven.> | P   |
-   | SocialConnect |          | Pédagogie avec la mentor : expliquer le stack technique                    | <2018-03-02 ven.> | TM  |
-   | SocialConnect |          | Rencontre avec OpenDataFrance au LLL                                       | <2018-03-02 ven.> | M   |
-   | SocialConnect |          | Atelier comm sur le projet                                                 | <2018-03-02 ven.> | CMP |
-   | SocialConnect |          | Recherche et choix d'un univers visuel                                     | <2018-03-02 ven.> | P   |
-   | SocialConnect |          | Réalisation flyer et posters explicatifs du projet                         | <2018-03-02 ven.> | P   |
-   | SocialConnect |          | Atelier nomenclature avec un autre groupe de partenaires                   | <2018-03-02 ven.> | MU  |
-   |---------------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | SocialConnect |          | Internet OK au bureau (WIFI visiteur boosté)                               | <2018-03-09 ven.> | I   |
-   | SocialConnect |          | Dev OpenScraper 2ème semaine                                               | <2018-03-09 ven.> | P   |
-   | SocialConnect |          | Travail sur le kit de comm et identité graphique du projet                 | <2018-03-09 ven.> | P   |
-   | SocialConnect |          | Arborescence du site version bêta                                          | <2018-03-09 ven.> | P   |
-   | SocialConnect |          | Macrozoning des écrans principaux                                          | <2018-03-09 ven.> | P   |
-   | SocialConnect |          | Déjeuner avec acteur du CGET                                               | <2018-03-09 ven.> | S   |
-   | SocialConnect |          | Discussion avec Bastien G sur passation d’un projet EIG                    | <2018-03-09 ven.> | M   |
-   | SocialConnect |          | COPIL avec les membres du collectif + mentor                               | <2018-03-09 ven.> | M   |
-   | SocialConnect |          | Présentation programme EIG en CODIR avec autres services de la DST du CGET | <2018-03-09 ven.> | M   |
+   | Défi          | Livrable          | Tâche                                                                      | Fait le           | Cat |
+   |---------------+-------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | entretiens parties prenantes                                               | <2018-02-15 jeu.> | U   |
+   | SocialConnect |                   | atelier nomenclature                                                       | <2018-02-15 jeu.> | D   |
+   | SocialConnect |                   | préparer atelier communication                                             | <2018-02-15 jeu.> | P   |
+   | SocialConnect | Roadmap           | Rétroplanning jusqu'au 09 avril                                            | <2018-02-15 jeu.> | M   |
+   |---------------+-------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Obtention de la suite Adobe par la DSI                                     | <2018-02-23 ven.> | I   |
+   | SocialConnect |                   | Debrief et synthèse des 15 entretiens                                      | <2018-02-23 ven.> | RP  |
+   | SocialConnect |                   | Définition des profils cibles pour V1 et V2                                | <2018-02-23 ven.> | U   |
+   | SocialConnect |                   | Priorisation des fonctionnalités V1                                        | <2018-02-23 ven.> | P   |
+   | SocialConnect |                   | Benchmark identité graphique CIS                                           | <2018-02-23 ven.> | P   |
+   | SocialConnect |                   | Réflexion sur la stratégie de communication / landing page                 | <2018-02-23 ven.> | C   |
+   | SocialConnect |                   | Étude du code dont on hérite                                               | <2018-02-23 ven.> | P   |
+   | SocialConnect |                   | début du projet/repo [[https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper][OpenScrapper]]                                          | <2018-02-23 ven.> | P   |
+   | SocialConnect |                   | test du statut de résident nomade au lll                                   | <2018-02-23 ven.> | I   |
+   |---------------+-------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Sprint sur le projet OpenScraper, service public du scraping               | <2018-03-02 ven.> | P   |
+   | SocialConnect |                   | Pédagogie avec la mentor : expliquer le stack technique                    | <2018-03-02 ven.> | TM  |
+   | SocialConnect |                   | Rencontre avec OpenDataFrance au LLL                                       | <2018-03-02 ven.> | M   |
+   | SocialConnect |                   | Atelier comm sur le projet                                                 | <2018-03-02 ven.> | CMP |
+   | SocialConnect |                   | Recherche et choix d'un univers visuel                                     | <2018-03-02 ven.> | P   |
+   | SocialConnect |                   | Réalisation flyer et posters explicatifs du projet                         | <2018-03-02 ven.> | P   |
+   | SocialConnect |                   | Atelier nomenclature avec un autre groupe de partenaires                   | <2018-03-02 ven.> | MU  |
+   |---------------+-------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Internet OK au bureau (WIFI visiteur boosté)                               | <2018-03-09 ven.> | I   |
+   | SocialConnect |                   | Dev OpenScraper 2ème semaine                                               | <2018-03-09 ven.> | P   |
+   | SocialConnect |                   | Travail sur le kit de comm et identité graphique du projet                 | <2018-03-09 ven.> | P   |
+   | SocialConnect |                   | Arborescence du site version bêta                                          | <2018-03-09 ven.> | P   |
+   | SocialConnect |                   | Macrozoning des écrans principaux                                          | <2018-03-09 ven.> | P   |
+   | SocialConnect |                   | Déjeuner avec acteur du CGET                                               | <2018-03-09 ven.> | S   |
+   | SocialConnect |                   | Discussion avec Bastien G sur passation d’un projet EIG                    | <2018-03-09 ven.> | M   |
+   | SocialConnect |                   | COPIL avec les membres du collectif + mentor                               | <2018-03-09 ven.> | M   |
+   | SocialConnect |                   | Présentation programme EIG en CODIR avec autres services de la DST du CGET | <2018-03-09 ven.> | M   |
+   |---------------+-------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Participation à un atelier d’idéation pour Social Good week (Julien)       | <2018-03-16 ven.> | M   |
+   | SocialConnect |                   | Rapport d’étonnement avec notre mentor                                     | <2018-03-16 ven.> | M   |
+   | SocialConnect | Kit Communication | Travail sur un kit de communication                                        | <2018-03-16 ven.> | P   |
+   | SocialConnect | OpenScraper       | Code review EIG sur OpenScrapper (Julien)... merci, c’était top!           | <2018-03-16 ven.> | A   |
+   | SocialConnect | OpenScraper       | Avancées sur OpenScraper                                                   | <2018-03-16 ven.> | P   |
+   | SocialConnect | Kit Communication | Graphisme & communication review avec l’aide de Laurie (Elise)             | <2018-03-16 ven.> | A   |
+   | SocialConnect |                   | Macrozoning papiers du parcours de recherche de la Vbêta                   | <2018-03-16 ven.> | P   |
+   | SocialConnect |                   | Wireframe Adobe XD du parcours de recherche de la Vbêta                    | <2018-03-16 ven.> | P   |
+   | SocialConnect |                   | Réunion équipe revue d’écrans                                              | <2018-03-16 ven.> | M   |
+
 
 ** Suite
 
-- [C] Animation d’un atelier de controverse autour des communs
-  numériques à la maison des canaux le lundi matin.
+- [P] Structuration d’une Landing page pour communiquer sur le projet.
 
-- [P] Revue de code au LLL (Julien) : présentation de OpenScraper et
-  de tous ses jolis bugs de jeunesse (ce projet a encore de l’acnée).
+- [P] Wireframe des écrans de dataviz.
 
-- [P] Devadonf (Julien) : arriver à un MVP d’openscraper (en local)
-  pour pouvoir passer à une autre brique (dataviz et enrichissement
-  données brutes d’OpenScraper).
+- [C] Participation à une conférence sur “data, éthique et économie”
+  lors du forum “entreprendre dans la culture” à Nantes.
 
-- [A] Auto-formation expresse sur Vue.js (Julien)
+- [P] Mega sprint sur openscraper : tests sur “nos” spiders (les sites
+  à scraper pour SocialConnect), admin sys, déploiement en préprod sur
+  une VM.
 
-- [P] Formalisation de l’univers graphique et des premiers éléments de
-  comm (Elise) : affiches, posters, kit de comm, éléments de langage…
+- [P] Commencer à bosser sur le site beta de SocialConnect.
 
-- [P] Wireframe des écrans principaux de la version bêta (Elise)
+- [A] Formation expresse sur Vue.js (Julien)
+
+- [M] Commencer à faire les points techniques (code et considérations
+  purement tech) bimensuels EIG-mentor... parce que ça me chauffe
+  qu’on me demande de la carto + moteur de recherche + plus interface
+  clean + login + tout ça en ligne pour dans 3 semaines alors qu’on
+  est deux et qu'on a pas les données...
+
+- [M] Présentation du projet à S. Bern à l’Hôtel de ville - (Elise)
 
 * Nouveau jeux de données publiés
 
