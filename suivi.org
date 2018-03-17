@@ -779,16 +779,26 @@ un lien est ajouté.
    | Signaux Faibles |                   | accompagnement service statistique sur l'exploitation d'histo_sirene                                      | <2018-03-09 ven.> | TU  |
    | Signaux Faibles |                   | Christophe continue codage POC du nouveau modèle, changement techno (python/pgsql devient golang/mongodb) | <2018-03-09 ven.> | AD  |
    | Signaux Faibles |                   | Accompagnement technique du projet offre de service direccte TPE/PME                                      | <2018-03-09 ven.> | T   |
+   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Christophe a bien avancé codage du nouveau modèle et est sur le point d'aboutir                           | <2018-03-16 ven.> | AD  |
+   | Signaux Faibles |                   | Pierre a soulevé un ensemble de questions pour la Banque de France et l'Urssaf                            | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Préparation d'un entretien avec la banque de france pour discuter des données                             | <2018-03-16 ven.> | DM  |
+   | Signaux Faibles |                   | Préparation d'éléments pour une réunion de service des chargés de mission                                 | <2018-03-16 ven.> | MU  |
+   | Signaux Faibles |                   | Quick & dirty algo logistique et SVM -> algo logistique régularisé décevant, revoir inputs                | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Intégration d'une nouvelle source de donnée Banque de France dans le modèle                               | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Tentative de croisement SIRENE/DARES -> le service statistique de la Direccte traite le problème          | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | tentative de conversion SAS -> monde libre -> échec, encore (mais en vrai j'ai pas encore essayé)         | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Réception de nos Mugs                                                                                     | <2018-03-16 ven.> | I   |
 
 ** Suite
 
-- [AD] Christophe continue le codage du nouveau modèle.
-- [D]  Pierre continue l'investigation dans les données pour établir de nouvelles hypothèses de modèles
-- [DM] Préparation d'un entretien avec la banque de france pour discuter des données qu'ils nous fournissent (prévu le 22)
-- [MU] Préparation d'éléments pour une réunion de service des chargés de mission (prévue le 23)
-- [D] Quick & dirty algo logistique et SVM
-- [D] Tentative de croisement SIRENE/DARES
-- [D] Tentative de conversion SAS -> monde libre.
+- [CD] Rencontre Banque de France
+- [U] Réunion de service des chargés de mission
+- [AU] LLL thursday
+- [D] MapReduce à l’assaut du versioning
+- [D] Process d'intégration des données
+- [D] Feature Engineering
+- [U] Dashboard pour présenter les données du projets aux utilisateurs
 
 * SocialConnect
 
