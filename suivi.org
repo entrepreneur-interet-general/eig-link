@@ -263,13 +263,21 @@ un lien est ajouté.
    | DataESR |          | Dataviz des établissements d'enseignements supérieur                        | <2018-03-09 ven.> | P   |
    | DataESR |          | Benchmark des framework front                                               | <2018-03-09 ven.> | T   |
    | DataESR |          | Réalisation des premiers mockups du MVP                                     | <2018-03-09 ven.> | P   |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Contact DSI en vue de la mise en prod                                       | <2018-03-16 ven.> | C   |
+   | DataESR |          | Premières pierres de'API du MVP en Flask                                    | <2018-03-16 ven.> | P   |
+   | DataESR |          | Feuille de route du scientific tagger                                       | <2018-03-16 ven.> | M   |
+   | DataESR |          | Conférence IXTEX publications scientifiques                                 | <2018-03-16 ven.> | D   |
+   | DataESR |          | Montée en compétence sur Flask                                              | <2018-03-16 ven.> | D   |
+   | DataESR |          | Réupération de corpus de textes pour le scientif tagger                     | <2018-03-16 ven.> | P   |
 
 ** Suite
 
-- Contact préliminaire avec la DSI [C]
-- Commencer le back du MVP en Flask [P]
-- Feuille de route du scientific tagger [M]
-- Debrief des vacances de Sami
+- Premières pages du front en React du MVP [P]
+- Création des modèles MVP Flask [P]
+- Finalisation Dataviz des établissements [P]
+- Début entrainement modèle du scientific tagger [P]
+- Escape Game team bulding dans le département [Fun]
 
 * EIG Node
 
