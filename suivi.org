@@ -384,70 +384,77 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi    | Livrable            | Tâche                                                       | Fait le           | Cat |
-   |---------+---------------------+-------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                     | Biblio sur le matching                                      | <2018-02-15 jeu.> | P   |
-   | Hopkins |                     | Installation de matchID                                     | <2018-02-15 jeu.> | I   |
-   | Hopkins |                     | Familiarisation avec ElasticSearch                          | <2018-02-15 jeu.> | A   |
-   | Hopkins |                     | Exploration jeu de données sur Dataiku                      | <2018-02-15 jeu.> | D   |
-   | Hopkins |                     | Reprise en main de python                                   | <2018-02-15 jeu.> | A   |
-   | Hopkins |                     | Découverte travail d’orientation auprès d’un utilisateur    | <2018-02-15 jeu.> | U   |
-   | Hopkins |                     | Test de la librairie fuzzywuzzy                             | <2018-02-15 jeu.> | P   |
-   | Hopkins |                     | Trouver un workflow correct entre un ordi Windows           | <2018-02-15 jeu.> | I   |
-   | Hopkins |                     | Setup serveurs (zsh oh-my-zsh micro et tmux)                | <2018-02-15 jeu.> | I   |
-   | Hopkins |                     | Lire du code pour me mettre à jour                          | <2018-02-15 jeu.> | A   |
-   |---------+---------------------+-------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                     | Rencontre avec Fabien de matchID                            | <2018-02-23 ven.> | A   |
-   | Hopkins | Dataset labellisé   | Exploration des données COSI                                | <2018-02-23 ven.> | DP  |
-   | Hopkins | 1er matching        | Test de matchID sur un dataset réduit                       | <2018-02-23 ven.> | P   |
-   | Hopkins |                     | Tour de l'étage des enquêteurs                              | <2018-02-23 ven.> | U   |
-   | Hopkins |                     | Installation du kanboard                                    | <2018-02-23 ven.> | I   |
-   | Hopkins |                     | Achat tableaux blancs autocollants pour écrire sur les murs | <2018-02-23 ven.> | I   |
-   | Hopkins |                     | Débroussaillage d’autodocumentations python                 | <2018-02-23 ven.> | A   |
-   | Hopkins |                     | Rencontre autres personnels d’autres service                | <2018-02-23 ven.> | M   |
-   | Hopkins |                     | Préparation mise au point en NLP dans l’équipe              | <2018-02-23 ven.> | C   |
-   |---------+---------------------+-------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                     | Test matching 1 MatchId sur dataset réduit                  | <2018-03-02 ven.> | P   |
-   | Hopkins |                     | Biblio évaluation d’entity resolution                       | <2018-03-02 ven.> | P   |
-   | Hopkins |                     | Evaluation matching 1                                       | <2018-03-02 ven.> | P   |
-   | Hopkins |                     | Discussion avec Samsoft, solution de matching               | <2018-03-02 ven.> | A   |
-   | Hopkins |                     | Débug code de matching existant ([[https://github.com/ekzhu/datasketch/][datasketch]])                | <2018-03-02 ven.> | P   |
-   | Hopkins |                     | VM (64Go) en cours d'obtention pour installer matchID       | <2018-03-02 ven.> | I   |
-   | Hopkins |                     | Web app d'exploration des résultats de classification       | <2018-03-02 ven.> | P   |
-   | Hopkins |                     | Obtenir une VM avec gitlab (et être sudoer)                 | <2018-03-02 ven.> | S   |
-   | Hopkins |                     | Réparer install python 3 sur dataiku                        | <2018-03-02 ven.> | I   |
-   |---------+---------------------+-------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                     | Fin du tour des bureaux                                     | <2018-03-09 ven.> | CU  |
-   | Hopkins | Données structurées | id unique pour chaque transaction                           | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées | Recette de re-scoring des matchs                            | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées | App Dataiku pour visualiser données en cours d'enquête      | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées | Etude des faux positifs du matching                         | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées | Biblio “”Evaluating Entity Resolution Results”              | <2018-03-09 ven.> | A   |
-   | Hopkins | Données structurées | Alignement de phrases                                       | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées | Définition d’une feuille de route                           | <2018-03-09 ven.> | P   |
-   | Hopkins | Texte               | Présentation sur tableau des techniques modernes de NLP     | <2018-03-09 ven.> | C   |
-   | Hopkins | Texte               | Fin web app visualisation de classsification                | <2018-03-09 ven.> | P   |
-   | Hopkins | Texte               | Debrief conférence traduction automatique                   | <2018-03-09 ven.> | A   |
+   | Défi    | Livrable            | Tâche                                                                  | Fait le           | Cat |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                     | Biblio sur le matching                                                 | <2018-02-15 jeu.> | P   |
+   | Hopkins |                     | Installation de matchID                                                | <2018-02-15 jeu.> | I   |
+   | Hopkins |                     | Familiarisation avec ElasticSearch                                     | <2018-02-15 jeu.> | A   |
+   | Hopkins |                     | Exploration jeu de données sur Dataiku                                 | <2018-02-15 jeu.> | D   |
+   | Hopkins |                     | Reprise en main de python                                              | <2018-02-15 jeu.> | A   |
+   | Hopkins |                     | Découverte travail d’orientation auprès d’un utilisateur               | <2018-02-15 jeu.> | U   |
+   | Hopkins |                     | Test de la librairie fuzzywuzzy                                        | <2018-02-15 jeu.> | P   |
+   | Hopkins |                     | Trouver un workflow correct entre un ordi Windows                      | <2018-02-15 jeu.> | I   |
+   | Hopkins |                     | Setup serveurs (zsh oh-my-zsh micro et tmux)                           | <2018-02-15 jeu.> | I   |
+   | Hopkins |                     | Lire du code pour me mettre à jour                                     | <2018-02-15 jeu.> | A   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                     | Rencontre avec Fabien de matchID                                       | <2018-02-23 ven.> | A   |
+   | Hopkins | Dataset labellisé   | Exploration des données COSI                                           | <2018-02-23 ven.> | DP  |
+   | Hopkins | 1er matching        | Test de matchID sur un dataset réduit                                  | <2018-02-23 ven.> | P   |
+   | Hopkins |                     | Tour de l'étage des enquêteurs                                         | <2018-02-23 ven.> | U   |
+   | Hopkins |                     | Installation du kanboard                                               | <2018-02-23 ven.> | I   |
+   | Hopkins |                     | Achat tableaux blancs autocollants pour écrire sur les murs            | <2018-02-23 ven.> | I   |
+   | Hopkins |                     | Débroussaillage d’autodocumentations python                            | <2018-02-23 ven.> | A   |
+   | Hopkins |                     | Rencontre autres personnels d’autres service                           | <2018-02-23 ven.> | M   |
+   | Hopkins |                     | Préparation mise au point en NLP dans l’équipe                         | <2018-02-23 ven.> | C   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                     | Test matching 1 MatchId sur dataset réduit                             | <2018-03-02 ven.> | P   |
+   | Hopkins |                     | Biblio évaluation d’entity resolution                                  | <2018-03-02 ven.> | P   |
+   | Hopkins |                     | Evaluation matching 1                                                  | <2018-03-02 ven.> | P   |
+   | Hopkins |                     | Discussion avec Samsoft, solution de matching                          | <2018-03-02 ven.> | A   |
+   | Hopkins |                     | Débug code de matching existant ([[https://github.com/ekzhu/datasketch/][datasketch]])                           | <2018-03-02 ven.> | P   |
+   | Hopkins |                     | VM (64Go) en cours d'obtention pour installer matchID                  | <2018-03-02 ven.> | I   |
+   | Hopkins |                     | Web app d'exploration des résultats de classification                  | <2018-03-02 ven.> | P   |
+   | Hopkins |                     | Obtenir une VM avec gitlab (et être sudoer)                            | <2018-03-02 ven.> | S   |
+   | Hopkins |                     | Réparer install python 3 sur dataiku                                   | <2018-03-02 ven.> | I   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                     | Fin du tour des bureaux                                                | <2018-03-09 ven.> | CU  |
+   | Hopkins | Données structurées | id unique pour chaque transaction                                      | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées | Recette de re-scoring des matchs                                       | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées | App Dataiku pour visualiser données en cours d'enquête                 | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées | Etude des faux positifs du matching                                    | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées | Biblio “”Evaluating Entity Resolution Results”                         | <2018-03-09 ven.> | A   |
+   | Hopkins | Données structurées | Alignement de phrases                                                  | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées | Définition d’une feuille de route                                      | <2018-03-09 ven.> | P   |
+   | Hopkins | Texte               | Présentation sur tableau des techniques modernes de NLP                | <2018-03-09 ven.> | C   |
+   | Hopkins | Texte               | Fin web app visualisation de classsification                           | <2018-03-09 ven.> | P   |
+   | Hopkins | Texte               | Debrief conférence traduction automatique                              | <2018-03-09 ven.> | A   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                     | Biblio lib de graphes et dérouillage en d3.js                          | <2018-03-16 ven.> | A   |
+   | Hopkins |                     | Viz graphe : ajout de labels sur les noeuds et les arcs                | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Viz graphe : sélection dans une liste de top ben/don                   | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Viz graphe : limitation de la profondeur du graphe                     | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Viz graphe : couche esthétique en utilisant material-design (en cours) | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Étude des faux négatifs. Bug : des matchs exacts ne sont pas matchés   | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Debug, nouveau matching et évaluation : le rappel passe de 14% à 65%   | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Refactoring et documentation du code d’évaluation                      | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Amélioration Web App Validation                                        | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Déploiement Gitlab + Documentation                                     | <2018-03-16 ven.> | P   |
+   | Hopkins |                     | Début conversion python 3                                              | <2018-03-16 ven.> | P   |
 
 ** Suite
 
-- Alignement de phrases EN/FR pour traduction automatique [P]
-
-- Données Structurées
-  - MVP visualisation de graphe [P]
-    - "je peux rechercher une personne par son nom"
-    - "je peux visualiser le graphe autour de cette personne"
-  - "je peux voir des informations relatives aux noeuds et aux arêtes (nom, pays, montant)"
-    - Etude des faux negatif sur les collecteurs [P]
-    - Modifier le matching pour réduire les faux négatifs [P]
-    - Ré-évaluer [P]
-    - Augmenter la taille du dataset labellisé [P]
-    - Installation matchID sur VM 64Go si reste un peu de temps [I]
-
-- Texte
-  - Analyse détaillée des performances de l'algo actuel [P]
-  - Faire tourner de nouveaux modèles [P]
-  - Finir le banc d'essai expérimental pour comparer les modèles [P]
+- [P] Installation MatchID/Elastic Search sur VM
+- [P] Lancer un matching plus gros sur la VM
+- [P] Suite et fin : refactoring et documentation du code d’évaluation
+- [P] Continuer de tester des mesures d’évaluation au niveau des entités
+- [P] Exploration résultats du classifier avec LIME
+- [P] Plug LIME dans Web App
+- [R] Rencontre utilisateurs Web App + recherche de quick wins
+- [R] Mettre l'app de graphe entre les mains des utilisateurs
+- [R] Appliquer l'app de graphe à une autre problématique en cours
+- [P] Isoler les parties de code qui nous intéresse dans matchID,
+  proposer un refactoring à Fabien Antoine pour modulariser les
+  recettes
 
 * Lab Santé
 
