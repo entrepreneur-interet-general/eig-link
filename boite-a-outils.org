@@ -138,6 +138,8 @@
 * Au quotidien
 
 - http://www.hackertyper.com
+- https://github.com/zricethezav/gitleaks
+
 * Article de fond
 
 ** Sur la donnée
