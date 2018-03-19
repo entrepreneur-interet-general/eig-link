@@ -71,7 +71,7 @@ un lien est ajouté.
    | Archifiltre |                        | Déjeuner Bastien pour réfléchir à l'ouverture de notre code             | <2018-03-16 ven.> | A   |
    | Archifiltre |                        | Ouverture repos GitHub EIG                                              | <2018-03-16 ven.> | P   |
    | Archifiltre |                        | Réflexion sur la communication autour de notre projet                   | <2018-03-16 ven.> | C   |
-   | Archifiltre |                        | Revue de fin de sprint n°3 avec nos mentors                             | <2018-03-16 ven.> | M   |
+   | Archifiltre |                        | Revue de fin de sprint n°2 avec nos mentors                             | <2018-03-16 ven.> | M   |
 
 ** Suite
 
