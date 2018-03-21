@@ -1,0 +1,41 @@
+#+title: Liens utiles de l’univers data.gouv/api.gouv et de l’écosystème
+
+* Univers Data Gouv
+
+Source : [[https://github.com/etalab/data.gouv.fr/blob/master/data/univers-data-gouv.csv][univers-data-gouv.csv]]
+
+| Site                            | Détail                                              | Dépôt                                           | Statut | SPD   | Download | Api                                                             | Formulaire                        | Update      |
+|---------------------------------+-----------------------------------------------------+-------------------------------------------------+--------+-------+----------+-----------------------------------------------------------------+-----------------------------------+-------------|
+| https://www.data.gouv.fr/       | Plateforme ouverte des données publiques françaises | https://github.com/etalab/data.gouv.fr          | prod   |       |          | https://www.data.gouv.fr/fr/apidoc/                             | https://www.data.gouv.fr/fr/      | continue    |
+| https://adresse.data.gouv.fr    | Base Adresse Nationale                              | https://github.com/etalab/adresse.data.gouv.fr  | prod   | true  | true     | http://api-adresse.data.gouv.fr/api                             | https://adresse.data.gouv.fr/map/ | hebdo       |
+| https://cadastre.data.gouv.fr   | Données Cadastrales Ouvertes                        | https://github.com/etalab/cadastre.data.gouv.fr | prod   | true  | true     |                                                                 |                                   | trimestriel |
+| https://geo.data.gouv.fr        |                                                     | https://github.com/etalab/geo.data.gouv.fr      | prod   |       |          |                                                                 | https://geo.data.gouv.fr/fr/      | continue    |
+| https://doc.data.gouv.fr        |                                                     |                                                 |        |       |          |                                                                 |                                   |             |
+| https://entreprise.data.gouv.fr |                                                     |                                                 | beta   | true  |          | https://github.com/betagouv/sirene_as_api/blob/master/README.md | https://entreprise.data.gouv.fr   | quotidienne |
+| http://transport.data.gouv.fr/  | Ouvrir et réutiliser les données transports         | https://github.com/etalab/transport-site        | beta   | false | true     | false                                                           |                                   | continue    |
+
+* Univers API Gouv
+
+À partir de https://api.gouv.fr/apis
+
+| Site                                                    |
+|---------------------------------------------------------|
+| https://api.gouv.fr/api/api-geo.html                    |
+| https://api.gouv.fr/api/api-prelevements-sociaux.html   |
+| https://api.gouv.fr/api/api_etablissements_publics.html |
+| https://api.gouv.fr/api/base-adresse-nationale.html     |
+
+* Outils Data/API
+
+| Site                                   |                                            |
+|----------------------------------------+--------------------------------------------|
+| https://github.com/opendatateam/udata/ | Catalogue de jeux de données               |
+| https://github.com/addok/addok         | Moteur de https://adresse.data.gouv.fr/api |
+
+* Écosystème
+
+| Site                                       |                          | Contact         |
+|--------------------------------------------+--------------------------+-----------------|
+| https://umap.openstreetmap.fr/en/          |                          | [[https://github.com/yohanboniface][Y. Boniface]]     |
+| http://data.cquest.org/                    | Plein de jeux de données | [[https://github.com/cquest][C. Quest]]        |
+| https://github.com/frrrenchies/frrrenchies |                          | [[https://github.com/pachevalier][P.-A. Chevalier]] |

@@ -16,6 +16,7 @@
 - https://board.eig-forever.org (Kanboard)
 - https://irc.eig-forever.org (Kiwiirc)
 - Instance [[https://stats.eig-forever.org][Matomo]] (ex-Piwik) pour des statistiques
+- Des [[file:ressources-ecosysteme.org][ressources]] data.gouv + api.gouv + écosystème
 
 * Autre
 
