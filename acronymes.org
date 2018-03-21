@@ -6,10 +6,14 @@
 
 - ANFR : Agence Nationale des Fréquences
 
+- ANSM : Agence Nationale de Sécurité et du Médicament
+
 - ANSSI : Agence nationale de sécurité des systèmes d’information
 
 - ARCEP : Autorité de régulation des communications électroniques et
   des postes
+
+- ARS : Agences régionales de santé.
 
 - AVURNAV : Avis urgents aux navigateurs
 
@@ -38,11 +42,16 @@
 
 - FINESS : Fichier National des Etablissements Sanitaires et Sociaux
 
+- GHT : Groupes hospitaliers territoriaux.
+
 - HAS : Haute autorité de santé
 
 - HATVP : Haute autorité pour la transparence de la vie publique
 
 - OIV : Organisme d’importance vitale
+
+- PMSI : Programme de médicalisation des systèmes d’information (PMSI
+  MCO : en médecine, chirurgie, obstétrique et odontologie)
 
 - RIE : Réseau interministériel de l’État
 
