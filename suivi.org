@@ -819,63 +819,70 @@ Semaine à venir :
 - [P] Nouveau découpage de données interventions avec dimensions différentes
 - [P] Continuer de farmer des modèles et observations
 
-
 * Signaux Faibles
 
 ** Dépôt
 ** Journal
 
-   | Défi            | Livrable          | Tâche                                                                                                     | Fait le           | Cat |
-   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Immersion dans le code                                                                                    | <2018-02-15 jeu.> | A   |
-   | Signaux Faibles |                   | Correction d’un bug                                                                                       | <2018-02-15 jeu.> | P   |
-   | Signaux Faibles |                   | Connaissance avec les données                                                                             | <2018-02-15 jeu.> | D   |
-   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire                                                                    | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Installation du container                                                                                 | <2018-02-23 ven.> | I   |
-   | Signaux Faibles |                   | Inventaire des données                                                                                    | <2018-02-23 ven.> | D   |
-   | Signaux Faibles |                   | Première prédiction                                                                                       | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Rencontre statisticienne DIRECCTE                                                                         | <2018-02-23 ven.> | M   |
-   | Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté                                                                      | <2018-02-23 ven.> | M   |
-   | Signaux Faibles | Modèle de données | Conception achevée                                                                                        | <2018-02-23 ven.> | P   |
-   | Signaux Faibles |                   | Présentation ppt sur le projet                                                                            | <2018-02-23 ven.> | C   |
-   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Prospection fichiers Banque de France et base Sirene                                                      | <2018-03-02 ven.> | D   |
-   | Signaux Faibles |                   | Upload dataset réutilisant base SIREN pour extraire changements de SIRET                                  | <2018-03-02 ven.> | P   |
-   | Signaux Faibles |                   | Début de codage du nouveau modèle de données orienté document                                             | <2018-03-02 ven.> | P   |
-   | Signaux Faibles |                   | Vérif. avec utilisateurs données produites par 1ère prédiction                                            | <2018-03-02 ven.> | U   |
-   | Signaux Faibles |                   | Croisement SIRENE/DARES pour remplacer un algo humain de data quality                                     | <2018-03-02 ven.> | P   |
-   | Signaux Faibles |                   | Installation/config post de travail + outils                                                              | <2018-03-02 ven.> | I   |
-   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Pierre est rentré dans le code jusqu'au cou !                                                             | <2018-03-09 ven.> | AI  |
-   | Signaux Faibles |                   | Pierre a débuté investigations pour autres modèles statistiques                                           | <2018-03-09 ven.> | D   |
-   | Signaux Faibles |                   | Investigations sur le fichier banque de france                                                            | <2018-03-09 ven.> | D   |
-   | Signaux Faibles |                   | Réunion Urssaf Bourgogne et Franche Comté pour discuter data/calcul et recette prédiction                 | <2018-03-09 ven.> | ADU |
-   | Signaux Faibles |                   | 1 nouvelle prédiction livrée suite aux corrections induites par le stage urssaf                           | <2018-03-09 ven.> | CDU |
-   | Signaux Faibles |                   | Atelier RoadMap avec notre mentor                                                                         | <2018-03-09 ven.> | M   |
-   | Signaux Faibles |                   | accompagnement service statistique sur l'exploitation d'histo_sirene                                      | <2018-03-09 ven.> | TU  |
-   | Signaux Faibles |                   | Christophe continue codage POC du nouveau modèle, changement techno (python/pgsql devient golang/mongodb) | <2018-03-09 ven.> | AD  |
-   | Signaux Faibles |                   | Accompagnement technique du projet offre de service direccte TPE/PME                                      | <2018-03-09 ven.> | T   |
-   |-----------------+-------------------+-----------------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Signaux Faibles |                   | Christophe a bien avancé codage du nouveau modèle et est sur le point d'aboutir                           | <2018-03-16 ven.> | AD  |
-   | Signaux Faibles |                   | Pierre a soulevé un ensemble de questions pour la Banque de France et l'Urssaf                            | <2018-03-16 ven.> | D   |
-   | Signaux Faibles |                   | Préparation d'un entretien avec la banque de france pour discuter des données                             | <2018-03-16 ven.> | DM  |
-   | Signaux Faibles |                   | Préparation d'éléments pour une réunion de service des chargés de mission                                 | <2018-03-16 ven.> | MU  |
-   | Signaux Faibles |                   | Quick & dirty algo logistique et SVM -> algo logistique régularisé décevant, revoir inputs                | <2018-03-16 ven.> | D   |
-   | Signaux Faibles |                   | Intégration d'une nouvelle source de donnée Banque de France dans le modèle                               | <2018-03-16 ven.> | D   |
-   | Signaux Faibles |                   | Tentative de croisement SIRENE/DARES -> le service statistique de la Direccte traite le problème          | <2018-03-16 ven.> | D   |
-   | Signaux Faibles |                   | tentative de conversion SAS -> monde libre -> échec, encore (mais en vrai j'ai pas encore essayé)         | <2018-03-16 ven.> | D   |
-   | Signaux Faibles |                   | Réception de nos Mugs                                                                                     | <2018-03-16 ven.> | I   |
+   | Défi            | Livrable          | Tâche                                                                                                        | Fait le           | Cat |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Immersion dans le code                                                                                       | <2018-02-15 jeu.> | A   |
+   | Signaux Faibles |                   | Correction d’un bug                                                                                          | <2018-02-15 jeu.> | P   |
+   | Signaux Faibles |                   | Connaissance avec les données                                                                                | <2018-02-15 jeu.> | D   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Utilisation de [[https://github.com/tidyverse/dplyr/issues/3355][dplyr]] : fix bug mémoire                                                                       | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Installation du container                                                                                    | <2018-02-23 ven.> | I   |
+   | Signaux Faibles |                   | Inventaire des données                                                                                       | <2018-02-23 ven.> | D   |
+   | Signaux Faibles |                   | Première prédiction                                                                                          | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Rencontre statisticienne DIRECCTE                                                                            | <2018-02-23 ven.> | M   |
+   | Signaux Faibles |                   | COPIL région Bourgogne-Franche-Comté                                                                         | <2018-02-23 ven.> | M   |
+   | Signaux Faibles | Modèle de données | Conception achevée                                                                                           | <2018-02-23 ven.> | P   |
+   | Signaux Faibles |                   | Présentation ppt sur le projet                                                                               | <2018-02-23 ven.> | C   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Prospection fichiers Banque de France et base Sirene                                                         | <2018-03-02 ven.> | D   |
+   | Signaux Faibles |                   | Upload dataset réutilisant base SIREN pour extraire changements de SIRET                                     | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Début de codage du nouveau modèle de données orienté document                                                | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Vérif. avec utilisateurs données produites par 1ère prédiction                                               | <2018-03-02 ven.> | U   |
+   | Signaux Faibles |                   | Croisement SIRENE/DARES pour remplacer un algo humain de data quality                                        | <2018-03-02 ven.> | P   |
+   | Signaux Faibles |                   | Installation/config post de travail + outils                                                                 | <2018-03-02 ven.> | I   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Pierre est rentré dans le code jusqu'au cou !                                                                | <2018-03-09 ven.> | AI  |
+   | Signaux Faibles |                   | Pierre a débuté investigations pour autres modèles statistiques                                              | <2018-03-09 ven.> | D   |
+   | Signaux Faibles |                   | Investigations sur le fichier banque de france                                                               | <2018-03-09 ven.> | D   |
+   | Signaux Faibles |                   | Réunion Urssaf Bourgogne et Franche Comté pour discuter data/calcul et recette prédiction                    | <2018-03-09 ven.> | ADU |
+   | Signaux Faibles |                   | 1 nouvelle prédiction livrée suite aux corrections induites par le stage urssaf                              | <2018-03-09 ven.> | CDU |
+   | Signaux Faibles |                   | Atelier RoadMap avec notre mentor                                                                            | <2018-03-09 ven.> | M   |
+   | Signaux Faibles |                   | accompagnement service statistique sur l'exploitation d'histo_sirene                                         | <2018-03-09 ven.> | TU  |
+   | Signaux Faibles |                   | Christophe continue codage POC du nouveau modèle, changement techno (python/pgsql devient golang/mongodb)    | <2018-03-09 ven.> | AD  |
+   | Signaux Faibles |                   | Accompagnement technique du projet offre de service direccte TPE/PME                                         | <2018-03-09 ven.> | T   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Christophe a bien avancé codage du nouveau modèle et est sur le point d'aboutir                              | <2018-03-16 ven.> | AD  |
+   | Signaux Faibles |                   | Pierre a soulevé un ensemble de questions pour la Banque de France et l'Urssaf                               | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Préparation d'un entretien avec la banque de france pour discuter des données                                | <2018-03-16 ven.> | DM  |
+   | Signaux Faibles |                   | Préparation d'éléments pour une réunion de service des chargés de mission                                    | <2018-03-16 ven.> | MU  |
+   | Signaux Faibles |                   | Quick & dirty algo logistique et SVM -> algo logistique régularisé décevant, revoir inputs                   | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Intégration d'une nouvelle source de donnée Banque de France dans le modèle                                  | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Tentative de croisement SIRENE/DARES -> le service statistique de la Direccte traite le problème             | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | tentative de conversion SAS -> monde libre -> échec, encore (mais en vrai j'ai pas encore essayé)            | <2018-03-16 ven.> | D   |
+   | Signaux Faibles |                   | Réception de nos Mugs                                                                                        | <2018-03-16 ven.> | I   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Rencontre Banque de France > Done.                                                                           | <2018-03-23 ven.> | CD  |
+   | Signaux Faibles |                   | Réunion de service des chargés de mission > En cours.                                                        | <2018-03-23 ven.> | U   |
+   | Signaux Faibles |                   | LLL thursday > Yeah !                                                                                        | <2018-03-23 ven.> | AU  |
+   | Signaux Faibles |                   | MapReduce à l’assaut du versioning > Pas encore finalisé.                                                    | <2018-03-23 ven.> | D   |
+   | Signaux Faibles |                   | Process d'intégration des données > Pas encore finalisé                                                      | <2018-03-23 ven.> | D   |
+   | Signaux Faibles |                   | Feature Engineering > En cours.                                                                              | <2018-03-23 ven.> | D   |
+   | Signaux Faibles |                   | Dashboard pour présenter les données du projets aux utilisateurs quelques expérimentations de visualisation. | <2018-03-23 ven.> | U   |
 
 ** Suite
 
-- [CD] Rencontre Banque de France
-- [U] Réunion de service des chargés de mission
-- [AU] LLL thursday
+- [A] Échange avec Nota-PME autour de la notation d'entreprise et analyse de données.
+- [U] Premiers entretiens avec nos users côté CMDE (hope !)
+- [U] Groupe projet Signaux-Faible™, réunion de tous les protagonistes (users, fournisseurs de data…)
 - [D] MapReduce à l’assaut du versioning
 - [D] Process d'intégration des données
-- [D] Feature Engineering
-- [U] Dashboard pour présenter les données du projets aux utilisateurs
+- [D] Feature Engineering > Toujours et encore
+- [U] Dashboard pour présenter les données du projets aux utilisateurs sans doute un peu de design UX suite aux interviews
 
 * SocialConnect
 
