@@ -513,21 +513,28 @@ un lien est ajouté.
    | Hopkins |                     | Amélioration Web App Validation                                        | <2018-03-16 ven.> | P   |
    | Hopkins |                     | Déploiement Gitlab + Documentation                                     | <2018-03-16 ven.> | P   |
    | Hopkins |                     | Début conversion python 3                                              | <2018-03-16 ven.> | P   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Matching            | Amélioration de l'app de graphe                                        | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching            | test de matching utilisant du Locality Sensitivity Hashing sur Sp...   | <2018-03-23 ven.> | A   |
+   | Hopkins | Matching            | Effacer toutes les tables présentes sur HDFS                           | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching            | Evaluation de matching avec différentes limite de nombre de résul...   | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching            | Etude de différentes variations de la mesure group level Generali...   | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching            | Rédaction d'une première version de protocole d'évaluation             | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                | Automatisation push gitlab                                             | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                | Passage python 3 finit                                                 | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                | Amélioration web app évaluation prédictions                            | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                | Prise de rdv Users                                                     | <2018-03-23 ven.> | U   |
 
 ** Suite
 
-- [P] Installation MatchID/Elastic Search sur VM
-- [P] Lancer un matching plus gros sur la VM
-- [P] Suite et fin : refactoring et documentation du code d’évaluation
-- [P] Continuer de tester des mesures d’évaluation au niveau des entités
-- [P] Exploration résultats du classifier avec LIME
-- [P] Plug LIME dans Web App
-- [R] Rencontre utilisateurs Web App + recherche de quick wins
-- [R] Mettre l'app de graphe entre les mains des utilisateurs
-- [R] Appliquer l'app de graphe à une autre problématique en cours
-- [P] Isoler les parties de code qui nous intéresse dans matchID,
-  proposer un refactoring à Fabien Antoine pour modulariser les
-  recettes
+- {Matching} [U] Prise de rdv pour des interviews utilisateurs => création des personas
+- {Matching} [I] Importation de la webapp de validation de matchID en tant que webapp Dataiku
+- {Outil exploration graphes} [U] Interview d'utilisateurs, création de personas
+- {Matching} [P] Test d'un clustering plutôt que d'un seuillage sur dataset collecteurs
+- {Matching} [P] Continuer la création d'un dataset de référence (labellisé)
+- {Text} [P] Finalisation web app
+- {Text} [U] Entretiens Users
+- {Text} [P] Amélioration Modèles
 
 * Lab Santé
 
