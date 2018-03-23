@@ -72,15 +72,16 @@ un lien est ajouté.
    | Archifiltre |                        | Ouverture repos GitHub EIG                                              | <2018-03-16 ven.> | P   |
    | Archifiltre |                        | Réflexion sur la communication autour de notre projet                   | <2018-03-16 ven.> | C   |
    | Archifiltre |                        | Revue de fin de sprint n°2 avec nos mentors                             | <2018-03-16 ven.> | M   |
+   |-------------+------------------------+-------------------------------------------------------------------------+-------------------+-----|
    | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                | <2018-03-23 ven.> | P   |
    | Archifiltre |                        | Début de construction du back de Stalactite                             | <2018-03-23 ven.> | P   |
    | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                            | <2018-03-23 ven.> | U   |
 
 ** Suite
 
-- Début du Sprint n°3, avec le tagging et les commentaires dans Stalactites
-- La v3 de Stalactites (nouvelle infra)
-- Des petites passes sur Chainocopy, ESOTIM et PST2Win si on a le temps
+- Encore du back
+- Encore des fonctionnalités (le tagging notamment)
+- Encore des tests utilisateurs
 
 * b@liseNAV
 
