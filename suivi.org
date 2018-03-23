@@ -240,12 +240,22 @@ un lien est ajouté.
    | CoachÉlève |          | Salon Eduspot pour rencontrer éditeurs de contenu                              | <2018-03-16 ven.> | D   |
    | CoachÉlève |          | Rencontre projet gouvernance des données                                       | <2018-03-16 ven.> | D   |
    | CoachÉlève |          | Réunion Mentor pour définition de finalités du coaching                        | <2018-03-16 ven.> | M   |
+   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève |          | RDV avec équipe gouvernance des données de la DNE B 2                          | <2018-03-23 ven.> | C   |
+   | CoachÉlève |          | Lecture guide méthodologique DNE B2                                            | <2018-03-23 ven.> | A   |
+   | CoachÉlève |          | Rencontre avec DGESCO sur gouverance données                                   | <2018-03-23 ven.> | CM  |
+   | CoachÉlève |          | Premère rencontre avec la DEPP                                                 | <2018-03-23 ven.> | C   |
+   | CoachÉlève |          | Rencontre PA Chevalier pour gouvernance données                                | <2018-03-23 ven.> | C   |
+   | CoachÉlève |          | Etude la norme xAPI                                                            | <2018-03-23 ven.> | A   |
+   | CoachÉlève |          | Commencé implémentation d'un LRS                                               | <2018-03-23 ven.> | I   |
 
 ** Suite
 
-- [I] Installation d’un LRS, communication avec LMS
-- [D] Réunion équipe de recherche à Nançy
-- [M] Réunion Task Force MEN-ETALAB pour gouvernance des données 
+- [MCU] Revenir vers DNE B2 avec proposition de collaboration
+- [MC] Terminer feuille de route gouvernance
+- [A] Rencontre chercheurs pour LRS
+- [M] Rencontre avec les industriels pour centralisation
+- [A] Rencontre avec porteur projet open source LRS
 
 * DataESR
 
