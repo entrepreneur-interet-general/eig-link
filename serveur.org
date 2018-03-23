@@ -8,12 +8,12 @@ C’est un serveur de 32GO de RAM acheté auprès d’OVH avec Proxmox VE.
 
 Il sert à :
 
-- héberger des prototypes d’application
-- avoir un peu de puissance de calcul à sa disposition
+- héberger des prototypes d’application ;
+- avoir un peu de puissance de calcul à sa disposition.
 
 Il n’a *pas* vocation à :
 
-- héberger des applications des défis sur le long terme
+- héberger des applications des défis sur le long terme ;
 - faire d’énorme calculs (nous n’avons que 32GO à partager).
 
 Un deuxième serveur du même calibre est en cours d’achat pour EIG.
@@ -71,6 +71,18 @@ Par exemple :
 : 
 : je voudrais que le sous-domaine blabla[.eig-forever.org] renvoie
 : vers le port 8080 de ma VM 192.168.0.107.
+
+Voici un [[https://gist.github.com/bzg/b607e2e3cad5d722c9d496aca9aa4acf][exemple de configuration nginx]] pour que le serveur de calcul
+redirige vers un service web hébergé sur un container ou une VM.
+
+Si vous avez besoin qu’un port du serveur de calcul (disons le port
+=10222=) redirige vers un port du container ou de la VM (disons le port
+=22=), demander à Bastien qu’il fasse cette redirection en indiquant
+l’adresse IP de votre container/VM.
+
+Voici un exemple de règle =iptables= pour la redirection:
+
+: iptables -t nat -A PREROUTING -p tcp -d 37.187.137.47 --dport 10222 -i vmbr0 -j DNAT --to-destination 192.168.0.102:22
 
 * Vous connecter à votre CT/VM
 
