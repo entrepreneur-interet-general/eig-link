@@ -126,14 +126,18 @@ un lien est ajouté.
    | b@liseNAV |               | Rapport d'étonnement sur la gouvernance informatique @ Shom                | <2018-03-16 ven.> | T   |
    | b@liseNAV |               | Driver S57 en C# (lecture fichiers S57 depuis env C# sans lib spécialisée) | <2018-03-16 ven.> | P   |
    | b@liseNAV |               | Premières approches pour une carte interactive                             | <2018-03-16 ven.> | M   |
+   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |               | Présentation des données Aladin chargées sur une carte web                 | <2018-03-23 ven.> | P   |
+   | b@liseNAV |               | Rapprochements entre données Aladin et base Shom                           | <2018-03-23 ven.> | DP  |
+   | b@liseNAV |               | Driver S-57 vers objets S-201                                              | <2018-03-23 ven.> | P   |
+   | b@liseNAV |               | Revue des mécanismes possibles de mise à jour de la S-201                  | <2018-03-23 ven.> | DU  |
 
 ** Suite
 
 - [P] Présentation des données Aladin chargées sur une carte web
-- [P] Rapprochements entre données Aladin et base Shom
-- [P] Driver S57 vers objets S201
-- [U] Revue des mécanismes possibles de mise à jour de la S201
- 
+- [DP] Rapprochements entre données Aladin et base Shom
+- [P] Revues de codes
+
 * BrigadeNumérique
 
 ** Dépôt
