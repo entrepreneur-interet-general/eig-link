@@ -16,8 +16,8 @@
 |------------+---------------+----------+-------------------+---------------------------------------------------|
 | 22 février | Mentors seuls | Thomas   | Bootcamp mentors  | Rex mentors et construction programme             |
 | 8 mars     | EIG seuls     | Marylène | Feuille de route  | Vérifier que chaque défi est clair sur sa roadmap |
+| 22 mars    | EIG + mentors | Quentin  | Utilisateurs      | Concevoir un produit avec ses utilisateurs!       |
 |------------+---------------+----------+-------------------+---------------------------------------------------|
-| *22 mars*    | *EIG + mentors* | *Quentin*  | *Utilisateurs*      | *Concevoir un produit avec ses utilisateurs*        |
 | 5 avril    | EIG seuls     |          | Data              |                                                   |
 | 11 avril   | EIG + mentors | Quentin  | Pérennisation     |                                                   |
 | 2 mai      | EIG seuls     |          | Barcamp EIG²      |                                                   |
