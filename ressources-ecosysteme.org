@@ -31,11 +31,21 @@ Source : [[https://github.com/etalab/data.gouv.fr/blob/master/data/univers-data-
 |----------------------------------------+--------------------------------------------|
 | https://github.com/opendatateam/udata/ | Catalogue de jeux de données               |
 | https://github.com/addok/addok         | Moteur de https://adresse.data.gouv.fr/api |
+| https://matchid-project.github.io/     | Appariemment et déduplication d'identités  |
+| https://github.com/entrepreneur-interet-general/Merge-Machine | Merge Machine, appariement de données sales |
 
 * Écosystème
 
 | Site                                       |                          | Contact         |
 |--------------------------------------------+--------------------------+-----------------|
-| https://umap.openstreetmap.fr/en/          |                          | [[https://github.com/yohanboniface][Y. Boniface]]     |
+| https://umap.openstreetmap.fr/en/          | Visualisation de données géographiques | [[https://github.com/yohanboniface][Y. Boniface]]     |
 | http://data.cquest.org/                    | Plein de jeux de données | [[https://github.com/cquest][C. Quest]]        |
-| https://github.com/frrrenchies/frrrenchies |                          | [[https://github.com/pachevalier][P.-A. Chevalier]] |
+| https://github.com/frrrenchies/frrrenchies | Ressources R pour la France | [[https://github.com/pachevalier][P.-A. Chevalier]] |
+| https://github.com/anthill/open-moulinette | Récupération des données Insee à l'IRIS | [[https://github.com/anthill] [ANTS]] |
+| http://api.openeventdatabase.org/event     | Agrégation de données spatio temporelles |  [[https://github.com/openeventdatabase] OpenEventDatabase (Christian Quest again)|
+
+* Catalogues de données
+
+| Site                                 | Description                                         |
+|--------------------------------------+-----------------------------------------------------|
+| https://mtes-mct.github.io/dataroom/ | Cartographie des données du Ministère de l'Écologie |
