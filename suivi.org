@@ -588,23 +588,23 @@ un lien est ajouté.
    | Lab Santé |                                   | Rencontre sous-dir OSAM et alignement                                                                                                                                                                                                                                                                                      | <2018-03-16 ven.> | M    |
    | Lab Santé | Avis HAS                          | Stabilisation du code pour extraction de médicament et scraping médecins                                                                                                                                                                                                                                                   | <2018-03-16 ven.> | P    |
    | Lab Santé | random                            | Tentative de connection RDCOM R <-> Outlook pour faire reporting sur mes mails et les trier automatiquement par regexp ou autre… echec ! (initiatives abandonnées depuis 10 ans sauf pour l’envoi de mails)                                                                                                                | <2018-03-16 ven.> | AP   |
-   | Lab Santé | Communauté EIG                    | Déj EIG ce 03-16, organisé via le channel slack SBFS                                                                                                                                                                                                                                                                       | <2018-03-16 ven.> |Fun|
+   | Lab Santé | Communauté EIG| Déj EIG ce 03-16, organisé via le channel slack SBFS| <2018-03-16 ven.> |Fun |
    | Lab Santé |Formation| Formation R initiation| <2018-03-23 ven.> |CT|
    | Lab Santé |Formation| Google Forms et retour des 9 stagiaires après la formation http://bit.ly/results_form_r_init | <2018-03-23 ven.> |CT|
-   | Lab Santé |Formation| Documentation et partage du contenu de formation sur gitlab DREES | <2018-03-23 ven.> |P|
-   | Lab Santé |Simplex| Mise au point du modèle contraint SIMPLEX
-| <2018-03-23 ven.> |P|
-   | Lab Santé |Communauté EIG| rencontre Etalab (Bastien, Mathilde et Marion Paclot) - LabSanté (3 EIG + Mentor)| <2018-03-23 ven.> |MC|
-   | Lab Santé |Simplex| Définition de viz pour comparer les approches du simplex
-| <2018-03-23 ven.> |P|
-   | Lab Santé |Simplex| Réunion utilisateurs et point d'avancement| <2018-03-23 ven.> |CMT|
-   | Lab Santé |Séminaire Big Data| Présentation de Prédical : objet connectés + modèle stats (détection d'écart à la routine) pour alerter en cas de risques chez les personnes âgées
-| <2018-03-23 ven.> |M|
-   | Lab Santé |Ateliers projets R/Python| Lancement des ateliers d'accompagnement R(&Python) sur une population de 60 statisticiens DREES| <2018-03-23 ven.> |CT|
-    | Lab Santé | | Création Slack DREES| <2018-03-23 ven.> |T|
-    | Lab Santé |Avis HAS|Point d'étape| <2018-03-23 ven.> |M|
-
-
+   | Lab Santé |Formation| Documentation et partage du contenu de formation sur gitlab DREES | <2018-03-23 ven.> | P |
+   | Lab Santé |Simplex| Mise au point du modèle contraint SIMPLEX | <2018-03-23 ven.> | P |
+   | Lab Santé |Communauté EIG| rencontre Etalab (Bastien, Mathilde et Marion Paclot) - LabSanté (3 EIG + Mentor)| <2018-03-23 ven.> | MC |
+   | Lab Santé |Simplex| Définition de viz pour comparer les approches du simplex | <2018-03-23 ven.> | P |
+   | Lab Santé |Simplex| Réunion utilisateurs et point d'avancement| <2018-03-23 ven.> | CMT |
+   | Lab Santé |Séminaire Big Data| Présentation de Prédical : objet connectés + modèle stats (détection d'écart à la routine) pour alerter en cas de risques chez les personnes âgées | <2018-03-23 ven.> | M |
+   | Lab Santé | Ateliers projets R | Lancement des ateliers d'accompagnement R sur une population de 60 statisticiens DREES| <2018-03-23 ven.> | CT |  
+   | Lab Santé | | création d’un espace de travail sur slack pour la DREES : bigdata-sante-social| <2018-03-23 ven.> | T |
+   | Lab Santé |Avis HAS|Point d'étape| <2018-03-23 ven.> | M |
+   | Lab Santé | |Participation au colloque Big Data en santé| <2018-03-23 ven.> |   |
+   | Lab Santé | |BigData Summit http://g5.asso.fr/wp-content/uploads/Invitation-Healthcare-Data-Summit-VF.pdf| <2018-03-23 ven.> |   |
+   | Lab Santé | Pubmed |utilisation d’une API qui permet de récupérer les données sans avoir à scrapper le site| <2018-03-23 ven.> |   |
+   | Lab Santé | Pubmed |1er tests avec la récupération de tous les articles contenant le terme PMSI (249 publications)| <2018-03-23 ven.> |   |
+   | Lab Santé | Formation| Suivi/amélioration appli Shiny « Condition de vie des enfants »| <2018-03-23 ven.> | AP   |
 
 * Prédisauvetage
 
