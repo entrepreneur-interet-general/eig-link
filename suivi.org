@@ -286,14 +286,20 @@ un lien est ajouté.
    | DataESR |          | Conférence IXTEX publications scientifiques                                 | <2018-03-16 ven.> | D   |
    | DataESR |          | Montée en compétence sur Flask                                              | <2018-03-16 ven.> | D   |
    | DataESR |          | Réupération de corpus de textes pour le scientif tagger                     | <2018-03-16 ven.> | P   |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Dev front pour l'app d'admin interne en React                               | <2018-03-23 ven.> | P   |
+   | DataESR |          | Backend de l'authentification                                               | <2018-03-23 ven.> | P   |
+   | DataESR |          | Test de mise en staging                                                     | <2018-03-23 ven.> | P   |
+   | DataESR |          | Dev d'une petit librairie python pour test le nlp en FR                     | <2018-03-23 ven.> | P   |
+   | DataESR |          | Design de l'infra pour le NLP                                               | <2018-03-23 ven.> | U   |
 
 ** Suite
 
-- Premières pages du front en React du MVP [P]
-- Création des modèles MVP Flask [P]
-- Finalisation Dataviz des établissements [P]
-- Début entrainement modèle du scientific tagger [P]
-- Escape Game team bulding dans le département [Fun]
+- RDV DSI
+- Modelisation de la BDD
+- Micro service en lien avec la bdd des établissement
+- CRUD pour afficher les établissement dans l'app
+- Testing du nlp sur des docs en anglais
 
 * EIG Node
 
