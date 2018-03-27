@@ -132,19 +132,19 @@ de l’administration publique : http://www.data.gouv.fr/fr/licences
 
 Si votre licence
 
-* Respecter des conventions de style
+* Bien communiquer dans vos dépôts de code
 
-Voici un tableau des « guides de style » pour différents langages :
+Une liste de contrôle pour les règles à respecter dans vos dépôts :
 
-| Langage    | Coding style                                    |
-|------------+-------------------------------------------------|
-| Python     | https://www.python.org/dev/peps/pep-0008/       |
-| Clojure    | https://github.com/bbatsov/clojure-style-guide  |
-| Ruby       | https://github.com/bbatsov/ruby-style-guide     |
-| Javascript | https://www.w3schools.com/js/js_conventions.asp |
-| PHP        | https://www.php-fig.org/psr/psr-2/              |
-| R          | https://google.github.io/styleguide/Rguide.xml  |
-| Go         | https://golang.org/doc/code.html                |
+- [ ] Une description
+- [ ] Des tags
+- [ ] Un lien vers un site web s’il y en a un
+- [ ] Un fichier README en anglais qui mentionne
+  - [ ] l’auteur © [Votre administration] [Vous]
+  - [ ] une façon de tester le logiciel
+  - [ ] un point de contact avec le mainteneur
+- [ ] Un fichier LICENSE avec le texte de la licence
+- [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
 
 * Rédiger une documentation utile
 
@@ -161,10 +161,8 @@ Voici une liste de contrôle pour la qualité de votre documentation :
 - [ ] Les noms de vos variables/fonctions sont-ils parlants ?
 - [ ] Avez-vous des docstrings dans vos fonctions/variables ?
 - [ ] Avez-vous des commentaires dans votre code ?
-- [ ] Générez-vous de la documentation à partir des commentaires et/ou
-  des docstrings de votre code ?
-- [ ] Votre documentation est-elle éditée sous un système de gestion
-  de versions ?
+- [ ] Générez-vous de la documentation à partir des commentaires et/ou des docstrings de votre code ?
+- [ ] Votre documentation est-elle éditée sous un système de gestion de versions ?
 - [ ] Votre documentation indique-t-elle comment signaler une erreur ?
 - [ ] Avez-vous testé votre documentation auprès des utilisateurs ?
 - [ ] Votre documentation est-elle publiée sous licence libre ?
@@ -194,15 +192,15 @@ libres :
 |     6 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   |               |
 |     7 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   | Oui           |
 
-- Publié : votre logiciel est disponible quelque part 
-- Licence libre : la licence libre de votre logiciel est clairement indiquée
-- Versioning : vous publiez le code via un système de gestion de version (git)
-- README : votre dépôt contient un fichier README en anglais
-- Bug tracker : vous utilisez un système de suivi de bugs public
-- Packaging : votre logiciel peut être installé facilement
-- Contribution : vous indiquez clairement comment contribuer
-- Test : votre logiciel contient une suite de tests unitaires
-- Documentation : vous maintenez la documentation de votre logiciel
+- Publié :: votre logiciel est disponible quelque part 
+- Licence libre :: la licence libre de votre logiciel est clairement indiquée
+- Versioning :: vous publiez le code via un système de gestion de version (git)
+- README :: votre dépôt contient un fichier README en anglais
+- Bug tracker :: vous utilisez un système de suivi de bugs public
+- Packaging :: votre logiciel peut être installé facilement
+- Contribution :: vous indiquez clairement comment contribuer
+- Test :: votre logiciel contient une suite de tests unitaires
+- Documentation :: vous maintenez la documentation de votre logiciel
 
 ** Des règles de bonne conduite au sein d’un projet libre
 
@@ -253,4 +251,18 @@ sécurité et les problèmes d’exploitation commerciale.
 
 - Une explication des licences Creative Commons dans [[https://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][cette
   présentation]] sur les ressources pédagogiques libres.
+
+** Conventions de style
+
+ Voici un tableau des « guides de style » pour différents langages :
+
+ | Langage    | Coding style                                    |
+ |------------+-------------------------------------------------|
+ | Python     | https://www.python.org/dev/peps/pep-0008/       |
+ | Clojure    | https://github.com/bbatsov/clojure-style-guide  |
+ | Ruby       | https://github.com/bbatsov/ruby-style-guide     |
+ | Javascript | https://www.w3schools.com/js/js_conventions.asp |
+ | PHP        | https://www.php-fig.org/psr/psr-2/              |
+ | R          | https://google.github.io/styleguide/Rguide.xml  |
+ | Go         | https://golang.org/doc/code.html                |
 
