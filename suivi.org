@@ -191,16 +191,22 @@ un lien est ajouté.
    | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                | <2018-03-16 ven.> | M   |
    | BrigadeNumérique |          | Intégration du chat sur les différentes sites de la gendarmerie                                   | <2018-03-16 ven.> | M   |
    | BrigadeNumérique |          | Echange avec la seule designer de la DGGN                                                         | <2018-03-16 ven.> | C   |
+   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | Organisation et conception atelier de définition de l’outil de RdV                                | <2018-03-27 mar.> | M   |
+   | BrigadeNumérique |          | Atelier OpenLab FranceConnect #10                                                                 | <2018-03-27 mar.> | C   |
+   | BrigadeNumérique |          | Participation à la session LLL                                                                    | <2018-03-27 mar.> | A   |
+   | BrigadeNumérique |          | Définir process de transmission des données horaire de brigade (DGGN, Dila, DataGouv, Platefor... | <2018-03-27 mar.> | M   |
+   | BrigadeNumérique |          | Participation au Comité de pilotage de la BNum (Brigade Numérique)                                | <2018-03-27 mar.> | M   |
+   | BrigadeNumérique |          | Rencontre de l’équipe UX EasiWare                                                                 | <2018-03-27 mar.> | M   |
+   | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                | <2018-03-27 mar.> | M   |
+
 
 ** Suite
 
-- [M] Organisation et conception atelier de définition de l’outil de RdV
-- [C] Atelier OpenLab FranceConnect #10 
-- [A] Participation à la session LLL
-- [M] Définir process de transmission des données horaire de brigade
-  (DGGN, Dila, DataGouv, Plateforme Exterieur)
-- [M] Participation au Comité de pilotage de la BNum (Brigade Numérique)
-- [M] Rencontre de l'équipe UX EasiWare 
+- [P] Animation de l'atelier d'idéation de l’outil Prise de RdV à Orléans
+- [F] Formation à l'outil de Reporting pour mesure de la satisfaction utilisateur
+- [A] Plénière à la session 100% Efficaces
+- [P] Participation à la reprise de Storify au LLL
 
 * CoachÉlève
 
