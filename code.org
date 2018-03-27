@@ -1,54 +1,256 @@
-* TODO Vue de l’ensemble des dépôts
+#+title: Gestion d’un projet libre au sein de l’administration
 
-| Dépôt                         | Type   | Description | Site | Mainteneur | Appli / Lib / Service | Défi | Language | Année début | Activité | Licence |
-|-------------------------------+--------+-------------+------+------------+-----------------------+------+----------+-------------+----------+---------|
-| opensignauxfaibles            |        |             |      |            |                       |      |          |             |          |         |
-| eig-link                      |        |             |      |            |                       |      |          |             |          |         |
-| blog-eig2                     |        |             |      |            |                       |      |          |             |          |         |
-| OpenScraper                   |        |             |      |            |                       |      |          |             |          |         |
-| predisauvetage                |        |             |      |            |                       |      |          |             |          |         |
-| previsecours.github.io        |        |             |      |            |                       |      |          |             |          |         |
-| csv2html                      |        |             |      |            |                       |      |          |             |          |         |
-| ESOTIM                        | Forked |             |      |            |                       |      |          |             |          |         |
-| mkinx                         |        |             |      |            | Lib                   |      | Python   |             |          |         |
-| open-agenda-eig2018           |        |             |      |            |                       |      |          |             |          |         |
-| clj-rgf93-wgs84               |        |             |      |            |                       |      |          |             |          |         |
-| tutos-2018                    |        |             |      |            |                       |      |          |             |          |         |
-| open-moulinette               |        |             |      |            |                       |      |          |             |          |         |
-| 2017                          |        |             |      |            |                       |      |          |             |          |         |
-| dataESR                       |        |             |      |            |                       |      |          |             |          |         |
-| numerilab                     |        |             |      |            |                       |      |          |             |          |         |
-| agenda-eig2018                |        |             |      |            |                       |      |          |             |          |         |
-| beta.gouv.fr                  | Forked |             |      |            |                       |      |          |             |          |         |
-| the-magical-csv-merge-machine |        |             |      |            |                       |      |          |             |          |         |
-| Merge-Machine                 |        |             |      |            |                       |      |          |             |          |         |
-| sill                          |        |             |      |            |                       |      |          |             |          |         |
-| leaflet-geocoder-ban          |        |             |      |            |                       |      |          |             |          |         |
-| parcoursdesoins               |        |             |      |            |                       |      |          |             |          |         |
-| matchID                       |        |             |      |            |                       |      |          |             |          |         |
-| cartav                        |        |             |      |            |                       |      |          |             |          |         |
-| api-ccomptes                  |        |             |      |            |                       |      |          |             |          |         |
-| controle-en-cours             |        |             |      |            |                       |      |          |             |          |         |
-| matchid-rnipp                 |        |             |      |            |                       |      |          |             |          |         |
-| matchID-search                |        |             |      |            |                       |      |          |             |          |         |
-| dedupe                        | Forked |             |      |            |                       |      |          |             |          |         |
-| pointk                        |        |             |      |            |                       |      |          |             |          |         |
-| publib                        |        |             |      |            |                       |      |          |             |          |         |
-| dataiku-contrib               | Forked |             |      |            |                       |      |          |             |          |         |
-| addocker                      | Forked |             |      |            |                       |      |          |             |          |         |
-| exo_ref                       |        |             |      |            |                       |      |          |             |          |         |
-| AFD_projects                  |        |             |      |            |                       |      |          |             |          |         |
-| word_convertor                |        |             |      |            |                       |      |          |             |          |         |
-| tf-idf_poc                    |        |             |      |            |                       |      |          |             |          |         |
-| sidenotes                     |        |             |      |            |                       |      |          |             |          |         |
-| addok-fr                      | Forked |             |      |            |                       |      |          |             |          |         |
+* Préambule
 
-* TODO Convention sur les statuts des dépôts
+La Loi pour une République Numérique de 2015 oblige les
+administrations à publier les documents administratifs qu’elles
+produisent sous licence libre.  Le code source d’un logiciel est
+assimilé à un document administratif, donc il doit lui aussi être
+publié sous licence libre.
 
-- En fonction de leur activité (low/med/high)
-- En fonction de leur utilisation (expérimental/en production)
-- ...
+Ce document a pour vocation de guider les EIG dans la publication et
+la gestion de leurs projets de logiciels libres.
 
-* TODO Conventions de nommage des dépôts
+Il propose quelques outils pour avancer pragmatiquement : il ne
+prétend pas couvrir ces problématiques de façon exhaustive et il n’a
+pas vocation à être un référentiel juridique.
 
-* TODO Conventions d’archivage
+* Comprendre les licences libres
+
+** Des licences pour les logiciels et les contenus
+
+La « culture libre » mobilise deux types de ressources : le /code
+source/ de logiciels et des /contenus autres/ (textes, images, etc.)
+
+Lorsqu’on évoque les licences libres, on pense spontanément à celles
+qui couvrent les /logiciels libres/, mais certaines licences Creative
+Commons sont aussi des licences libres.
+
+Par exemple : le noyau Linux est publié sous licence libre GPLv2 et
+les contenus de Wikipédia sont publiés sous licence Creative Commons
+by-sa 3.0.
+
+Étalab a publié une licence qui peut couvrir aussi bien les logiciels
+que les contenus, la Licence Ouverte 2.0 ([[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][pdf]]).
+
+** Les quatre libertés garanties par les licences libres
+
+Les licences libres sont des /contrats/ passés entre l’auteur d’un
+logiciel et un utilisateur, celui-là accordant à celui-ci ces quatre
+libertés :
+
+- la liberté *d'utiliser* le logiciel ;
+
+- la liberté *de copier* le logiciel ;
+
+- la liberté *d'étudier* le logiciel ;
+
+- la liberté *de modifier* le logiciel et de redistribuer les versions
+  modifiées.
+
+Ce principe est commun à /toutes/ les licences libres.
+
+** Les deux grandes familles de licences libres
+
+Il y a deux grandes familles de licences libres :
+
+- les licences dites « *copyleft* », qui garantissent que les versions
+  redistribuées du logiciel (modifié ou non) sont publiées avec les
+  mêmes garanties sur les libertés de l’utilisateur ;
+
+- les licences dites « *permissives* », qui permettent à des versions
+  redistribuées du logiciel (modifié ou non) d’être publiées sous des
+  conditions ne garantissant pas les quatre libertés fondamentales de
+  l’utilisateur.
+
+La licence copyleft la plus connue est la licence [[https://fr.wikipedia.org/wiki/Licence_publique_g%25C3%25A9n%25C3%25A9rale_GNU][GNU GPL]] (General
+Public license).
+
+Les licences permissives connues sont les licences [[https://fr.wikipedia.org/wiki/Licence_BSD][BSD]], [[https://fr.wikipedia.org/wiki/Licence_MIT][MIT]], [[https://fr.wikipedia.org/wiki/Licence_Apache][Apache]].
+
+Les deux institutions de référence pour l’évaluation des licences
+libres sont la [[https://fr.wikipedia.org/wiki/Free_Software_Foundation][Free Software Foundation]] et l’[[https://opensource.org/][Open Source Initiative]].
+
+** Quelques exemples
+
+ - Le cadriciel Bootstrap est publié sous licence MIT.
+
+ - Le logiciel openssh est publié sous licence BSD.
+
+ - Le noyau Linux est publié sous GPLv2.
+
+ - Le serveur HTTP du projet Apache est publié sous licence Apache.
+
+ - Les logiciels du projet GNU sont généralement publiés sous GPLv3+.
+
+* Choisir une licence libre pour vos codes sources
+
+Vous êtes dans l’un de ces trois cas :
+
+1. Vous contribuez à un logiciel libre existant.
+2. Vous fourchez (/forkez/) un logiciel libre existant.
+3. Vous écrivez un nouveau logiciel libre.
+
+Nous ne nous intéressons pas aux fourches « techniques », celles où le
+fait de fourcher ne sert qu’à pouvoir envoyer des correctifs sur le
+logiciel parent.
+
+Quel enjeu de licence pour chacun des trois cas ?
+
+- Vous contribuez à un logiciel libre existant :: La loi pour une
+     République Numérique autorise les agents publics à contribuer à
+     des logiciels libres existant.  Si vous êtes dans ce cas,
+     veuillez vous référer à la [[https://disic.github.io/politique-de-contribution-open-source/*][Politique de Contribution Open source]],
+     qui vient d’être publiée en v1.  Les administrations sont en
+     train de se familiariser avec cette politique : n’hésitez pas à
+     faire part de vos remarques à votre administration.
+
+- Vous fourchez (/forkez/) un logiciel libre existant :: si le logiciel
+     parent est sous licence copyleft, votre version modifiée sera
+     sous la même licence (ou sous une autre licence copyleft
+     compatible) ; si le logiciel parent est sous licence permissive,
+     vous pouvez publier votre version sous la licence permissive ou
+     copyleft que vous voulez.  Comme vous êtes obligés de publier le
+     code hérité sous sa licence d’origine, il est pratique de publier
+     votre version modifiée sous la licence permissive d’origine.
+
+- Vous écrivez un nouveau logiciel libre :: le choix entre une licence
+     permissive ou copyleft devra se faire selon votre stratégie et/ou
+     selon les choix faits par d’autres logiciels similaires écrits
+     dans le même langage.
+
+Pour le détail sur la compatibilité des licences voir [[https://vvlibri.org/fr/guide-de-lauteur-libre-gerer-des-licences-differentes-compatibilites-de-licences/tableau-de][ce tableau]] et
+ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]] de la FSF.
+
+À noter que la question de la licence libre se pose au moment de la
+/publication/ de votre code.
+
+** Les licences autorisées pour l’administration publique
+
+Étalab publie la liste des licences autorisées pour les codes sources
+de l’administration publique : http://www.data.gouv.fr/fr/licences
+
+Si votre licence
+
+* Respecter des conventions de style
+
+Voici un tableau des « guides de style » pour différents langages :
+
+| Langage    | Coding style                                    |
+|------------+-------------------------------------------------|
+| Python     | https://www.python.org/dev/peps/pep-0008/       |
+| Clojure    | https://github.com/bbatsov/clojure-style-guide  |
+| Ruby       | https://github.com/bbatsov/ruby-style-guide     |
+| Javascript | https://www.w3schools.com/js/js_conventions.asp |
+| PHP        | https://www.php-fig.org/psr/psr-2/              |
+| R          | https://google.github.io/styleguide/Rguide.xml  |
+| Go         | https://golang.org/doc/code.html                |
+
+* Rédiger une documentation utile
+
+Voici une liste de contrôle pour la qualité de votre documentation :
+
+- [ ] Avez-vous une documentation ?
+- [ ] Votre documentation est-elle rédigée en anglais ?
+- [ ] Avez-vous une documentation orientée utilisateur ?
+- [ ] Avez-vous une documentation orientée développeur ?
+- [ ] Votre documentation explique-t-elle comment contribuer ?
+- [ ] Votre documentation est-elle accessible sous des formats ouverts ?
+- [ ] Analysez-vous les visites du site web de votre documentation ?
+- [ ] Votre documentation est-elle publiée sur un site web ?
+- [ ] Les noms de vos variables/fonctions sont-ils parlants ?
+- [ ] Avez-vous des docstrings dans vos fonctions/variables ?
+- [ ] Avez-vous des commentaires dans votre code ?
+- [ ] Générez-vous de la documentation à partir des commentaires et/ou
+  des docstrings de votre code ?
+- [ ] Votre documentation est-elle éditée sous un système de gestion
+  de versions ?
+- [ ] Votre documentation indique-t-elle comment signaler une erreur ?
+- [ ] Avez-vous testé votre documentation auprès des utilisateurs ?
+- [ ] Votre documentation est-elle publiée sous licence libre ?
+- [ ] Votre documentation contient-elle une section de remerciements ?
+- [ ] Votre documentation contient-elle une section sur l’historique du projet ?
+
+* Impliquer des utilisateurs et contributeurs
+
+Il ne suffit pas de publier un logiciel sous licence libre pour en
+faire un « bien commun » : il faut encore animer son développement et
+mobiliser une communauté de contributeurs.
+
+** Des degrés d’ouverture des projets libres
+
+Ci-dessous un tableau pour présenter différents « dégré » de projets
+libres :
+
+| Degré | Publié | Licence libre | Versioning | README | Bug tracker | Packaging | Contribution | Tests | Documentation |
+|-------+--------+---------------+------------+--------+-------------+-----------+--------------+-------+---------------|
+|    -1 | Non    | ?             | ?          | ?      | ?           | ?         | ?            | ?     | ?             |
+|     0 | Oui    | Oui           |            |        |             |           |              |       |               |
+|     1 | Oui    | Oui           | Oui        |        |             |           |              |       |               |
+|     2 | Oui    | Oui           | Oui        | Oui    |             |           |              |       |               |
+|     3 | Oui    | Oui           | Oui        | Oui    | Oui         |           |              |       |               |
+|     4 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       |              |       |               |
+|     5 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          |       |               |
+|     6 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   |               |
+|     7 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   | Oui           |
+
+- Publié : votre logiciel est disponible quelque part 
+- Licence libre : la licence libre de votre logiciel est clairement indiquée
+- Versioning : vous publiez le code via un système de gestion de version (git)
+- README : votre dépôt contient un fichier README en anglais
+- Bug tracker : vous utilisez un système de suivi de bugs public
+- Packaging : votre logiciel peut être installé facilement
+- Contribution : vous indiquez clairement comment contribuer
+- Test : votre logiciel contient une suite de tests unitaires
+- Documentation : vous maintenez la documentation de votre logiciel
+
+** Des règles de bonne conduite au sein d’un projet libre
+
+Des règles simples, claires et explicites vous aident à maintenir une
+collaboration respectueuse et constructive au sein de votre projet.
+
+Voir le https://www.contributor-covenant.org pour un exemple.
+
+* Les réticences à surmonter pour l’ouverture
+
+- « Nous ne pourrons plus exploiter commercialement notre code » ::
+     vous ne pourrez pas faire reposer votre modèle de financement sur
+     la vente d’un logiciel fermé mais il existe de nombreux modèles
+     économiques autour du logiciel libre.
+
+- « Nous allons nous faire pirater notre serveur » :: Publier le code
+     source d’une application web va permettre à d’autres de la tester
+     et de faire remonter les éventuels problèmes de sécurité.
+
+- « Nous allons exposer des problèmes de sécurité » :: Oui, cela
+     permet de mieux les corriger.
+
+- « Nous allons montrer du code sale » :: Oui.  Cela vous incitera à
+     le nettoyer.
+
+- « Nous ne pourrons plus breveter notre logiciel » :: Il n’est pas
+     possible de breveter des logiciels en Europe.
+
+- « Nous allons exposer des données confidentielles » :: Au moment de
+     publier le code source de votre application, veillez à ne pas y
+     laisser traîner de mots de passe ou de clefs secrètes.
+
+Les réticences les plus fréquentes portent sur les problèmes de
+sécurité et les problèmes d’exploitation commerciale.
+
+* Quelques ressources utiles
+
+- Des guides sur l’open source en général : [[https://opensource.guide]]
+
+- La liste des licences libres pour l’administration :
+  [[https://www.data.gouv.fr/fr/licences]]
+
+- La politique de contribution Open Source :
+  [[https://github.com/disic/politique-de-contribution-open-source]]
+
+- La licence ouverte 2.0 :
+  [[https://www.etalab.gouv.fr/licence-ouverte-open-licence]]
+
+- Une explication des licences Creative Commons dans [[https://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][cette
+  présentation]] sur les ressources pédagogiques libres.
+

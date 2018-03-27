@@ -1,0 +1,25 @@
+* FAQ
+
+- Suis-je obligé de publier mon code source ? :: Si vous êtes une administration et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
+
+- Où dois-je publier mon code source ? :: En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur Github ou ailleurs) de votre administration ; (2) le compte Github du programme [[http://github.com/entrepreneur-interet-general/][Entrepreneur d'intérêt général]] ; (3) n’importe quel autre compte d’organisation ou personnel.
+
+- Comment gérer les versions de mon logiciel ? :: Vous pouvez utiliser la [[https://semver.org/lang/fr/][gestion sémantique de version]] ou tout autre système permettant de bien communiquer vos progrès avec vos utilisateurs.
+
+- Qui dois-je indiquer comme auteur du logiciel ? :: Dans le README, vous devez indiquer © [votre-administration] [vous].
+
+- Où publier la licence d’un logiciel ? :: Dans un dépôt, vous indiquez la licence dans le README et vous ajoutez la licence dans un fichier LICENSE à la racine du dépôt.
+
+- Où trouver la licence d’un logiciel ? :: En général, dans un fichier LICENSE à la racine du dépôt.
+
+- Sous quelle licence dois-je publier la documentation ? :: Pour une documentation nouvelle, vous devez la publier sous [[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][Licence Ouverte 2.0]].
+
+- Sous quelle licence dois-je publier les graphismes de mon logiciel :: Vous devez les publier sous [[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][Licence Ouverte 2.0]].
+
+- Puis-je modifier un logiciel sous copyleft, l’améliorer sur ma machine et ne pas publier mes améliorations ? :: Oui.
+
+- Puis-je utiliser une licence qui n’est pas dans [[http://www.data.gouv.fr/fr/licences][les licences autorisées]] par décret ? :: Oui mais vous devez faire une demande d’homologation de la licence envisagée auprès de =homologation.licence@data.gouv.fr=
+
+- Puis-je publier des contenus « libres de droits » ? :: Non, « libre de droits » ne signifie rien.  Vos contenus sont soit sous droit d’auteur classique (la situation par défaut), soit sous licence libre.
+
+# - Qu’est-ce que le copyleft faible/fort ? :: TBD
