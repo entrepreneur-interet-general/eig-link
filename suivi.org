@@ -327,13 +327,13 @@ un lien est ajouté.
    | EIG Node |          | Restitution du diagnostic sur la communication du programme                | <2018-03-16 ven.> | C   |
    | EIG Node |          | Relecture prochain blog site EIG de Bastien                                | <2018-03-16 ven.> | C   |
    |----------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA Chevalier  | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Rencontre team Lab Santé et Marion Paclot sur leurs projets de datascience | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA C.         | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Rencontre team Lab Santé et Marino P. sur leurs projets de datascience     | <2018-03-27 mar.> | M   |
    | EIG Node |          | Préparation session 22/03                                                  | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie (en vue d’un comité ... | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie                         | <2018-03-27 mar.> | M   |
    | EIG Node |          | Ordinateur Bastien, épisode 5, avec Paul                                   | <2018-03-27 mar.> | I   |
    | EIG Node |          | Réflexion sur la nouvelle version du site avec Sophie                      | <2018-03-27 mar.> | C   |
-   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert + ... | <2018-03-27 mar.> | T   |
+   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert       | <2018-03-27 mar.> | T   |
 
 ** Suite
 
