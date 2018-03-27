@@ -43,6 +43,8 @@ Source : [[https://github.com/etalab/data.gouv.fr/blob/master/data/univers-data-
 | https://github.com/frrrenchies/frrrenchies | Ressources R pour la France | [[https://github.com/pachevalier][P.-A. Chevalier]] |
 | https://github.com/anthill/open-moulinette | Récupération des données Insee à l'IRIS | [[https://github.com/anthill] [ANTS]] |
 | http://api.openeventdatabase.org/event     | Agrégation de données spatio temporelles |  [[https://github.com/openeventdatabase] OpenEventDatabase (Christian Quest again)|
+| https://github.com/Legilibre/legi.py       |  Outils de manipulation des archives LEGI (lois françaises) de la DILA | [[https://legilibre.fr/] [Legilibre]] |
+
 
 * Catalogues de données
 
