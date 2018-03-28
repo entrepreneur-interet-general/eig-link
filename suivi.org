@@ -674,8 +674,9 @@ un lien est ajouté.
 
 * Prédisauvetage
 
-** Dépôt
+** Dépôt et site
 
+   - http://map.snosan.eig-forever.org
    - https://github.com/entrepreneur-interet-general/predisauvetage
    - https://github.com/AntoineAugusti/avurnav-api ([[https://antoineaugusti.github.io/avurnav-api/][démo]])
 
