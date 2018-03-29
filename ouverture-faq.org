@@ -22,4 +22,6 @@
 
 - Puis-je publier des contenus « libres de droits » ? :: Non, « libre de droits » ne signifie rien.  Vos contenus sont soit sous droit d’auteur classique (la situation par défaut), soit sous licence libre.
 
+# - Que signifie le plus dans GNU GPLv3+ ?
+
 # - Qu’est-ce que le copyleft faible/fort ? :: TBD
