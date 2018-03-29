@@ -101,23 +101,29 @@ Quel enjeu de licence pour chacun des trois cas ?
      République Numérique autorise les agents publics à contribuer à
      des logiciels libres existant.  Si vous êtes dans ce cas,
      veuillez vous référer à la [[https://disic.github.io/politique-de-contribution-open-source/*][Politique de Contribution Open source]],
-     qui vient d’être publiée en v1.  Les administrations sont en
-     train de se familiariser avec cette politique : n’hésitez pas à
-     faire part de vos remarques à votre administration.
+     qui vient d’être publiée en version 1.  Les administrations sont
+     en train de se familiariser avec cette politique : n’hésitez pas
+     à faire part de vos remarques à votre administration.
 
 - Vous fourchez (/forkez/) un logiciel libre existant :: si le logiciel
      parent est sous licence copyleft, votre version modifiée sera
      sous la même licence (ou sous une autre licence copyleft
      compatible) ; si le logiciel parent est sous licence permissive,
      vous pouvez publier votre version sous la licence permissive ou
-     copyleft que vous voulez.  Comme vous êtes obligés de publier le
-     code hérité sous sa licence d’origine, il est pratique de publier
-     votre version modifiée sous la licence permissive d’origine.
+     copyleft que vous voulez, l’usage courant étant d’utiliser la
+     même licence que le logiciel parent.
+     
+     Par exemple : vous fourchez un thème bootstrap publié sous
+     licence MIT.  L’usage courant est de publier votre version sous
+     licence MIT.  Mais vous pouvez aussi publier votre thème sous la
+     licence copyleft GNU GPLv3, à condition d’indiquer quelles sont
+     les parties héritées, couvertes par la MIT, et quelles sont les
+     parties nouvelles, couvertes par la GNU GPLv3.
 
 - Vous écrivez un nouveau logiciel libre :: le choix entre une licence
-     permissive ou copyleft devra se faire selon votre stratégie et/ou
-     selon les choix faits par d’autres logiciels similaires écrits
-     dans le même langage.
+     permissive ou copyleft se fera selon votre stratégie et/ou selon
+     les choix faits par d’autres logiciels similaires écrits dans le
+     même langage.
 
 Pour le détail sur la compatibilité des licences voir [[https://vvlibri.org/fr/guide-de-lauteur-libre-gerer-des-licences-differentes-compatibilites-de-licences/tableau-de][ce tableau]] et
 ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]] de la FSF.
