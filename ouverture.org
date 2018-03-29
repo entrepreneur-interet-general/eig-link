@@ -136,15 +136,17 @@ Si votre licence
 
 Une liste de contrôle pour les règles à respecter dans vos dépôts :
 
-- [ ] Une description
-- [ ] Des tags
+- [ ] Un bon *nom* (éviter les noms génériques: "app", "donnees", etc.)
+- [ ] Une description claire en anglais
+- [ ] Des tags (au moins #EIG #VOTRE_DEFI)
 - [ ] Un lien vers un site web s’il y en a un
+- [ ] Un fichier LICENSE avec le texte de la licence
 - [ ] Un fichier README en anglais qui mentionne
   - [ ] l’auteur © [Votre administration] [Vous]
   - [ ] une façon de tester le logiciel
   - [ ] un point de contact avec le mainteneur
-- [ ] Un fichier LICENSE avec le texte de la licence
-- [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
+  - [ ] la licence
+  - [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
 
 * Rédiger une documentation utile
 
