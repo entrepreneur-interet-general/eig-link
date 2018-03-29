@@ -140,13 +140,28 @@ Une liste de contrôle pour les règles à respecter dans vos dépôts :
 - [ ] Une description claire en anglais
 - [ ] Des tags (au moins #EIG #VOTRE_DEFI)
 - [ ] Un lien vers un site web s’il y en a un
+- [ ] Un fichier README en anglais
 - [ ] Un fichier LICENSE avec le texte de la licence
-- [ ] Un fichier README en anglais qui mentionne
-  - [ ] l’auteur © [Votre administration] [Vous]
-  - [ ] une façon de tester le logiciel
-  - [ ] un point de contact avec le mainteneur
-  - [ ] la licence
-  - [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
+- [ ] Un fichier CONTRIBUTING en anglais qui explique comment contribuer
+
+** Votre fichier README
+
+Le fichier README contient :
+
+- [ ] l’auteur © [Votre administration] [Vous]
+- [ ] une façon de tester le logiciel
+- [ ] un point de contact avec le mainteneur
+- [ ] la licence
+- [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
+
+** Guider les contributeurs avec =ISSUE_TEMPLATE= et =PULL_REQUEST_TEMPLATE=
+
+Sur Github, vous pouvez ajouter un fichier =ISSUE_TEMPLATE= dont le
+contenu sera inséré dans les nouveaux tickets ("issues") ouverts,
+et =PULL_REQUEST_TEMPLATE= pour les /pull requests/.
+
+Vous trouverez un exemple pour ISSUES_TEMPLATE [[https://www.talater.com/open-source-templates/#/page/98][ici]] et de la
+documentation [[https://help.github.com/articles/helping-people-contribute-to-your-project/][ici]].
 
 * Rédiger une documentation utile
 
