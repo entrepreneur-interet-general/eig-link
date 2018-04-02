@@ -606,17 +606,28 @@ un lien est ajouté.
    | Hopkins | Text                | Passage python 3 finit                                                 | <2018-03-23 ven.> | P   |
    | Hopkins | Text                | Amélioration web app évaluation prédictions                            | <2018-03-23 ven.> | P   |
    | Hopkins | Text                | Prise de rdv Users                                                     | <2018-03-23 ven.> | U   |
+   |---------+---------------------+------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Explo graphe        | Démo de l’app à nos premiers utilisateurs et déploiement sur leurs ... | <2018-04-02 lun.> | U   |
+   | Hopkins | Explo graphe        | Création d’un backlog de fonctionnalités                               | <2018-04-02 lun.> | M   |
+   | Hopkins | Explo graphe        | Refactor du code en utilisant Vue.js                                   | <2018-04-02 lun.> | P   |
+   | Hopkins | Explo graphe        | Ajout de fonctionnalités (Expansion de noeud)                          | <2018-04-02 lun.> | P   |
+   | Hopkins | Matching            | Installation/configuration serveur Elasticsearch                       | <2018-04-02 lun.> | I   |
+   | Hopkins | Matching            | Insertion données depuis dataiku dans serveur ES                       | <2018-04-02 lun.> | I   |
+   | Hopkins | Matching            | Test clustering de louvain sur petit dataset=> meilleur Matching       | <2018-04-02 lun.> | P   |
+   | Hopkins | Matching            | Rencontre data esr merge machine. Étude macro du code                  | <2018-04-02 lun.> | A   |
+   | Hopkins | Text                | Accélération de code (stratification d'un dataset multi label)         | <2018-04-02 lun.> | P   |
+   | Hopkins | Text                | Feedback utilisateur test -> Amélioration de la web app de validation  | <2018-04-02 lun.> | P   |
+   | Hopkins | Text                | Déploiement auprès de tous (5...) les utilisateurs finaux              | <2018-04-02 lun.> | U   |
 
 ** Suite
 
-- {Matching} [U] Prise de rdv pour des interviews utilisateurs => création des personas
-- {Matching} [I] Importation de la webapp de validation de matchID en tant que webapp Dataiku
-- {Outil exploration graphes} [U] Interview d'utilisateurs, création de personas
-- {Matching} [P] Test d'un clustering plutôt que d'un seuillage sur dataset collecteurs
-- {Matching} [P] Continuer la création d'un dataset de référence (labellisé)
-- {Text} [P] Finalisation web app
-- {Text} [U] Entretiens Users
-- {Text} [P] Amélioration Modèles
+- {Explo graphe} [P] Ajout de fonctionnalités (Ajout d’information sur les noeuds et les arcs)
+- {Explo graphe} [A] Passage à l’échelle avec NetworkX ? Test de Spark GraphX ?
+- {Matching} [P] lancer matching depuis dataiku avec serveur ES
+- {Matching} [P] tester performance pour différentes tailles dataset
+- {Matching} [P] mettre en place évaluation : construire dataset de référence S1
+- {Text} [P] Installation environnement Deep Learning sur cluster de calcul
+- {Text} [P] Models NLP
 
 * Lab Santé
 
@@ -940,16 +951,24 @@ Semaine à venir :
    | Signaux Faibles |                   | Process d'intégration des données > Pas encore finalisé                                                      | <2018-03-23 ven.> | D   |
    | Signaux Faibles |                   | Feature Engineering > En cours.                                                                              | <2018-03-23 ven.> | D   |
    | Signaux Faibles |                   | Dashboard pour présenter les données du projets aux utilisateurs quelques expérimentations de visualisation. | <2018-03-23 ven.> | U   |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Signaux Faibles |                   | Échange avec Nota-PME autour de la notation d'entreprise et analyse de données                               | <2018-04-02 lun.> | A   |
+   | Signaux Faibles |                   | Premiers entretiens avec nos users côté CMDE (hope !) > quelques dates fixées                                | <2018-04-02 lun.> | U   |
+   | Signaux Faibles |                   | Groupe projet Signaux-Faible™, réunion très positive de tous les protagonistes                               | <2018-04-02 lun.> | U   |
+   | Signaux Faibles |                   | MapReduce à l’assaut du versioning > pas encore touché                                                       | <2018-04-02 lun.> | D   |
+   | Signaux Faibles |                   | Process d'intégration des données > routine en go_to_mongodb fonctionnelle                                   | <2018-04-02 lun.> | D   |
+   | Signaux Faibles |                   | Feature Engineering > features de l'algorithme logistique réécrit en javascript                              | <2018-04-02 lun.> | D   |
+   | Signaux Faibles |                   | Dashboard pour présenter les données du projets aux utilisateurs : premières ébauches                        | <2018-04-02 lun.> | U   |
+
 
 ** Suite
 
-- [A] Échange avec Nota-PME autour de la notation d'entreprise et analyse de données.
-- [U] Premiers entretiens avec nos users côté CMDE (hope !)
-- [U] Groupe projet Signaux-Faible™, réunion de tous les protagonistes (users, fournisseurs de data…)
-- [D] MapReduce à l’assaut du versioning
-- [D] Process d'intégration des données
-- [D] Feature Engineering > Toujours et encore
-- [U] Dashboard pour présenter les données du projets aux utilisateurs sans doute un peu de design UX suite aux interviews
+- [C] Rencontre d'Olivia Grégoire pour discuter du défi signaux faible
+- [D] Debug Feature Engineering
+- [D] Première récupération base Altarès par FTP (avant, c'était par mail.)
+- [D] Feature engineering: exploration de nouvelles features
+- [D] Exploration réseau de neuronne et arbre de décision
+- [DU]  Gestion des missions signaux faibles, modèle et méthodes...
 
 * SocialConnect
 
