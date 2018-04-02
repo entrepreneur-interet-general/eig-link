@@ -35,6 +35,7 @@ Source : [[https://github.com/etalab/data.gouv.fr/blob/master/data/univers-data-
 | https://matchid-project.github.io/     | Appariemment et déduplication d'identités  |
 | https://github.com/entrepreneur-interet-general/Merge-Machine | Merge Machine, appariement de données sales |
 | https://github.com/openfisca/openfisca-france | Openfisca France                    |
+| https://github.com/betagouv/api-medicaments | API Médicaments                       |
 
 * Écosystème
 
