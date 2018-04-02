@@ -1011,14 +1011,22 @@ Semaine à venir :
    | SocialConnect |                   | OpenScraper : spiders non bloquants, UI-UX, ajouts de nouveaux spiders via l’UI                | <2018-03-23 ven.> | P   |
    | SocialConnect |                   | Conf à Nantes annulé à cause grèves  (Julien)                                                  | <2018-03-23 ven.> | C   |
    | SocialConnect |                   | Point technique bimensuel avec la mentor (et bientôt son n+1)                                  | <2018-03-23 ven.> | M   |
+   |---------------+-------------------+------------------------------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Features de la première version de openscraper                                                 | <2018-04-02 lun.> | P   |
+   | SocialConnect |                   | Test proxmox et passage en preprod pour openscraper                                            | <2018-04-02 lun.> | P   |
+   | SocialConnect |                   | Pas eu le temps de me mettre à vue.js comme prévu...                                           | <2018-04-02 lun.> | P   |
+   | SocialConnect |                   | Finalisation des éléments graphiques et des éléments de comm: posters, flyers                  | <2018-04-02 lun.> | C   |
+   | SocialConnect |                   | Finalisation de la maquette de la landing page                                                 | <2018-04-02 lun.> | C   |
+   | SocialConnect |                   | Finalisation de notre nomenclature homogénéisant nos tags scrapés...                           | <2018-04-02 lun.> | P   |
+   | SocialConnect |                   | récupération des infos sur les noms de domaines achetés pour socialconnect                     | <2018-04-02 lun.> | C   |
+
 
 ** Suite
 
-- [P] Wireframe du site + landing page (Elise)
-- [P] OpenScraper : admin sys, déploiement en préprod sur un container
-- [P] commencer à bosser sur le site beta de SocialConnect
-- [A] formation expresse sur Vue.js (Julien)
-- [?] rester zen et faire le plein de Xanax
+- [P] Écriture du site de la landing avec Flask + Bulma (Julien)
+- [P] Mise en prod de la landing (Julien)
+- [P] premiers éléments de login et du “back” de la landing
+- [P] finaliser les écrans du “back” de la landing (Elise)
 
 * Nouveau jeux de données publiés
 
