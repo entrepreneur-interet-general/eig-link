@@ -1,54 +1,55 @@
-#+title: Contacts EIG2
+#+title: Points de contact pour les EIG
 
-Défi, Twitter/Mastodon, Github.
+Défi, Twitter/Mastodon, Github et site/blog.
 
-| Nom                       | Défi                     | Twitter, Mastodon | Github              |
-|---------------------------+--------------------------+-------------------+---------------------|
-| *EIG « forever » team*      |                          |                   |                     |
-|---------------------------+--------------------------+-------------------+---------------------|
-| Adnène Trojette           |                          | [[https://twitter.com/trojette][@trojette]]         |                     |
-| Mathilde Bras             |                          | [[https://twitter.com/Mathilde_Bras][@Mathilde_Bras]]    |                     |
-| Paul Schmite              |                          | [[https://twitter.com/schmitologie][@schmitologie]]     |                     |
-| Soizic Pénicaud           |                          | [[https://twitter.com/soizicpenicaud][@soizicpenicaud]]   | [[https://github.com/soizicpenicaud][soizicpenicaud]]      |
-| Étalab                    |                          | [[https://twitter.com/etalab][@etalab]]           |                     |
-|---------------------------+--------------------------+-------------------+---------------------|
-| *EIG 2018*                  |                          |                   |                     |
-|---------------------------+--------------------------+-------------------+---------------------|
-| Adrien Signorino          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/][b@aliseNAV]]               | [[https://twitter.com/signoOngis][@signoOngis]]       | [[https://github.com/sign0][sign0]]               |
-| Ambre Arnaud              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]                  | [[https://twitter.com/ambreelmee][@ambreelmee]]       | [[https://github.com/ambreelmee][ambreelmee]]          |
-| Antoine Augusti           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/][PrédiSauvetage]]           | [[https://twitter.com/AntoineAugusti][@AntoineAugusti]]   | [[https://github.com/AntoineAugusti][AntoineAugusti]]      |
-| Arnaud Rachez             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/][CoachÉlèves - AssistProf]] | [[https://twitter.com/zermelozf][@zermelozf]]        | [[https://github.com/zermelozf][zermelozf]]           |
-| Bastien Guerry            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/eiglink/][EIG Link]]                 | [[https://twitter.com/bzg2][@bzg2]], [[https://mastodon.etalab.gouv.fr/@bzg][@bzg]]       | [[https://github.com/bzg][bzg]]                 |
-| Benoît Guigal             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]                  | [[https://twitter.com/BGuigal][@BGuigal]]          | [[https://github.com/benoitguigal][benoitguigal]]        |
-| Christophe Ninucci        | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/][Signaux Faibles]]          | [[https://twitter.com/ChrisNinucci][@ChrisNinucci]]     | [[https://github.com/chrnin][chrnin]]              |
-| David Panou               | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/][CoachÉlèves - AssistProf]] |                   | [[https://github.com/pandav2][pandav2]]             |
-| Elise Lalique             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/][SocialConnect]]            |                   | [[https://github.com/eliselalique][Eliselalique]]        |
-| Emmanuel Gautier          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/][ArchiFiltre]]              | [[https://twitter.com/manutaust][@manutaust]]        | [[https://github.com/emmanuelgautier1994][emmanuelgautier1994]] |
-| Guillaume Lancrenon       | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/][PréviSecours]]             |                   | [[https://github.com/guillim][guillim]]             |
-| Jean-Baptiste Assouad     | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/][ArchiFiltre]]              |                   | [[https://github.com/jeanbaptisteassouad][jeanbaptisteassouad]] |
-| Jean-Baptiste Le Dévéhat  | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/][BrigadeNumérique]]         | [[https://twitter.com/jbledevehat][@jbledevehat]]      |                     |
-| Julien Naour              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][Lab Santé]]                |                   |                     |
-| Julien Paris              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/][SocialConnect]]            | [[https://twitter.com/jparis_py][@jparis_py]]        | [[https://github.com/JulienParis][Jpy]]                 |
-| Laurie Chapotte           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/][Gobelins]]                 | [[https://twitter.com/Lauriechapotte][@Lauriechapotte]]   |                     |
-| Maxime Pierrot            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]                  | [[https://twitter.com/mpierrax][@mpierrax]]         | [[https://github.com/pierrax][pierrax]]             |
-| Ned Baldessin             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/][Gobelins]]                 | [[https://twitter.com/ned][@ned]]              | [[https://github.com/nedbaldessin][nedbaldessin]]        |
-| Paul Boosz                | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]                  |                   | [[https://github.com/paulboosz][paulboosz]]           |
-| Philéas Condemine         | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][Lab Santé]]                |                   |                     |
-| Pierre Camilleri          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/][Signaux Faibles]]          |                   | [[https://github.com/jazzypierrot][jazzypierrot]]        |
-| Samah Ghalloussi          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][LabSanté]]                 | [[https://twitter.com/SamahNLP][@SamahNLP]]         |                     |
-| Sami Moustachir           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]                  | [[https://twitter.com/sa_mous][@sa_mous]]          | [[https://github.com/sammous][sammous]]             |
-| Tiphaine Phe-Neau         | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/][PréviSecours]]             | [[https://twitter.com/datatiph][@datatiph]]         | [[https://github.com/tiphaine][tiphaine]]            |
-| Victor Schmidt            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]                  | [[https://twitter.com/vict0rsch][@vict0rsch]]        |                     |
-|---------------------------+--------------------------+-------------------+---------------------|
-| *EIG 2017*                  |                          |                   |                     |
-|---------------------------+--------------------------+-------------------+---------------------|
-| Constance de Quatrebarbes |                          | [[https://twitter.com/c4barbes][@c4barbes]]         | [[https://github.com/c24b][c24b]]                |
-| Etienne David             |                          | [[https://twitter.com/EtienneDavid][@EtienneDavid]]     | [[https://github.com/EtienneDavid][EtienneDavid]]        |
-| Frédéric Bardolle         |                          | [[https://twitter.com/seiteta][@seiteta]]          | [[https://github.com/seiteta][seiteta]]             |
-| Martin Gross              |                          | [[https://twitter.com/TainMar][@TainMar]]          | [[https://github.com/SuperKiwi][SuperKiwi]]           |
-| Sébastien Cossin          |                          | [[https://twitter.com/sebcossin][@sebcossin]]        | [[https://github.com/scossin][scossin]]             |
-| Tristram Gräbener         |                          | [[https://twitter.com/tristramg][@tristramg]]        | [[https://github.com/Tristramg][Tristramg]]           |
-| Laurent Dupont            |                          |                   | [[https://github.com/duplau][duplau]]              |
-| Francis Chabouis          |                          |                   | [[https://github.com/fchabouis][fchabouis]]           |
-| Marion Paclot             |                          |                   | [[https://github.com/marion-paclot][marion-paclot]]       |
-|---------------------------+--------------------------+-------------------+---------------------|
+| Nom                       | Défi             | Twitter, Mastodon | Github              | Site/Blog                   |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| *EIG « forever » team*      |                  |                   |                     |                             |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| Adnène Trojette           |                  | [[https://twitter.com/trojette][@trojette]]         | [[https://github.com/trojette][trojette]]            |                             |
+| Mathilde Bras             |                  | [[https://twitter.com/Mathilde_Bras][@Mathilde_Bras]]    | [[https://github.com/MathildeBras][MathildeBras]]        |                             |
+| Paul Schmite              |                  | [[https://twitter.com/schmitologie][@schmitologie]]     | [[https://github.com/PaulEtalab][PaulEtalab]]          |                             |
+| Soizic Pénicaud           |                  | [[https://twitter.com/soizicpenicaud][@soizicpenicaud]]   | [[https://github.com/soizicpenicaud][soizicpenicaud]]      |                             |
+| Sophie Miljkovic          |                  |                   | [[https://github.com/milkosofi][milkosofi]]           |                             |
+| Étalab                    |                  | [[https://twitter.com/etalab][@etalab]]           |                     | [[https://www.etalab.gouv.fr/][Site Étalab]]                 |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| *EIG 2018*                  |                  |                   |                     | [[https://entrepreneur-interet-general.etalab.gouv.fr/blog.html][Blog EIG]]                    |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| Adrien Signorino          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/][b@aliseNAV]]       | [[https://twitter.com/signoOngis][@signoOngis]]       | [[https://github.com/sign0][sign0]]               |                             |
+| Ambre Arnaud              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]          | [[https://twitter.com/ambreelmee][@ambreelmee]]       | [[https://github.com/ambreelmee][ambreelmee]]          |                             |
+| Antoine Augusti           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/][PrédiSauvetage]]   | [[https://twitter.com/AntoineAugusti][@AntoineAugusti]]   | [[https://github.com/AntoineAugusti][AntoineAugusti]]      |                             |
+| Arnaud Rachez             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/][CoachÉlèves]]      | [[https://twitter.com/zermelozf][@zermelozf]]        | [[https://github.com/zermelozf][zermelozf]]           |                             |
+| Bastien Guerry            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/eiglink/][EIG Link]]         | [[https://twitter.com/bzg2][@bzg2]], [[https://mastodon.etalab.gouv.fr/@bzg][@bzg]]       | [[https://github.com/bzg][bzg]]                 | https://bzg.fr              |
+| Benoît Guigal             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]          | [[https://twitter.com/BGuigal][@BGuigal]]          | [[https://github.com/benoitguigal][benoitguigal]]        |                             |
+| Christophe Ninucci        | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/][Signaux Faibles]]  | [[https://twitter.com/ChrisNinucci][@ChrisNinucci]]     | [[https://github.com/chrnin][chrnin]]              |                             |
+| David Panou               | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/coacheleves/][CoachÉlèves]]      |                   | [[https://github.com/pandav2][pandav2]]             |                             |
+| Elise Lalique             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/][SocialConnect]]    |                   | [[https://github.com/eliselalique][Eliselalique]]        |                             |
+| Emmanuel Gautier          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/][ArchiFiltre]]      | [[https://twitter.com/manutaust][@manutaust]]        | [[https://github.com/emmanuelgautier1994][emmanuelgautier1994]] |                             |
+| Guillaume Lancrenon       | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/][PréviSecours]]     |                   | [[https://github.com/guillim][guillim]]             | https://guillim.github.io   |
+| Jean-Baptiste Assouad     | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/][ArchiFiltre]]      |                   | [[https://github.com/jeanbaptisteassouad][jeanbaptisteassouad]] |                             |
+| Jean-Baptiste Le Dévéhat  | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/][BrigadeNumérique]] | [[https://twitter.com/jbledevehat][@jbledevehat]]      | [[https://github.com/jbledevehat][jbledevehat]]         |                             |
+| Julien Naour              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][Lab Santé]]        |                   |                     |                             |
+| Julien Paris              | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/][SocialConnect]]    | [[https://twitter.com/jparis_py][@jparis_py]]        | [[https://github.com/JulienParis][Jpy]]                 |                             |
+| Laurie Chapotte           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/][Gobelins]]         | [[https://twitter.com/Lauriechapotte][@Lauriechapotte]]   |                     |                             |
+| Maxime Pierrot            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]          | [[https://twitter.com/mpierrax][@mpierrax]]         | [[https://github.com/pierrax][pierrax]]             |                             |
+| Ned Baldessin             | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/gobelins/][Gobelins]]         | [[https://twitter.com/ned][@ned]]              | [[https://github.com/nedbaldessin][nedbaldessin]]        |                             |
+| Paul Boosz                | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]          |                   | [[https://github.com/paulboosz][paulboosz]]           |                             |
+| Philéas Condemine         | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][Lab Santé]]        |                   | [[https://github.com/phileas-condemine][phileas-condemine]]   |                             |
+| Pierre Camilleri          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/signauxfaibles/][Signaux Faibles]]  |                   | [[https://github.com/jazzypierrot][jazzypierrot]]        |                             |
+| Samah Ghalloussi          | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/][LabSanté]]         | [[https://twitter.com/SamahNLP][@SamahNLP]]         |                     |                             |
+| Sami Moustachir           | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/dataesr/][DataESR]]          | [[https://twitter.com/sa_mous][@sa_mous]]          | [[https://github.com/sammous][sammous]]             |                             |
+| Tiphaine Phe-Neau         | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/][PréviSecours]]     | [[https://twitter.com/datatiph][@datatiph]]         | [[https://github.com/tiphaine][tiphaine]]            |                             |
+| Victor Schmidt            | [[https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/][Hopkins]]          | [[https://twitter.com/vict0rsch][@vict0rsch]]        | [[https://github.com/vict0rsch][vict0rsch]]           | https://vict0rsch.github.io |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| *EIG 2017*                  |                  |                   |                     |                             |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
+| Constance de Quatrebarbes |                  | [[https://twitter.com/c4barbes][@c4barbes]]         | [[https://github.com/c24b][c24b]]                |                             |
+| Etienne David             |                  | [[https://twitter.com/EtienneDavid][@EtienneDavid]]     | [[https://github.com/EtienneDavid][EtienneDavid]]        |                             |
+| Frédéric Bardolle         |                  | [[https://twitter.com/seiteta][@seiteta]]          | [[https://github.com/seiteta][seiteta]]             | https://medium.com/@seiteta |
+| Martin Gross              |                  | [[https://twitter.com/TainMar][@TainMar]]          | [[https://github.com/SuperKiwi][SuperKiwi]]           |                             |
+| Sébastien Cossin          |                  | [[https://twitter.com/sebcossin][@sebcossin]]        | [[https://github.com/scossin][scossin]]             |                             |
+| Tristram Gräbener         |                  | [[https://twitter.com/tristramg][@tristramg]]        | [[https://github.com/Tristramg][Tristramg]]           |                             |
+| Laurent Dupont            |                  |                   | [[https://github.com/duplau][duplau]]              |                             |
+| Francis Chabouis          |                  |                   | [[https://github.com/fchabouis][fchabouis]]           |                             |
+| Marion Paclot             |                  |                   | [[https://github.com/marion-paclot][marion-paclot]]       |                             |
+|---------------------------+------------------+-------------------+---------------------+-----------------------------|
