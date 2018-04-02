@@ -504,16 +504,32 @@ un lien est ajouté.
    | Gobelins |          | Signalétique bureau + présentation projet                                                 | <2018-03-23 ven.> | C   |
    | Gobelins |          | Obtention « base de données » textiles + aides techniques envisagées                      | <2018-03-23 ven.> | D   |
    | Gobelins |          | Récolte besoins service ameublement                                                       | <2018-03-23 ven.> | U   |
+   |----------+----------+-------------------------------------------------------------------------------------------+-------------------+-----|
+   | Gobelins |          | Propositions de nettoyage des thesaurus de la base SCOM                                   | <2018-04-02 lun.> | D   |
+   | Gobelins |          | Poursuite de l’étude du schéma de SCOM, la BDD legacy                                     | <2018-04-02 lun.> | D   |
+   | Gobelins |          | Début du modèle de donnée d’une API pour SCOM                                             | <2018-04-02 lun.> | D   |
+   | Gobelins |          | Réunion avec le responsable SCOM pour automatisation des exports                          | <2018-04-02 lun.> | D   |
+   | Gobelins |          | Autoformation sur le framework Laravel.                                                   | <2018-04-02 lun.> | A   |
+   | Gobelins |          | Analyse des courriers d’utilisateurs                                                      | <2018-04-02 lun.> | U   |
+   | Gobelins |          | Finalisation des personnas                                                                | <2018-04-02 lun.> | U   |
+   | Gobelins |          | Planification réunion avec direction                                                      | <2018-04-02 lun.> | M   |
+   | Gobelins |          | Benchmark des plateformes similaires                                                      | <2018-04-02 lun.> | U   |
+   | Gobelins |          | Récolte contenus sur les ateliers / métiers                                               | <2018-04-02 lun.> | D   |
+   | Gobelins |          | Retours utilisateurs avec les inspecteurs                                                 | <2018-04-02 lun.> | M   |
+   | Gobelins |          | Création d’une team motivée pour la rédac de contenus scientifiques                       | <2018-04-02 lun.> | M   |
+   | Gobelins |          | Première étape avec l’équipe responsable des textiles                                     | <2018-04-02 lun.> | M   |
 
 ** Suite
 
-- [M] Présentation, modification roadmap avec mentors + directeur Mobilier national : finalisation
-- [U] Terminer les personnas
-- [U] Benchmark plateforme similaire
+- [M] Présentation, modification roadmap avec mentors + directeur
+- [M] Validation hiérarchique pour nom de domaine / licences / partenariat Google
 - [U] Première architecture de contenu (macro)
 - [M] Prise de contact avec les ayant-droits des photographies utilisées sur le projet
-- [T] Première définition d’architecture technique
-- [T] Première modélisation de données
+- [D] Récolte lexique du vocabulaire MN
+- [A] Séance ENSCI (Laurie)
+- [D] Nettoyage de données
+- [D] Poursuite du modèle de donnée d’une API pour SCOM
+- [D] Poursuite de l’étude du schéma de SCOM, la BDD legacy
 
 * Hopkins
 
