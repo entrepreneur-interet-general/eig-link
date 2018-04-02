@@ -735,6 +735,7 @@ un lien est ajouté.
    - http://map.snosan.eig-forever.org
    - https://github.com/entrepreneur-interet-general/predisauvetage
    - https://github.com/AntoineAugusti/avurnav-api ([[https://antoineaugusti.github.io/avurnav-api/][démo]])
+   - https://mtes-mct.github.io/numerique/2018/03/26/api-avurnavs.html
 
 ** Journal
 
@@ -781,22 +782,22 @@ un lien est ajouté.
    | Prédisauvetage |          | Réunion de travail avec le SNOSAN sur les analyses des accidents plaisance/loisirs nautiques à présenter en avril | <2018-03-23 ven.> | P   |
    | Prédisauvetage |          | Suite de réflexion et création application web de visualisation (graphiques et cartographie)                      | <2018-03-23 ven.> | P   |
    | Prédisauvetage |          | Relance modification règles pare-feu à la Défense pour accéder à des serveurs / BDD à St Malo                     | <2018-03-23 ven.> | S   |
+   |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Elsa à Marseille/Toulon pour assister à une conférence sur l’accidentologie en plongée                            | <2018-04-02 lun.> | M   |
+   | Prédisauvetage |          | Création application web destinée au public                                                                       | <2018-04-02 lun.> | P   |
+   | Prédisauvetage |          | Création application web de visualisation (graphiques et cartographie)                                            | <2018-04-02 lun.> | P   |
+   | Prédisauvetage |          | Préparation du comité de pilotage d’avril pour le SNOSAN                                                          | <2018-04-02 lun.> | P   |
+   | Prédisauvetage |          | Réflexions lobbying volonté d’ouvrir les données d’interventions des secours en mer                               | <2018-04-02 lun.> | T   |
+   | Prédisauvetage |          | Blog post parlant de l’API d’avis urgent aux navigateurs sur le blog de la fabrique numérique du ministère        | <2018-04-02 lun.> | C   |
 
 ** Suite
 
-Semaine à venir :
-
-- [M] Elsa se rend à Marseille pour assister à une conférence sur
-  l'accidentologie en plongée avec des pros de la santé
-- [P] Suite de réflexion et création application web de visualisation
-  (graphiques et cartographie)
-- [P] Préparation du comité de pilotage d'avril pour le SNOSAN
-- [D] Analyse de l'accidentologie en plaisance avec les
-  caractéristiques des bateaux (matériaux, longueurs, moteurs etc)
-- [T] Réflexions lobbying volonté d'ouvrir les données d'interventions
-  des secours en mer
-- [C] Blog post parlant de l'API d'avis urgent aux navigateurs sur le
-  blog de la fabrique numérique du ministère
+- [D] Analyse de l’accidentologie en plaisance avec les caractéristiques des bateaux
+- [T] Rdv à Etalab pour stratégie d'ouverture des données d'accidentologie en mer
+- [C] Réunion de réflexion autour de l'utilisation de l'AIS pour surveillance automatique de trafic maritime
+- [P] Préparation du comité de pilotage d’avril pour le SNOSAN
+- [P] Suite application web destinée au public
+- [P] Suite application web de visualisation (graphiques et cartographie)
 
 * Prévisecours
 
