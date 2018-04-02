@@ -317,14 +317,24 @@ un lien est ajouté.
    | DataESR |          | Test de mise en staging                                                     | <2018-03-23 ven.> | P   |
    | DataESR |          | Dev d'une petit librairie python pour test le nlp en FR                     | <2018-03-23 ven.> | P   |
    | DataESR |          | Design de l'infra pour le NLP                                               | <2018-03-23 ven.> | U   |
+   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |          | Changement de techno Flask vers Ruby pour le backend de l'application       | <2018-04-02 lun.> | I   |
+   | DataESR |          | Création d'une partie des modèles de la base de données (backend)           | <2018-04-02 lun.> | P   |
+   | DataESR |          | CRUD sur les établissement (back et front)                                  | <2018-04-02 lun.> | P   |
+   | DataESR |          | Point d'avancement avec les mentors                                         | <2018-04-02 lun.> | M   |
+   | DataESR |          | Premières maquettes des différentes pages de l'application et détail des... | <2018-04-02 lun.> | P   |
+   | DataESR |          | Accès aux données ISTEX : batailler avec l'administration pour une histo... | <2018-04-02 lun.> | D   |
+   | DataESR |          | Création d'un container pour le source code de MElt (pos tagging) et tes... | <2018-04-02 lun.> | P   |
 
 ** Suite
 
-- RDV DSI
-- Modelisation de la BDD
-- Micro service en lien avec la bdd des établissement
-- CRUD pour afficher les établissement dans l'app
-- Testing du nlp sur des docs en anglais
+- [P] Création du reste des modèles de la base (backend)
+- [P] Ajout de quelques données en base (établissement et terminologies)
+- [P] Fiche établissement (visualisation et édition champ par champ)
+- [P] Formulaire de création d'un nouvel établissement
+- [C] RDV DSI (espéré)
+- [D] Test/benchmark different POS tagging sur des publis
+- [D] Check OpenEdition TEI format et Grobid pour extraire du fulltext
 
 * EIG Node
 
