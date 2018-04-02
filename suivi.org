@@ -408,13 +408,23 @@ un lien est ajouté.
    | EIG Link |             | Organisation garagethon Storia                               | <2018-03-23 ven.> | M   |
    | EIG Link |             | Accès etemptation (pour poser des congés)                    | <2018-03-23 ven.> | I   |
    | EIG Link |             | Installation instance matomo pour Gobelins                   | <2018-03-23 ven.> | P   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
+   | EIG Link |             | Écrire de ouverture.org et ouverture-faq.org                 | <2018-04-02 lun.> | P   |
+   | EIG Link |             | Point avec Sophie sur le site                                | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Réunion avec l’agence de com’ sur la stratégie EIG           | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Réunion AGD à Étalab avec le MEN                             | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Rencontre Sugarizer avec CoachÉlève                          | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Point d’étape CoachÉlève + mentor                            | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Déboguage serveur (Antoine et Julien)                        | <2018-04-02 lun.> | P   |
+   | EIG Link |             | Proposition pour « EIG off »                                 | <2018-04-02 lun.> | P   |
+   | EIG Link |             | Échange avec Jean-Baptiste sur le journal de bord            | <2018-04-02 lun.> | M   |
+   | EIG Link |             | Garagethon « Storify en commun » le 30 mars                  | <2018-04-02 lun.> | MP  |
 
 ** Suite
 
-- Réunions Étalab
-- Actions sur les aspects libres (chan, ressources)
-- Entrée de blog sur la session "logiciel libre"
-- Prototype journal de bord
+- [P] Entrée de blog sur la session « product opening »
+- [P] Préparation de la session data du 5 avril
+- [P] Avancer sur le « journal de bord » #{!@!!
 
 * Gobelins
 
