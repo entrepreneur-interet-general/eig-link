@@ -135,12 +135,21 @@ un lien est ajouté.
    | b@liseNAV |               | Rapprochements entre données Aladin et base Shom                           | <2018-03-23 ven.> | DP  |
    | b@liseNAV |               | Driver S-57 vers objets S-201                                              | <2018-03-23 ven.> | P   |
    | b@liseNAV |               | Revue des mécanismes possibles de mise à jour de la S-201                  | <2018-03-23 ven.> | DU  |
+   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |               | Rapprochements entre données Aladin et base Shom                           | <2018-04-02 lun.> | DP  |
+   | b@liseNAV |               | Dictionnaire des méta-données S-57 JavaScript / CSV                        | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Données Aladin en GeoJson-S57 & CSV-S57                                    | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Présentation des données Aladin chargées sur une carte web                 | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Intégration des géométries de la précision de la localisation dans le m... | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Revues de codes                                                            | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Comparaison données Aladin avec Shom Iroise, production de rapports en KML | <2018-04-02 lun.> | P   |
+   | b@liseNAV |               | Présentation avancement BaliseNav à Yves Lefranc et Denis Creach           | <2018-04-02 lun.> | U   |
+   | b@liseNAV |               | S-57 Level 2 - 3 (Relations, Attributs)                                    | <2018-04-02 lun.> | A   |
 
 ** Suite
 
-- [P] Présentation des données Aladin chargées sur une carte web
-- [DP] Rapprochements entre données Aladin et base Shom
-- [P] Revues de codes
+- [D] comparaison Aladin - BDGS France métropolitaine
+- [P] Adaptation des mappings entre Aladin, S57 et S201
 
 * BrigadeNumérique
 
