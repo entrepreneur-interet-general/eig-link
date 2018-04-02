@@ -857,13 +857,34 @@ Semaine à venir :
    | Prévisecours |           | Test de solution pour commit les back ups de code                                                                       | <2018-03-23 ven.> | S   |
    | Prévisecours |           | Relance pour des données délinquance                                                                                    | <2018-03-23 ven.> | D   |
    | Prévisecours |           | Visite du centre de réception des appels des sapeurs pompiers du 91 (CTA CODIS) et atelier autour du secours à personne | <2018-03-23 ven.> | M   |
+   |--------------+-----------+-------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Prévisecours |           | Appel au dép. cartographie du SDIS91 pour récupérer les geojson de zones de couverture de caserne                       | <2018-04-02 lun.> | D   |
+   | Prévisecours |           | 1er contact pour des données délinquances potentiellement correlées aux interventions des sapeurs pompiers              | <2018-04-02 lun.> | D   |
+   | Prévisecours |           | Données CAF: ajout et dataprep des données RSA et bas revenus                                                           | <2018-04-02 lun.> | P   |
+   | Prévisecours |           | Transports: refacto des données sur les gares avec ajout des comptages de trafic                                        | <2018-04-02 lun.> | P   |
+   | Prévisecours |           | Atelier a Corbeil Essonne avec le centre de réception des appels sapeurs pompiers du 91 sur intuitions SUAP             | <2018-04-02 lun.> | R   |
+   | Prévisecours |           | Création des personas et de pains list pour utilisateurs potentiels                                                     | <2018-04-02 lun.> | P   |
+   | Prévisecours |           | Atelier cadrage de produit avec le SDIS91 et les mentors: utilisateur cible -> chef de groupement territorial           | <2018-04-02 lun.> | M   |
+   | Prévisecours |           | Envoi du CR du premier comité de pilotage au SDIS et mentors                                                            | <2018-04-02 lun.> | M   |
+   | Prévisecours |           | definition des objectifs pour le prochain comité de pilotage en mai                                                     | <2018-04-02 lun.> | M   |
+   | Prévisecours |           | Présentation EIG et Prévisecours devant délégation Ukrainienne s'intéressant à Etalab                                   | <2018-04-02 lun.> | C   |
+   | Prévisecours |           | Visite de Martin (EIG2017)                                                                                              | <2018-04-02 lun.> | M   |
+   | Prévisecours |           | Test du tuto de matchID                                                                                                 | <2018-04-02 lun.> | A   |
+   | Prévisecours |           | Guillaume tuto Python 3.6                                                                                               | <2018-04-02 lun.> | A   |
+   | Prévisecours |           | Réanimation du 2e ordinateur de travail de Tiphaine (REP le SSD)                                                        | <2018-04-02 lun.> | P   |
+   | Prévisecours |           | Inventaire des données Meteo France                                                                                     | <2018-04-02 lun.> | P   |
+   | Prévisecours |           | Prototype pour calculer volumes de classe à prédire en fonction nombre d'interventions max dans l'historique            | <2018-04-02 lun.> | P   |
 
 ** Suite
 
-- [M] Discussion Métiers sur le format du livrable
-- [D] Collecte de données supplémentaires issues de l'atelier du 23/03/2018
-- [P] Nouveau découpage de données interventions avec dimensions différentes
-- [P] Continuer de farmer des modèles et observations
+- [P] Ajout d'éléments dans les données calendaires (zone et période de soldes)
+- [P] Refacto des projets DSS meteo / calendaire
+- [P] Automatisation des pipelines pour les projets opendata
+- [P] Model farming avec les nouvelles classes et les nouvelles données ouvertes et feature engineering naïf
+- [P] WebApp par caserne
+- [A] Guillaume cookbook Panda
+- [?] Guillaume en vacances jeudi et vendredi
+- [?] Tiphaine en RTT vendredi
 
 * Signaux Faibles
 
