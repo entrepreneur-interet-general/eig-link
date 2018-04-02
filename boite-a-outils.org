@@ -46,7 +46,11 @@
 
 * Design
 
-- Accessibilité : http://accessibility.voxmedia.com/
+- Centre de ressources : https://publicdesignvault.com/
+
+** Accessibilité
+
+- http://accessibility.voxmedia.com/
 
 - Gestion cookies/données personnelles :
   https://opt-out.ferank.eu/en/install/
