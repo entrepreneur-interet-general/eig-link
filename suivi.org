@@ -1017,6 +1017,7 @@ un lien est ajouté.
 
 ** Dépôt
 
+   - http://www.cis-openscraper.com/
    - https://github.com/entrepreneur-interet-general/SocialConnect_openscrapper
 
 ** Journal
@@ -1081,7 +1082,6 @@ un lien est ajouté.
    | SocialConnect |                   | Finalisation de la maquette de la landing page                                                 | <2018-04-02 lun.> | C   |
    | SocialConnect |                   | Finalisation de notre nomenclature homogénéisant nos tags scrapés...                           | <2018-04-02 lun.> | P   |
    | SocialConnect |                   | récupération des infos sur les noms de domaines achetés pour socialconnect                     | <2018-04-02 lun.> | C   |
-
 
 ** Suite
 
