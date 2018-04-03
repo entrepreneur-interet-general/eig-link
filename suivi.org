@@ -340,33 +340,39 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi     | Livrable | Tâche                                                                      | Fait le           | Cat |
-   |----------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | EIG Node |          | Accueil et onboarding de Sophie qui fait ses premières PR sur github !     | <2018-03-16 ven.> | I   |
-   | EIG Node |          | Code review au LLL                                                         | <2018-03-16 ven.> | A   |
-   | EIG Node |          | Préparation de la session EIG-mentors du 22/03                             | <2018-03-16 ven.> | M   |
-   | EIG Node |          | « Levée de fonds » pour la promotion EIG3                                  | <2018-03-16 ven.> | M   |
-   | EIG Node |          | Avancée sur le rapport EIG                                                 | <2018-03-16 ven.> | M   |
-   | EIG Node |          | Pitch du programme à l’événement « Ma fonction publique au 21^ème siècle » | <2018-03-16 ven.> | C   |
-   | EIG Node |          | Commande de goodies pour les EIG (Paul)                                    | <2018-03-16 ven.> | C   |
-   | EIG Node |          | Restitution du diagnostic sur la communication du programme                | <2018-03-16 ven.> | C   |
-   | EIG Node |          | Relecture prochain blog site EIG de Bastien                                | <2018-03-16 ven.> | C   |
-   |----------+----------+----------------------------------------------------------------------------+-------------------+-----|
-   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA C.         | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Rencontre team Lab Santé et Marino P. sur leurs projets de datascience     | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Préparation session 22/03                                                  | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie                         | <2018-03-27 mar.> | M   |
-   | EIG Node |          | Ordinateur Bastien, épisode 5, avec Paul                                   | <2018-03-27 mar.> | I   |
-   | EIG Node |          | Réflexion sur la nouvelle version du site avec Sophie                      | <2018-03-27 mar.> | C   |
-   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert       | <2018-03-27 mar.> | T   |
+   | Défi     | Livrable | Tâche                                                                                 | Fait le           | Cat |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----|
+   | EIG Node |          | Accueil et onboarding de Sophie qui fait ses premières PR sur github !                | <2018-03-16 ven.> | I   |
+   | EIG Node |          | Code review au LLL                                                                    | <2018-03-16 ven.> | A   |
+   | EIG Node |          | Préparation de la session EIG-mentors du 22/03                                        | <2018-03-16 ven.> | M   |
+   | EIG Node |          | « Levée de fonds » pour la promotion EIG3                                             | <2018-03-16 ven.> | M   |
+   | EIG Node |          | Avancée sur le rapport EIG                                                            | <2018-03-16 ven.> | M   |
+   | EIG Node |          | Pitch du programme à l’événement « Ma fonction publique au 21^ème siècle »            | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Commande de goodies pour les EIG (Paul)                                               | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Restitution du diagnostic sur la communication du programme                           | <2018-03-16 ven.> | C   |
+   | EIG Node |          | Relecture prochain blog site EIG de Bastien                                           | <2018-03-16 ven.> | C   |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----|
+   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA C.                    | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Rencontre team Lab Santé et Marino P. sur leurs projets de datascience                | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Préparation session 22/03                                                             | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie                                    | <2018-03-27 mar.> | M   |
+   | EIG Node |          | Ordinateur Bastien, épisode 5, avec Paul                                              | <2018-03-27 mar.> | I   |
+   | EIG Node |          | Réflexion sur la nouvelle version du site avec Sophie                                 | <2018-03-27 mar.> | C   |
+   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert                  | <2018-03-27 mar.> | T   |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----|
+   | EIG Node |          | Présentation EIG à délégation ukrainienne (merci Tiphaine et Guillaume)               | <2018-04-03 mar.> | C   |
+   | EIG Node |          | Réunion avec équipes SI, SG et mentors EIG sur leur projet de gouvernance des données | <2018-04-03 mar.> | M   |
+   | EIG Node |          | Finalisation des slides de demande de financement pour EIG3                           | <2018-04-03 mar.> | M   |
+   | EIG Node |          | Atelier communication avec l’agence Bastille, feuille de route et hypothèses site v2  | <2018-04-03 mar.> | C   |
+   | EIG Node |          | Suivi Villani                                                                         | <2018-04-03 mar.> | M   |
 
 ** Suite
 
-- [M] Réunion gouvernance des données du MEN
-- [C] Délégation Ukraine avec Tiphaine et Guillaume en prime time
-- [C] Rédaction article de blog sur  l’atelier product research
-- [C] Atelier communication avec une agence (au LLL)
-- [C] Suivi plusieurs événements (Centrale, FP 21, Datadrink du 05/04)
+- [M] Préparation sessions 5 et 11 avril
+- [M] Comité de pilotage validant le financement final EIG3
+- [C] Contenus pour le site v2 / rédaction article blog sur les précédentes sessions
+- [M] Admin lambda sur le budget EIG2
+- Et à votre écoute sur tout sujet J
 
 * EIG Link
 
