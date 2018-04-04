@@ -200,26 +200,28 @@ mobiliser une communauté de contributeurs.
 
 ** Des degrés d’ouverture des projets libres
 
-Ci-dessous un tableau pour présenter différents « dégré » de projets
-libres :
+Ci-dessous un tableau pour présenter différents « dégrés » d’ouverture
+de projets libres :
 
-| Degré | Publié | Licence libre | Versioning | README | Bug tracker | Packaging | Contribution | Tests | Documentation |
-|-------+--------+---------------+------------+--------+-------------+-----------+--------------+-------+---------------|
-|    -1 | Non    | ?             | ?          | ?      | ?           | ?         | ?            | ?     | ?             |
-|     0 | Oui    | Oui           |            |        |             |           |              |       |               |
-|     1 | Oui    | Oui           | Oui        |        |             |           |              |       |               |
-|     2 | Oui    | Oui           | Oui        | Oui    |             |           |              |       |               |
-|     3 | Oui    | Oui           | Oui        | Oui    | Oui         |           |              |       |               |
-|     4 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       |              |       |               |
-|     5 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          |       |               |
-|     6 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   |               |
-|     7 | Oui    | Oui           | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   | Oui           |
+| Degré | Publié | Licence libre | Maintenance | Versioning | README | Bug tracker | Packaging | Contribution | Tests | Documentation |
+|-------+--------+---------------+-------------+------------+--------+-------------+-----------+--------------+-------+---------------|
+|    -1 | Non    | ?             |             | ?          | ?      | ?           | ?         | ?            | ?     | ?             |
+|     0 | Oui    | Oui           |             |            |        |             |           |              |       |               |
+|     1 | Oui    | Oui           | Oui         |            |        |             |           |              |       |               |
+|     2 | Oui    | Oui           | Oui         | Oui        |        |             |           |              |       |               |
+|     3 | Oui    | Oui           | Oui         | Oui        | Oui    |             |           |              |       |               |
+|     4 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         |           |              |       |               |
+|     5 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       |              |       |               |
+|     6 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       | Oui          |       |               |
+|     7 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   |               |
+|     8 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   | Oui           |
 
 - Publié :: votre logiciel est disponible quelque part 
 - Licence libre :: la licence libre de votre logiciel est clairement indiquée
-- Versioning :: vous publiez le code via un système de gestion de version (git)
+- Maintenance :: on sait si la maintenance est active et qui la gère
+- Versioning :: le code est publié via un système de gestion de version (git)
 - README :: votre dépôt contient un fichier README en anglais
-- Bug tracker :: vous utilisez un système de suivi de bugs public
+- Bug tracker :: vous utilisez un système de remontée et de suivi de bugs public
 - Packaging :: votre logiciel peut être installé facilement
 - Contribution :: vous indiquez clairement comment contribuer
 - Test :: votre logiciel contient une suite de tests unitaires
@@ -231,6 +233,10 @@ Des règles simples, claires et explicites vous aident à maintenir une
 collaboration respectueuse et constructive au sein de votre projet.
 
 Voir le https://www.contributor-covenant.org pour un exemple.
+
+* Les questions à se poser en ouvrant son projet
+
+
 
 * Les réticences à surmonter pour l’ouverture
 
