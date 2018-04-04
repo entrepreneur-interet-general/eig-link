@@ -29,5 +29,5 @@
 - [[file:bootcamp.org][Les informations sur et pour le bootcamp]]
 - [[file:revue-de-presse.org][Une revue de presse]]
 - [[file:acronymes.org][Une liste d'acronymes utiles]]
-- [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][L’agenda « ouvert »]]
+- [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][L’agenda « ouvert » des EIG]]
 # - [[file:faq.org][FAQ EIG]]
