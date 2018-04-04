@@ -36,6 +36,20 @@
 
 * Historique
 
+*** Session du 5 avril : "clinique data"
+- Quels sont les objectifs de la session ?
+  - Traiter ensemble de problèmes concrets (techniques ou juridiques / de gouvernance) que les équipes défis rencontrent par
+  rapport à un ou des jeux/types de données particuliers
+  - Monter en compétences sur l'open data, la gouvernance des données, l'accès aux données, les aspects juridiques
+ 
+ - Qui va animer ? : team EIG Etalab
+ 
+ - Quel déroulé pour la session ?
+  - 15h – 15h15 : présentation de la session et organisation en groupes de thématiques communes
+  - 15h15 – 16h15 : première session de travail en petits groupes
+  - 16h15 – 16h45 : pause 
+  - 16h45 – 17h45 : deuxième session de travail en petits groupes
+  - 17h45 – 18h30 : standup par défi – avec notamment un focus sur quels jeux de données vous aimeriez ouvrir ou voir ouverts.
 
 *** Session du 22 mars : utilisateurs
 
