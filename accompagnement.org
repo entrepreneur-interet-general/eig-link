@@ -12,27 +12,27 @@
 
 * Résumé de l’ensemble des sessions (horaires : 15h-18h30)
 
-| Date       | EIG / Mentors | LLL      | Thématique        | Objectifs                                         |
-|------------+---------------+----------+-------------------+---------------------------------------------------|
-| 22 février | Mentors seuls | Thomas   | Bootcamp mentors  | Rex mentors et construction programme             |
-| 8 mars     | EIG seuls     | Marylène | Feuille de route  | Vérifier que chaque défi est clair sur sa roadmap |
-| 22 mars    | EIG + mentors | Quentin  | Utilisateurs      | Concevoir un produit avec ses utilisateurs!       |
-|------------+---------------+----------+-------------------+---------------------------------------------------|
-| 5 avril    | EIG seuls     |          | Data              |                                                   |
-| 11 avril   | EIG + mentors | Quentin  | Pérennisation     |                                                   |
-| 2 mai      | EIG seuls     |          | Barcamp EIG²      |                                                   |
-| 16 mai     | EIG + mentors |          | DSI               | Anticiper l'industrialisation des défis           |
-| 31 mai     | EIG seuls     | Quentin  |                   |                                                   |
-| 14 juin    | EIG + mentors | Quentin  |                   |                                                   |
-| 21 juin    | EIG seuls     |          | Démos / Pitchs    |                                                   |
-| 6 juillet  | EIG + mentors | Marylène | Bilan mi-parcours | Etablir un bilan et ajuster la feuille de route   |
-| 30 août    | EIG seuls     |          |                   |                                                   |
-| 13 sept    | EIG + mentors |          |                   |                                                   |
-| 27 sept    | EIG seuls     | Quentin  |                   |                                                   |
-| 11 oct     | EIG + mentors | Quentin  |                   |                                                   |
-| 25 oct     | EIG seuls     |          |                   |                                                   |
-| 8 nov      | EIG + mentors |          |                   |                                                   |
-| 22 nov     | EIG seuls     | Quentin  |                   |                                                   |
+| Date       | EIG / Mentors | LLL      | Thématique        | Objectifs                                             |
+|------------+---------------+----------+-------------------+-------------------------------------------------------|
+| 22 février | Mentors seuls | Thomas   | Bootcamp mentors  | Rex mentors et construction programme                 |
+| 8 mars     | EIG seuls     | Marylène | Feuille de route  | Vérifier que chaque défi est clair sur sa roadmap     |
+| 22 mars    | EIG + mentors | Quentin  | Utilisateurs      | Concevoir un produit avec ses utilisateurs!           |
+|------------+---------------+----------+-------------------+-------------------------------------------------------|
+| *5 avril*    | *EIG seuls*     |          | *« Clinique » Data* | *Résoudre des problèmes liés aux données*               |
+| 11 avril   | EIG + mentors | Quentin  | Pérennisation     | Anticiper les problèmes de pérennisation des produits |
+| 2 mai      | EIG seuls     |          | Barcamp EIG²      |                                                       |
+| 16 mai     | EIG + mentors |          | Mobilisation DSI  | Anticiper l'industrialisation des défis               |
+| 31 mai     | EIG seuls     | Quentin  |                   |                                                       |
+| 14 juin    | EIG + mentors | Quentin  |                   |                                                       |
+| 21 juin    | EIG seuls     |          | Démos / Pitchs    |                                                       |
+| 6 juillet  | EIG + mentors | Marylène | Bilan mi-parcours | Etablir un bilan et ajuster la feuille de route       |
+| 30 août    | EIG seuls     |          |                   |                                                       |
+| 13 sept    | EIG + mentors |          |                   |                                                       |
+| 27 sept    | EIG seuls     | Quentin  |                   |                                                       |
+| 11 oct     | EIG + mentors | Quentin  |                   |                                                       |
+| 25 oct     | EIG seuls     |          |                   |                                                       |
+| 8 nov      | EIG + mentors |          |                   |                                                       |
+| 22 nov     | EIG seuls     | Quentin  |                   |                                                       |
 
 * Historique
 
