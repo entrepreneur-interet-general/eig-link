@@ -299,6 +299,10 @@ sécurité et les problèmes d’exploitation commerciale.
 
 - Des guides sur l’open source en général : [[https://opensource.guide]]
 
+- [[https://www.gov.uk/government/publications/open-source-guidance][Open source Guidance]] : par le gouvernement britannique
+
+- [[https://open-source-guide.18f.gov/][18F Open Source Style Guide]] : par l’agence états-unienne 18F
+
 - Une explication des licences Creative Commons dans [[https://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][cette
   présentation]] sur les ressources pédagogiques libres.
 
