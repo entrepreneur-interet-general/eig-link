@@ -234,9 +234,26 @@ collaboration respectueuse et constructive au sein de votre projet.
 
 Voir le https://www.contributor-covenant.org pour un exemple.
 
-* Les questions à se poser en ouvrant son projet
+* Quelles motivations pour l’ouverture du code ?
 
+Voici quelques raisons de faire de son logiciel un logiciel libre :
 
+- Le *respect de la loi* pour une République Numérique.
+
+- La volonté de contribuer à la construction d’un bien commu
+
+- Le besoin d’atteindre plus facilement les utilisateurs.
+
+- Le désir d’encourager les contributions extérieures pour :
+  - tester la fiabilité du logiciel ;
+  - tester la sécurité du logiciel ;
+  - ouvrir la feuille de route.
+
+- L’envie d’impliquer des développeurs extérieurs.
+
+- L’envie de prendre une position stratégique dans un écosystème.
+
+- L’envie d’apprendre en avançant de façon transparente.
 
 * Les réticences à surmonter pour l’ouverture
 
@@ -267,7 +284,7 @@ sécurité et les problèmes d’exploitation commerciale.
 
 * Quelques ressources utiles
 
-- Des guides sur l’open source en général : [[https://opensource.guide]]
+** Du côté de la mission Étalab
 
 - La liste des licences libres pour l’administration :
   [[https://www.data.gouv.fr/fr/licences]]
@@ -278,8 +295,14 @@ sécurité et les problèmes d’exploitation commerciale.
 - La licence ouverte 2.0 :
   [[https://www.etalab.gouv.fr/licence-ouverte-open-licence]]
 
+** Ressources extérieures
+
+- Des guides sur l’open source en général : [[https://opensource.guide]]
+
 - Une explication des licences Creative Commons dans [[https://www.slideshare.net/bzg/ressources-libres-pour-lducation-lesquelles-et-pourquoi-15552125][cette
   présentation]] sur les ressources pédagogiques libres.
+
+- [[https://bzg.fr/sept-idees-recues-sur-le-logiciel-libre.html][Sept idées reçues sur le logiciel libre]]
 
 ** Conventions de style
 
