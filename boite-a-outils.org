@@ -18,6 +18,10 @@
 - https://jsfiddle.net
 - https://codepen.io
 
+* Agents conversationnels
+
+- https://www.botfuel.io
+
 * Codes de conduite
 
 - https://www.contributor-covenant.org
