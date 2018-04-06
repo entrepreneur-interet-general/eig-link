@@ -77,15 +77,16 @@ un lien est ajouté.
    | Archifiltre |                        | Début de construction du back de Stalactite                                                       | <2018-03-23 ven.> | P   |
    | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                                      | <2018-03-23 ven.> | U   |
    |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                                          | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Début de construction du back de Stalactite : point d'entrée Nginx, base de données Elasticsearch | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                                      | <2018-03-23 ven.> | U   |
+   | Archifiltre | Stalactites v3         | v3 de Stalactites sur archifiltre.com :)                                                          | <2018-04-06 ven.> | P   |
+   | Archifiltre |                        | v4 en cours : nouvelles features de navigation, meilleure UX, et  back                            | <2018-04-06 ven.> | P   |
+   | Archifiltre |                        | Tests utilisateurs au fil de l'eau                                                                | <2018-04-06 ven.> | U   |
+   | Archifiltre |                        | On réfléchit à l'accueil de notre stagiaire, qui arrive le 16 avril                               | <2018-04-06 ven.> | M   |
+   | Archifiltre | Mugs archifiltre       | Pour ceux qui ne nous auraient pas vu faire les marioles avec hier, réception de nos mugs ! :)    | <2018-04-06 ven.> | C   |
+
 
 ** Suite
 
-- Encore du back
-- Encore des fonctionnalités (le tagging notamment)
-- Encore des tests utilisateurs
+- v4 et première release "officielle" !
 
 * b@liseNAV
 
