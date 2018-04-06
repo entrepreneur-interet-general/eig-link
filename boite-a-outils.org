@@ -44,6 +44,10 @@
 - http://prose.io pour éditer des dépôts Github facilement
 - https://stackedit.io pour éditer du markdown en WYSIWYG
 
+* SAS
+
+- https://sassoftware.github.io/saspy/
+
 * Machine learning
 
 - [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
@@ -70,9 +74,15 @@
 
 - http://www.ecoindex.fr
 
-* Web scraping
+* Web
+
+** Scraping 
 
 - http://webscraper.io
+
+** Form builder
+
+- https://www.fourmilieres.net
 
 * Outils de gestion de fichiers
 
