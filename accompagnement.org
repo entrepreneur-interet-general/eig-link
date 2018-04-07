@@ -22,7 +22,7 @@ Les sessions se tiennent chaque fois de 15h à 18h30.
 |------------+---------------+----------+------------------------+-----------------------------------------------------|
 | *5 avril*    | *EIG seuls*     |          | *« Clinique » Data*      | *Résoudre des problèmes liés aux données*             |
 | 11 avril   | EIG + mentors | Quentin  | Communiquer, apprendre | Mieux communiquer sur son défi, sur EIG ; apprendre |
-| 2 mai      | EIG seuls     |          | Barcamp EIG²           |                                                     |
+| 2 mai      | EIG seuls     |          | Barcamp Documentathon  |                                                     |
 | 16 mai     | EIG + mentors |          | Mobilisation DSI       | Anticiper l'industrialisation des défis             |
 | 31 mai     | EIG seuls     | Quentin  |                        |                                                     |
 | 14 juin    | EIG + mentors | Quentin  |                        |                                                     |
