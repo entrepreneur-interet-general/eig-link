@@ -18,6 +18,10 @@
 
 - https://www.contributor-covenant.org
 
+* Databases
+
+- https://github.com/Kinto/kinto
+
 * Déploiement rapide d’applications
 
 - https://cloudron.io
@@ -157,12 +161,14 @@
 
 ** Cookies
 
-https://www.cnil.fr/fr/cookies-comment-mettre-mon-site-web-en-conformite
+- https://www.cnil.fr/fr/cookies-comment-mettre-mon-site-web-en-conformite
 
 ** Scraping 
 
 - http://webscraper.io
+
 ** Form builder
 
 - https://www.fourmilieres.net
 
+  
