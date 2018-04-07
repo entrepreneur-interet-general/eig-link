@@ -1,56 +1,27 @@
 #+title: Boîte à outils
 
-* Outils géo
-
-- http://project-osrm.org : Modern C++ routing engine for shortest
-  paths in road networks
-
-* Outils pour des tests d’intégration
-
-- https://jenkins.io
-- https://circleci.com
-- https://travis-ci.org
-- https://codeship.com
-
-* Site web pour partager du code
-
-- https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
-- https://jsfiddle.net
-- https://codepen.io
-
 * Agents conversationnels
 
 - https://www.botfuel.io
+
+* Article de fond
+
+** Sur la donnée
+
+- [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment (pdf)]]
+* Au quotidien
+
+- http://www.hackertyper.com
+- https://github.com/zricethezav/gitleaks
 
 * Codes de conduite
 
 - https://www.contributor-covenant.org
 
-* Guides de contribution à des projets open source
+* Déploiement rapide d’applications
 
-- https://opensource.guide
-
-* Guide d’écriture de code
-
-- https://github.com/alphagov/styleguides/
-- https://fr.wikipedia.org/wiki/GNU_coding_standards
-
-* Programmation à plusieurs mains (pair programming)
-
-- [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
-- [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
-- [[https://tmux.github.io/][tmux]]
-- [[https://mobaxterm.mobatek.net/][MobaXterm]]
-- http://prose.io pour éditer des dépôts Github facilement
-- https://stackedit.io pour éditer du markdown en WYSIWYG
-
-* SAS
-
-- https://sassoftware.github.io/saspy/
-
-* Machine learning
-
-- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
+- https://cloudron.io
+- https://bitnami.com
 
 * Design
 
@@ -74,26 +45,45 @@
 
 - http://www.ecoindex.fr
 
-* Web
+* Design pattern
 
-** Scraping 
+- Python : https://github.com/faif/python-patterns
 
-- http://webscraper.io
+* Exploration (REPL) de langages de programmation
 
-** Form builder
+- https://repl.it
+- https://www.pythonanywhere.com
+- http://interactivepython.org/runestone/static/thinkcspy/index.html
+- https://mybinder.org : Turn a GitHub repo into a collection of interactive notebooks
+- https://books.trinket.io/thinkjava/
 
-- https://www.fourmilieres.net
+* Guide d’écriture de code
+
+- https://github.com/alphagov/styleguides/
+- https://fr.wikipedia.org/wiki/GNU_coding_standards
+
+* Guides de contribution à des projets open source
+
+- https://opensource.guide
+
+* Machine learning
+
+- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
+
+* Méthodes de projet
+
+- Agile : https://www.gov.uk/service-manual/agile-delivery
+- TDD : https://fr.wikipedia.org/wiki/Test_driven_development
+
+* Monitoring
+
+** Web
+
+- https://statuscake.com
 
 * Outils de gestion de fichiers
 
 - https://github.com/hsoft/dupeguru : outil de détection des doublons.
-
-* Outils de prototypage/test web
-
-- [[https://www.sketchapp.com/][Sketch]]
-- [[https://docs.seleniumhq.org/][Selenium]]
-- https://framework7.io
-- https://github.com/stevenvachon/broken-link-checker
 
 * Outils de gestion de projets
 
@@ -113,28 +103,44 @@
 | [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
 | [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
 
-* Design pattern
+* Outils de prototypage/test web
 
-- Python : https://github.com/faif/python-patterns
+- [[https://www.sketchapp.com/][Sketch]]
+- [[https://docs.seleniumhq.org/][Selenium]]
+- https://framework7.io
+- https://github.com/stevenvachon/broken-link-checker
 
-* Méthodes de projet
+* Outils géo
 
-- Agile : https://www.gov.uk/service-manual/agile-delivery
-- TDD : https://fr.wikipedia.org/wiki/Test_driven_development
+- http://project-osrm.org : Modern C++ routing engine for shortest
+  paths in road networks
 
-* Exploration (REPL) de langages de programmation
+* Outils pour de la revue de code
+* Outils pour des tests d’intégration
 
-- https://repl.it
-- https://www.pythonanywhere.com
-- http://interactivepython.org/runestone/static/thinkcspy/index.html
-- https://mybinder.org : Turn a GitHub repo into a collection of interactive notebooks
-- https://books.trinket.io/thinkjava/
+- https://jenkins.io
+- https://circleci.com
+- https://travis-ci.org
+- https://codeship.com
 
-* Monitoring
+* Programmation à plusieurs mains (pair programming)
 
-** Web
+- [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
+- [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]
+- [[https://tmux.github.io/][tmux]]
+- [[https://mobaxterm.mobatek.net/][MobaXterm]]
+- http://prose.io pour éditer des dépôts Github facilement
+- https://stackedit.io pour éditer du markdown en WYSIWYG
 
-- https://statuscake.com
+* SAS
+
+- https://sassoftware.github.io/saspy/
+
+* Site web pour partager du code
+
+- https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
+- https://jsfiddle.net
+- https://codepen.io
 
 * Vidéo et partage d’écran
 
@@ -147,19 +153,16 @@
 
 - https://asciinema.org
 
-* Déploiement rapide d’applications
+* Web
 
-- https://cloudron.io
-- https://bitnami.com
+** Cookies
 
-* Outils pour de la revue de code
-* Au quotidien
+https://www.cnil.fr/fr/cookies-comment-mettre-mon-site-web-en-conformite
 
-- http://www.hackertyper.com
-- https://github.com/zricethezav/gitleaks
+** Scraping 
 
-* Article de fond
+- http://webscraper.io
+** Form builder
 
-** Sur la donnée
+- https://www.fourmilieres.net
 
-- [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment (pdf)]]
