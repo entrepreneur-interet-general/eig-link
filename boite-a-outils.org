@@ -49,9 +49,14 @@
 
 - http://www.ecoindex.fr
 
-* Design pattern
 
-- Python : https://github.com/faif/python-patterns
+** Design pattern
+
+ - Python : https://github.com/faif/python-patterns
+
+* Deep learning
+
+- https://mxnet.incubator.apache.org/
 
 * Exploration (REPL) de langages de programmation
 
