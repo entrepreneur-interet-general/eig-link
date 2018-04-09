@@ -76,10 +76,6 @@ un lien est ajouté.
    | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                                          | <2018-03-23 ven.> | P   |
    | Archifiltre |                        | Début de construction du back de Stalactite                                                       | <2018-03-23 ven.> | P   |
    | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                                      | <2018-03-23 ven.> | U   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                                          | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Début de construction du back de Stalactite : point d'entrée Nginx, base de données Elasticsearch | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                                      | <2018-03-23 ven.> | U   |
 
 ** Suite
 
