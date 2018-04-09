@@ -33,55 +33,59 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi        | Livrable               | Tâche                                                                                             | Fait le           | Cat |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre | Roadmap                | Élaboration du macro-planning                                                                     | <2018-02-15 jeu.> | M   |
-   | Archifiltre |                        | Préparation du premier sprint                                                                     | <2018-02-15 jeu.> | P   |
-   | Archifiltre |                        | Réflexion sur la com du projet                                                                    | <2018-02-15 jeu.> | P   |
-   | Archifiltre |                        | Réalisation d'un premier logo                                                                     | <2018-02-15 jeu.> | P   |
-   | Archifiltre |                        | Comprendre l'architecture du format PST                                                           | <2018-02-15 jeu.> | D   |
-   | Archifiltre |                        | Benchmark d'outils de parsing PST                                                                 | <2018-02-15 jeu.> | P   |
-   | Archifiltre |                        | Atelier créativité sur les interfaces                                                             | <2018-02-15 jeu.> | U   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre | Bib Java pour lire PST | Conversion d'archive Outlook                                                                      | <2018-02-23 ven.> | P   |
-   | Archifiltre |                        | Script bash avec robocopy                                                                         | <2018-02-23 ven.> | P   |
-   | Archifiltre | User stories           | Défintion des futurs sprints                                                                      | <2018-02-23 ven.> | P   |
-   | Archifiltre | Accès VM               | Prise en main de la VM fournie par la DSI                                                         | <2018-02-23 ven.> | I   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Prise en main de notre VM                                                                         | <2018-03-02 ven.> | I   |
-   | Archifiltre |                        | Réception et prise en main de nos PCs de dev                                                      | <2018-03-02 ven.> | I   |
-   | Archifiltre |                        | Nouvelle passe sur l'extraction de mails dans une archive PST                                     | <2018-03-02 ven.> | P   |
-   | Archifiltre |                        | Premier outil de visualisation d'une arborescence système                                         | <2018-03-02 ven.> | P   |
-   | Archifiltre |                        | Tests utilisateurs informels                                                                      | <2018-03-02 ven.> | U   |
-   | Archifiltre | Site web vitrine       | Début de site web vitrine                                                                         | <2018-03-02 ven.> | P   |
-   | Archifiltre |                        | Point de fin du premier sprint                                                                    | <2018-03-02 ven.> | M   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Outil de visualisation avec retours utilisateur                                                   | <2018-03-09 ven.> | P   |
-   | Archifiltre |                        | Dév outil de détection des fichiers en doublons                                                   | <2018-03-09 ven.> | P   |
-   | Archifiltre |                        | Amélioration continue de archifiltre.com                                                          | <2018-03-09 ven.> | C   |
-   | Archifiltre |                        | Entretien avec potentielle future stagiaire                                                       | <2018-03-09 ven.> | M   |
-   | Archifiltre |                        | Réorganisation de l'espace de travail (Velleda!)                                                  | <2018-03-09 ven.> | I   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Intégration v2 de Stalactites dans le site web !                                                  | <2018-03-16 ven.> | P   |
-   | Archifiltre |                        | Conception/Développement v3 Stalactites, révision infra                                           | <2018-03-16 ven.> | P   |
-   | Archifiltre |                        | v1 de l’outil ESOTIM pour détecter fichiers doublons, à partir DupeGuru                           | <2018-03-16 ven.> | P   |
-   | Archifiltre |                        | Point avec DSI, qu'on va refaire régulièrement                                                    | <2018-03-16 ven.> | M   |
-   | Archifiltre |                        | Potentielle stagiaire                                                                             | <2018-03-16 ven.> | M   |
-   | Archifiltre |                        | Tests utilisateurs sur Stalactites v2 et ESOTIM v1                                                | <2018-03-16 ven.> | U   |
-   | Archifiltre |                        | Déjeuner Bastien pour réfléchir à l'ouverture de notre code                                       | <2018-03-16 ven.> | A   |
-   | Archifiltre |                        | Ouverture repos GitHub EIG                                                                        | <2018-03-16 ven.> | P   |
-   | Archifiltre |                        | Réflexion sur la communication autour de notre projet                                             | <2018-03-16 ven.> | C   |
-   | Archifiltre |                        | Revue de fin de sprint n°2 avec nos mentors                                                       | <2018-03-16 ven.> | M   |
-   |-------------+------------------------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                                          | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Début de construction du back de Stalactite                                                       | <2018-03-23 ven.> | P   |
-   | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                                      | <2018-03-23 ven.> | U   |
+   | Défi        | Livrable               | Tâche                                                                       | Fait le           | Cat |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre | Roadmap                | Élaboration du macro-planning                                               | <2018-02-15 jeu.> | M   |   |
+   | Archifiltre |                        | Préparation du premier sprint                                               | <2018-02-15 jeu.> | P   |   |
+   | Archifiltre |                        | Réflexion sur la com du projet                                              | <2018-02-15 jeu.> | P   |   |
+   | Archifiltre |                        | Réalisation d'un premier logo                                               | <2018-02-15 jeu.> | P   |   |
+   | Archifiltre |                        | Comprendre l'architecture du format PST                                     | <2018-02-15 jeu.> | D   |   |
+   | Archifiltre |                        | Benchmark d'outils de parsing PST                                           | <2018-02-15 jeu.> | P   |   |
+   | Archifiltre |                        | Atelier créativité sur les interfaces                                       | <2018-02-15 jeu.> | U   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre | Bib Java pour lire PST | Conversion d'archive Outlook                                                | <2018-02-23 ven.> | P   |   |
+   | Archifiltre |                        | Script bash avec robocopy                                                   | <2018-02-23 ven.> | P   |   |
+   | Archifiltre | User stories           | Défintion des futurs sprints                                                | <2018-02-23 ven.> | P   |   |
+   | Archifiltre | Accès VM               | Prise en main de la VM fournie par la DSI                                   | <2018-02-23 ven.> | I   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Prise en main de notre VM                                                   | <2018-03-02 ven.> | I   |   |
+   | Archifiltre |                        | Réception et prise en main de nos PCs de dev                                | <2018-03-02 ven.> | I   |   |
+   | Archifiltre |                        | Nouvelle passe sur l'extraction de mails dans une archive PST               | <2018-03-02 ven.> | P   |   |
+   | Archifiltre |                        | Premier outil de visualisation d'une arborescence système                   | <2018-03-02 ven.> | P   |   |
+   | Archifiltre |                        | Tests utilisateurs informels                                                | <2018-03-02 ven.> | U   |   |
+   | Archifiltre | Site web vitrine       | Début de site web vitrine                                                   | <2018-03-02 ven.> | P   |   |
+   | Archifiltre |                        | Point de fin du premier sprint                                              | <2018-03-02 ven.> | M   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Outil de visualisation avec retours utilisateur                             | <2018-03-09 ven.> | P   |   |
+   | Archifiltre |                        | Dév outil de détection des fichiers en doublons                             | <2018-03-09 ven.> | P   |   |
+   | Archifiltre |                        | Amélioration continue de archifiltre.com                                    | <2018-03-09 ven.> | C   |   |
+   | Archifiltre |                        | Entretien avec potentielle future stagiaire                                 | <2018-03-09 ven.> | M   |   |
+   | Archifiltre |                        | Réorganisation de l'espace de travail (Velleda!)                            | <2018-03-09 ven.> | I   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Intégration v2 de Stalactites dans le site web !                            | <2018-03-16 ven.> | P   |   |
+   | Archifiltre |                        | Conception/Développement v3 Stalactites, révision infra                     | <2018-03-16 ven.> | P   |   |
+   | Archifiltre |                        | v1 de l’outil ESOTIM pour détecter fichiers doublons, à partir DupeGuru     | <2018-03-16 ven.> | P   |   |
+   | Archifiltre |                        | Point avec DSI, qu'on va refaire régulièrement                              | <2018-03-16 ven.> | M   |   |
+   | Archifiltre |                        | Potentielle stagiaire                                                       | <2018-03-16 ven.> | M   |   |
+   | Archifiltre |                        | Tests utilisateurs sur Stalactites v2 et ESOTIM v1                          | <2018-03-16 ven.> | U   |   |
+   | Archifiltre |                        | Déjeuner Bastien pour réfléchir à l'ouverture de notre code                 | <2018-03-16 ven.> | A   |   |
+   | Archifiltre |                        | Ouverture repos GitHub EIG                                                  | <2018-03-16 ven.> | P   |   |
+   | Archifiltre |                        | Réflexion sur la communication autour de notre projet                       | <2018-03-16 ven.> | C   |   |
+   | Archifiltre |                        | Revue de fin de sprint n°2 avec nos mentors                                 | <2018-03-16 ven.> | M   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Nouvelles fonctionnalités sur Stalactite                                    | <2018-03-23 ven.> | P   |   |
+   | Archifiltre |                        | Début de construction du back de Stalactite                                 | <2018-03-23 ven.> | P   |   |
+   | Archifiltre |                        | Ateliers retours utilisateurs sur Stalactite                                | <2018-03-23 ven.> | U   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre | Stalactites v3         | v3 de Stalactites sur archifiltre.com                                       | <2018-04-09 lun.> | P   | 1 |
+   | Archifiltre |                        | v4 en cours : nouvelles features de navigation, meilleure UX, début de back | <2018-04-09 lun.> | P   | 0 |
+   | Archifiltre |                        | Tests utilisateurs au fil de l'eau                                          | <2018-04-09 lun.> | U   | 0 |
+   | Archifiltre |                        | On réfléchit à l'accueil de notre stagiaire, qui arrive le 16 avril         | <2018-04-09 lun.> | M   | 0 |
+   | Archifiltre | Mugs archifiltre       | Réception de nos mugs ! :)                                                  | <2018-04-09 lun.> | C   | 1 |
 
 ** Suite
 
-- Encore du back
-- Encore des fonctionnalités (le tagging notamment)
-- Encore des tests utilisateurs
+- [P] V4 et première release "officielle" !
 
 * b@liseNAV
 
