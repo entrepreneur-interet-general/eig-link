@@ -379,14 +379,21 @@ un lien est ajouté.
    | EIG Node |          | Finalisation des slides de demande de financement pour EIG3                           | <2018-04-03 mar.> | M   |
    | EIG Node |          | Atelier communication avec l’agence Bastille, feuille de route et hypothèses site v2  | <2018-04-03 mar.> | C   |
    | EIG Node |          | Suivi Villani                                                                         | <2018-04-03 mar.> | M   |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----|
+   | EIG Node |          | Arrivée de Soizic                                                                     | <2018-04-09 lun.> | M   |
+   | EIG Node |          | Plan de rédaction de contenu site v2 et nouvelle apparence (Bastien, Sophie, Soizic)  | <2018-04-09 lun.> | C   |
+   | EIG Node |          | Rédaction de contenu blog                                                             | <2018-04-09 lun.> | C   |
+   | EIG Node |          | EIG v3 validée par le COPIL PIA (1,5 M€)                                              | <2018-04-09 lun.> | M   |
+   | EIG Node |          | Rétroplanning EIG v3 (Mathilde, Sophie, Soizic)                                       | <2018-04-09 lun.> | M   |
+   | EIG Node |          | Crowdsourcing “[[https://lite.framacalc.org/EIG2____Donnees][vos rêves de données]]”                                                  | <2018-04-09 lun.> | D   |
 
 ** Suite
 
-- [M] Préparation sessions 5 et 11 avril
-- [M] Comité de pilotage validant le financement final EIG3
-- [C] Contenus pour le site v2 / rédaction article blog sur les précédentes sessions
-- [M] Admin lambda sur le budget EIG2
-- Et à votre écoute sur tout sujet J
+- [C] Réunion ce lundi avec notre agence en relations presse Rumeur publique
+- [C] Publication de plusieurs articles de blog (CR sessions + posts EIG)
+- [C] Rédaction contenus site v2
+- [C] Présentation programme EIG à Sciences Po le 11/04
+- [M] Rédaction cahier des charges de l’appel à projets
 
 * EIG Link
 
