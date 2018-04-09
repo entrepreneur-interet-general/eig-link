@@ -225,52 +225,55 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi       | Livrable | Tâche                                                                          | Fait le           | Cat |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | Rencontre détenteurs données                                                   | <2018-02-16 ven.> | D   |
-   | CoachÉlèves |          | Rencontre Pôle Emploi Store                                                    | <2018-02-16 ven.> | M   |
-   | CoachÉlèves |          | Point légal sur propriété des données                                          | <2018-02-16 ven.> | D   |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | https://arachez.shinyapps.io/quickwin/                                         | <2018-02-23 ven.> | P   |
-   | CoachÉlèves |          | Point feuille de route                                                         | <2018-02-23 ven.> | M   |
-   | CoachÉlèves |          | Interview d’une Start-up                                                       | <2018-02-23 ven.> | M   |
-   | CoachÉlèves |          | Rencontre DSI                                                                  | <2018-02-23 ven.> | M   |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | Construction d'un document décrivant plusieur scénarios                        | <2018-03-02 ven.> | PM  |
-   | CoachÉlèves |          | Discussion des scénarios mentor et Bastien                                     | <2018-03-02 ven.> | M   |
-   | CoachÉlèves |          | Discussion du projet d'occupation des sols                                     | <2018-03-02 ven.> | M   |
-   | CoachÉlèves |          | Rencontre pour discuter des données de la DNE                                  | <2018-03-02 ven.> | M   |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | Visite équipe DataESR pour retex sur leur solution                             | <2018-03-09 ven.> | A   |
-   | CoachÉlèves |          | Proposition scénarios aux mentors et priorisation des pistes                   | <2018-03-09 ven.> | M   |
-   | CoachÉlèves |          | Discussion des ressources dont nous avons besoin                               | <2018-03-09 ven.> | M   |
-   | CoachÉlèves |          | RDV avec Urbaniste SI                                                          | <2018-03-09 ven.> | D   |
-   | CoachÉlèves |          | RDV avec Chef de département SI                                                | <2018-03-09 ven.> | D   |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | Rencontre responsables BRNE pour solution de remontée de données               | <2018-03-16 ven.> | D   |
-   | CoachÉlèves |          | Montée en compétences sur norme xAPI pour BDD centralisée et API communicantes | <2018-03-16 ven.> | A   |
-   | CoachÉlèves |          | Rencontre interne pour accès aux données d’examen                              | <2018-03-16 ven.> | D   |
-   | CoachÉlèves |          | Etude de l’existant sur la gouvernance des données                             | <2018-03-16 ven.> | D   |
-   | CoachÉlèves |          | Rencontre des équipes Pôle Emploi Store Dev à Nantes                           | <2018-03-16 ven.> | A   |
-   | CoachÉlèves |          | Salon Eduspot pour rencontrer éditeurs de contenu                              | <2018-03-16 ven.> | D   |
-   | CoachÉlèves |          | Rencontre projet gouvernance des données                                       | <2018-03-16 ven.> | D   |
-   | CoachÉlèves |          | Réunion Mentor pour définition de finalités du coaching                        | <2018-03-16 ven.> | M   |
-   |------------+----------+--------------------------------------------------------------------------------+-------------------+-----|
-   | CoachÉlèves |          | RDV avec équipe gouvernance des données de la DNE B 2                          | <2018-03-23 ven.> | C   |
-   | CoachÉlèves |          | Lecture guide méthodologique DNE B2                                            | <2018-03-23 ven.> | A   |
-   | CoachÉlèves |          | Rencontre avec DGESCO sur gouverance données                                   | <2018-03-23 ven.> | CM  |
-   | CoachÉlèves |          | Premère rencontre avec la DEPP                                                 | <2018-03-23 ven.> | C   |
-   | CoachÉlèves |          | Rencontre PA Chevalier pour gouvernance données                                | <2018-03-23 ven.> | C   |
-   | CoachÉlèves |          | Etude la norme xAPI                                                            | <2018-03-23 ven.> | A   |
-   | CoachÉlèves |          | Commencé implémentation d'un LRS                                               | <2018-03-23 ven.> | I   |
+   | Défi        | Livrable                       | Tâche                                                                                                                                                                      | Fait le           | Cat |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | Rencontre détenteurs données                                                                                                                                               | <2018-02-16 ven.> | D   |
+   | CoachÉlèves |                                | Rencontre Pôle Emploi Store                                                                                                                                                | <2018-02-16 ven.> | M   |
+   | CoachÉlèves |                                | Point légal sur propriété des données                                                                                                                                      | <2018-02-16 ven.> | D   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | https://arachez.shinyapps.io/quickwin/                                                                                                                                     | <2018-02-23 ven.> | P   |
+   | CoachÉlèves |                                | Point feuille de route                                                                                                                                                     | <2018-02-23 ven.> | M   |
+   | CoachÉlèves |                                | Interview d’une Start-up                                                                                                                                                   | <2018-02-23 ven.> | M   |
+   | CoachÉlèves |                                | Rencontre DSI                                                                                                                                                              | <2018-02-23 ven.> | M   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | Construction d'un document décrivant plusieur scénarios                                                                                                                    | <2018-03-02 ven.> | PM  |
+   | CoachÉlèves |                                | Discussion des scénarios mentor et Bastien                                                                                                                                 | <2018-03-02 ven.> | M   |
+   | CoachÉlèves |                                | Discussion du projet d'occupation des sols                                                                                                                                 | <2018-03-02 ven.> | M   |
+   | CoachÉlèves |                                | Rencontre pour discuter des données de la DNE                                                                                                                              | <2018-03-02 ven.> | M   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | Visite équipe DataESR pour retex sur leur solution                                                                                                                         | <2018-03-09 ven.> | A   |
+   | CoachÉlèves |                                | Proposition scénarios aux mentors et priorisation des pistes                                                                                                               | <2018-03-09 ven.> | M   |
+   | CoachÉlèves |                                | Discussion des ressources dont nous avons besoin                                                                                                                           | <2018-03-09 ven.> | M   |
+   | CoachÉlèves |                                | RDV avec Urbaniste SI                                                                                                                                                      | <2018-03-09 ven.> | D   |
+   | CoachÉlèves |                                | RDV avec Chef de département SI                                                                                                                                            | <2018-03-09 ven.> | D   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | Rencontre responsables BRNE pour solution de remontée de données                                                                                                           | <2018-03-16 ven.> | D   |
+   | CoachÉlèves |                                | Montée en compétences sur norme xAPI pour BDD centralisée et API communicantes                                                                                             | <2018-03-16 ven.> | A   |
+   | CoachÉlèves |                                | Rencontre interne pour accès aux données d’examen                                                                                                                          | <2018-03-16 ven.> | D   |
+   | CoachÉlèves |                                | Etude de l’existant sur la gouvernance des données                                                                                                                         | <2018-03-16 ven.> | D   |
+   | CoachÉlèves |                                | Rencontre des équipes Pôle Emploi Store Dev à Nantes                                                                                                                       | <2018-03-16 ven.> | A   |
+   | CoachÉlèves |                                | Salon Eduspot pour rencontrer éditeurs de contenu                                                                                                                          | <2018-03-16 ven.> | D   |
+   | CoachÉlèves |                                | Rencontre projet gouvernance des données                                                                                                                                   | <2018-03-16 ven.> | D   |
+   | CoachÉlèves |                                | Réunion Mentor pour définition de finalités du coaching                                                                                                                    | <2018-03-16 ven.> | M   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlèves |                                | RDV avec équipe gouvernance des données de la DNE B 2                                                                                                                      | <2018-03-23 ven.> | C   |
+   | CoachÉlèves |                                | Lecture guide méthodologique DNE B2                                                                                                                                        | <2018-03-23 ven.> | A   |
+   | CoachÉlèves |                                | Rencontre avec DGESCO sur gouverance données                                                                                                                               | <2018-03-23 ven.> | CM  |
+   | CoachÉlèves |                                | Premère rencontre avec la DEPP                                                                                                                                             | <2018-03-23 ven.> | C   |
+   | CoachÉlèves |                                | Rencontre PA Chevalier pour gouvernance données                                                                                                                            | <2018-03-23 ven.> | C   |
+   | CoachÉlèves |                                | Etude la norme xAPI                                                                                                                                                        | <2018-03-23 ven.> | A   |
+   | CoachÉlèves |                                | Commencé implémentation d'un LRS                                                                                                                                           | <2018-03-23 ven.> | I   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | CoachÉlève  | Gouvernance                    | Première version de la roadmap Gouvernance !                                                                                                                               | <2018-04-09 lun.> | P   |
+   | CoachÉlève  | Montée en compétence ministère | 1er contact avec l’équipe de communication du ministère pour organiser des  “Dej’AI” pour tous les agents intéressés                                                       | <2018-04-09 lun.> | TC  |
+   | CoachÉlève  | QuickWin                       | Organisation d’une semaine de collaboration avec le CNED pour améliorer leur chatbot D’COL                                                                                 | <2018-04-09 lun.> | MS  |
+   | CoachÉlève  | BDD Centrale                   | Rencontre et prise de contact avec différents labos de recherches (LORIA, LIP6) pour bénéficier de leur retour d’expérience sur les différentes normes d’inter-opérabilité | <2018-04-09 lun.> | A   |
+   | CoachÉlève  | CoachÉlèves                    | Prise en main du RasBerry Pi et découverte de l’implémentation Sugarizer                                                                                                   | <2018-04-09 lun.> | I   |
+   | CoachÉlève  | BDD Centrale                   | Retour des premiers industriels et partage des premiers échantillons de données                                                                                            | <2018-04-09 lun.> | A   |
 
 ** Suite
 
-- [MCU] Revenir vers DNE B2 avec proposition de collaboration
-- [MC] Terminer feuille de route gouvernance
-- [A] Rencontre chercheurs pour LRS
-- [M] Rencontre avec les industriels pour centralisation
-- [A] Rencontre avec porteur projet open source LRS
+- [A] {BDD Centrale} On commence à travailler sur le projet de “crowdsourcing"
 
 * DataESR
 
