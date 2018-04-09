@@ -7,9 +7,9 @@ un lien est ajouté.
 
   Pour chaque projet, nous proposons ce tableau indicatif :
 
-  | Défi | Livrable | Tâche | Fait le | Catégorie |
-  |------+----------+-------+---------+-----------|
-  |      |          |       |         |           |
+  | Défi | Livrable | Tâche | Fait le | Good/bad news | Catégorie |
+  |------+----------+-------+---------+---------------+-----------|
+  |      |          |       |         |               |           |
 
   =Catégorie= pouvant être :
 
