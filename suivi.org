@@ -835,15 +835,17 @@ un lien est ajouté.
    | Prédisauvetage |          | Préparation du comité de pilotage d’avril pour le SNOSAN                                                          | <2018-04-02 lun.> | P   |
    | Prédisauvetage |          | Réflexions lobbying volonté d’ouvrir les données d’interventions des secours en mer                               | <2018-04-02 lun.> | T   |
    | Prédisauvetage |          | Blog post parlant de l’API d’avis urgent aux navigateurs sur le blog de la fabrique numérique du ministère        | <2018-04-02 lun.> | C   |
+   |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Suite application web de visualisation (graphiques et cartographie)                                               | <2018-04-09 lun.> | P   |
+   | Prédisauvetage |          | Rdv à Etalab mercredi avec Romain Thalès pour potentielle ouverture données CROSS                                 | <2018-04-09 lun.> | T   |
+   | Prédisauvetage |          | 🍾 Accès direct aux bases de données Oracle à St Malo                                                             | <2018-04-09 lun.> | I   |
 
 ** Suite
 
-- [D] Analyse de l’accidentologie en plaisance avec les caractéristiques des bateaux
-- [T] Rdv à Etalab pour stratégie d'ouverture des données d'accidentologie en mer
-- [C] Réunion de réflexion autour de l'utilisation de l'AIS pour surveillance automatique de trafic maritime
-- [P] Préparation du comité de pilotage d’avril pour le SNOSAN
-- [P] Suite application web destinée au public
-- [P] Suite application web de visualisation (graphiques et cartographie)
+- [M] Réunion data autour des données maritimes mardi
+- [M] Nos collègues de Quiberon viennent mercredi et jeudi pour préparer le copil
+- [D] Statistiques pour le copil
+- [P] Développement application web de visualisation
 
 * Prévisecours
 
