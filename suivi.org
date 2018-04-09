@@ -285,64 +285,70 @@ un lien est ajouté.
 ** Dépôt
 ** Journal
 
-   | Défi    | Livrable | Tâche                                                                       | Fait le           | Cat |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Debrief semaine d'intégration                                               | <2018-02-15 jeu.> | I   |
-   | DataESR |          | Interviews membres de l'équipe                                              | <2018-02-15 jeu.> | U   |
-   | DataESR |          | Exploration de jeux de données                                              | <2018-02-15 jeu.> | D   |
-   | DataESR |          | Installation environnement de travail                                       | <2018-02-15 jeu.> | I   |
-   | DataESR |          | Interview personne en charge de scanr.fr                                    | <2018-02-15 jeu.> | U   |
-   | DataESR |          | Contact avec istex.fr                                                       | <2018-02-15 jeu.> | D   |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Réunion de cadrage du projet                                                | <2018-02-23 ven.> | M   |
-   | DataESR |          | Exploration de la base centrale des établissement et de l'API entreprise    | <2018-02-23 ven.> | D   |
-   | DataESR |          | Installation et prise en mains des outils techniques                        | <2018-02-23 ven.> | I   |
-   | DataESR |          | Découverte de matchID                                                       | <2018-02-23 ven.> | A   |
-   | DataESR |          | Réunion métier pour comprendre problématique brevets                        | <2018-02-23 ven.> | MD  |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Plus besoin de se concentrer sur les pb d'intégration des données           | <2018-03-02 ven.> | M   |
-   | DataESR |          | Avancée sur la conception du modèle de données                              | <2018-03-02 ven.> | D   |
-   | DataESR |          | Travail sur connexions entre ce modèle est base centrale des établissements | <2018-03-02 ven.> | D   |
-   | DataESR |          | Construction d'une bdd avec méta données de publications                    | <2018-03-02 ven.> | P   |
-   | DataESR |          | Point avec les mentors pour valider la roadmap                              | <2018-03-02 ven.> | M   |
-   | DataESR |          | Demande de serveur reportée                                                 | <2018-03-02 ven.> | I   |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Réunion avec CoachElève                                                     | <2018-03-09 ven.> | C   |
-   | DataESR |          | Modélisation de la future BDD                                               | <2018-03-09 ven.> | P   |
-   | DataESR |          | Dataviz des établissements d'enseignements supérieur                        | <2018-03-09 ven.> | P   |
-   | DataESR |          | Benchmark des framework front                                               | <2018-03-09 ven.> | T   |
-   | DataESR |          | Réalisation des premiers mockups du MVP                                     | <2018-03-09 ven.> | P   |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Contact DSI en vue de la mise en prod                                       | <2018-03-16 ven.> | C   |
-   | DataESR |          | Premières pierres de'API du MVP en Flask                                    | <2018-03-16 ven.> | P   |
-   | DataESR |          | Feuille de route du scientific tagger                                       | <2018-03-16 ven.> | M   |
-   | DataESR |          | Conférence IXTEX publications scientifiques                                 | <2018-03-16 ven.> | D   |
-   | DataESR |          | Montée en compétence sur Flask                                              | <2018-03-16 ven.> | D   |
-   | DataESR |          | Réupération de corpus de textes pour le scientif tagger                     | <2018-03-16 ven.> | P   |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Dev front pour l'app d'admin interne en React                               | <2018-03-23 ven.> | P   |
-   | DataESR |          | Backend de l'authentification                                               | <2018-03-23 ven.> | P   |
-   | DataESR |          | Test de mise en staging                                                     | <2018-03-23 ven.> | P   |
-   | DataESR |          | Dev d'une petit librairie python pour test le nlp en FR                     | <2018-03-23 ven.> | P   |
-   | DataESR |          | Design de l'infra pour le NLP                                               | <2018-03-23 ven.> | U   |
-   |---------+----------+-----------------------------------------------------------------------------+-------------------+-----|
-   | DataESR |          | Changement de techno Flask vers Ruby pour le backend de l'application       | <2018-04-02 lun.> | I   |
-   | DataESR |          | Création d'une partie des modèles de la base de données (backend)           | <2018-04-02 lun.> | P   |
-   | DataESR |          | CRUD sur les établissement (back et front)                                  | <2018-04-02 lun.> | P   |
-   | DataESR |          | Point d'avancement avec les mentors                                         | <2018-04-02 lun.> | M   |
-   | DataESR |          | Premières maquettes des différentes pages de l'application et détail des... | <2018-04-02 lun.> | P   |
-   | DataESR |          | Accès aux données ISTEX : batailler avec l'administration pour une histo... | <2018-04-02 lun.> | D   |
-   | DataESR |          | Création d'un container pour le source code de MElt (pos tagging) et tes... | <2018-04-02 lun.> | P   |
+   | Défi    | Livrable               | Tâche                                                                       | Fait le           | Cat |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Debrief semaine d'intégration                                               | <2018-02-15 jeu.> | I   |
+   | DataESR |                        | Interviews membres de l'équipe                                              | <2018-02-15 jeu.> | U   |
+   | DataESR |                        | Exploration de jeux de données                                              | <2018-02-15 jeu.> | D   |
+   | DataESR |                        | Installation environnement de travail                                       | <2018-02-15 jeu.> | I   |
+   | DataESR |                        | Interview personne en charge de scanr.fr                                    | <2018-02-15 jeu.> | U   |
+   | DataESR |                        | Contact avec istex.fr                                                       | <2018-02-15 jeu.> | D   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Réunion de cadrage du projet                                                | <2018-02-23 ven.> | M   |
+   | DataESR |                        | Exploration de la base centrale des établissement et de l'API entreprise    | <2018-02-23 ven.> | D   |
+   | DataESR |                        | Installation et prise en mains des outils techniques                        | <2018-02-23 ven.> | I   |
+   | DataESR |                        | Découverte de matchID                                                       | <2018-02-23 ven.> | A   |
+   | DataESR |                        | Réunion métier pour comprendre problématique brevets                        | <2018-02-23 ven.> | MD  |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Plus besoin de se concentrer sur les pb d'intégration des données           | <2018-03-02 ven.> | M   |
+   | DataESR |                        | Avancée sur la conception du modèle de données                              | <2018-03-02 ven.> | D   |
+   | DataESR |                        | Travail sur connexions entre ce modèle est base centrale des établissements | <2018-03-02 ven.> | D   |
+   | DataESR |                        | Construction d'une bdd avec méta données de publications                    | <2018-03-02 ven.> | P   |
+   | DataESR |                        | Point avec les mentors pour valider la roadmap                              | <2018-03-02 ven.> | M   |
+   | DataESR |                        | Demande de serveur reportée                                                 | <2018-03-02 ven.> | I   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Réunion avec CoachElève                                                     | <2018-03-09 ven.> | C   |
+   | DataESR |                        | Modélisation de la future BDD                                               | <2018-03-09 ven.> | P   |
+   | DataESR |                        | Dataviz des établissements d'enseignements supérieur                        | <2018-03-09 ven.> | P   |
+   | DataESR |                        | Benchmark des framework front                                               | <2018-03-09 ven.> | T   |
+   | DataESR |                        | Réalisation des premiers mockups du MVP                                     | <2018-03-09 ven.> | P   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Contact DSI en vue de la mise en prod                                       | <2018-03-16 ven.> | C   |
+   | DataESR |                        | Premières pierres de'API du MVP en Flask                                    | <2018-03-16 ven.> | P   |
+   | DataESR |                        | Feuille de route du scientific tagger                                       | <2018-03-16 ven.> | M   |
+   | DataESR |                        | Conférence IXTEX publications scientifiques                                 | <2018-03-16 ven.> | D   |
+   | DataESR |                        | Montée en compétence sur Flask                                              | <2018-03-16 ven.> | D   |
+   | DataESR |                        | Réupération de corpus de textes pour le scientif tagger                     | <2018-03-16 ven.> | P   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Dev front pour l'app d'admin interne en React                               | <2018-03-23 ven.> | P   |
+   | DataESR |                        | Backend de l'authentification                                               | <2018-03-23 ven.> | P   |
+   | DataESR |                        | Test de mise en staging                                                     | <2018-03-23 ven.> | P   |
+   | DataESR |                        | Dev d'une petit librairie python pour test le nlp en FR                     | <2018-03-23 ven.> | P   |
+   | DataESR |                        | Design de l'infra pour le NLP                                               | <2018-03-23 ven.> | U   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                        | Changement de techno Flask vers Ruby pour le backend de l'application       | <2018-04-02 lun.> | I   |
+   | DataESR |                        | Création d'une partie des modèles de la base de données (backend)           | <2018-04-02 lun.> | P   |
+   | DataESR |                        | CRUD sur les établissement (back et front)                                  | <2018-04-02 lun.> | P   |
+   | DataESR |                        | Point d'avancement avec les mentors                                         | <2018-04-02 lun.> | M   |
+   | DataESR |                        | Premières maquettes des différentes pages de l'application et détail des... | <2018-04-02 lun.> | P   |
+   | DataESR |                        | Accès aux données ISTEX : batailler avec l'administration pour une histo... | <2018-04-02 lun.> | D   |
+   | DataESR |                        | Création d'un container pour le source code de MElt (pos tagging) et tes... | <2018-04-02 lun.> | P   |
+   |---------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | DataESR | Test                   | Rédaction de tests unitaires pour le MVP backend                            | <2018-04-09 lun.> | P   |
+   | DataESR | Archi BDD              | Finalisation de la modélisation de la BDD                                   | <2018-04-09 lun.> | P   |
+   | DataESR | performance            | Installation d'une autre machine (2 pcs maintenant..)                       | <2018-04-09 lun.> | I   |
+   | DataESR | augmentation de la BDD | dump d'un corpus de publications provenant de Semantic Scholar              | <2018-04-09 lun.> | D   |
+   | DataESR | test de modèle         | Premier test d'un model tf-idf sur des documents wikipedia                  | <2018-04-09 lun.> | P   |
+   | DataESR | DSI - mise en prod     | Rdv avec la DSI pour faire le tour des solutions envisageables              | <2018-04-09 lun.> | C   |
 
 ** Suite
 
-- [P] Création du reste des modèles de la base (backend)
-- [P] Ajout de quelques données en base (établissement et terminologies)
-- [P] Fiche établissement (visualisation et édition champ par champ)
-- [P] Formulaire de création d'un nouvel établissement
-- [C] RDV DSI (espéré)
-- [D] Test/benchmark different POS tagging sur des publis
-- [D] Check OpenEdition TEI format et Grobid pour extraire du fulltext
+- [P] {Front app - page établissement} CRUD adresse (historique) + map
+- [C] {DSI} Envoi du dossier de présentation du projet et des besoins
+- [P] {Data} Début du micro service de récupération de data depuis la BCE, alimentation de la BDD principale 
+- [P] {code} Continuer à tester des models de document retrieval sur wikipedia
+- [A] {documentation} Regarder les projets existants de text mining
+- [C] {contact} Contacter les différents acteurs ayant réaliser des projets similaires
 
 * EIG Node
 
