@@ -406,71 +406,84 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi     | Livrable    | Tâche                                                        | Fait le           | Cat |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link | Maintenance | Installation IRC                                             | <2018-02-13 mar.> | P   |
-   | EIG Link | blog-eig2   | Créer un blog                                                | <2018-02-14 mer.> | P   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link | Maintenance | Mise à dispo du serveur de calcul                            | <2018-02-23 ven.> | P   |
-   | EIG Link |             | Participation session mentors                                | <2018-02-23 ven.> | M   |
-   | EIG Link | eig-link    | Avancée sur eig-link                                         | <2018-02-23 ven.> | P   |
-   | EIG Link |             | Réunion technique aux Gobelins                               | <2018-02-23 ven.> | M   |
-   | EIG Link | Maintenance | Vidéo pour la prise en main serveur                          | <2018-02-23 ven.> | P   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link | csv2html    | Outil de mise en forme d'un csv en HTML/JS avec datatables   | <2018-03-02 ven.> | P   |
-   | EIG Link | Maintenance | Fin de la mise en place du serveur EIG                       | <2018-03-02 ven.> | P   |
-   | EIG Link | Maintenance | Installation d'une instance de Matomo                        | <2018-03-02 ven.> | P   |
-   | EIG Link |             | Réunion scénario avec CoachÉlèves                            | <2018-03-02 ven.> | M   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link |             | Travail sur la roadmap avec mentor puis LLL                  | <2018-03-09 ven.> | MP  |
-   | EIG Link |             | Préparation de la revue de code du 14 mars                   | <2018-03-09 ven.> | M   |
-   | EIG Link |             | Mini rapport d’étonnement                                    | <2018-03-09 ven.> | P   |
-   | EIG Link |             | Participation séminaire interne Étalab                       | <2018-03-09 ven.> | M   |
-   | EIG Link |             | Réunion-canapé avec Julien pour OpenScraper                  | <2018-03-09 ven.> | M   |
-   | EIG Link |             | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                       | <2018-03-09 ven.> | P   |
-   | EIG Link |             | Module ox-timeline.el pour produire des frises               | <2018-03-09 ven.> | P   |
-   | EIG Link |             | J’ai ma carte de cantine                                     | <2018-03-09 ven.> | I   |
-   | EIG Link |             | Réunion avec Framasoft pour Storify next                     | <2018-03-09 ven.> | M   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link |             | Écriture d’une entrée de blog                                | <2018-03-16 ven.> | P   |
-   | EIG Link |             | Saisie des retours hebdomadaires                             | <2018-03-16 ven.> | P   |
-   | EIG Link |             | Session de revue de code                                     | <2018-03-16 ven.> | M   |
-   | EIG Link |             | Déjeuner avec Archifiltre sur l’open source                  | <2018-03-16 ven.> | M   |
-   | EIG Link |             | Réunion Étalab sur la communication EIG                      | <2018-03-16 ven.> | M   |
-   | EIG Link |             | Réunion MIMDEV                                               | <2018-03-16 ven.> | M   |
-   | EIG Link |             | Onboarding Sophie                                            | <2018-03-16 ven.> | IM  |
-   | EIG Link |             | Mises à jour sur le blog                                     | <2018-03-16 ven.> | P   |
-   | EIG Link |             | Test de Cloudron et sshuttle                                 | <2018-03-16 ven.> | P   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link |             | Ajout de mes projets sur https://todo.eig-apps.org           | <2018-03-23 ven.> | P   |
-   | EIG Link |             | Réunion avec CoachÉlève                                      | <2018-03-23 ven.> | M   |
-   | EIG Link |             | Réunion avec Lab Santé                                       | <2018-03-23 ven.> | M   |
-   | EIG Link |             | Session d’accompagnement                                     | <2018-03-23 ven.> | P   |
-   | EIG Link |             | Test et staging pour suivi_auto (merci Emmanuel !)           | <2018-03-23 ven.> | P   |
-   | EIG Link |             | Configuration https://twitter.com/eigforever                 | <2018-03-23 ven.> | PC  |
-   | EIG Link |             | Accès admin au Nextcloud pour Christophe                     | <2018-03-23 ven.> | P   |
-   | EIG Link |             | Mini-prise en main + config proxmox pour Julien              | <2018-03-23 ven.> | M   |
-   | EIG Link |             | Correction de la configuration des listes (merci Tiphaine !) | <2018-03-23 ven.> | P   |
-   | EIG Link |             | Organisation garagethon Storia                               | <2018-03-23 ven.> | M   |
-   | EIG Link |             | Accès etemptation (pour poser des congés)                    | <2018-03-23 ven.> | I   |
-   | EIG Link |             | Installation instance matomo pour Gobelins                   | <2018-03-23 ven.> | P   |
-   |----------+-------------+--------------------------------------------------------------+-------------------+-----|
-   | EIG Link |             | Écrire de ouverture.org et ouverture-faq.org                 | <2018-03-30 ven.> | P   |
-   | EIG Link |             | Point avec Sophie sur le site                                | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Réunion avec l’agence de com’ sur la stratégie EIG           | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Réunion AGD à Étalab avec le MEN                             | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Rencontre Sugarizer avec CoachÉlève                          | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Point d’étape CoachÉlève + mentor                            | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Déboguage serveur (Antoine et Julien)                        | <2018-03-30 ven.> | P   |
-   | EIG Link |             | Proposition pour « EIG off »                                 | <2018-03-30 ven.> | P   |
-   | EIG Link |             | Échange avec Jean-Baptiste sur le journal de bord            | <2018-03-30 ven.> | M   |
-   | EIG Link |             | Garagethon « Storify en commun » le 30 mars                  | <2018-03-30 ven.> | MP  |
+   | Défi     | Livrable    | Tâche                                                        | Fait le           | Cat |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | Maintenance | Installation IRC                                             | <2018-02-13 mar.> | P   |   |
+   | EIG Link | blog-eig2   | Créer un blog                                                | <2018-02-14 mer.> | P   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | Maintenance | Mise à dispo du serveur de calcul                            | <2018-02-23 ven.> | P   |   |
+   | EIG Link |             | Participation session mentors                                | <2018-02-23 ven.> | M   |   |
+   | EIG Link | eig-link    | Avancée sur eig-link                                         | <2018-02-23 ven.> | P   |   |
+   | EIG Link |             | Réunion technique aux Gobelins                               | <2018-02-23 ven.> | M   |   |
+   | EIG Link | Maintenance | Vidéo pour la prise en main serveur                          | <2018-02-23 ven.> | P   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | csv2html    | Outil de mise en forme d'un csv en HTML/JS avec datatables   | <2018-03-02 ven.> | P   |   |
+   | EIG Link | Maintenance | Fin de la mise en place du serveur EIG                       | <2018-03-02 ven.> | P   |   |
+   | EIG Link | Maintenance | Installation d'une instance de Matomo                        | <2018-03-02 ven.> | P   |   |
+   | EIG Link |             | Réunion scénario avec CoachÉlèves                            | <2018-03-02 ven.> | M   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |             | Travail sur la roadmap avec mentor puis LLL                  | <2018-03-09 ven.> | MP  |   |
+   | EIG Link |             | Préparation de la revue de code du 14 mars                   | <2018-03-09 ven.> | M   |   |
+   | EIG Link |             | Mini rapport d’étonnement                                    | <2018-03-09 ven.> | P   |   |
+   | EIG Link |             | Participation séminaire interne Étalab                       | <2018-03-09 ven.> | M   |   |
+   | EIG Link |             | Réunion-canapé avec Julien pour OpenScraper                  | <2018-03-09 ven.> | M   |   |
+   | EIG Link |             | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                       | <2018-03-09 ven.> | P   |   |
+   | EIG Link |             | Module ox-timeline.el pour produire des frises               | <2018-03-09 ven.> | P   |   |
+   | EIG Link |             | J’ai ma carte de cantine                                     | <2018-03-09 ven.> | I   |   |
+   | EIG Link |             | Réunion avec Framasoft pour Storify next                     | <2018-03-09 ven.> | M   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |             | Écriture d’une entrée de blog                                | <2018-03-16 ven.> | P   |   |
+   | EIG Link |             | Saisie des retours hebdomadaires                             | <2018-03-16 ven.> | P   |   |
+   | EIG Link |             | Session de revue de code                                     | <2018-03-16 ven.> | M   |   |
+   | EIG Link |             | Déjeuner avec Archifiltre sur l’open source                  | <2018-03-16 ven.> | M   |   |
+   | EIG Link |             | Réunion Étalab sur la communication EIG                      | <2018-03-16 ven.> | M   |   |
+   | EIG Link |             | Réunion MIMDEV                                               | <2018-03-16 ven.> | M   |   |
+   | EIG Link |             | Onboarding Sophie                                            | <2018-03-16 ven.> | IM  |   |
+   | EIG Link |             | Mises à jour sur le blog                                     | <2018-03-16 ven.> | P   |   |
+   | EIG Link |             | Test de Cloudron et sshuttle                                 | <2018-03-16 ven.> | P   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |             | Ajout de mes projets sur https://todo.eig-apps.org           | <2018-03-23 ven.> | P   |   |
+   | EIG Link |             | Réunion avec CoachÉlève                                      | <2018-03-23 ven.> | M   |   |
+   | EIG Link |             | Réunion avec Lab Santé                                       | <2018-03-23 ven.> | M   |   |
+   | EIG Link |             | Session d’accompagnement                                     | <2018-03-23 ven.> | P   |   |
+   | EIG Link |             | Test et staging pour suivi_auto (merci Emmanuel !)           | <2018-03-23 ven.> | P   |   |
+   | EIG Link |             | Configuration https://twitter.com/eigforever                 | <2018-03-23 ven.> | PC  |   |
+   | EIG Link |             | Accès admin au Nextcloud pour Christophe                     | <2018-03-23 ven.> | P   |   |
+   | EIG Link |             | Mini-prise en main + config proxmox pour Julien              | <2018-03-23 ven.> | M   |   |
+   | EIG Link |             | Correction de la configuration des listes (merci Tiphaine !) | <2018-03-23 ven.> | P   |   |
+   | EIG Link |             | Organisation garagethon Storia                               | <2018-03-23 ven.> | M   |   |
+   | EIG Link |             | Accès etemptation (pour poser des congés)                    | <2018-03-23 ven.> | I   |   |
+   | EIG Link |             | Installation instance matomo pour Gobelins                   | <2018-03-23 ven.> | P   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |             | Écrire de ouverture.org et ouverture-faq.org                 | <2018-03-30 ven.> | P   |   |
+   | EIG Link |             | Point avec Sophie sur le site                                | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Réunion avec l’agence de com’ sur la stratégie EIG           | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Réunion AGD à Étalab avec le MEN                             | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Rencontre Sugarizer avec CoachÉlève                          | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Point d’étape CoachÉlève + mentor                            | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Déboguage serveur (Antoine et Julien)                        | <2018-03-30 ven.> | P   |   |
+   | EIG Link |             | Proposition pour « EIG off »                                 | <2018-03-30 ven.> | P   |   |
+   | EIG Link |             | Échange avec Jean-Baptiste sur le journal de bord            | <2018-03-30 ven.> | M   |   |
+   | EIG Link |             | Garagethon « Storify en commun » le 30 mars                  | <2018-03-30 ven.> | MP  |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | Animation   | Relance Christophe et Emmanuel pour EIG Off                  | <2018-04-06 ven.> | M   |   |
+   | EIG Link | Animation   | Suivi Sugarizer pour CoachÉlève                              | <2018-04-06 ven.> | M   |   |
+   | EIG Link | Animation   | Journée autour de Storia avec Framasoft                      | <2018-04-06 ven.> | MP  | 1 |
+   | EIG Link | Contenu     | Rédaction gestion projet open source                         | <2018-04-06 ven.> | P   | 1 |
+   | EIG Link | Site        | Avancée co-rédaction avec Paul                               | <2018-04-06 ven.> | P   |   |
+   | EIG Link | Site        | Discussion interne pour la suite                             | <2018-04-06 ven.> | MP  |   |
+   | EIG Link | Site        | Début de timeline pour EIG                                   | <2018-04-06 ven.> | P   | 1 |
+   | EIG Link | Animation   | Préparation de la session du 5 avril                         | <2018-04-06 ven.> | MP  |   |
+   | EIG Link | Animation   | Session d’accompagnement du 5 avril                          | <2018-04-06 ven.> | P   | 1 |
+   | EIG Link | Étalab      | Rendez-vous avec Henri Verdier                               | <2018-04-06 ven.> | M   | 1 |
+   | EIG Link | Étalab      | Participation Étalab talk open source evangelist AWS         | <2018-04-06 ven.> | MT  | 1 |
+   | EIG Link | Maintenance | Mise à jour de la licence de pointk                          | <2018-04-06 ven.> | P   |   |
 
 ** Suite
 
-- [P] Entrée de blog sur la session « product opening »
-- [P] Préparation de la session data du 5 avril
-- [P] Avancer sur le « journal de bord » #{!@!!
+- [P] Focus sur le site v2
+- [P] Écrire compte-rendu Garagethon par mail et pour blog
+- [M] Session d’accompagnement du 11 avril
 
 * Gobelins
 
