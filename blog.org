@@ -1,15 +1,15 @@
 #+title: Calendrier pour les entrées de blog
 
-|     Date | Titre                                                                          | Auteur   | Lien github | Lien public |
-|----------+--------------------------------------------------------------------------------+----------+-------------+-------------|
-| 18-05-15 | [Ce que sont devenus les EIG 1]                                                | Bastien  |             |             |
-| 18-04-30 | [Entrée de blog Tiphaine - être un EIG ?]                                      | Tiphaine |             |             |
-| 18-04-25 | [Compte-rendu de la journée Storia avec Framasoft ?]                           | Bastien  |             |             |
-| 18-04-20 |                                                                                | Dora     |             |             |
-| 18-04-15 | [Retour sur les ateliers du 22 mars 3/3]                                       | Soizic ? |             |             |
-| 18-04-11 | « L’ouverture » d’un logiciel libre : retour sur les ateliers du 22 mars (2/3) | Paul     | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-09-atelier-ouverture-logiciel-libre.md][Github]]      |             |
-| 18-04-09 | « You are not (always) your user » : retour sur les ateliers du 22 mars (1/3)  | Mathilde | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-09-atelier-product-research.md][Github]]      |             |
-|----------+--------------------------------------------------------------------------------+----------+-------------+-------------|
-| 18-04-04 | Réaliser un défi en 10 mois : construire une feuille de route partagée         | Sophie   | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-04-construire-une-feuille-de-route-partagee.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/][Blog]]        |
-| 18-03-16 | Un point technique après deux mois du programme EIG                            | Bastien  | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-03-16-programme-eig-point-de-vue-technique.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/03/16/programme-eig-point-de-vue-technique/][Blog]]        |
-| 18-02-27 | Comment souder un collectif de talents et assurer sa réussite                  | Soizic   | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-02-27-bootcamp-comment-souder-un-collectif-de-talents.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/][Blog]]        |
+|     Date | Titre                                                                          | Auteur         | Lien github | Lien public |
+|----------+--------------------------------------------------------------------------------+----------------+-------------+-------------|
+| 18-05-15 | [Ce que sont devenus les EIG 1]                                                | Bastien        |             |             |
+| 18-04-30 | [Entrée de blog Tiphaine - être un EIG ?]                                      | Tiphaine       |             |             |
+| 18-04-25 | [Compte-rendu de la journée Storia avec Framasoft ?]                           | Bastien        |             |             |
+| 18-04-20 |                                                                                | Dora           |             |             |
+| 18-04-15 | [Retour sur les ateliers du 22 mars 3/3]                                       | Sophie et JB ? |             |             |
+| 18-04-11 | « L’ouverture » d’un logiciel libre : retour sur les ateliers du 22 mars (2/3) | Paul           | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-09-atelier-ouverture-logiciel-libre.md][Github]]      |             |
+| 18-04-09 | « You are not (always) your user » : retour sur les ateliers du 22 mars (1/3)  | Mathilde       | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-09-atelier-product-research.md][Github]]      |             |
+|----------+--------------------------------------------------------------------------------+----------------+-------------+-------------|
+| 18-04-04 | Réaliser un défi en 10 mois : construire une feuille de route partagée         | Sophie         | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-04-construire-une-feuille-de-route-partagee.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/][Blog]]        |
+| 18-03-16 | Un point technique après deux mois du programme EIG                            | Bastien        | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-03-16-programme-eig-point-de-vue-technique.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/03/16/programme-eig-point-de-vue-technique/][Blog]]        |
+| 18-02-27 | Comment souder un collectif de talents et assurer sa réussite                  | Soizic         | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-02-27-bootcamp-comment-souder-un-collectif-de-talents.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/][Blog]]        |
