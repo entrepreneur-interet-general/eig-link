@@ -49,6 +49,7 @@
 
 - http://www.ecoindex.fr
 - https://addons.mozilla.org/fr/firefox/addon/ecoindex/ ([[https://github.com/didierfred/ecoIndexPlugin][github]])
+- https://collectif.greenit.fr/outils.html
 
 ** Design pattern
 
