@@ -2,6 +2,7 @@
 
 |     Date | Titre                                                                          | Auteur   | Lien github | Lien public |
 |----------+--------------------------------------------------------------------------------+----------+-------------+-------------|
+| 18-05-15 | [Ce que sont devenus les EIG 1]                                                | Bastien  |             |             |
 | 18-04-30 | [Entrée de blog Tiphaine - être un EIG ?]                                      | Tiphaine |             |             |
 | 18-04-25 | [Compte-rendu de la journée Storia avec Framasoft ?]                           | Bastien  |             |             |
 | 18-04-20 |                                                                                | Dora     |             |             |
