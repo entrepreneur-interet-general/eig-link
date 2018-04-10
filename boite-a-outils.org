@@ -48,8 +48,7 @@
 ** Éco-conception web
 
 - http://www.ecoindex.fr
-- Exension: https://addons.mozilla.org/fr/firefox/addon/ecoindex/
-- Code source : https://github.com/didierfred/ecoIndexPlugin
+- https://addons.mozilla.org/fr/firefox/addon/ecoindex/ ([[https://github.com/didierfred/ecoIndexPlugin][github]])
 
 ** Design pattern
 
