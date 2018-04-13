@@ -1172,13 +1172,28 @@ un lien est ajouté.
    | SocialConnect |                   | Finalisation de la maquette de la landing page                                                 | <2018-03-30 ven.> | C   |
    | SocialConnect |                   | Finalisation de notre nomenclature homogénéisant nos tags scrapés...                           | <2018-03-30 ven.> | P   |
    | SocialConnect |                   | récupération des infos sur les noms de domaines achetés pour socialconnect                     | <2018-03-30 ven.> | C   |
+   |---------------+-------------------+------------------------------------------------------------------------------------------------+-------------------+-----|
+   | SocialConnect |                   | Mise au point mentor/n+1 sur fonctionnalités du site publié le 16/04                           | <2018-04-13 ven.> | M   |
+   | SocialConnect |                   | Landing page sous Flask avec core features : backoffice, BDD mongo, login, feedback (Julien)   | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Mise en prod de la landing (nginx et supervisor) (Julien)                                      | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Envoi des premiers ‘kit comm’ (collectif)                                                      | <2018-04-13 ven.> | C   |
+   | SocialConnect |                   | Comptes FB et twitter de Social Connect (collectif)                                            | <2018-04-13 ven.> | C   |
+   | SocialConnect |                   | Vidéo de présentation du site (Elise)                                                          | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Finalisation des éléments graphiques du site (Elise)                                           | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Prototype animé des écrans du moteur de recherche (Elise)                                      | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Finalisation des écrans du moteur de recherche (Elise)                                         | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | Câblage des requêtes site socialconnect - openscraper (Julien)                                 | <2018-04-13 ven.> | P   |
+   | SocialConnect |                   | formation Expresse Vue.js (Julien)                                                             | <2018-04-13 ven.> | A   |
+   | SocialConnect |                   | 1ères discussions sur la pérennité du projet : RH, budget, modèle éco.                         | <2018-04-13 ven.> | M   |
+   | SocialConnect |                   | Premier ransomware !                                                                           | <2018-04-13 ven.> | A   |
 
 ** Suite
 
-- [P] Écriture du site de la landing avec Flask + Bulma (Julien)
-- [P] Mise en prod de la landing (Julien)
-- [P] premiers éléments de login et du “back” de la landing
-- [P] finaliser les écrans du “back” de la landing (Elise)
+- [C] Publication bêta du site de SocialConnect le lundi 16
+- [M] Réunion du COPIL pour présenter la version beta du site
+- [P] Amélioration du moteur de recherche et autres éléments de front (Julien)
+- [U] Récupération des premiers retours utilisateurs (Elise)
+- [P] Continuer à dessiner les écrans manquants du site (Elise)
 
 * Nouveau jeux de données publiés
 
