@@ -7,6 +7,7 @@
 - [[file:stack.org][Les stacks des projets]]
 - [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][L’agenda public des EIG]]
 - [[file:contacts.org][Les contacts des EIG]]
+- Vous abonner au [[https://entrepreneur-interet-general.etalab.gouv.fr/blog.html][blog EIG]] via le [[view-source:https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml][flux RSS]]
 
 * Ressources
 
