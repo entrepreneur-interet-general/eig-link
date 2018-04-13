@@ -82,10 +82,20 @@ un lien est ajouté.
    | Archifiltre |                        | Tests utilisateurs au fil de l'eau                                          | <2018-04-06 ven.> | U   | 0 |
    | Archifiltre |                        | On réfléchit à l'accueil de notre stagiaire, qui arrive le 16 avril         | <2018-04-06 ven.> | M   | 0 |
    | Archifiltre | Mugs archifiltre       | Réception de nos mugs ! :)                                                  | <2018-04-06 ven.> | C   | 1 |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | Archifiltre |                        | Avancées sur le back                                                        | <2018-04-13 ven.> | P   |
+   | Archifiltre | Stalactites v4         | Refonte de l'interface                                                      | <2018-04-13 ven.> | P   |
+   | Archifiltre |                        | Préparation de l'accueil d'Inès !                                           | <2018-04-13 ven.> | M   |
+   | Archifiltre |                        | Tests utilisateurs                                                          | <2018-04-13 ven.> | U   |
+   | Archifiltre |                        | Première release officielle d'archifiltre !                                 | <2018-04-13 ven.> | C   |
+
 
 ** Suite
 
-- [P] V4 et première release "officielle" !
+- Vous ne serez bientôt plus simples spectateurs de vos fichiers : dans la prochaine version de Stalactites vous taguerez, commenterez et renommerez vos fichiers pour vous orienter dans votre exploration !
+- Accueil d'Inès
+- On branche (peut-être) notre serveur sur Stalactite pour pouvoir envoyer et sauvegarder les données.
+- Sûrement d'autres trucs
 
 * b@liseNAV
 
