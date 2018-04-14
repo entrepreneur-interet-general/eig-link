@@ -510,12 +510,22 @@ un lien est ajouté.
    | EIG Link | Étalab      | Rendez-vous avec Henri Verdier                               | <2018-04-06 ven.> | M   | 1 |
    | EIG Link | Étalab      | Participation Étalab talk open source evangelist AWS         | <2018-04-06 ven.> | MT  | 1 |
    | EIG Link | Maintenance | Mise à jour de la licence de pointk                          | <2018-04-06 ven.> | P   |   |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |             | RDV de prise de connaissance avec Perica                     | <2018-04-14 sam.> | M   | 1 |
+   | EIG Link |             | Avancement du futur site EIG                                 | <2018-04-14 sam.> | P   | 1 |
+   | EIG Link | animation   | Préparation de la session d’accompagnement EIG               | <2018-04-14 sam.> | PP  |   |
+   | EIG Link | animation   | Session d’accompagnement EIG                                 | <2018-04-14 sam.> | P   | 1 |
+   | EIG Link |             | Travail sur le blog EIG                                      | <2018-04-14 sam.> | P   |   |
+   | EIG Link | journal     | Apprentissage clojurescript/re-frame                         | <2018-04-14 sam.> | A   |   |
+   | EIG Link | suivi       | Accompagnement sur les CGU du défi SocialConnect             | <2018-04-14 sam.> | M   |   |
+   | EIG Link | suivi       | Après-midi d’échanges avec le défi Gobelins                  | <2018-04-14 sam.> | M   |   |
+   | EIG Link | eigforever  | Premier retweet du bot @eigforever !                         | <2018-04-14 sam.> | P   | 1 |
 
 ** Suite
 
-- [P] Focus sur le site v2
-- [P] Écrire compte-rendu Garagethon par mail et pour blog
-- [M] Session d’accompagnement du 11 avril
+- Avancement du futur site EIG
+- Mise en ligne d’un proto pour le journal de bord
+- Rendez-vous SocialConnect
 
 * Gobelins
 
