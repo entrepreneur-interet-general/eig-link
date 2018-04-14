@@ -159,12 +159,21 @@ un lien est ajouté.
    | b@liseNAV | Front         | Mise en place d’une librairie SVG de symboles nautiques                    | <2018-04-06 ven.> | P   |   1 |
    | b@liseNAV | Blog          | Définition d’une trame pour l’écriture d’articles Blog EIG                 | <2018-04-06 ven.> | C   |   1 |
    | b@liseNAV | Shom          | Rencontres avec utilisateurs de batchs de traitement données carto         | <2018-04-06 ven.> | U   |   1 |
+   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |               | Définition des premiers posts pour le blog EIG                             | <2018-04-14 sam.> | C   |   1 |
+   | b@liseNAV |               | Journée Idéation avec la Dam. “Ouvrez vos données, les idées suivront”     | <2018-04-14 sam.> | T   |   1 |
+   | b@liseNAV |               | Ecriture du modèle S-201 via l’ORM Sequelize pour PostgreSQL/ PostGIS      | <2018-04-14 sam.> | D   |   1 |
+   | b@liseNAV |               | Premières tentatives de mapping de l’[[https://antoineaugusti.github.io/avurnav-api/][API]] vers la norme S-124               | <2018-04-14 sam.> | D   |  -1 |
+   | b@liseNAV |               | Comparaison Aladin - BDGS Manche + Atlantique                              | <2018-04-14 sam.> | D   |   1 |
+   | b@liseNAV |               | Revue d’avancement avec notre mentor                                       | <2018-04-14 sam.> | M   |   1 |
 
 ** Suite
 
-- [T] :) {Dam-Shom} Journée idéation avec la DAM
-- [D] ✌️ {Dam-Shom} Comparaison Aladin - BDGS France métropolitaine
-- [P] :) {Front} Librairie SVG - Ajout nouveaux symboles nautiques
+- [P] {Front} Librairie SVG de symboles nautiques, gestion des styles CSS des SVGs
+- [T] {Dam-Shom} Documentation des requêtes SQL utilisées pour le rapprochement entre les données Aladin et les bases de données du Shom
+- [P] {Dam-Shom} Revue des dernières propositions pour norme S-124 (suite)
+- [P] {Code} Segmentation du code pour publication Git
+- [D] Participation à un mapathon de cartographie Nord Madagascar sur OpenStreetMap
 
 * BrigadeNumérique
 
