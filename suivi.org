@@ -891,14 +891,22 @@ un lien est ajouté.
    |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----|
    | Prédisauvetage |          | Suite application web de visualisation (graphiques et cartographie)                                               | <2018-04-06 ven.> | P   |
    | Prédisauvetage |          | Rdv à Etalab mercredi avec Romain Thalès pour potentielle ouverture données CROSS                                 | <2018-04-06 ven.> | T   |
-   | Prédisauvetage |          | 🍾 Accès direct aux bases de données Oracle à St Malo                                                             | <2018-04-06 ven.> | I   |
+   | Prédisauvetage |          | Accès direct aux bases de données Oracle à St Malo                                                               | <2018-04-06 ven.> | I   |
+   |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Prédisauvetage |          | Création et documentation du nouveau schéma de la base de données CROSS                                           | <2018-04-14 sam.> | P   |
+   | Prédisauvetage |          | Argumentaire en faveur de l'ouverture des données CROSS                                                           | <2018-04-14 sam.> | P   |
+   | Prédisauvetage |          | Présentation de notre volonté d'ouverture au Directeur adjoint des Affaires Maritimes                             | <2018-04-14 sam.> | M   |
+   | Prédisauvetage |          | Atelier d'idéation sur les services de demain autour des données maritimes                                        | <2018-04-14 sam.> | U   |
+   | Prédisauvetage |          | Réunion avec les membres du SNONSAN pour définir les stats et infos à présenter au COPIL de mai                   | <2018-04-14 sam.> | M   |
+   | Prédisauvetage |          | Elaboration des statistiques/graphiques souhaitées                                                                | <2018-04-14 sam.> | P   |
 
 ** Suite
 
-- [M] Réunion data autour des données maritimes mardi
-- [M] Nos collègues de Quiberon viennent mercredi et jeudi pour préparer le copil
-- [D] Statistiques pour le copil
-- [P] Développement application web de visualisation
+- [P] Création de la nouvelle base de donnée CROSS
+- [P] Finalisation des statistiques et des rapports pour le COPIL
+- [P] Amélioration de l'outil de Dashboarding et de la cartographie et les inclure sur le site Internet du SNOSAN
+- [U] Réunion afin de collecter les retours de possibles utilisateurs sur la carto
+- [M] Réunion avec la personne en charge de l'Open Data à la DGITM sur les outils pour réaliser des cartos
 
 * Prévisecours
 
