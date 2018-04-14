@@ -82,13 +82,12 @@ un lien est ajouté.
    | Archifiltre |                        | Tests utilisateurs au fil de l'eau                                          | <2018-04-06 ven.> | U   | 0 |
    | Archifiltre |                        | On réfléchit à l'accueil de notre stagiaire, qui arrive le 16 avril         | <2018-04-06 ven.> | M   | 0 |
    | Archifiltre | Mugs archifiltre       | Réception de nos mugs ! :)                                                  | <2018-04-06 ven.> | C   | 1 |
-   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Avancées sur le back                                                        | <2018-04-13 ven.> | P   |
-   | Archifiltre | Stalactites v4         | Refonte de l'interface                                                      | <2018-04-13 ven.> | P   |
-   | Archifiltre |                        | Préparation de l'accueil d'Inès !                                           | <2018-04-13 ven.> | M   |
-   | Archifiltre |                        | Tests utilisateurs                                                          | <2018-04-13 ven.> | U   |
-   | Archifiltre |                        | Première release officielle d'archifiltre !                                 | <2018-04-13 ven.> | C   |
-
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Avancées sur le back                                                        | <2018-04-13 ven.> | P   |   |
+   | Archifiltre | Stalactites v4         | Refonte de l'interface                                                      | <2018-04-13 ven.> | P   |   |
+   | Archifiltre |                        | Préparation de l'accueil d'Inès !                                           | <2018-04-13 ven.> | M   |   |
+   | Archifiltre |                        | Tests utilisateurs                                                          | <2018-04-13 ven.> | U   |   |
+   | Archifiltre |                        | Première release officielle d'archifiltre !                                 | <2018-04-13 ven.> | C   |   |
 
 ** Suite
 
@@ -586,15 +585,27 @@ un lien est ajouté.
    | Gobelins | Roadmap            | Validation par nos 2 mentors                                                              | <2018-04-06 ven.> | M   |  1 |
    | Gobelins | Personas           | Validation avec nos 2 mentors                                                             | <2018-04-06 ven.> | U   |  1 |
    | Gobelins |                    | Validation roadmap + personas avec le directeur du MN annulée                             | <2018-04-06 ven.> | MU  | -1 |
+   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Classification des objets en cours, vision utilisateur                                    | <2018-04-14 sam.> | DU  |  1 |
+   | Gobelins |                    | Wireframes MVP en cours                                                                   | <2018-04-14 sam.> | P   |  1 |
+   | Gobelins |                    | Formation captation de l’attention + design éthique                                       | <2018-04-14 sam.> | A   |  1 |
+   | Gobelins |                    | Contact « DA » du MN (droits typos)                                                       | <2018-04-14 sam.> | M   |  1 |
+   | Gobelins |                    | Rencontre Google art et culture, pour partenariat                                         | <2018-04-14 sam.> | M   |  1 |
+   | Gobelins |                    | Quantification de l’effort logistique pour la campagne photographique                     | <2018-04-14 sam.> | M   |    |
+   | Gobelins |                    | Poursuite du remodelage des données SCOM pour l’API Rest                                  | <2018-04-14 sam.> | P   |    |
+   | Gobelins |                    | RDV avec le directeur du MN pour prise de décision annulé                                 | <2018-04-14 sam.> | M   | -1 |
+   | Gobelins |                    | Contact juridique Étalab pour le droit des images                                         | <2018-04-14 sam.> | D   |    |
+   | Gobelins |                    | On a un téléphone dans nos bureaux !                                                      | <2018-04-14 sam.> | I   |    |
 
 ** Suite
 
-- [M] Explorations pour l’augmentation du fonds photographique
-- [A] Workshop Ontologies avec Bastien
-- [M] Répartition des tâches transversales avec notre mentor
-- [A] Conférence Design Éthique (Laurie)
-- [P] {Wireframes} première ébauche
-- [U] {Classification} Finalisation
+- [M] Plan d’attaque pour avoir la validation (ou non) du Directeur
+- [P] Wireframes MVP
+- [DU] Classification des objets | vision utilisateur
+- [M] Sélection des fonds à numériser avec l’inspectrice
+- [A] Rencontre CNAP + Collecta
+- [M] Lancer les demandes de modification de la BDD Nimes (ajout de la référence d’inventaire)
+- [P] Finitions sur l’API Rest
 
 * Hopkins
 
