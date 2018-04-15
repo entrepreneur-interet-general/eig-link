@@ -1204,14 +1204,6 @@ un lien est ajouté.
 - [CD] Visulatisation et analyse de l'évolution temporelle des listes de détection
 - [D] Littérature: Weak supervision
 - [D] Définition d'une distance appropriée (DTW) et essai de 1-NN et SVM avec noyau gaussien (peu d'espoir seuls mais peut-être en ensemble) Semaine à venir:
-- [U] Rencontre de 2 chargés de mission pour l'étude de nos personas
-- [AP] Wordflow owncloud
-- [A] Evaluation de l'outil kanboard pour motoriser le workflow de signalements et visites d'entreprises et son intéraction avec un frontend.
-- [U] Rencontre de 2 statisticiennes de l'Urssaf (Franche Comté et Bourgogne) pour continuer le travail de notre compréhension de leurs bases et de leur compréhension de nos calculs.
-- [DP] Analyse en vue de stocker les résultats du feature engineering en mode versionning.
-- [D] Intégration d'un nouveau fichier urssaf pour la liaison entre leurs comptes et nos sirets
-- [P] Tentative de production d'un nouveau fichier de prédiction sur la base mongodb
-- [D] Intégration d'un référentiel entreprise dans la base mongodb pour enrichir les fichiers de résultat
 
 * SocialConnect
 
