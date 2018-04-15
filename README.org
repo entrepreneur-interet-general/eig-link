@@ -24,7 +24,7 @@
 
 - [[file:accompagnement.org][Le programme d'accompagnement]]
 - [[file:eig-off.org][Les événements EIG off]]
-- [[file:communication.org][Les canaux de communication]]
+- [[file:animation.org][Animation et communication]]
 - [[https://github.com/entrepreneur-interet-general/tutos-2018][Des tutoriels utiles]]
 - [[file:boite-a-outils.org][La boîte à outils]]
 - [[file:bootcamp.org][Les informations sur et pour le bootcamp]]
