@@ -71,6 +71,12 @@ https://github.com/etalab/template.data.gouv.fr
 - https://mybinder.org : Turn a GitHub repo into a collection of interactive notebooks
 - https://books.trinket.io/thinkjava/
 
+* Frontend
+
+** Ressources pour apprendre
+
+- [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]
+
 * Guide d’écriture de code
 
 - https://github.com/alphagov/styleguides/
