@@ -55,6 +55,10 @@
 
  - Python : https://github.com/faif/python-patterns
 
+** Éléments de design de data.gouv.fr
+
+https://github.com/etalab/template.data.gouv.fr
+
 * Deep learning
 
 - https://mxnet.incubator.apache.org/
