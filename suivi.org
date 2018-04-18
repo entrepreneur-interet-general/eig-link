@@ -1078,11 +1078,11 @@ un lien est ajouté.
    | Prévisecours |            | Travail sur le tuto de MatchId et amélioration du tutorial                                                              | <2018-04-06 ven.> | A   |   |
    | Prévisecours |            | Visite au SSMSI pour récupérer des données à corréler avec nos modèles (à la semaine par commune)                       | <2018-04-06 ven.> | D   |   |
    |--------------+------------+-------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | Prévisecours | Opendata   | Automatisation des projets de récupération des données ouvertes                                                         | <2018-04-18 mer.> | P   | 1 |
-   | Prévisecours | Opendata   | Nettoyage des projets de récupération des données ouvertes                                                              | <2018-04-18 mer.> | P   | 1 |
-   | Prévisecours | Opendata   | Documentation des projets de récupération des données ouvertes                                                          | <2018-04-18 mer.> | P   | 1 |
-   | Prévisecours | Prédiction | Farming de modèles                                                                                                      | <2018-04-18 mer.> | P   | 1 |
-   | Prévisecours | AdminSys   | Réglages de l'instance de travail                                                                                       | <2018-04-18 mer.> | P   | 1 |
+   | Prévisecours | Opendata   | Automatisation des projets de récupération des données ouvertes                                                         | <2018-04-13 ven.> | P   | 1 |
+   | Prévisecours | Opendata   | Nettoyage des projets de récupération des données ouvertes                                                              | <2018-04-13 ven.> | P   | 1 |
+   | Prévisecours | Opendata   | Documentation des projets de récupération des données ouvertes                                                          | <2018-04-13 ven.> | P   | 1 |
+   | Prévisecours | Prédiction | Farming de modèles                                                                                                      | <2018-04-13 ven.> | P   | 1 |
+   | Prévisecours | AdminSys   | Réglages de l'instance de travail                                                                                       | <2018-04-13 ven.> | P   | 1 |
 
 ** Suite
 
