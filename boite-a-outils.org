@@ -14,6 +14,10 @@
 - http://www.hackertyper.com
 - https://github.com/zricethezav/gitleaks
 
+* Cartographie
+
+- http://mapshaper.org
+
 * Codes de conduite
 
 - https://www.contributor-covenant.org
