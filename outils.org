@@ -1,4 +1,4 @@
-#+title: Boîte à outils
+#+title: Outils
 
 * Agents conversationnels
 
@@ -27,6 +27,10 @@
 * Databases
 
 - https://github.com/Kinto/kinto
+
+* Deep learning
+
+- https://mxnet.incubator.apache.org/
 
 * Déploiement rapide d’applications
 
@@ -65,10 +69,6 @@
 ** Éléments de design de data.gouv.fr
 
 https://github.com/etalab/template.data.gouv.fr
-
-* Deep learning
-
-- https://mxnet.incubator.apache.org/
 
 * Exploration (REPL) de langages de programmation
 
@@ -173,6 +173,11 @@ https://github.com/etalab/template.data.gouv.fr
 - https://circleci.com
 - https://travis-ci.org
 - https://codeship.com
+
+* Tunnels et Cie
+
+- https://github.com/sshuttle/sshuttle
+- https://ngrok.com/
 
 * Vidéo et partage d’écran
 
