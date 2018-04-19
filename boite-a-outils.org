@@ -17,6 +17,8 @@
 * Cartographie
 
 - http://mapshaper.org
+- http://project-osrm.org : Modern C++ routing engine for shortest
+  paths in road networks
 
 * Codes de conduite
 
@@ -42,12 +44,13 @@
 - Gestion cookies/données personnelles :
   https://opt-out.ferank.eu/en/install/
 
-** CSS frameworks
+** Frameworks
 
 - https://bulma.io
 - https://framework7.io
 - https://material.io
 - http://getbootstrap.com
+- https://framework7.io
 
 ** Éco-conception web
 
@@ -97,7 +100,6 @@ https://github.com/etalab/template.data.gouv.fr
 * Méthodes de projet
 
 - Agile : https://www.gov.uk/service-manual/agile-delivery
-- TDD : https://fr.wikipedia.org/wiki/Test_driven_development
 
 * Monitoring
 
@@ -127,26 +129,11 @@ https://github.com/etalab/template.data.gouv.fr
 | [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
 | [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
 
-* Outils de prototypage/test web
+* Outils de prototypage web
 
 - [[https://www.sketchapp.com/][Sketch]]
-- [[https://docs.seleniumhq.org/][Selenium]]
-- https://framework7.io
-- https://github.com/stevenvachon/broken-link-checker
-
-* Outils géo
-
-- http://project-osrm.org : Modern C++ routing engine for shortest
-  paths in road networks
 
 * Outils pour de la revue de code
-* Outils pour des tests d’intégration
-
-- https://jenkins.io
-- https://circleci.com
-- https://travis-ci.org
-- https://codeship.com
-
 * Programmation à plusieurs mains (pair programming)
 
 - [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
@@ -165,6 +152,26 @@ https://github.com/etalab/template.data.gouv.fr
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
 - https://jsfiddle.net
 - https://codepen.io
+
+* Test
+
+** Méthodes
+
+- TDD : https://fr.wikipedia.org/wiki/Test_driven_development
+
+** Test web
+
+- Test web : [[https://docs.seleniumhq.org/][Selenium]]
+- https://github.com/stevenvachon/broken-link-checker
+- https://www.turbodrive.net/browsers
+- https://www.keycdn.com/blog/browser-compatibility-testing-tools/
+
+** Tests d’intégration
+
+- https://jenkins.io
+- https://circleci.com
+- https://travis-ci.org
+- https://codeship.com
 
 * Vidéo et partage d’écran
 
