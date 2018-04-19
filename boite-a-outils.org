@@ -162,6 +162,7 @@ https://github.com/etalab/template.data.gouv.fr
 ** Test web
 
 - Test web : [[https://docs.seleniumhq.org/][Selenium]]
+- [[https://devexpress.github.io/testcafe/][testcafe]] : A node.js tool to automate end-to-end web testing 
 - https://github.com/stevenvachon/broken-link-checker
 - https://www.turbodrive.net/browsers
 - https://www.keycdn.com/blog/browser-compatibility-testing-tools/
