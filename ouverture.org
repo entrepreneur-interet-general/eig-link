@@ -73,15 +73,15 @@ libres sont la [[https://fr.wikipedia.org/wiki/Free_Software_Foundation][Free So
 
 ** Quelques exemples
 
- - Le cadriciel Bootstrap est publié sous licence MIT.
+ - Le cadriciel [[https://getbootstrap.com/][Bootstrap]] est publié sous licence MIT.
 
- - Le logiciel openssh est publié sous licence BSD.
+ - Le logiciel [[https://www.openssh.com/][openssh]] est publié sous licence BSD.
 
- - Le noyau Linux est publié sous GPLv2.
+ - Le noyau [[https://www.linux.org/][Linux]] est publié sous GPLv2.
 
- - Le serveur HTTP du projet Apache est publié sous licence Apache.
+ - Le serveur [[https://httpd.apache.org/][HTTP]] du projet Apache est publié sous licence Apache.
 
- - Les logiciels du projet GNU sont généralement publiés sous GPLv3+.
+ - Les logiciels du projet [[https://www.gnu.org/][GNU]] sont généralement publiés sous GPLv3+.
 
 * Choisir une licence libre pour vos codes sources
 
@@ -136,7 +136,9 @@ ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]]
 Étalab publie la liste des licences autorisées pour les codes sources
 de l’administration publique : http://www.data.gouv.fr/fr/licences
 
-Si votre licence
+Si la licence libre que vous souhaitez utiliser ne figure pas dans
+cette liste, vous pouvez écrire à =homologation.licence@data.gouv.fr=
+pour demander à faire homologuer la licence choisie.
 
 * Bien communiquer dans vos dépôts de code
 
