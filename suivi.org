@@ -102,70 +102,96 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi      | Livrable      | Tâche                                                                      | Fait le           | Cat | OK? |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV | POC           | Backend du POC                                                             | <2018-02-15 jeu.> | P   |     |
-   | b@liseNAV | Habiter Brest | Signature du bail                                                          | <2018-02-15 jeu.> | I   |     |
-   | b@liseNAV |               | Suivi d’un cours sur les bases                                             | <2018-02-15 jeu.> | A   |     |
-   | b@liseNAV |               | Import de données ALADIN                                                   | <2018-02-15 jeu.> | P   |     |
-   | b@liseNAV |               | Travail sur la roadmap                                                     | <2018-02-15 jeu.> | M   |     |
-   | b@liseNAV |               | Carto de l’environnement technique                                         | <2018-02-15 jeu.> | P   |     |
-   | b@liseNAV | Roadmap       | Travail sur un doc de synthèse                                             | <2018-02-15 jeu.> | M   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | On a la fibre à l’appart!                                                  | <2018-02-23 ven.> | I   |     |
-   | b@liseNAV |               | Document de synthèse du premier sprint                                     | <2018-02-23 ven.> | P   |     |
-   | b@liseNAV |               | Visite de la DAM à Saint-Malo                                              | <2018-02-23 ven.> | M   |     |
-   | b@liseNAV |               | Récupération d'un échantillon AIS                                          | <2018-02-23 ven.> | D   |     |
-   | b@liseNAV |               | Chargement et exploration de la base de données Aladin                     | <2018-02-23 ven.> | D   |     |
-   | b@liseNAV |               | Feuille de style S-52 pour affichage des cartes nautiques S-57             | <2018-02-23 ven.> | P   |     |
-   | b@liseNAV |               | Symboles SVG pour les cartes nautiques                                     | <2018-02-23 ven.> | P   |     |
-   | b@liseNAV |               | Découverte de Proxmox, et notamment la configuration d’une VM              | <2018-02-23 ven.> | A   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Brainshomstorming roadmap et techniques                                    | <2018-03-02 ven.> | P   |     |
-   | b@liseNAV |               | Analyse des attributs S-57                                                 | <2018-03-02 ven.> | D   |     |
-   | b@liseNAV |               | Mapping bases de données (Aladin - BDGS)                                   | <2018-03-02 ven.> | D   |     |
-   | b@liseNAV |               | Modèle de données S-201                                                    | <2018-03-02 ven.> | D   |     |
-   | b@liseNAV |               | Revue du démonstrateur Infoport                                            | <2018-03-02 ven.> | P   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Codage mapping Aladin -> S-57 -> S-201 en JS                               | <2018-03-09 ven.> | P   |     |
-   | b@liseNAV |               | Codage du modèle de donnée S-201 en C#                                     | <2018-03-09 ven.> | P   |     |
-   | b@liseNAV |               | Roadmap                                                                    | <2018-03-09 ven.> | M   |     |
-   | b@liseNAV |               | Insertion dans la "boucle" des contributeurs de la norme S-201             | <2018-03-09 ven.> | U   |     |
-   | b@liseNAV |               | Commencement d’un module JS S-57/GeoJson to S-201/GML3                     | <2018-03-09 ven.> | P   |     |
-   | b@liseNAV |               | RDV avec Christian Quest                                                   | <2018-03-09 ven.> | T   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Suite codage mapping Aladin -> JS Data Model                               | <2018-03-16 ven.> | P   |     |
-   | b@liseNAV |               | Planche de symboles cartes marines                                         | <2018-03-16 ven.> | P   |     |
-   | b@liseNAV |               | Rapport d'étonnement sur la gouvernance informatique @ Shom                | <2018-03-16 ven.> | T   |     |
-   | b@liseNAV |               | Driver S57 en C# (lecture fichiers S57 depuis env C# sans lib spécialisée) | <2018-03-16 ven.> | P   |     |
-   | b@liseNAV |               | Premières approches pour une carte interactive                             | <2018-03-16 ven.> | M   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Présentation des données Aladin chargées sur une carte web                 | <2018-03-23 ven.> | P   |     |
-   | b@liseNAV |               | Rapprochements entre données Aladin et base Shom                           | <2018-03-23 ven.> | DP  |     |
-   | b@liseNAV |               | Driver S-57 vers objets S-201                                              | <2018-03-23 ven.> | P   |     |
-   | b@liseNAV |               | Revue des mécanismes possibles de mise à jour de la S-201                  | <2018-03-23 ven.> | DU  |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Rapprochements entre données Aladin et base Shom                           | <2018-03-30 ven.> | DP  |     |
-   | b@liseNAV |               | Dictionnaire des méta-données S-57 JavaScript / CSV                        | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Données Aladin en GeoJson-S57 & CSV-S57                                    | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Présentation des données Aladin chargées sur une carte web                 | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Intégration des géométries de la précision de la localisation dans le m... | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Revues de codes                                                            | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Comparaison données Aladin avec Shom Iroise, production de rapports en KML | <2018-03-30 ven.> | P   |     |
-   | b@liseNAV |               | Présentation avancement BaliseNav à Yves Lefranc et Denis Creach           | <2018-03-30 ven.> | U   |     |
-   | b@liseNAV |               | S-57 Level 2 - 3 (Relations, Attributs)                                    | <2018-03-30 ven.> | A   |     |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV | Dam-Shom      | Rapprochements entre données Aladin et base Shom - Atlantique              | <2018-04-06 ven.> | P   |   1 |
-   | b@liseNAV | Front         | Mise en place d’une librairie SVG de symboles nautiques                    | <2018-04-06 ven.> | P   |   1 |
-   | b@liseNAV | Blog          | Définition d’une trame pour l’écriture d’articles Blog EIG                 | <2018-04-06 ven.> | C   |   1 |
-   | b@liseNAV | Shom          | Rencontres avec utilisateurs de batchs de traitement données carto         | <2018-04-06 ven.> | U   |   1 |
-   |-----------+---------------+----------------------------------------------------------------------------+-------------------+-----+-----|
-   | b@liseNAV |               | Définition des premiers posts pour le blog EIG                             | <2018-04-14 sam.> | C   |   1 |
-   | b@liseNAV |               | Journée Idéation avec la Dam. “Ouvrez vos données, les idées suivront”     | <2018-04-14 sam.> | T   |   1 |
-   | b@liseNAV |               | Ecriture du modèle S-201 via l’ORM Sequelize pour PostgreSQL/ PostGIS      | <2018-04-14 sam.> | D   |   1 |
-   | b@liseNAV |               | Premières tentatives de mapping de l’[[https://antoineaugusti.github.io/avurnav-api/][API]] vers la norme S-124               | <2018-04-14 sam.> | D   |  -1 |
-   | b@liseNAV |               | Comparaison Aladin - BDGS Manche + Atlantique                              | <2018-04-14 sam.> | D   |   1 |
-   | b@liseNAV |               | Revue d’avancement avec notre mentor                                       | <2018-04-14 sam.> | M   |   1 |
+   | Défi      | Livrable              | Tâche                                                                      | Fait le           | Cat | OK? |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV | POC                   | Backend du POC                                                             | <2018-02-15 jeu.> | P   |     |
+   | b@liseNAV | Habiter Brest         | Signature du bail                                                          | <2018-02-15 jeu.> | I   |     |
+   | b@liseNAV |                       | Suivi d’un cours sur les bases                                             | <2018-02-15 jeu.> | A   |     |
+   | b@liseNAV |                       | Import de données ALADIN                                                   | <2018-02-15 jeu.> | P   |     |
+   | b@liseNAV |                       | Travail sur la roadmap                                                     | <2018-02-15 jeu.> | M   |     |
+   | b@liseNAV |                       | Carto de l’environnement technique                                         | <2018-02-15 jeu.> | P   |     |
+   | b@liseNAV | Roadmap               | Travail sur un doc de synthèse                                             | <2018-02-15 jeu.> | M   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | On a la fibre à l’appart!                                                  | <2018-02-23 ven.> | I   |     |
+   | b@liseNAV |                       | Document de synthèse du premier sprint                                     | <2018-02-23 ven.> | P   |     |
+   | b@liseNAV |                       | Visite de la DAM à Saint-Malo                                              | <2018-02-23 ven.> | M   |     |
+   | b@liseNAV |                       | Récupération d'un échantillon AIS                                          | <2018-02-23 ven.> | D   |     |
+   | b@liseNAV |                       | Chargement et exploration de la base de données Aladin                     | <2018-02-23 ven.> | D   |     |
+   | b@liseNAV |                       | Feuille de style S-52 pour affichage des cartes nautiques S-57             | <2018-02-23 ven.> | P   |     |
+   | b@liseNAV |                       | Symboles SVG pour les cartes nautiques                                     | <2018-02-23 ven.> | P   |     |
+   | b@liseNAV |                       | Découverte de Proxmox, et notamment la configuration d’une VM              | <2018-02-23 ven.> | A   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Brainshomstorming roadmap et techniques                                    | <2018-03-02 ven.> | P   |     |
+   | b@liseNAV |                       | Analyse des attributs S-57                                                 | <2018-03-02 ven.> | D   |     |
+   | b@liseNAV |                       | Mapping bases de données (Aladin - BDGS)                                   | <2018-03-02 ven.> | D   |     |
+   | b@liseNAV |                       | Modèle de données S-201                                                    | <2018-03-02 ven.> | D   |     |
+   | b@liseNAV |                       | Revue du démonstrateur Infoport                                            | <2018-03-02 ven.> | P   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Codage mapping Aladin -> S-57 -> S-201 en JS                               | <2018-03-09 ven.> | P   |     |
+   | b@liseNAV |                       | Codage du modèle de donnée S-201 en C#                                     | <2018-03-09 ven.> | P   |     |
+   | b@liseNAV |                       | Roadmap                                                                    | <2018-03-09 ven.> | M   |     |
+   | b@liseNAV |                       | Insertion dans la "boucle" des contributeurs de la norme S-201             | <2018-03-09 ven.> | U   |     |
+   | b@liseNAV |                       | Commencement d’un module JS S-57/GeoJson to S-201/GML3                     | <2018-03-09 ven.> | P   |     |
+   | b@liseNAV |                       | RDV avec Christian Quest                                                   | <2018-03-09 ven.> | T   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Suite codage mapping Aladin -> JS Data Model                               | <2018-03-16 ven.> | P   |     |
+   | b@liseNAV |                       | Planche de symboles cartes marines                                         | <2018-03-16 ven.> | P   |     |
+   | b@liseNAV |                       | Rapport d'étonnement sur la gouvernance informatique @ Shom                | <2018-03-16 ven.> | T   |     |
+   | b@liseNAV |                       | Driver S57 en C# (lecture fichiers S57 depuis env C# sans lib spécialisée) | <2018-03-16 ven.> | P   |     |
+   | b@liseNAV |                       | Premières approches pour une carte interactive                             | <2018-03-16 ven.> | M   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Présentation des données Aladin chargées sur une carte web                 | <2018-03-23 ven.> | P   |     |
+   | b@liseNAV |                       | Rapprochements entre données Aladin et base Shom                           | <2018-03-23 ven.> | DP  |     |
+   | b@liseNAV |                       | Driver S-57 vers objets S-201                                              | <2018-03-23 ven.> | P   |     |
+   | b@liseNAV |                       | Revue des mécanismes possibles de mise à jour de la S-201                  | <2018-03-23 ven.> | DU  |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Rapprochements entre données Aladin et base Shom                           | <2018-03-30 ven.> | DP  |     |
+   | b@liseNAV |                       | Dictionnaire des méta-données S-57 JavaScript / CSV                        | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Données Aladin en GeoJson-S57 & CSV-S57                                    | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Présentation des données Aladin chargées sur une carte web                 | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Intégration des géométries de la précision de la localisation dans le m... | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Revues de codes                                                            | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Comparaison données Aladin avec Shom Iroise, production de rapports en KML | <2018-03-30 ven.> | P   |     |
+   | b@liseNAV |                       | Présentation avancement BaliseNav à Yves Lefranc et Denis Creach           | <2018-03-30 ven.> | U   |     |
+   | b@liseNAV |                       | S-57 Level 2 - 3 (Relations, Attributs)                                    | <2018-03-30 ven.> | A   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV | Dam-Shom              | Rapprochements entre données Aladin et base Shom - Atlantique              | <2018-04-06 ven.> | P   |   1 |
+   | b@liseNAV | Front                 | Mise en place d’une librairie SVG de symboles nautiques                    | <2018-04-06 ven.> | P   |   1 |
+   | b@liseNAV | Blog                  | Définition d’une trame pour l’écriture d’articles Blog EIG                 | <2018-04-06 ven.> | C   |   1 |
+   | b@liseNAV | Shom                  | Rencontres avec utilisateurs de batchs de traitement données carto         | <2018-04-06 ven.> | U   |   1 |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Définition des premiers posts pour le blog EIG                             | <2018-04-14 sam.> | C   |   1 |
+   | b@liseNAV |                       | Journée Idéation avec la Dam. “Ouvrez vos données, les idées suivront”     | <2018-04-14 sam.> | T   |   1 |
+   | b@liseNAV |                       | Ecriture du modèle S-201 via l’ORM Sequelize pour PostgreSQL/ PostGIS      | <2018-04-14 sam.> | D   |   1 |
+   | b@liseNAV |                       | Premières tentatives de mapping de l’[[https://antoineaugusti.github.io/avurnav-api/][API]] vers la norme S-124               | <2018-04-14 sam.> | D   |  -1 |
+   | b@liseNAV |                       | Comparaison Aladin - BDGS Manche + Atlantique                              | <2018-04-14 sam.> | D   |   1 |
+   | b@liseNAV |                       | Revue d’avancement avec notre mentor                                       | <2018-04-14 sam.> | M   |   1 |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV | Front                 | Librairie SVG de symboles nautiques, gestion des styles CSS des SVGs       | <2018-04-20 ven.> | P   |  -1 |
+   | b@liseNAV | Dam-Shom              | Documentation des requêtes SQL utilisées pour le rapprochement entre l...  | <2018-04-20 ven.> | T   |   1 |
+   | b@liseNAV | Dam-Shom              | Revue des dernières propositions pour norme S-124 (suite)                  | <2018-04-20 ven.> | P   |  -1 |
+   | b@liseNAV | Code                  | Segmentation du code pour publication Git privé                            | <2018-04-20 ven.> | P   |   1 |
+   | b@liseNAV | Humanitaire           | Participation à un mapathon de cartographie Nord Madagascar sur OpenSt...  | <2018-04-20 ven.> | D   |   1 |
+   | b@liseNAV | Communication interne | Publication du code sur git privé                                          | <2018-04-20 ven.> | C   |     |
+   | b@liseNAV | Communication interne | Présentation des objectifs et stratégie technique B@liseNAV en vu des p... | <2018-04-20 ven.> | C   |     |
+   | b@liseNAV | Open-Source           | Accord de notre mentor pour créer un compte Github Shom/BaliseNAV à l’...  | <2018-04-20 ven.> | CDP |   1 |
+   | b@liseNAV | Données               | Récupération de fichiers décrivant l’emprise géographique des Instruct...  | <2018-04-20 ven.> | D   |   1 |
+   | b@liseNAV | Communicat...         | Bouclage du calendrier mai 2018 en fonction des congés, grèves, télétra... | <2018-04-20 ven.> | C   |     |
+   | b@liseNAV | Brainstorming         | Préparation d’un atelier de brainstorming “Le web et le Shom”              | <2018-04-20 ven.> | T   |     |
+
+** Suite
+
+- [P] {Front} Librairie SVG de symboles nautiques, gestion des styles
+  CSS des SVGs
+
+- [C] {Communication Interne} Réunion avec notre nouveau référent
+  technique pour les sprints concernant le Service Nautique Interactif
+
+- [CP] {Shom-OHI} Revue des dernières propositions pour norme S-124
+  (avec le chairman)
+
+- [CP] {Code} Identification et répartition des prochaines tâches à
+  faire concernant la partie JavaScript du Service Nautique Interactif
 
 ** Suite
 
