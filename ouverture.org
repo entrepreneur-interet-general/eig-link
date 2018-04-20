@@ -165,11 +165,14 @@ pour demander à faire homologuer la licence choisie.
 
 ** Allez droit au but dans votre fichier README
 
-- [ ] l’auteur © [Votre administration] [Vous]
-- [ ] une façon de tester le logiciel
-- [ ] un point de contact avec le mainteneur
-- [ ] la licence
-- [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
+- [ ] L’auteur © [Votre administration] [Vous]
+- [ ] Une façon de tester le logiciel
+- [ ] Un point de contact avec le mainteneur
+- [ ] Une indication des contributions acceptées
+- [ ] La licence libre utilisée
+- [ ] Pour EIG : une mention finale "Projet développé dans le cadre du
+  programme « Entrepreneur d’intérêt général »" avec un lien vers le
+  [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
 
 ** Guider les contributeurs sur Github
 
