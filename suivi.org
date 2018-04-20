@@ -371,16 +371,27 @@ un lien est ajouté.
    | DataESR | Données ESR               | Preprocessing sur les papiers de l'ISTEX                                                              | <2018-04-14 sam.> | D   |
    | DataESR | API                       | Ajout de nouveaux models / endpoints pour l’API                                                       | <2018-04-14 sam.> | P   |
    | DataESR | DSI                       | Monter le dossier de demande d’hébergement / ressources pour DSI                                      | <2018-04-14 sam.> | C   |
+   |---------+---------------------------+-------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | DataESR | Front app - Etablissement | Intégration des évolutions temporelles des établissements                                             | <2018-04-20 ven.> | P   |
+   | DataESR | Front app - Etablissement | Homogénéisation du design de la page                                                                  | <2018-04-20 ven.> | P   |
+   | DataESR | Front app - Admin         | Administration des tables de categories (liens, code, évolutions, types)                              | <2018-04-20 ven.> | P   |
+   | DataESR | API                       | Ajout de endpoints                                                                                    | <2018-04-20 ven.> | P   |
+   | DataESR | API                       | Modification du modèle de la DB                                                                       | <2018-04-20 ven.> | P   |
+   | DataESR |                           | Réunion interne sur la 2e brique de l’app :  Les laboratoires                                         | <2018-04-20 ven.> | C   |
+   | DataESR | Modèle                    | Analyse et publication d'un premier modèle pour classer 4 classes basé sur la nomenclature SCOPUS     | <2018-04-20 ven.> | P   |
+   | DataESR | Modèle                    | Test de Fasttext (plus rapide à sortir un modèle)                                                     | <2018-04-20 ven.> | P   |
 
 ** Suite
 
-- [P] {Front app - Etablissement} Intégration des rattachements à d'autres établissement et des typologies
-- [P] {Front app - Admin} Administration des tables de categories (liens, code, rattachement,...)
-- [D] {Données ESR} Extraire une nomenclature pour essayer une première fois de la classification sur les papiers de recherches avec une nomenclature limitée
-- [P] {Modèle} Test de ce modèle sur cette nomenclature
-- [P] {API} Normaliser les erreur sur l’API
-- [P] {API} vérifier le test coverage
-- [P] commencer le micro service de récupération de data depuis le BCE
+- [P] {Front app - Etablissement} Intégration des rattachements, des types d'établissements et dernières finalisations de la page
+- [P] {Front app - Search Page} Mettre en place la pagination côté front
+- [D] {Données wikipédia} Extension à plusieurs classes basées sur des catégories wikipédia
+- [P] {API} Normaliser les erreurs
+- [P] {data} Remplir la DB avec la BCE
+- [P] {test} Vérifier le test coverage
+- [C] Demoday interne !
+- [P] {Modèle} Analyse des résultats des modèles de DL (qui prennent leur temps)
+- [P] {Modèle} Continuer à essayer fasttext sur plus de classes
 
 * EIG Node
 
