@@ -133,8 +133,8 @@ ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]]
 
 ** Les licences autorisées pour l’administration publique
 
-Étalab publie la liste des licences autorisées pour les codes sources
-de l’administration publique : http://www.data.gouv.fr/fr/licences
+Étalab publie [[http://www.data.gouv.fr/fr/licences][la liste des licences autorisées]] pour les codes sources
+de l’administration publique.
 
 Si la licence libre que vous souhaitez utiliser ne figure pas dans
 cette liste, vous pouvez écrire à =homologation.licence@data.gouv.fr=
