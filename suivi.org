@@ -298,11 +298,19 @@ un lien est ajouté.
    | CoachÉlève  | Gouvernance des données        | Journée de shadowing pour la création d’outils de gouvernance                                                                                                              | <2018-04-14 sam.> | TC  | 1 |
    | CoachÉlève  | QuickWin                       | Organisation d’une semaine de collaboration avec le CNED pour améliorer leur chatbot D’COL                                                                                 | <2018-04-14 sam.> | MS  | 1 |
    | CoachÉlève  | Centralisation des données     | Rencontre les membres du LORIA sur les protocoles d’interopérabilités                                                                                                      | <2018-04-14 sam.> | A   | 1 |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlève  |                                | Rencontre avec Educlever pour faire une convention d'échange de données                                                                                                    | <2018-04-20 ven.> | C   | 1 |
+   | CoachÉlève  |                                | Discussion avec Axel Jean sur l'appel d'offre du MEN pour les "banques de ressources 2.0"                                                                                  | <2018-04-20 ven.> | C   |   |
+   | CoachÉlève  |                                | D Définition d'un quick win data avec DNE B2.2 (Bruno Panaget)                                                                                                             | <2018-04-20 ven.> | M   |   |
+   | CoachÉlève  |                                | Installation de Learrnig Locker (LRS xAPI)                                                                                                                                 | <2018-04-20 ven.> | I   |   |
+   | CoachÉlève  |                                | Rencontre avec les membres d'OLPC France pour discuter de Sugarizer                                                                                                        | <2018-04-20 ven.> | C   |  1 |
+   | CoachÉlève  |                                | Étude de faisabilité d'x-apisation de Anki (applicage de Spaced Repetition Learning)                                                                                       | <2018-04-20 ven.> | Q   |   |
 
 ** Suite
 
-- [P] :) {Coach'Elève} Prise en main du RasBerry Pi et implémentation d’une brique xAPI
-- [P] :) {BDD Centrale} Rédaction de convention d’échange de données
+- Envoie et discussion des mockup sketch de redesign du site DOMEN (cartographie des données du MEN)
+- Réunion Fabio/Bruno Panaget pour discuter de CoachElève en interne
+- Définition d'un profil xAPI pour Anki
 
 * DataESR
 
