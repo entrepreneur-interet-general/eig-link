@@ -140,11 +140,22 @@ Si la licence libre que vous souhaitez utiliser ne figure pas dans
 cette liste, vous pouvez écrire à =homologation.licence@data.gouv.fr=
 pour demander à faire homologuer la licence choisie.
 
-* Bien communiquer dans vos dépôts de code
+* Bien communiquer autour de votre code
 
-Une liste de contrôle pour les règles à respecter dans vos dépôts :
+** Soyez clair sur la maintenance
 
-- [ ] Un bon *nom* (éviter les noms génériques: "app", "donnees", etc.)
+- [ ] Qui est mainteneur (le nom d’une personne et une adresse email).
+
+- [ ] Si la maintenance est /passive/ (vous répondez aux questions et
+  aux demandes d’amélioration mais vous ne travaillez pas activement
+  sur le code) ou /active/ (vous travaillez activement sur le code).
+
+** Trouvez un nom adéquat pour votre logiciel
+
+Éviter les noms génériques: "app", "donnees", etc.
+
+** Ajoutez les informations essentielles à vos dépôts de code 
+
 - [ ] Une description claire en anglais
 - [ ] Des tags (au moins #EIG #VOTRE_DEFI)
 - [ ] Un lien vers un site web s’il y en a un
@@ -152,9 +163,7 @@ Une liste de contrôle pour les règles à respecter dans vos dépôts :
 - [ ] Un fichier LICENSE avec le texte de la licence
 - [ ] Un fichier CONTRIBUTING en anglais qui explique comment contribuer
 
-** Votre fichier README
-
-Le fichier README contient :
+** Allez droit au but dans votre fichier README
 
 - [ ] l’auteur © [Votre administration] [Vous]
 - [ ] une façon de tester le logiciel
@@ -162,21 +171,20 @@ Le fichier README contient :
 - [ ] la licence
 - [ ] Une mention finale "Projet développé dans le cadre du programme « Entrepreneur d’intérêt général »" avec un lien vers le [[https://entrepreneur-interet-general.etalab.gouv.fr/][site du programme]].
 
-** Guider les contributeurs avec =ISSUE_TEMPLATE= et =PULL_REQUEST_TEMPLATE=
+** Guider les contributeurs sur Github
 
 Sur Github, vous pouvez ajouter un fichier =ISSUE_TEMPLATE= dont le
-contenu sera inséré dans les nouveaux tickets ("issues") ouverts,
-et =PULL_REQUEST_TEMPLATE= pour les /pull requests/.
+contenu sera inséré dans les nouveaux tickets ("issues") ouverts, et
+=PULL_REQUEST_TEMPLATE= pour les /pull requests/.
 
 Vous trouverez un exemple pour ISSUES_TEMPLATE [[https://www.talater.com/open-source-templates/#/page/98][ici]] et de la
 documentation [[https://help.github.com/articles/helping-people-contribute-to-your-project/][ici]].
 
-* Rédiger une documentation utile
-
-Voici une liste de contrôle pour la qualité de votre documentation :
+** Rédigez une documentation utile
 
 - [ ] Avez-vous une documentation ?
 - [ ] Votre documentation est-elle rédigée en anglais ?
+- [ ] Avez-vous des spécifications ou un cahier des charges ?
 - [ ] Avez-vous une documentation orientée utilisateur ?
 - [ ] Avez-vous une documentation orientée développeur ?
 - [ ] Votre documentation explique-t-elle comment contribuer ?
@@ -197,7 +205,7 @@ Voici une liste de contrôle pour la qualité de votre documentation :
 * Impliquer des utilisateurs et contributeurs
 
 Il ne suffit pas de publier un logiciel sous licence libre pour en
-faire un « bien commun » : il faut encore animer son développement et
+faire un « bien commun » : il faut aussi animer son développement et
 mobiliser une communauté de contributeurs.
 
 ** Des degrés d’ouverture des projets libres
@@ -218,7 +226,7 @@ de projets libres :
 |     7 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   |               |
 |     8 | Oui    | Oui           | Oui         | Oui        | Oui    | Oui         | Oui       | Oui          | Oui   | Oui           |
 
-- Publié :: votre logiciel est disponible quelque part 
+- Publié :: votre logiciel est disponible quelque part
 - Licence libre :: la licence libre de votre logiciel est clairement indiquée
 - Maintenance :: on sait si la maintenance est active et qui la gère
 - Versioning :: le code est publié via un système de gestion de version (git)
@@ -236,50 +244,67 @@ collaboration respectueuse et constructive au sein de votre projet.
 
 Voir le https://www.contributor-covenant.org pour un exemple.
 
-* Quelles motivations pour l’ouverture du code ?
+* Pourquoi ouvrir son code ?
 
-Voici quelques raisons de faire de son logiciel un logiciel libre :
+- Pour *respecter la loi* pour une République Numérique.
 
-- Le *respect de la loi* pour une République Numérique.
+- Pour être *transparence* : par exemple, si le code de votre
+  administration met en oeuvre un algorithme au sujet duquel le
+  citoyen est en droit de demander des explications.
 
-- La volonté de contribuer à la construction d’un bien commu
+- Pour *contribuer aux biens communs numériques* : tous les systèmes
+  d’information reposent directement ou indirectement sur des
+  logiciels libres : en ouvrant son code, l’administration participe à
+  cette mise en commun du code.
 
-- Le besoin d’atteindre plus facilement les utilisateurs.
+- Pour *trouver des testeurs* : en ouvrant votre code et en le rendant
+  facile à installer, vous multipliez les possibilités de le tester.
 
-- Le désir d’encourager les contributions extérieures pour :
-  - tester la fiabilité du logiciel ;
-  - tester la sécurité du logiciel ;
-  - ouvrir la feuille de route.
+- Pour *impliquer des développeurs extérieurs* : si vous allez au-delà
+  de la simple mise à disposition du code sous licence libre et vous
+  mobilisez pour construire une communauté, vous pourrez bénéficier de
+  contributions extérieures.
 
-- L’envie d’impliquer des développeurs extérieurs.
-
-- L’envie de prendre une position stratégique dans un écosystème.
-
-- L’envie d’apprendre en avançant de façon transparente.
+- Pour *améliorer votre code* : coder « in the open » est une façon de
+  se contraindre à adopter des bonnes pratiques qui touchent à la fois
+  la technique (structurer son code, le tester) et la communication
+  (écrire une documentation, répondre aux questions des utilisateurs,
+  etc.)
 
 * Les réticences à surmonter pour l’ouverture
-
-- « Nous ne pourrons plus exploiter commercialement notre code » ::
-     vous ne pourrez pas faire reposer votre modèle de financement sur
-     la vente d’un logiciel fermé mais il existe de nombreux modèles
-     économiques autour du logiciel libre.
 
 - « Nous allons nous faire pirater notre serveur » :: Publier le code
      source d’une application web va permettre à d’autres de la tester
      et de faire remonter les éventuels problèmes de sécurité.
 
-- « Nous allons exposer des problèmes de sécurité » :: Oui, cela
-     permet de mieux les corriger.
-
 - « Nous allons montrer du code sale » :: Oui.  Cela vous incitera à
      le nettoyer.
 
-- « Nous ne pourrons plus breveter notre logiciel » :: Il n’est pas
-     possible de breveter des logiciels en Europe.
+- « Ouvrir le code va nous donner plus de travail » :: Non si
+     l’ouverture correspond au « degré zéro » de l’ouverture, à savoir
+     la simple mise à disposition sous licence libre.  Oui si votre
+     stratégie d’ouverture implique un degré supplémentaire, avec une
+     maintenance active.
+
+- « Nous allons exposer des problèmes de sécurité » :: Oui, cela
+     permet de mieux les corriger.
+
+- « Notre code est inutile sans certains paramètres » :: Dans ce cas,
+     les utilisateurs pourront toujours vérifier que votre code fait
+     bien ce qu’il est supposer faire, avec ou sans la connaissance
+     des paramètres.
 
 - « Nous allons exposer des données confidentielles » :: Au moment de
      publier le code source de votre application, veillez à ne pas y
      laisser traîner de mots de passe ou de clefs secrètes.
+
+- « Nous ne pourrons plus breveter notre logiciel » :: Il n’est pas
+     possible de breveter des logiciels en Europe.
+
+- « Nous ne pourrons plus exploiter commercialement notre code » ::
+     Vous ne pourrez pas faire reposer votre modèle de financement sur
+     la vente d’un logiciel fermé mais il existe de nombreux modèles
+     économiques autour du logiciel libre.
 
 Les réticences les plus fréquentes portent sur les problèmes de
 sécurité et les problèmes d’exploitation commerciale.
