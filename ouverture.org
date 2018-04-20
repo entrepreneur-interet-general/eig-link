@@ -342,13 +342,13 @@ sécurité et les problèmes d’exploitation commerciale.
 
  Voici un tableau des « guides de style » pour différents langages :
 
- | Langage    | Coding style                                    |
- |------------+-------------------------------------------------|
- | Python     | https://www.python.org/dev/peps/pep-0008/       |
- | Clojure    | https://github.com/bbatsov/clojure-style-guide  |
- | Ruby       | https://github.com/bbatsov/ruby-style-guide     |
- | Javascript | Utiliser l'outil [ESLint](https://eslint.org/)  |
- | PHP        | https://www.php-fig.org/psr/psr-2/              |
- | R          | https://google.github.io/styleguide/Rguide.xml  |
- | Go         | https://golang.org/doc/code.html                |
+ | Langage    | Coding style                                   |
+ |------------+------------------------------------------------|
+ | Python     | https://www.python.org/dev/peps/pep-0008/      |
+ | Clojure    | https://github.com/bbatsov/clojure-style-guide |
+ | Ruby       | https://github.com/bbatsov/ruby-style-guide    |
+ | Javascript | https://eslint.org                             |
+ | PHP        | https://www.php-fig.org/psr/psr-2/             |
+ | R          | https://google.github.io/styleguide/Rguide.xml |
+ | Go         | https://golang.org/doc/code.html               |
 
