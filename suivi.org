@@ -791,15 +791,21 @@ un lien est ajouté.
    | Hopkins | Matching/Graph explorer | Paralléliser le matching avec pandas => temps/2                                         | <2018-04-14 sam.> | P   |
    | Hopkins | Matching/Graph explorer | Nouveaux collecteurs                                                                    | <2018-04-14 sam.> | P   |
    | Hopkins | Matching/Graph explorer | Se plonger dans javascript/vue.Js                                                       | <2018-04-14 sam.> | A   |
+   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Fin de la mise à jour des collecteurs                                                   | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Matching de startrac avec cosi_1 (10h)                                                  | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Premier test de l'interface de validation de MatchID                                    | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Intégration d’un nouveau dataset à GraphExplorer                                        | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Installation de matchID sur VM 64Go                                                     | <2018-04-20 ven.> | I   |
+   | Hopkins |                         | Tutos Sketch et production de maquettes d'une v1.0 de GraphExplorer                     | <2018-04-20 ven.> | AP  |
 
 ** Suite
 
-- [P] {Classification} Finir code Tensorflow et lancer premières expériences
-- [F] {Classification} Fly to Canada
-- [I] {Matching/Graph explorer} Installation de matchID sans Docker sur le serveur ElasticSearch pour avoir l'app de validation (si yum finit par fonctionner...)
-- [P] {Matching/Graph explorer} Intégration des nouveaux jeux de données demandés par les utilisateurs
-- [P] {Matching/Graph explorer} explorer matching avec le front matchid
-- [A] {Matching/Graph explorer} continuer apprentissage web app => coder une petite feature
+- [P] Evaluer matching startrac avec l'interface de validation de MatchID
+- [P] Améliorer la qualité du matching (inversion nom prénom, fréquence nom/prénom, score plus précis)
+- [P] Finaliser maquettes Sketch
+- [P] Intégration du nouveau design avec fonctionnalités de recherche
+- [P] Rapprochement des données de GraphExplorer avec une autre base
 
 * Lab Santé
 
