@@ -48,6 +48,8 @@
 - Gestion cookies/données personnelles :
   https://opt-out.ferank.eu/en/install/
 
+- https://www.inria.fr/actualite/agenda/reprise-du-mooc-sur-l-accessibilite-numerique
+
 ** Frameworks
 
 - https://bulma.io
