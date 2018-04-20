@@ -657,16 +657,25 @@ un lien est ajouté.
    | Gobelins |                    | RDV avec le directeur du MN pour prise de décision annulé                                 | <2018-04-14 sam.> | M   | -1 |
    | Gobelins |                    | Contact juridique Étalab pour le droit des images                                         | <2018-04-14 sam.> | D   |    |
    | Gobelins |                    | On a un téléphone dans nos bureaux !                                                      | <2018-04-14 sam.> | I   |    |
+   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Plan d’attaque campagne photo + doc pour direction                                        | <2018-04-20 ven.> | MP  |    |
+   | Gobelins |                    | Wireframes                                                                                | <2018-04-20 ven.> | UP  |    |
+   | Gobelins |                    | Classification objet pour utilisateur + retour régie                                      | <2018-04-20 ven.> | UP  |    |
+   | Gobelins |                    | Communauté d’intérêt (inspecteur + régie des collections)                                 | <2018-04-20 ven.> | M   |    |
+   | Gobelins |                    | Droit des agents + thesaurus + écosystème avec Bastien                                    | <2018-04-20 ven.> | A   |    |
+   | Gobelins |                    | Droits typo / validation Com                                                              | <2018-04-20 ven.> | MC  |    |
+   | Gobelins |                    | Quick win : intégration des photos dans la BDD Textiles (inspecteurs)                     | <2018-04-20 ven.> | T   |    |
+   | Gobelins |                    | Obtention et exploitation d’un schéma graphique de SCOM                                   | <2018-04-20 ven.> | D   |    |
 
 ** Suite
 
-- [M] Plan d’attaque pour avoir la validation (ou non) du Directeur
-- [P] Wireframes MVP
-- [DU] Classification des objets | vision utilisateur
-- [M] Sélection des fonds à numériser avec l’inspectrice
-- [A] Rencontre CNAP + Collecta
-- [M] Lancer les demandes de modification de la BDD Nimes (ajout de la référence d’inventaire)
-- [P] Finitions sur l’API Rest
+- [U] Validation de la classification avec les inspecteurs
+- [UP] Classification des matériaux 
+- [UP] Maquettes partie recherche
+- [D] Nettoyage base de données
+- [M] Validation du plan d’attaque « campagne photo » + mise en place
+- [P] Backend : consommation API
+- [P] Backend : mapping des thésaurus
 
 * Hopkins
 
