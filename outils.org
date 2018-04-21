@@ -4,11 +4,12 @@
 
 - https://www.botfuel.io
 
-* Article de fond
+* Articles de fond
 
 ** Sur la donnée
 
 - [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment (pdf)]]
+
 * Au quotidien
 
 - http://www.hackertyper.com
@@ -86,7 +87,7 @@ https://github.com/etalab/template.data.gouv.fr
 
 - [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]
 
-* Guide d’écriture de code
+* Guides d’écriture de code
 
 - https://github.com/alphagov/styleguides/
 - https://fr.wikipedia.org/wiki/GNU_coding_standards
@@ -109,11 +110,11 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://statuscake.com
 
-* Outils de gestion de fichiers
+* Gestion de fichiers
 
 - https://github.com/hsoft/dupeguru : outil de détection des doublons.
 
-* Outils de gestion de projets
+* Gestion de projets
 
 | Site                                    | Outil                | Milestones | Releases | Tasks | Revue de code |
 |-----------------------------------------+----------------------+------------+----------+-------+---------------|
@@ -131,9 +132,13 @@ https://github.com/etalab/template.data.gouv.fr
 | [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
 | [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
 
-* Outils de prototypage web
+* Prototypage web
 
 - [[https://www.sketchapp.com/][Sketch]]
+
+* Diagramme
+
+- https://github.com/knsv/mermaid
 
 * Outils pour de la revue de code
 * Programmation à plusieurs mains (pair programming)
