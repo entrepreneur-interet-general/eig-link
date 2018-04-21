@@ -582,12 +582,29 @@ un lien est ajouté.
    | EIG Link | suivi       | Accompagnement sur les CGU du défi SocialConnect             | <2018-04-14 sam.> | M   |   |
    | EIG Link | suivi       | Après-midi d’échanges avec le défi Gobelins                  | <2018-04-14 sam.> | M   |   |
    | EIG Link | eigforever  | Premier retweet du bot @eigforever !                         | <2018-04-14 sam.> | P   | 1 |
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | Site v2     | Avancée sur le contenu du futur site                         | <2018-04-21 sam.> | P   |   |
+   | EIG Link | Animation   | Lancement de l’Étalab talk du 4 mai                          | <2018-04-21 sam.> | P   | 1 |
+   | EIG Link | Animation   | Lancement d’un wiki·data·gouv                                | <2018-04-21 sam.> | P   | 1 |
+   | EIG Link | Animation   | Programmation EIG Off sur l’open source                      | <2018-04-21 sam.> | P   |   |
+   | EIG Link |             | Mise à jour de https://www.etalab.gouv.fr/lequipe            | <2018-04-21 sam.> | P   | 1 |
+   | EIG Link | Ouverture   | Atelier à Étalab sur l’ouverture du code source              | <2018-04-21 sam.> | P   |   |
+   | EIG Link | Suivi       | Point licences et projet avec Brigade Numérique              | <2018-04-21 sam.> | M   |   |
+   | EIG Link | Animation   | Ajout de Ned sur le serveur de calcul                        | <2018-04-21 sam.> | P   |   |
+   | EIG Link | Animation   | Installation plugin Gantt pour board.eig-forever.org         | <2018-04-21 sam.> | P   |   |
+   | EIG Link |             | Présentation de la session EIG du 16 mai devant les DSI      | <2018-04-21 sam.> | M   |   |
+   | EIG Link | Suivi       | Déjeuner SocialConnect                                       | <2018-04-21 sam.> | M   | 1 |
+   | EIG Link | Suivi       | Retours test de cis-openscraper                              | <2018-04-21 sam.> | P   |   |
+   | EIG Link | Suivi       | Envoi du retour udata de Tiphaine                            | <2018-04-21 sam.> | M   |   |
+   | EIG Link | Animation   | Participation au bureau ouvert de Paula Fortezza             | <2018-04-21 sam.> | M   |   |
+   | EIG Link | Suivi       | CR de la réunion Gobelins                                    | <2018-04-21 sam.> | PM  |   |
+   | EIG Link | Suivi       | CR de l’atelier « apprendre »                                | <2018-04-21 sam.> | PM  |   |
+   | EIG Link |             | RDV au MinCul pour https://beta.gouv.fr/startup/pop.html     | <2018-04-21 sam.> | M   |   |
+   | EIG Link |             | RDV au MinCul pour le suivi de l’inventaire des orgues       | <2018-04-21 sam.> | M   | 1 |
 
 ** Suite
 
-- Avancement du futur site EIG
-- Mise en ligne d’un proto pour le journal de bord
-- Rendez-vous SocialConnect
+- VACANCES!
 
 * Gobelins
 
