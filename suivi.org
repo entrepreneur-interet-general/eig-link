@@ -88,13 +88,13 @@ un lien est ajouté.
    | Archifiltre |                        | Préparation de l'accueil d'Inès !                                           | <2018-04-13 ven.> | M   |   |
    | Archifiltre |                        | Tests utilisateurs                                                          | <2018-04-13 ven.> | U   |   |
    | Archifiltre |                        | Première release officielle d'archifiltre !                                 | <2018-04-13 ven.> | C   |   |
-
-** Suite
-
-- Vous ne serez bientôt plus simples spectateurs de vos fichiers : dans la prochaine version de Stalactites vous taguerez, commenterez et renommerez vos fichiers pour vous orienter dans votre exploration !
-- Accueil d'Inès
-- On branche (peut-être) notre serveur sur Stalactite pour pouvoir envoyer et sauvegarder les données.
-- Sûrement d'autres trucs
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Feature de détection des doublons.                                          | <2018-04-22 dim.> | P   |   |
+   | Archifiltre |                        | En cours : refonte de l'appli - on se détache de l'exemple D3 d'où on ét... | <2018-04-22 dim.> | P   |   |
+   | Archifiltre |                        | En cours aussi : Changement de framework CSS pour pouvoir mieux gérer le... | <2018-04-22 dim.> | P   |   |
+   | Archifiltre |                        | Atelier de présentation de l'outil à tout le service des archives           | <2018-04-22 dim.> | U   |   |
+   | Archifiltre |                        | On a commencé à étendre notre base d'utilisateurs en communiquant auprès... | <2018-04-22 dim.> | C   |   |
+   | Archifiltre |                        | Accueil d'Inès, notre stagiaire qui va réaliser la brique pour recenser ... | <2018-04-22 dim.> | M   |   |
 
 * b@liseNAV
 
