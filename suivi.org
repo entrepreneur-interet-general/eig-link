@@ -258,13 +258,23 @@ un lien est ajouté.
    | BrigadeNumérique |          | Participation au Comité de pilotage de la BNum (Brigade Numérique)                                | <2018-03-27 mar.> | M   |
    | BrigadeNumérique |          | Rencontre de l’équipe UX EasiWare                                                                 | <2018-03-27 mar.> | M   |
    | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                | <2018-03-27 mar.> | M   |
+   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | Réunions (3 au total: Dila, police) sur la plateforme commune gendarmerie-police dédiée aux vi... | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Réunions et cadrage du projet de mise en ligne des horaires d’accueil des brigades de gendarme... | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Travail sur l’article pour de l’inauguration de la BNum.                                          | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Travail d’écriture du doc de cadrage de l’outil de prise de RdV.                                  | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Point licences et projet avec Bastien.                                                            | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Atelier centré base de données et développement de l’outil de prise de RdV.                       | <2018-04-22 dim.> | P   |
+   | BrigadeNumérique |          | Suivi déploiement de la plateforme de gestion de communication multicanal                         | <2018-04-22 dim.> | P   |
+   | BrigadeNumérique |          | Déploiement du chat Easiwware sur les sites secondaire de la gendarmerie                          | <2018-04-22 dim.> | M   |
+   | BrigadeNumérique |          | Préparation et animation (avec Soizic) de l’atelier pitch.                                        | <2018-04-22 dim.> | M   |
 
 ** Suite
 
-- [P] Animation de l'atelier d'idéation de l’outil Prise de RdV à Orléans
-- [F] Formation à l'outil de Reporting pour mesure de la satisfaction utilisateur
-- [A] Plénière à la session 100% Efficaces
-- [P] Participation à la reprise de Storify au LLL
+- [M] Réunion cadrage outil prise de RdV
+- [T] Suivi projet ouverture horaires d’ouverture
+- [M] Suivi de l’activité BNum. Écrire les guides utilisateurs et administrateurs.
+- [M] docs/articles à re-écrire. Article Etalab à soumettre.
 
 * CoachÉlèves
 
