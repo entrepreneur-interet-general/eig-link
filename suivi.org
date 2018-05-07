@@ -743,16 +743,23 @@ un lien est ajouté.
    | Gobelins |                    | Droits typo / validation Com                                                              | <2018-04-20 ven.> | MC  |    |
    | Gobelins |                    | Quick win : intégration des photos dans la BDD Textiles (inspecteurs)                     | <2018-04-20 ven.> | T   |    |
    | Gobelins |                    | Obtention et exploitation d’un schéma graphique de SCOM                                   | <2018-04-20 ven.> | D   |    |
+   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Classification des matériaux pour utilisateur                                             | <2018-04-27 ven.> | UP  |  1 |
+   | Gobelins |                    | Maquette MVP (en cours)                                                                   | <2018-04-27 ven.> | P   |    |
+   | Gobelins |                    | Validation avec la direction des différentes campagnes de prises de vues (Interne + ...   | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Échange avec Maud Choquet + Bruno Ricard sur le droit des agents publics et les contra... | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Motivation de la personne se chargeant de la manutention pour la numérisation             | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Réservation de la photographe interne pour les fonds « arts graphique »                   | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Prise de RDV avec le bureau de l’innovation, ministère de la culture                      | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Tentatives infructueuses de mettre en place un export automatisé de la base SCOM          | <2018-04-27 ven.> | D   | -1 |
+   | Gobelins |                    | Prise de contact avec la société en charge de la maintenance de la base SCOM              | <2018-04-27 ven.> | D   |    |
+
 
 ** Suite
 
-- [U] Validation de la classification avec les inspecteurs
-- [UP] Classification des matériaux 
-- [UP] Maquettes partie recherche
-- [D] Nettoyage base de données
-- [M] Validation du plan d’attaque « campagne photo » + mise en place
-- [P] Backend : consommation API
-- [P] Backend : mapping des thésaurus
+- [M] Identification des réserves et personnes pour les wikimédiens
+- [P] Maquette MVP
+- [P] Modèle de données pour le backend
 
 * Hopkins
 
@@ -1485,14 +1492,18 @@ un lien est ajouté.
    | SocialConnect |                   | Organisation avec les référents comm du collectif des réponses mails aux premiers utilisateurs              | <2018-04-20 ven.> | M   |   |
    | SocialConnect |                   | Continuer à dessiner les écrans manquants du site (Elise)                                                   | <2018-04-20 ven.> | P   |   |
    | SocialConnect |                   | Amélioration du backoffice du site pour mieux gérer les retours utilisateurs (Julien)                       | <2018-04-20 ven.> | P   |   |
-
-** Suite
-
-- [P] Amélioration du moteur de recherche et autres éléments de fron (Julien)
-- [P] Commencer à mettre en place un espace de préférences utilisateurs (Julien)
-- [P] Intégration de quelques métriques, Mix Panel (Julien)
-- [P] Planifier les sessions de retours utilisateurs (Elise)
-- [M] Réflexion / corrections sur le nouveau rétroplanning (modifié)
+   |---------------+-------------------+-------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | SocialConnect |                   | J+10 depuis le lancement : 322 personnes inscrites, 56 messages... #WTF                                     | <2018-04-27 ven.> | C   |   |
+   | SocialConnect |                   | Présentation aux personnels du CGET de notre nouveau commissaire général Serge Morvan par notre ministre... | <2018-04-27 ven.> | M   |   |
+   | SocialConnect |                   | Réflexion / corrections sur le nouveau rétroplanning à horizon novembre...                                  | <2018-04-27 ven.> | M   |   |
+   | SocialConnect |                   | Mailing aux premiers utilisateurs et préparation d'un formulaire Frama pour le canevas de réponse-types     | <2018-04-27 ven.> | U   |   |
+   | SocialConnect |                   | Continuer à dessiner les écrans manquants du site                                                           | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Planification des sessions de retours utilisateurs                                                          | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Nouveau point d'API sur OpenScraper pour récupérer infos générales sur le dataset (modèle de données, dé... | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Amélioration du moteur de recherche : implémentation des filtres par pseudo-hashtags, certains créés à l... | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Amélioration du moteur de recherche : loader, "no results", modif de nginx pour permettre des requêtes e... | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Implémentation de premières métriques Mix Panel                                                             | <2018-04-27 ven.> | P   |   |
+   | SocialConnect |                   | Suivi de l'EIG-off "admin sys" animé par Christophe                                                         | <2018-04-27 ven.> | A   |   |
 
 * Nouveau jeux de données publiés
 
