@@ -352,12 +352,15 @@ un lien est ajouté.
    | CoachÉlève  |                                | Installation de Learrnig Locker (LRS xAPI)                                                                                                                                 | <2018-04-20 ven.> | I   |   |
    | CoachÉlève  |                                | Rencontre avec les membres d'OLPC France pour discuter de Sugarizer                                                                                                        | <2018-04-20 ven.> | C   | 1 |
    | CoachÉlève  |                                | Étude de faisabilité d'x-apisation de Anki (applicage de Spaced Repetition Learning)                                                                                       | <2018-04-20 ven.> | Q   |   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlève  | Décrochage                     | Rencontre entre mentors et équipe opérationnel pour collaboration sur la détection du décrochage scolaire                                                                  | <2018-04-27 ven.> | M   | 1 |
+   | CoachÉlève  | Décrochage                     | Point technique sur le stack du projet "décrochage scolaire"                                                                                                               | <2018-04-27 ven.> | I   | 1 |
+   | CoachÉlève  | BDD Centrale                   | Premier NDA signé avec l’entreprise EDUCLEVER                                                                                                                              | <2018-04-27 ven.> | M   | 1 |
+   | CoachÉlève  | Gouvernance des données        | Maquette pour la refonte du site implémentant la gouvernance des données                                                                                                   | <2018-04-27 ven.> | C   | 1 |
 
 ** Suite
 
-- Envoie et discussion des mockup sketch de redesign du site DOMEN (cartographie des données du MEN)
-- Réunion Fabio/Bruno Panaget pour discuter de CoachElève en interne
-- Définition d'un profil xAPI pour Anki
+— {BDD Centrale} [AI] Déploiement de Learning Locker sous Kubernetes
 
 * DataESR
 
