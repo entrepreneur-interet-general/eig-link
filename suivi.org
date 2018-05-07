@@ -1129,13 +1129,12 @@ un lien est ajouté.
    | Prédisauvetage |          | Parsing de documents textes d'interventions                                                                       | <2018-04-27 ven.> | P   |   |
    | Prédisauvetage |          | Discussions avec des collègues DGITM transports intéressés par la cartographie réalisée précédemment              | <2018-04-27 ven.> | M   |   |
    | Prédisauvetage |          | Tentative d'accès aux données brutes des compte-rendus d'opérations en CROSS                                      | <2018-04-27 ven.> | D   |   |
-
-** Suite
-
-- [P] Préparation des slides pour le copil
-- [D] ETL pour préparer les données CROSS pour l'open data et pour nous
-- [D] Réalisation de graphiques / dashboards statistiques
-- [A] LLL + atelier ligne de commandes
+   |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | Prédisauvetage |          | Préparation des slides pour le copil                                                                              | <2018-05-04 ven.> | P   |   |
+   | Prédisauvetage |          | ETL pour préparer les données CROSS pour l'open data et pour nous                                                 | <2018-05-04 ven.> | D   |   |
+   | Prédisauvetage |          | Réalisation de graphiques / dashboards statistiques sur Redash                                                    | <2018-05-04 ven.> | D   |   |
+   | Prédisauvetage |          | LLL + atelier ligne de commandes                                                                                  | <2018-05-04 ven.> | A   |   |
+   | Prédisauvetage |          | Publication d'un jeu de données sur data.gouv.fr concernant les vacances scolaires https://www.data.gouv.fr/fr... | <2018-05-04 ven.> | D   |   |
 
 * Prévisecours
 
