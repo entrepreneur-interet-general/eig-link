@@ -89,12 +89,25 @@ un lien est ajouté.
    | Archifiltre |                        | Tests utilisateurs                                                          | <2018-04-13 ven.> | U   |   |
    | Archifiltre |                        | Première release officielle d'archifiltre !                                 | <2018-04-13 ven.> | C   |   |
    |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
-   | Archifiltre |                        | Feature de détection des doublons.                                          | <2018-04-22 dim.> | P   |   |
-   | Archifiltre |                        | En cours : refonte de l'appli - on se détache de l'exemple D3 d'où on ét... | <2018-04-22 dim.> | P   |   |
-   | Archifiltre |                        | En cours aussi : Changement de framework CSS pour pouvoir mieux gérer le... | <2018-04-22 dim.> | P   |   |
-   | Archifiltre |                        | Atelier de présentation de l'outil à tout le service des archives           | <2018-04-22 dim.> | U   |   |
-   | Archifiltre |                        | On a commencé à étendre notre base d'utilisateurs en communiquant auprès... | <2018-04-22 dim.> | C   |   |
-   | Archifiltre |                        | Accueil d'Inès, notre stagiaire qui va réaliser la brique pour recenser ... | <2018-04-22 dim.> | M   |   |
+   | Archifiltre |                        | Fonctionnalité de détection des doublons.                                   | <2018-04-21 sam.> | P   |   |
+   | Archifiltre |                        | En cours : Refonte de l'appli pour se libérer de D3                         | <2018-04-21 sam.> | P   |   |
+   | Archifiltre |                        | En cours : Changement de framework CSS pour du meilleur Responsive          | <2018-04-21 sam.> | P   |   |
+   | Archifiltre |                        | Atelier de présentation de l'outil à tout le service des archives           | <2018-04-21 sam.> | U   |   |
+   | Archifiltre | [[https://twitter.com/archifiltre][@archifiltre]]           | Communication auprès d'archivistes de France et de Navarre sur le projet !  | <2018-04-21 sam.> | C   |   |
+   | Archifiltre |                        | Accueil d'Inès !                                                            | <2018-04-21 sam.> | M   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
+   | Archifiltre |                        | Migration de React + D3 vers du Full React                                  | <2018-04-27 ven.> | P   |   |
+   | Archifiltre |                        | Migration de MDL vers Foundation                                            | <2018-04-27 ven.> | P   |   |
+   | Archifiltre |                        | L'appli est maintenant mise en cache et vous pouvez y accéder hors ligne... | <2018-04-27 ven.> | P   |   |
+   | Archifiltre |                        | Échange avec la mission écologie, qui travaille sur des sujets connexes     | <2018-04-27 ven.> | C   |   |
+   | Archifiltre |                        | Optimisations des perf post-migration                                       | <2018-05-04 ven.> | P   |   |
+   | Archifiltre |                        | Possibilité de taguer et de renommer des dossiers et fichiers               | <2018-05-04 ven.> | P   |   |
+
+** Suite
+
+- On va commencer à faire des calculs asynchrones pour faire remonter
+  des infos fines sur les dossiers et fichiers tout en affichant vite
+  la hiérarchie !
 
 * b@liseNAV
 
