@@ -191,28 +191,26 @@ un lien est ajouté.
    | b@liseNAV | Données               | Récupération de fichiers décrivant l’emprise géographique des Instruct...  | <2018-04-20 ven.> | D   |   1 |
    | b@liseNAV | Communicat...         | Bouclage du calendrier mai 2018 en fonction des congés, grèves, télétra... | <2018-04-20 ven.> | C   |     |
    | b@liseNAV | Brainstorming         | Préparation d’un atelier de brainstorming “Le web et le Shom”              | <2018-04-20 ven.> | T   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV | Front                 | Librairie SVG de symboles nautiques                                        | <2018-04-27 ven.> | P   |   1 |
+   | b@liseNAV | Front                 | intégration des styles en inline dans les SVGs, réglage du centrage par... | <2018-04-27 ven.> | P   |     |
+   | b@liseNAV |                       | Réunion avec notre nouveau référent technique pour le SNI                  | <2018-04-27 ven.> | M   |  -1 |
+   | b@liseNAV |                       | Revue des dernières propositions pour la norme S-124                       | <2018-04-27 ven.> | CP  |     |
+   | b@liseNAV |                       | Récupération des cartes nautiques Shom par scraping                        | <2018-04-27 ven.> | D   |     |
+   | b@liseNAV |                       | Packaging des premiers livrables                                           | <2018-04-27 ven.> | P   |     |
+   | b@liseNAV |                       | Préparation d’une session de brainstorming “Le Shom et le Web”             | <2018-04-27 ven.> | TC  |     |
+   | b@liseNAV |                       | Notre session brainstorming “Le Shom et le Web” a été reporté sine die     | <2018-04-27 ven.> | TC  |  -1 |
+   | b@liseNAV |                       | Test fichiers MNT                                                          | <2018-04-27 ven.> | D   |     |
+   | b@liseNAV |                       | Analyse messages NAVAREA                                                   | <2018-04-27 ven.> | D   |     |
+   | b@liseNAV |                       | Developpement JS Module S-201                                              | <2018-04-27 ven.> | P   |     |
 
 ** Suite
 
-- [P] {Front} Librairie SVG de symboles nautiques, gestion des styles
-  CSS des SVGs
-
-- [C] {Communication Interne} Réunion avec notre nouveau référent
-  technique pour les sprints concernant le Service Nautique Interactif
-
-- [CP] {Shom-OHI} Revue des dernières propositions pour norme S-124
-  (avec le chairman)
-
-- [CP] {Code} Identification et répartition des prochaines tâches à
-  faire concernant la partie JavaScript du Service Nautique Interactif
-
-** Suite
-
-- [P] {Front} Librairie SVG de symboles nautiques, gestion des styles CSS des SVGs
-- [T] {Dam-Shom} Documentation des requêtes SQL utilisées pour le rapprochement entre les données Aladin et les bases de données du Shom
-- [P] {Dam-Shom} Revue des dernières propositions pour norme S-124 (suite)
-- [P] {Code} Segmentation du code pour publication Git
-- [D] Participation à un mapathon de cartographie Nord Madagascar sur OpenStreetMap
+- [T] Session EIG Documentation
+- [P] Packaging des premiers livrables
+- [C] Documentation des packages
+- [T] Préparation de la session brainstorming “Le Shom et le Web”
+- [P] Répartition des prochaines tâches pour le Javascript du Service Nautique Interactif
 
 * BrigadeNumérique
 
