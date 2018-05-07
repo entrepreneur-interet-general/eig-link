@@ -867,14 +867,18 @@ un lien est ajouté.
    | Hopkins |                         | Intégration d’un nouveau dataset à GraphExplorer                                        | <2018-04-20 ven.> | P   |
    | Hopkins |                         | Installation de matchID sur VM 64Go                                                     | <2018-04-20 ven.> | I   |
    | Hopkins |                         | Tutos Sketch et production de maquettes d'une v1.0 de GraphExplorer                     | <2018-04-20 ven.> | AP  |
+   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Modifications de dashboards à des fins de communication externe (conférence lutte co... | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Generation dataset de pays pour graph explorer                                          | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Debug matchid -> + d'espace disque sur la vm                                            | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Prise en main webapp de la webapp graph explorer                                        | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Nouvelle version de la web app graph explorer intégrant du search                       | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Déjeuner avec le service d’analyse stratégique                                          | <2018-04-27 ven.> | U   |
 
 ** Suite
 
-- [P] Evaluer matching startrac avec l'interface de validation de MatchID
-- [P] Améliorer la qualité du matching (inversion nom prénom, fréquence nom/prénom, score plus précis)
-- [P] Finaliser maquettes Sketch
-- [P] Intégration du nouveau design avec fonctionnalités de recherche
-- [P] Rapprochement des données de GraphExplorer avec une autre base
+- [P] Finir de génerer les nouveaux dataset de pays
+- [P] Matcher sous dataset de pays avec base annexe
 
 * Lab Santé
 
