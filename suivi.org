@@ -500,17 +500,19 @@ un lien est ajouté.
    | EIG Node |          | Budgétisation offsite                                                                 | <2018-04-20 ven.> | M   |   |
    | EIG Node |          | Prestataires : goodies (soon), motion design (specs), matériel informatique           | <2018-04-20 ven.> | P   |   |
    | EIG Node |          | Le crowdsourcing « Vos rêves de données » [[https://lite.framacalc.org/EIG2____Donnees][continue]]                                    | <2018-04-20 ven.> | D   |   |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Finalisation du cahier des charges pour l'appel à projets EIG3 et envoi au COPI...    | <2018-04-27 ven.> | P   | 1 |
+   | EIG Node |          | Travail sur le formulaire de réponse au cahier des charges                            | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Interviews « Que sont-ils devenus ? »                                                 | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Préparation de l'atelier d'écriture du 2 mai                                          | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Préparation motion design                                                             | <2018-04-27 ven.> | P   |   |
 
 ** Suite
 
-- [C] Publication d'articles de blog et communication sur les réseaux sociaux
-- [C] Publication d'un article de blog sur le site d'Etalab pour prévenir du lancement prochain de l'appel à projets
-- [P] Finalisation du cahier des charges de l'appel à projets EIG3
-- [P] Travail sur le site v2 (contenu, intégration)
-- [T] Appel avec Stéphanie Schaer pour discuter du Mattermost des Commissaires au redressement productif !
-- [P] Préparation de l'atelier écriture
-- [P] Tri des ressources de communication
-- [P] Travail sur le kit de diffusion de l'appel à projets
+- [P] et [C] : éléments de communication autour de l'appel à projets EIG3
+- [P] : rédaction de contenus pour le site EIG
+- [T] : appel Stéphanie Schaer (mentor Signaux Faibles) pour le Mattermost des CRP (prévu cette semaine mais finalement décalé)
+- [M] : :) retours de Bastien et Mathilde
 
 * EIG Link
 
