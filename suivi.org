@@ -881,11 +881,11 @@ un lien est ajouté.
    | Hopkins |                         | Prise en main webapp de la webapp graph explorer                                        | <2018-04-27 ven.> | P   |
    | Hopkins |                         | Nouvelle version de la web app graph explorer intégrant du search                       | <2018-04-27 ven.> | P   |
    | Hopkins |                         | Déjeuner avec le service d’analyse stratégique                                          | <2018-04-27 ven.> | U   |
-
-** Suite
-
-- [P] Finir de génerer les nouveaux dataset de pays
-- [P] Matcher sous dataset de pays avec base annexe
+   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | apprentissage du surf vers royan                                                        | <2018-05-04 ven.> | A   |
+   | Hopkins |                         | MAJ dataiku + debuggage                                                                 | <2018-05-04 ven.> | P   |
+   | Hopkins |                         | création dataset graph-explorer pour 2 autres pays                                      | <2018-05-04 ven.> | P   |
+   | Hopkins |                         | (en cours) afficher la somme totale reçu par une personne sur graph-explorer            | <2018-05-04 ven.> | P   |
 
 * Lab Santé
 
