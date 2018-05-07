@@ -638,10 +638,11 @@ un lien est ajouté.
    | EIG Link | Suivi       | CR de l’atelier « apprendre »                                | <2018-04-21 sam.> | PM  |   |
    | EIG Link |             | RDV au MinCul pour https://beta.gouv.fr/startup/pop.html     | <2018-04-21 sam.> | M   |   |
    | EIG Link |             | RDV au MinCul pour le suivi de l’inventaire des orgues       | <2018-04-21 sam.> | M   | 1 |
-
-** Suite
-
-- VACANCES!
+   |----------+-------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link | Animation   | Publication entrée de blog sur Framasoft                     | <2018-05-04 ven.> | P   | 1 |
+   | EIG Link | Animation   | Participation après-midi documenthaton                       | <2018-05-04 ven.> | MP  |   |
+   | EIG Link | Ouverture   | Organisation wiki·data·gouv                                  | <2018-05-04 ven.> | M   |   |
+   | EIG Link | Ouverture   | Étalab talk sur The Mother of All Demos                      | <2018-05-04 ven.> | P   | 1 |
 
 * Gobelins
 
