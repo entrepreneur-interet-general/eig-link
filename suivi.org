@@ -1258,13 +1258,13 @@ un lien est ajouté.
    | Prévisecours | Opendata     | Séparation data météo / calendaire                                                                                      | <2018-04-20 ven.> | P   | 1 |
    | Prévisecours | Opendata     | Intégration data soldes 2014-2019 dans le projet calendaire                                                             | <2018-04-20 ven.> | P   | 1 |
    | Prévisecours | Product      | Intégration des zones de couverture de casernesdans les webapp                                                          | <2018-04-20 ven.> | P   | 1 |
-
-** Suite
-
-- [P] {Prédiction} Choix des features principales
-- [P] {Prédiction} Nettoyage, doc et automat. des projets de prédiction des interventions (suite)
-- [P] Update du script d'automatisation de la récupération data météo + documentation
-- [P] Reflexion interface prototypage
+   |--------------+--------------+-------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | Prévisecours | Prédiction   | Choix des features principales                                                                                          | <2018-05-07 lun.> | P   |   |
+   | Prévisecours | Prédiction   | Nettoyage, documentation et automatisation des projets de prédiction des interventions                                  | <2018-05-07 lun.> | P   |   |
+   | Prévisecours |              | Fork Cartav et montée en compétence dessus                                                                              | <2018-05-07 lun.> | A   |   |
+   | Prévisecours |              | Écriture + Publication d’un package npm de conversion de GeoJson en lambert93 vers un geoJson en GPS                    | <2018-05-07 lun.> | P   |   |
+   | Prévisecours |              | Publication d’un starter kit [vueJS + python FlaskRest] sur le repo EIG (mini-wetransfer)                               | <2018-05-07 lun.> | P   |   |
+   | Prévisecours |              | Installation de plantes dans le bureau                                                                                  | <2018-05-07 lun.> | M   |   |
 
 * Signaux Faibles
 
