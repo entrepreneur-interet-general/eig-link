@@ -1098,12 +1098,19 @@ un lien est ajouté.
    | Prédisauvetage |          | Réunion afin de collecter les retours de possibles utilisateurs sur la carto                                      | <2018-04-20 ven.> | U   |   |
    | Prédisauvetage |          | Création d'un [[https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown][outil]] pour générer une partie de la documentation open data                                         | <2018-04-20 ven.> | P   |   |
    | Prédisauvetage |          | Parsing de documents textes d'interventions                                                                       | <2018-04-20 ven.> | P   |   |
+   |----------------+----------+-------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | Prédisauvetage |          | Finalisation des statistiques et des rapports pour le copil (venue de collègues de Bretagne)                      | <2018-04-27 ven.> | P   |   |
+   | Prédisauvetage |          | ETL pour préparer les données CROSS pour l'open data et pour nous                                                 | <2018-04-27 ven.> | D   |   |
+   | Prédisauvetage |          | Parsing de documents textes d'interventions                                                                       | <2018-04-27 ven.> | P   |   |
+   | Prédisauvetage |          | Discussions avec des collègues DGITM transports intéressés par la cartographie réalisée précédemment              | <2018-04-27 ven.> | M   |   |
+   | Prédisauvetage |          | Tentative d'accès aux données brutes des compte-rendus d'opérations en CROSS                                      | <2018-04-27 ven.> | D   |   |
 
 ** Suite
 
-- [P] Finalisation des statistiques et des rapports pour le COPIL (venue de collègues de Bretagne)
+- [P] Préparation des slides pour le copil
 - [D] ETL pour préparer les données CROSS pour l'open data et pour nous
-- [P] Parsing de documents textes d'interventions
+- [D] Réalisation de graphiques / dashboards statistiques
+- [A] LLL + atelier ligne de commandes
 
 * Prévisecours
 
