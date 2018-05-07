@@ -764,13 +764,17 @@ un lien est ajouté.
    | Gobelins |                    | Prise de RDV avec le bureau de l’innovation, ministère de la culture                      | <2018-04-27 ven.> | M   |    |
    | Gobelins |                    | Tentatives infructueuses de mettre en place un export automatisé de la base SCOM          | <2018-04-27 ven.> | D   | -1 |
    | Gobelins |                    | Prise de contact avec la société en charge de la maintenance de la base SCOM              | <2018-04-27 ven.> | D   |    |
-
-
-** Suite
-
-- [M] Identification des réserves et personnes pour les wikimédiens
-- [P] Maquette MVP
-- [P] Modèle de données pour le backend
+   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Maquettes                                                                                 | <2018-05-04 ven.> | P   |  1 |
+   | Gobelins |                    | Recherches autour de l’intégration de la base du nuancier (base NIMES)                    | <2018-05-04 ven.> | D   |    |
+   | Gobelins |                    | Échanges/réunions autour des partenariats possibles pour la campagne photo (Google A...   | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Procédure amiable de récupération du domaine mobiliernational.fr via l’AFNIC (obtent...   | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Droits photographiques : encore des échanges et prises de contacts avec les acteurs ...   | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Prise de contact avec prestataire de la BDD legacy pour mise en place de l’export auto... | <2018-05-04 ven.> | M   |    |
+   | Gobelins |                    | Prises de contacts pour la définition d’un corpus pour la campagne photo                  | <2018-05-04 ven.> | M   |    |
+   | Gobelins |                    | Récolte des photographies détenues par la com                                             | <2018-05-04 ven.> | D   |  1 |
+   | Gobelins |                    | Finalisation par le service documentation de notre lexique de termes techniques (tap...   | <2018-05-04 ven.> | D   |  1 |
+   | Gobelins |                    | Réception des contenus d’un projet des étudiants en Master, à intégrer à la plateforme.   | <2018-05-04 ven.> | D   |  1 |
 
 * Hopkins
 
