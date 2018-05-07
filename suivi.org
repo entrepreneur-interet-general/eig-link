@@ -203,14 +203,24 @@ un lien est ajouté.
    | b@liseNAV |                       | Test fichiers MNT                                                          | <2018-04-27 ven.> | D   |     |
    | b@liseNAV |                       | Analyse messages NAVAREA                                                   | <2018-04-27 ven.> | D   |     |
    | b@liseNAV |                       | Developpement JS Module S-201                                              | <2018-04-27 ven.> | P   |     |
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----+-----|
+   | b@liseNAV |                       | Session EIG Documentation                                                  | <2018-05-04 ven.> | T   |     |
+   | b@liseNAV |                       | Packaging des premiers livrables                                           | <2018-05-04 ven.> | P   |     |
+   | b@liseNAV |                       | Documentation des packages                                                 | <2018-05-04 ven.> | C   |     |
+   | b@liseNAV |                       | Préparation de la session brainstorming “Le Shom et le Web”                | <2018-05-04 ven.> | TC  |     |
+   | b@liseNAV |                       | Recherche autour de l’argumentaire pour l’Open Data                        | <2018-05-04 ven.> | T   |     |
+   | b@liseNAV |                       | Revue de la présentation d’Henri Verdier Government as a Platform (et a... | <2018-05-04 ven.> | T   |     |
+   | b@liseNAV |                       | Synthèse et documentation du rapprochement Aladin et S-57                  | <2018-05-04 ven.> | PC  |     |
+   | b@liseNAV |                       | Préparation pour la réalisation d’une API pour le SNI                      | <2018-05-04 ven.> | P   |     |
+   | b@liseNAV |                       | Achat des noms de domaine balisenav.com et balisenav.fr                    | <2018-05-04 ven.> | C   |     |
+
 
 ** Suite
 
-- [T] Session EIG Documentation
-- [P] Packaging des premiers livrables
-- [C] Documentation des packages
-- [T] Préparation de la session brainstorming “Le Shom et le Web”
-- [P] Répartition des prochaines tâches pour le Javascript du Service Nautique Interactif
+- [M] :) Arnaud: vacances, j'oublie tout, plus rien à faire du tout!
+- [PC] :) Synthèse et documentation du rapprochement Aladin et S-57 (suite)
+- [P] :) Préparation et réalisation d’une API pour le SNI
+- [P] :) Mise en place d’une landing page sur balisenav.com
 
 * BrigadeNumérique
 
