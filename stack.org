@@ -75,7 +75,9 @@ défis EIG.
 
 - Plusieurs quickwins sur un gitlab privé DREES que l'on a créé
 - Formations R et python
-- ???
+- Scripts R d'imputation de non-réponse partielle pour traiter les sondages
+- App Shiny de classification d'indicateurs statistiques basée sur la description textuelle (approche active learning)
+- A compléter
 
 * TODO PrédiSauvetage
 * Prévisecours
