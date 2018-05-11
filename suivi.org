@@ -103,12 +103,18 @@ un lien est ajouté.
    |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----+---|
    | Archifiltre |                        | Optimisations des perf post-migration                                       | <2018-05-04 ven.> | P   |   |
    | Archifiltre |                        | Possibilité de taguer et de renommer des dossiers et fichiers               | <2018-05-04 ven.> | P   |   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | Archifiltre |                        | Finitions sur les tags, commentaires et le renommage dans Stalactites       | <2018-05-11 ven.> | P   |
+   | Archifiltre |                        | Nouvelles optimisations de perfs                                            | <2018-05-11 ven.> | P   |
+   | Archifiltre |                        | Ecriture d'un changelog                                                     | <2018-05-11 ven.> | C   |
+   | Archifiltre |                        | Rencontre avec la documentation                                             | <2018-05-11 ven.> | U   |
+
 
 ** Suite
 
-- On va commencer à faire des calculs asynchrones pour faire remonter
-  des infos fines sur les dossiers et fichiers tout en affichant vite
-  la hiérarchie !
+- Intervention au Ministère des Armées pour présenter le projet
+- Système de recherche et de filtrage (par tags par exemple) pour Stalactites
+- Publication de la v5 de Stalactites sur archifiltre.io
 
 * b@liseNAV
 
