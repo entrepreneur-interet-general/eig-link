@@ -69,7 +69,7 @@ L'équipe « EIG Node » d'Étalab.
 
 *** Quel déroulé pour la session ?
 
-1. *15h-15h20* : accueil et présentation de la session
+1. *15h-15h20* : Accueil et présentation du déroulé de l'après-midi.
 
 2. *15h20-16h* : Définir le « quoi » : le représenter sous forme de
    matrice Urgent/Important pour le logiciel et les données.
@@ -81,10 +81,10 @@ L'équipe « EIG Node » d'Étalab.
    2. Quels sont les contraintes et obstacles actuels ?
    3. Quel mode de communication entre EIG et DSI pour avancer ?
 
-4. *16h40-17h10* : Pause
+4. *16h40-17h10* : Pause.
 
 5. *17h10-17h50* : Construire une vision commune autour de deux
-   questions :
+   questions :
 
    1. Où en sera le défi EIG dans 3 mois ? 6 mois ? Un an ? Deux ans ?
    2. Où en sera la DSI dans 3 mois ? 6 mois ? Un an ? Deux ans ?
