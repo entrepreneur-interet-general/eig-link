@@ -79,7 +79,19 @@ défis EIG.
 - App Shiny de classification d'indicateurs statistiques basée sur la description textuelle (approche active learning)
 - A compléter
 
-* TODO PrédiSauvetage
+* PrédiSauvetage
+** Stack
+
+- Datascience : Python 3, pandas, numpy, PostgreSQL
+- App : Laravel
+- Visualisation : Redash
+- ETL : Apache Airflow / Embulk
+- Cartographie : Leaflet
+
+** Outils de développement
+- Sublime Text
+- CircleCI
+
 * Prévisecours
 
 ** Stack
