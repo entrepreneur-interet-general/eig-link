@@ -524,13 +524,19 @@ un lien est ajouté.
    | EIG Node |          | Interviews « Que sont-ils devenus ? »                                                 | <2018-04-27 ven.> | P   |   |
    | EIG Node |          | Préparation de l'atelier d'écriture du 2 mai                                          | <2018-04-27 ven.> | P   |   |
    | EIG Node |          | Préparation motion design                                                             | <2018-04-27 ven.> | P   |   |
+   |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Diffusion de l’appel à projets EIG 3                                                  | <2018-05-14 lun.> | P   |   |
+   | EIG Node |          | Préparation de la session DSI                                                         | <2018-05-14 lun.> | P   |   |
+   | EIG Node |          | Préparation de l’événement d’information EIG 3 du 15 mai                              | <2018-05-14 lun.> | P   |   |
+   | EIG Node |          | Bastien est en train de recevoir son ordinateur, grâce à super-Paul + on a reçu de... | <2018-05-14 lun.> | I   |   |
+   | EIG Node |          | On a réorganisé notre stand up interne pour plus de fluidité                          | <2018-05-14 lun.> | M   |   |
 
 ** Suite
 
-- [P] et [C] : éléments de communication autour de l'appel à projets EIG3
-- [P] : rédaction de contenus pour le site EIG
-- [T] : appel Stéphanie Schaer (mentor Signaux Faibles) pour le Mattermost des CRP (prévu cette semaine mais finalement décalé)
-- [M] : :) retours de Bastien et Mathilde
+- Événement d’information EIG 3
+- Session DSI
+- On continue la diffusion de l’appel à projets
+- On continue la rédaction des contenus pour le site v2
 
 * EIG Link
 
