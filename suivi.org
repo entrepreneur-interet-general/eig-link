@@ -220,14 +220,17 @@ un lien est ajouté.
    | b@liseNAV |                       | Synthèse et documentation du rapprochement Aladin et S-57                  | <2018-05-04 ven.> | PC  |     |
    | b@liseNAV |                       | Préparation pour la réalisation d’une API pour le SNI                      | <2018-05-04 ven.> | P   |     |
    | b@liseNAV |                       | Achat des noms de domaine balisenav.com et balisenav.fr                    | <2018-05-04 ven.> | C   |     |
-
+   |-----------+-----------------------+----------------------------------------------------------------------------+-------------------+-----|
+   | b@liseNAV |                       | Suite de l'API pour le SNI (Loader/Model)                                  | <2018-05-11 ven.> | P   |
+   | b@liseNAV |                       | Mini lib JS basée sur le modèle S-124-NIORD                                | <2018-05-11 ven.> | P   |
+   | b@liseNAV |                       | Mapping (partiel) entre les modèles Aladin et S-124-NIORD                  | <2018-05-11 ven.> | D   |
+   | b@liseNAV |                       | Mise en place d’une landing page sur balisenav.com                         | <2018-05-11 ven.> | P   |
 
 ** Suite
 
-- [M] :) Arnaud: vacances, j'oublie tout, plus rien à faire du tout!
-- [PC] :) Synthèse et documentation du rapprochement Aladin et S-57 (suite)
-- [P] :) Préparation et réalisation d’une API pour le SNI
-- [P] :) Mise en place d’une landing page sur balisenav.com
+- [PC] Synthèse et documentation du rapprochement Aladin et S-57 (bouclage)
+- [P] Interface Utilisateur pour compléter les messages Aladin mappés S-124-NIORD
+- [P] Suite de l'API pour le SNI (Instructions Nautiques/Sémantisation/Model)
 
 * BrigadeNumérique
 
@@ -525,11 +528,11 @@ un lien est ajouté.
    | EIG Node |          | Préparation de l'atelier d'écriture du 2 mai                                          | <2018-04-27 ven.> | P   |   |
    | EIG Node |          | Préparation motion design                                                             | <2018-04-27 ven.> | P   |   |
    |----------+----------+---------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Diffusion de l’appel à projets EIG 3                                                  | <2018-05-14 lun.> | P   |   |
-   | EIG Node |          | Préparation de la session DSI                                                         | <2018-05-14 lun.> | P   |   |
-   | EIG Node |          | Préparation de l’événement d’information EIG 3 du 15 mai                              | <2018-05-14 lun.> | P   |   |
-   | EIG Node |          | Bastien est en train de recevoir son ordinateur, grâce à super-Paul + on a reçu de... | <2018-05-14 lun.> | I   |   |
-   | EIG Node |          | On a réorganisé notre stand up interne pour plus de fluidité                          | <2018-05-14 lun.> | M   |   |
+   | EIG Node |          | Diffusion de l’appel à projets EIG 3                                                  | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Préparation de la session DSI                                                         | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Préparation de l’événement d’information EIG 3 du 15 mai                              | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Bastien est en train de recevoir son ordinateur, grâce à super-Paul + on a reçu de... | <2018-05-11 ven.> | I   |   |
+   | EIG Node |          | On a réorganisé notre stand up interne pour plus de fluidité                          | <2018-05-11 ven.> | M   |   |
 
 ** Suite
 
