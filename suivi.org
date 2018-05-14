@@ -806,6 +806,20 @@ un lien est ajouté.
    | Gobelins |                    | Récolte des photographies détenues par la com                                             | <2018-05-04 ven.> | D   |  1 |
    | Gobelins |                    | Finalisation par le service documentation de notre lexique de termes techniques (tap...   | <2018-05-04 ven.> | D   |  1 |
    | Gobelins |                    | Réception des contenus d’un projet des étudiants en Master, à intégrer à la plateforme.   | <2018-05-04 ven.> | D   |  1 |
+   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Maquettes                                                                                 | <2018-05-11 ven.> | P   |  1 |
+   | Gobelins |                    | Relevé d’incohérences et prises de contact avec les personnes concernées                  | <2018-05-11 ven.> | D   | -1 |
+   | Gobelins |                    | Point équipe sur les RDV à venir                                                          | <2018-05-11 ven.> | M   |  1 |
+   | Gobelins |                    | Organisation des RDV à venir                                                              | <2018-05-11 ven.> | M   |  1 |
+
+** Suite
+
+- [P] Maquettes
+- [D] Nettoyage des données + classification utilisateur (style des objets)
+- [M] RDV Direction
+- [M] RDV Organisation numérisation textile
+- [M] RDV DSI
+- [M] Prépa rencontre bureau de l’innovation, MCC
 
 * Hopkins
 
