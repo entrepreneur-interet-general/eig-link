@@ -299,13 +299,24 @@ un lien est ajouté.
    | BrigadeNumérique |          | Suivi déploiement de la plateforme de gestion de communication multicanal                         | <2018-04-22 dim.> | P   |
    | BrigadeNumérique |          | Déploiement du chat Easiwware sur les sites secondaire de la gendarmerie                          | <2018-04-22 dim.> | M   |
    | BrigadeNumérique |          | Préparation et animation (avec Soizic) de l’atelier pitch.                                        | <2018-04-22 dim.> | M   |
+   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
+   | BrigadeNumérique |          | Réunion cadrage sur l’outil de Prise de RdV (la 3ème avec DOE, CAB, STSISI...)                    | <2018-05-11 ven.> | M   |
+   | BrigadeNumérique |          | Rédaction de la note de cadrage avec un rétro-planning                                            | <2018-05-11 ven.> | C   |
+   | BrigadeNumérique |          | Atelier de faisabilité pour l’outil de Prise de RdV face aux contraintes planning                 | <2018-05-11 ven.> | PU  |
+   | BrigadeNumérique |          | Sensibilisation interne pour travailler en collaboration avec des développeurs STSI2              | <2018-05-11 ven.> | T   |
+   | BrigadeNumérique |          | Suivi projet ouverture horaires d’ouverture                                                       | <2018-05-11 ven.> | T   |
+   | BrigadeNumérique |          | Suivi hebdomadaire de l’activité BNum                                                             | <2018-05-11 ven.> | M   |
+   | BrigadeNumérique |          | Création de vidéos guides utilisateurs et administrateurs                                         | <2018-05-11 ven.> | M   |
+   | BrigadeNumérique |          | Retour sur les fondamentaux de développement JavaSript, HTML, CSS (pour JB)                       | <2018-05-11 ven.> | A   |
+   | BrigadeNumérique |          | Prise en main outils de reporting BNUM pour Mission du pilotage et de la performance              | <2018-05-11 ven.> | T   |
+   | BrigadeNumérique |          | Recette des correctifs, évolutions et suivi des livraisons plateformes de la BNum                 | <2018-05-11 ven.> | P   |
 
 ** Suite
 
-- [M] Réunion cadrage outil prise de RdV
-- [T] Suivi projet ouverture horaires d’ouverture
-- [M] Suivi de l’activité BNum. Écrire les guides utilisateurs et administrateurs.
-- [M] docs/articles à re-écrire. Article Etalab à soumettre.
+- [U] Maquettage du "débruitage" pour l'outil de prise de RdV
+- [M] Suivi hebdomadaire de l’activité BNum
+- [M] Suivi de projet des correctifs, évolutions plateformes de la BNum
+- [M] 9eme Copil Bnum
 
 * CoachÉlèves
 
