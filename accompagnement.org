@@ -40,15 +40,13 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 ** Session du 16 mai : pérennisation avec les DSI
 
-(Proposition à confirmer.)
-
 *** Quels sont les objectifs de la session ?
 
 1. Renforcer le *contact et la communication* entre les EIG et les DSI
    de leur administration d'accueil ;
 
-2. Permettre aux EIG et DSI *d'anticiper la mise en production* de leurs
-   projets.
+2. Permettre aux DSI, aux mentors et aux EIG *d'anticiper la mise en
+   production* de leurs projets.
 
 Le tout se fera en passant l'après-midi à définir :
 
@@ -69,29 +67,25 @@ L'équipe « EIG Node » d'Étalab.
 
 *** Quel déroulé pour la session ?
 
-1. *15h-15h20* : Accueil et présentation du déroulé de l'après-midi.
+1. *15h-16h* : Accueil et présentation du déroulé de l'après-midi.
+   Échanges autour de présentations des uns et des autres.
 
-2. *15h20-16h* : Définir le « quoi » : le représenter sous forme de
-   matrice Urgent/Important pour le logiciel et les données.
-
-3. *16h-16h40* : Définir la façon d'aborder les tâches urgentes et/ou
-   importantes, en répondant à trois questions :
+3. *16h-17h* : Lister et classer les actions pour le déploiement, la
+   transmission des connaissances, la fiabilisation de la mise en
+   production.  Garder en tête ces questions :
 
    1. Qui doit faire quoi quand ?
    2. Quels sont les contraintes et obstacles actuels ?
    3. Quel mode de communication entre EIG et DSI pour avancer ?
 
-4. *16h40-17h10* : Pause.
+4. *17h-17h30* : Pause.
 
-5. *17h10-17h50* : Construire une vision commune autour de deux
-   questions :
+6. *17h30-18h00* : Construire les frises chronologiques à 6 et 12 mois,
+   dialoguer autour d'une vision commune.
 
-   1. Où en sera le défi EIG dans 3 mois ? 6 mois ? Un an ? Deux ans ?
-   2. Où en sera la DSI dans 3 mois ? 6 mois ? Un an ? Deux ans ?
-
-6. *17h50-18h30* : Restitution : chaque défi présente le fruit de son
-   travail de l'après-midi en deux minutes : ce que la session a
-   apporté et la prochaine action.
+7. *18h-18h30* : Restitution collective : chaque défi présente le fruit
+   de son travail de l'après-midi en deux minutes : ce que la session
+   a apporté et la prochaine action.
 
 ** Session du 2 mai : « documentathon » / session libre
 
