@@ -676,14 +676,25 @@ un lien est ajouté.
    | EIG Link | Ouverture    | Organisation de l'événement wiki·data·gouv                   | <2018-05-11 ven.> | P   | 1 |
    | EIG Link | floss-helper | Lecture d'informations pour project floss-helper             | <2018-05-11 ven.> | AP  |   |
    | EIG Link | Datapad      | Début du prototype datapad                                   | <2018-05-11 ven.> | P   | 1 |
+   |----------+--------------+--------------------------------------------------------------+-------------------+-----+---|
+   | EIG Link |              | Atelier Open Source à Ségur                                  | <2018-05-18 ven.> | A   | 1 |
+   | EIG Link |              | Réunion d'information sur EIG au LLL                         | <2018-05-18 ven.> | A   | 1 |
+   | EIG Link |              | Préparation de la session du 16 mai                          | <2018-05-18 ven.> | M   |   |
+   | EIG Link |              | Suivi de contacts pour des idées EIG 3                       | <2018-05-18 ven.> | M   |   |
+   | EIG Link |              | Suivi des tâches pour le site v2                             | <2018-05-18 ven.> | M   |   |
+   | EIG Link |              | Suivi projet Wikipédia avec Gobelins                         | <2018-05-18 ven.> | M   |   |
+   | EIG Link |              | Organisation de l'Étalab talk du 4 juin                      | <2018-05-18 ven.> | MT  |   |
+   | EIG Link |              | Avancée sur l'entrée de blog sur le 16 mai                   | <2018-05-18 ven.> | P   |   |
+   | EIG Link |              | Session du 16 mai                                            | <2018-05-18 ven.> | P   | 1 |
+   | EIG Link |              | Atelier Internet Governance Forum                            | <2018-05-18 ven.> | T   |   |
+   | EIG Link |              | Premier Fridaylab : réparation https://agd.data.gouv.fr      | <2018-05-18 ven.> | T   | 1 |
 
 ** Suite
 
-- Réunion interne sur la cartographie des données à Étalab
-- Contribution à la sortie de la politique de contribution open source
-- Session d'information sur EIG 3 le 15 mai
-- Session d'accompagnement le 16 mai
-- Avancée sur Datapad
+- Participation à l'EIG Off sur le graphe
+- Session de revue de code
+- Avancer sur la cartographie des données
+- Avancer sur les entrées de blog
 
 * Gobelins
 
