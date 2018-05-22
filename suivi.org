@@ -108,13 +108,17 @@ un lien est ajouté.
    | Archifiltre |                        | Nouvelles optimisations de perfs                                            | <2018-05-11 ven.> | P   |
    | Archifiltre |                        | Ecriture d'un changelog                                                     | <2018-05-11 ven.> | C   |
    | Archifiltre |                        | Rencontre avec la documentation                                             | <2018-05-11 ven.> | U   |
+   |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
+   | Archifiltre |                        | Rencontre avec de potentiels utilisateurs de Stalactites pour diagnostic... | <2018-05-22 mar.> | U   |
+   | Archifiltre |                        | Présentation de Stalactites au Ministère des Armées (c'était une conf su... | <2018-05-22 mar.> | C   |
+   | Archifiltre | Stalactites v5         | Sortie de Stalactites v5 Elegant Elephant :)                                | <2018-05-22 mar.> | P   |
+   | Archifiltre |                        | Bases pour la v6 : optimisations de perf et améliorations d'UI              | <2018-05-22 mar.> | P   |
 
 
 ** Suite
 
-- Intervention au Ministère des Armées pour présenter le projet
-- Système de recherche et de filtrage (par tags par exemple) pour Stalactites
-- Publication de la v5 de Stalactites sur archifiltre.io
+- Une superbe formation sécurité du ministère, dans le but de débloquer nos badges bloqués depuis début mai.
+- Des features pour la v6 de Stalactites !
 
 * b@liseNAV
 
