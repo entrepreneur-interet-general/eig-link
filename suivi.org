@@ -1472,15 +1472,23 @@ un lien est ajouté.
    | Signaux Faibles |                   | Dispatch des visites d'entreprise.                                                                                       | <2018-04-27 ven.> | U   |  1 |
    | Signaux Faibles |                   | Récupération de l'ancien système de suivi de visite.                                                                     | <2018-04-27 ven.> | U   | -1 |
    | Signaux Faibles |                   | Clinique AdminSys                                                                                                        | <2018-04-27 ven.> | A   |  1 |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Signaux Faibles |                   | Déverminage suite à l'intégration des batches d'intégration dans le modèle de données                                    | <2018-05-18 ven.> | P   |    |
+   | Signaux Faibles |                   | Intégration des entreprises dans le modèle de données                                                                    | <2018-05-18 ven.> | P   |  1 |
+   | Signaux Faibles |                   | Rencontre Olivia Grégoire (député de Paris)                                                                              | <2018-05-18 ven.> | C   |  1 |
+   | Signaux Faibles |                   | Rencontre Rémi Rebeyrote (député de la saone et loire)                                                                   | <2018-05-18 ven.> | C   |  1 |
+   | Signaux Faibles |                   | Réunion bimestrielle signaux faibles en présentiel.                                                                      | <2018-05-18 ven.> | U   |  1 |
+   | Signaux Faibles |                   | Mesure des métriques de performance des versions l'algorithme                                                            | <2018-05-18 ven.> | P   |  1 |
+   | Signaux Faibles |                   | Méditation sur les suites de test à mettre en place                                                                      | <2018-05-18 ven.> | A   |    |
+   | Signaux Faibles |                   | Analyse de quelques menues informations saupoudrées par la DGFIP                                                         | <2018-05-18 ven.> | P   |    |
 
 ** Suite
 
-- [P] Finir de coder un client golang pour kanboard (https://github.com/chrnin/ganboard pour les curieux)
-- [D] Finaliser l'intégration de la base Sirène
-- [U] Dispatch des nouvelles prédictions d'avril
-- [U] Récupération de l'ancien système de suivi de visite. (il le faut !)
-- [A] Session d'accompagnement LLL
-- [AD] Faire tourner un convolutional neural network (merci Philéas !)
+- [U] Réunion de service des chargés de mission, participation de Christophe pour animer le pôle visite d'entreprises signaux-faibles
+- [P] Session d'intégration de nouvelles sources de données
+- [C] Echange téléphonique avec Nota PME
+- [P] test test test
+- [C] Reflexion sur la comparaison avec la prédiction DGFIP et construction d'arguments pour leur donner envie de travailler avec nous
 
 * SocialConnect
 
