@@ -109,8 +109,8 @@ un lien est ajouté.
    | Archifiltre |                        | Ecriture d'un changelog                                                     | <2018-05-11 ven.> | C   |
    | Archifiltre |                        | Rencontre avec la documentation                                             | <2018-05-11 ven.> | U   |
    |-------------+------------------------+-----------------------------------------------------------------------------+-------------------+-----|
-   | Archifiltre |                        | Rencontre avec de potentiels utilisateurs de Stalactites pour diagnostic... | <2018-05-22 mar.> | U   |
-   | Archifiltre |                        | Présentation de Stalactites au Ministère des Armées (c'était une conf su... | <2018-05-22 mar.> | C   |
+   | Archifiltre |                        | Rencontre avec de potentiels utilisateurs de Stalactites                    | <2018-05-22 mar.> | U   |
+   | Archifiltre |                        | Présentation de Stalactites au Ministère des Armées                         | <2018-05-22 mar.> | C   |
    | Archifiltre | Stalactites v5         | Sortie de Stalactites v5 Elegant Elephant :)                                | <2018-05-22 mar.> | P   |
    | Archifiltre |                        | Bases pour la v6 : optimisations de perf et améliorations d'UI              | <2018-05-22 mar.> | P   |
 
