@@ -4,11 +4,11 @@
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
 | 18-07-31 | [Entrée de blog sur les deux premiers EIG off ?]                               | Benoît/Julien/Bastien   |             |             |
 | 18-06-20 | [Les EIG et l'open source]                                                     | Bastien                 |             |             |
-| 18-06-15 | [Compte-rendu discussion sur l’apprentissage]                                  | Bastien                 |             |             |
+| 18-06-15 | [Compte-rendu discussion sur l’apprentissage]                                  | Bastien                 | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-15-comment-les-eig-apprennent.md][Github]]      |             |
 | 18-06-11 | [Entrée de blog d'Antoine ?]                                                   | Antoine                 |             |             |
 | 18-06-05 | [Ce que sont devenus les EIG 1]                                                | Bastien/Sophie          |             |             |
 | 18-05-28 | Être EIG [Entrée de blog Tiphaine - être un EIG ?]                             | Tiphaine                |             |             |
-| 18-05-25 | Retours sur la session d’accompagnement DSI                                    | Mathilde/Sophie/Bastien |  [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-05-24-atelier-dsi.md][Github]]           |             |
+| 18-05-25 | Retours sur la session d’accompagnement DSI                                    | Mathilde/Sophie/Bastien | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-05-24-atelier-dsi.md][Github]]      |             |
 | 18-05-23 | Facteurs clefs de succès                                                       | Soizic                  |             |             |
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
 | 18-04-25 | « Atelier product research » : retour sur les ateliers du 22 mars (3/3)        | Sophie                  | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-04-12-atelier-product-research.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/25/atelier-product-design/][Blog]]        |
