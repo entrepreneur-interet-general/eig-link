@@ -2,6 +2,7 @@
 
 |     Date | Titre                                                                          | Auteur                  | Lien github | Lien public |
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
+| 18-07-31 | [Entrée de blog sur les deux premiers EIG off ?]                               | Benoît/Julien/Bastien   |             |             |
 | 18-06-20 | [Les EIG et l'open source]                                                     | Bastien                 |             |             |
 | 18-06-15 | [Compte-rendu discussion sur l’apprentissage]                                  | Bastien                 |             |             |
 | 18-06-11 | [Entrée de blog d'Antoine ?]                                                   | Antoine                 |             |             |
