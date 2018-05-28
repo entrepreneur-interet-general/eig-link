@@ -14,59 +14,78 @@
 
 Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
-| Date       | EIG / Mentors | LLL       | Thématique                      | Objectifs                                              |
-|------------+---------------+-----------+---------------------------------+--------------------------------------------------------|
-| 22 février | Mentors seuls | Thomas    | Bootcamp mentors                | Rex mentors et construction programme                  |
-| 8 mars     | EIG seuls     | Marylène  | Feuille de route                | Vérifier que chaque défi est clair sur sa roadmap      |
-| 22 mars    | EIG + mentors | Quentin   | Utilisateurs                    | Concevoir un produit avec ses utilisateurs!            |
-| 5 avril    | EIG seuls     |           | « Clinique » Data               | Résoudre des problèmes liés aux données                |
-| 11 avril   | EIG + mentors | Quentin   | Communiquer, apprendre          | Mieux communiquer sur son défi, sur EIG ; apprendre    |
-| 2 mai      | EIG seuls     |           | Barcamp Documentathon           | Améliorer la documentation de son projet               |
-| 16 mai     | EIG + mentors |           | Pérennistation avec les DSI     | Anticiper la mise en production des solutions          |
-|------------+---------------+-----------+---------------------------------+--------------------------------------------------------|
-| *31 mai*   | *EIG seuls*   | *Quentin* | Revue de code et démonstrations | Avancer sur le frontend et préparer les démonstrations |
-| 14 juin    | EIG + mentors | Marylène  | Bilan à mi-parcours             |                                                        |
-| 21 juin    | EIG seuls     |           | Démos / Pitchs                  |                                                        |
-| 5 juillet  | EIG + mentors | Quentin   | Bilan technique à mi-parcours   | Établir un bilan et ajuster la feuille de route        |
-| 30 août    | EIG seuls     |           |                                 |                                                        |
-| 13 sept    | EIG + mentors |           |                                 |                                                        |
-| 27 sept    | EIG seuls     | Quentin   |                                 |                                                        |
-| 11 oct     | EIG + mentors | Quentin   |                                 |                                                        |
-| 25 oct     | EIG seuls     |           |                                 |                                                        |
-| 8 nov      | EIG + mentors |           |                                 |                                                        |
-| 22 nov     | EIG seuls     | Quentin   |                                 |                                                        |
+| Date       | EIG / Mentors | LLL        | Thématique                    | Objectifs                                           |
+|------------+---------------+------------+-------------------------------+-----------------------------------------------------|
+| 22 février | Mentors seuls | Thomas     | Bootcamp mentors              | Rex mentors et construction programme               |
+| 8 mars     | EIG seuls     | Marylène   | Feuille de route              | Vérifier que chaque défi est clair sur sa roadmap   |
+| 22 mars    | EIG + mentors | Quentin    | Utilisateurs                  | Concevoir un produit avec ses utilisateurs!         |
+| 5 avril    | EIG seuls     |            | « Clinique » Data             | Résoudre des problèmes liés aux données             |
+| 11 avril   | EIG + mentors | Quentin    | Communiquer, apprendre        | Mieux communiquer sur son défi, sur EIG ; apprendre |
+| 2 mai      | EIG seuls     |            | Barcamp Documentathon         | Améliorer la documentation de son projet            |
+|------------+---------------+------------+-------------------------------+-----------------------------------------------------|
+| *16 mai*     | *EIG + mentors* |            | *Pérennistation avec les DSI*   | *Anticiper la mise en production des solutions*       |
+| 31 mai     | EIG seuls     | Quentin    |                               |                                                     |
+| 14 juin    | EIG + mentors | Marylène | Bilan mi-parcours               |                                                     |
+| 21 juin    | EIG seuls     |            | Démos / Pitchs                |                                                     |
+| 5 juillet  | EIG + mentors | Quentin    | Bilan technique à mi-parcours | Établir un bilan et ajuster la feuille de route     |
+| 30 août    | EIG seuls     |            |                               |                                                     |
+| 13 sept    | EIG + mentors |            |                               |                                                     |
+| 27 sept    | EIG seuls     | Quentin    |                               |                                                     |
+| 11 oct     | EIG + mentors | Quentin    |                               |                                                     |
+| 25 oct     | EIG seuls     |            |                               |                                                     |
+| 8 nov      | EIG + mentors |            |                               |                                                     |
+| 22 nov     | EIG seuls     | Quentin    |                               |                                                     |
 
 * Présentation détaillée des sessions
-
-** Session du 31 mai : revue de code et préparation des démonstrations
-
-*** Quels sont les objectifs de la session ?
-*** Qui va animer ?
-*** Quel déroulé pour la session ?
 
 ** Session du 16 mai : pérennisation avec les DSI
 
 *** Quels sont les objectifs de la session ?
 
-Faire un atelier de revue de code pour les EIGs et préparer la session
-de démonstrations du 21 juin.
+1. Renforcer le *contact et la communication* entre les EIG et les DSI
+   de leur administration d'accueil ;
+
+2. Permettre aux DSI, aux mentors et aux EIG *d'anticiper la mise en
+   production* de leurs projets.
+
+Le tout se fera en passant l'après-midi à définir :
+
+- le /quoi/ : quels sont les sujets communs aux EIG et DSI ?  (Quelles
+  problématiques de devops, hébergement de code source, de données,
+  etc.)
+
+- le /comment/ : quelles actions à mener pour la mise en production et
+  selon quel calendrier ?
+
+- le /pourquoi/ : où en sera le défi dans deux ans ?  où en sera la DSI
+  dans deux ans ?  Quels sont les points de croisement des feuilles de
+  route ?  En quoi EIG et DSI travaillent à une vision commune ?
 
 *** Qui va animer ?
 
-Quentin et Bastien pour la partie revue de code et l'équipe EIG Node
-pour la partie démonstrations.
+L'équipe « EIG Node » d'Étalab.
 
 *** Quel déroulé pour la session ?
 
-1. *15h-15h15* : Accueil et présentation des ateliers.
+1. *15h-16h* : Accueil et présentation du déroulé de l'après-midi.
+   Échanges autour de présentations des uns et des autres.
 
-2. *15h15-16h30* : Première session.
+3. *16h-17h* : Lister et classer les actions pour le déploiement, la
+   transmission des connaissances, la fiabilisation de la mise en
+   production.  Garder en tête ces questions :
 
-3. *16h30-17h* : Pause.
+   1. Qui doit faire quoi quand ?
+   2. Quels sont les contraintes et obstacles actuels ?
+   3. Quel mode de communication entre EIG et DSI pour avancer ?
 
-4. *17h-18h15* : Deuxième session.
+4. *17h-17h30* : Pause.
 
-5. *18h15-18h30* : Restitution.
+6. *17h30-18h00* : Construire les frises chronologiques à 6 et 12 mois,
+   dialoguer autour d'une vision commune.
+
+7. *18h-18h30* : Restitution collective : chaque défi présente le fruit
+   de son travail de l'après-midi en deux minutes : ce que la session
+   a apporté et la prochaine action.
 
 ** Session du 2 mai : « documentathon » / session libre
 
