@@ -32,3 +32,34 @@
 - [[file:acronymes.org][Une liste d'acronymes utiles]]
 - [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][L’agenda « ouvert » des EIG]]
 # - [[file:faq.org][FAQ EIG]]
+* Maintenance
+
+Ce projet est maintenu par Bastien Guerry, EIG Link 2018.
+
+Pour toute question : =bastien.guerry@data.gouv.fr=
+
+* Contribution
+
+Ce dépôt est ouvert aux contributions - vous pouvez :
+
+- poser une question sur le contenu en ouvrant une issue ;
+
+- /forker/ le dépôt et envoyer des /pull request/ avec des propositions
+  d'amélioration ;
+
+- si vous êtes EIG, demander à être ajouté comme collaborateur pour
+  pouvoir contribuer directement au dépôt.
+
+Merci !
+
+* Licence
+
+© 2018 Direction interministérielle du numérique et du
+système d'information et de communication de l'État
+
+© 2018 Les contributeurs accessibles via l'historique du dépôt.
+
+Les contenus accessibles dans ce dépôt sont placés sous Licence
+Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
+libre de réutiliser les contenus de ce dépôt sous les conditions
+précisées dans cette licence.
