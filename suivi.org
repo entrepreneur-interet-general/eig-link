@@ -318,8 +318,8 @@ un lien est ajouté.
    | BrigadeNumérique |          | Réunions (avec decision positive) sur l'allocation de ressources gendarmerie (dev) nécessaires à l'implementation du projet prise de rendez-vous (RDV)   | <2018-05-25 ven.> | M   |   |
    | BrigadeNumérique |          | Décision hébergement outil de prise de RDV sur le site web principal de la gendarmerie                                                                   | <2018-05-25 ven.> | M   |   |
    | BrigadeNumérique |          | Evolutions de maquettes outil RDV                                                                                                                        | <2018-05-25 ven.> | T   |   |
-   | BrigadeNumérique |          | Fiche projet outil prise de RDV                                                                                                                          | <2018-05-25 ven.> | W   |   |
-   | BrigadeNumérique |          | Spécifications numérisation et publication des horaires d'accueil en brigade                                                                             | <2018-05-25 ven.> | W   |   |
+   | BrigadeNumérique |          | Fiche projet outil prise de RDV                                                                                                                          | <2018-05-25 ven.> | P   |   |
+   | BrigadeNumérique |          | Spécifications numérisation et publication des horaires d'accueil en brigade                                                                             | <2018-05-25 ven.> | P   |   |
    | BrigadeNumérique |          | Réunions création et publication des données sur l'accessibilité des personnes à mobilité réduite dans les unités de gendarmerie ("ok")                  | <2018-05-25 ven.> | M   |   |
    | BrigadeNumérique |          | Réunion Open Street Map                                                                                                                                  | <2018-05-25 ven.> | M   |   |
    | BrigadeNumérique |          | Réunion DICOM sur l'évolution du module "trouver ma brigade" situé sur le site web gendarmerie                                                           | <2018-05-25 ven.> | M   |   |
@@ -329,9 +329,9 @@ un lien est ajouté.
 
 ** Suite
 
-- [W] Spécifications EIG outil prise de RDV
-- [W] Évolution specs numérisation des horaires d'accueil en brigade
-- [W] Article pour le blog Etalab
+- [P] Spécifications EIG outil prise de RDV
+- [P] Évolution specs numérisation des horaires d'accueil en brigade
+- [P] Article pour le blog Etalab
 - [T] Évolutions des maquettes afin d'intégrer une page de débruitage qui renvoie vers les téléservices gendarmerie existants
 
 * CoachÉlèves
