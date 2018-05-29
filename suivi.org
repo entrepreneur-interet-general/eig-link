@@ -991,6 +991,16 @@ un lien est ajouté.
    | Hopkins |                         | MAJ dataiku + debuggage                                                                 | <2018-05-04 ven.> | P   |
    | Hopkins |                         | création dataset graph-explorer pour 2 autres pays                                      | <2018-05-04 ven.> | P   |
    | Hopkins |                         | (en cours) afficher la somme totale reçu par une personne sur graph-explorer            | <2018-05-04 ven.> | P   |
+   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Graphe                  | Réflexion et création d'un nouveau projet plus propre pour la création de graphe        | <2018-05-25 ven.> | P   |
+   | Hopkins | Graphe                  | MAJ données de graphes sur pays demandés par enquêteur                                  | <2018-05-25 ven.> | P   |
+   | Hopkins | Graphe                  | Détection de sous graphes suspects : étude des noeuds de top betweenness                | <2018-05-25 ven.> | P   |
+   | Hopkins |                         | Atelier graphes                                                                         | <2018-05-25 ven.> | A   |
+
+** Suite
+
+-[P] Réflexion et création d'un nouveau projet plus propre pour la création de graphe (suite et fin)
+-[P] Détection de sous graphes suspects : étude de l'intérêt de mesures de centralité
 
 * Lab Santé
 
