@@ -710,153 +710,162 @@ un lien est ajouté.
 - Suivi de propositions de défis EIG
 - Mettre en place les sauvegardes pour le serveur
 
-
 * Gobelins
 
 ** Dépôt
 
 ** Journal
 
-   | Défi     | Livrable           | Tâche                                                                                     | Fait le           | Cat |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | installation matériel                                                                     | <2018-02-15 jeu.> | I   |    |
-   | Gobelins |                    | visite des lieux                                                                          | <2018-02-15 jeu.> | I   |    |
-   | Gobelins |                    | Prise de RDV avec le personnel                                                            | <2018-02-15 jeu.> | U   |    |
-   | Gobelins |                    | Collecte ressources photo.                                                                | <2018-02-15 jeu.> | D   |    |
-   | Gobelins | Roadmap            | Phasage du projet                                                                         | <2018-02-15 jeu.> | M   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Lecture des analyses déjà réalisées par le MN                                             | <2018-02-23 ven.> | AI  |    |
-   | Gobelins |                    | Découverte de nouvelles sources de données                                                | <2018-02-23 ven.> | D   |    |
-   | Gobelins |                    | Récolte des vidéos, textes existants                                                      | <2018-02-23 ven.> | C   |    |
-   | Gobelins |                    | Réflexion sur outil pour com interne sur le projet                                        | <2018-02-23 ven.> | CM  |    |
-   | Gobelins |                    | Rencontre avec le prestataire s’occupant du logiciel de suivi                             | <2018-02-23 ven.> | MD  |    |
-   | Gobelins |                    | Accès au logiciel de suivi des collections                                                | <2018-02-23 ven.> | D   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Débrief mentor et présentation phasage du projet                                          | <2018-03-02 ven.> | M   |    |
-   | Gobelins |                    | Début d’organisation pour permettre l’opendata                                            | <2018-03-02 ven.> | T   |    |
-   | Gobelins |                    | Installation : j’ai la lumière                                                            | <2018-03-02 ven.> | I   |    |
-   | Gobelins |                    | Outil de sensibilisation à notre travail                                                  | <2018-03-02 ven.> | CM  |    |
-   | Gobelins |                    | Questionnaire pour les usagers internes au MN                                             | <2018-03-02 ven.> | U   |    |
-   | Gobelins |                    | Lecture des demandes d’usagers externes + Identification                                  | <2018-03-02 ven.> | U   |    |
-   | Gobelins |                    | Prise de contact avec outil similaire (CNAP)                                              | <2018-03-02 ven.> | UM  |    |
-   | Gobelins |                    | Prise de contact avec détenteurs autres base de données                                   | <2018-03-02 ven.> | DM  |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Récolte de la base de données principale (SCOM)                                           | <2018-03-09 ven.> | D   |    |
-   | Gobelins |                    | Obtention poste ministère et bientôt accès à l’outil de gestion des collections           | <2018-03-09 ven.> | I   |    |
-   | Gobelins |                    | Obtention / installation logiciels Adobe                                                  | <2018-03-09 ven.> | I   |    |
-   | Gobelins |                    | Formation à la tapisserie                                                                 | <2018-03-09 ven.> | A   |    |
-   | Gobelins |                    | Visites + interview + compte rendu                                                        | <2018-03-09 ven.> | U   |    |
-   | Gobelins |                    | Prise de RDV pour récolter la base de données textile                                     | <2018-03-09 ven.> | UD  |    |
-   | Gobelins |                    | Première ébauche pour la feuille de route                                                 | <2018-03-09 ven.> | M   |    |
-   | Gobelins |                    | Identification des personnes pour obtenir le nuancier informatisé                         | <2018-03-09 ven.> | U   |    |
-   | Gobelins |                    | Organisation du suivi de projet avec la direction                                         | <2018-03-09 ven.> | M   |    |
-   | Gobelins |                    | première approche sur l’ouverture des données                                             | <2018-03-09 ven.> | M   |    |
-   | Gobelins |                    | Identification des contacts au CNAP ayant participé à la mise en ligne des œuvres         | <2018-03-09 ven.> | UM  |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Analyse éléments graphiques existants / rencontre Com’ pour usages charte graphique       | <2018-03-16 ven.> | U   |    |
-   | Gobelins |                    | Initiation de la Com’ à Google Analytics                                                  | <2018-03-16 ven.> | T   |    |
-   | Gobelins |                    | Prise de contact avec l’Institut des Métiers d’Art (INMA)                                 | <2018-03-16 ven.> | D   |    |
-   | Gobelins |                    | Visite de la réserve du Mobilier National (localisation secrète en Ile-de-France).        | <2018-03-16 ven.> | D   |    |
-   | Gobelins |                    | Revue de code Open Scraper                                                                | <2018-03-16 ven.> | M   |    |
-   | Gobelins |                    | Revue de design : communication projet (avec Social Connect)                              | <2018-03-16 ven.> | M   |    |
-   | Gobelins |                    | Découverte de la BDD des travaux (restaurations, prestataires, etc)                       | <2018-03-16 ven.> | D   |    |
-   | Gobelins |                    | Réalisation d’affiches de sensibilisation interne au projet                               | <2018-03-16 ven.> | C   |    |
-   | Gobelins |                    | Poursuite du travail de cadrage du projet                                                 | <2018-03-16 ven.> | M   |    |
-   | Gobelins |                    | Installation de l'accès à SCOM, réseau local & serveur fichiers                           | <2018-03-16 ven.> | I   |    |
-   | Gobelins |                    | Première approche du modèle de données SCOM, lecture de documentation                     | <2018-03-16 ven.> | D   |    |
-   | Gobelins |                    | Premières réflexions sur l'architecture des données entrantes                             | <2018-03-16 ven.> | D   |    |
-   | Gobelins |                    | Rencontres: service tapisserie de décor contemporain                                      | <2018-03-16 ven.> | U   |    |
-   | Gobelins |                    | Laurie a suivi une formation au tissage 😸                                                | <2018-03-16 ven.> | A   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Roadmap fonctionnelle (macro) sur les 10 mois                                             | <2018-03-23 ven.> | M   |    |
-   | Gobelins |                    | Tentative de cadrage de suivi de projet avec l’équipe élargie                             | <2018-03-23 ven.> | M   |    |
-   | Gobelins |                    | Précision des utilisateurs                                                                | <2018-03-23 ven.> | U   |    |
-   | Gobelins |                    | Premières étapes de nettoyage des données de la base principale                           | <2018-03-23 ven.> | D   |    |
-   | Gobelins |                    | Prise de contact informelle avec tous les membres des équipes DSI                         | <2018-03-23 ven.> | TM  |    |
-   | Gobelins |                    | Flux de données: première approche de l’automatisation des exports entre le MN et la DSI. | <2018-03-23 ven.> | TM  |    |
-   | Gobelins |                    | Définition stack avec DSI: PHP, JS client-side only, Ansible pour gestion de config       | <2018-03-23 ven.> | TM  |    |
-   | Gobelins |                    | Définition de la collaboration avec les étudiants de masters (récolte de contenus)        | <2018-03-23 ven.> | D   |    |
-   | Gobelins |                    | Préparation Atelier UX/UI                                                                 | <2018-03-23 ven.> | A   |    |
-   | Gobelins |                    | Signalétique bureau + présentation projet                                                 | <2018-03-23 ven.> | C   |    |
-   | Gobelins |                    | Obtention « base de données » textiles + aides techniques envisagées                      | <2018-03-23 ven.> | D   |    |
-   | Gobelins |                    | Récolte besoins service ameublement                                                       | <2018-03-23 ven.> | U   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Propositions de nettoyage des thesaurus de la base SCOM                                   | <2018-03-30 ven.> | D   |    |
-   | Gobelins |                    | Poursuite de l’étude du schéma de SCOM, la BDD legacy                                     | <2018-03-30 ven.> | D   |    |
-   | Gobelins |                    | Début du modèle de donnée d’une API pour SCOM                                             | <2018-03-30 ven.> | D   |    |
-   | Gobelins |                    | Réunion avec le responsable SCOM pour automatisation des exports                          | <2018-03-30 ven.> | D   |    |
-   | Gobelins |                    | Autoformation sur le framework Laravel.                                                   | <2018-03-30 ven.> | A   |    |
-   | Gobelins |                    | Analyse des courriers d’utilisateurs                                                      | <2018-03-30 ven.> | U   |    |
-   | Gobelins |                    | Finalisation des personnas                                                                | <2018-03-30 ven.> | U   |    |
-   | Gobelins |                    | Planification réunion avec direction                                                      | <2018-03-30 ven.> | M   |    |
-   | Gobelins |                    | Benchmark des plateformes similaires                                                      | <2018-03-30 ven.> | U   |    |
-   | Gobelins |                    | Récolte contenus sur les ateliers / métiers                                               | <2018-03-30 ven.> | D   |    |
-   | Gobelins |                    | Retours utilisateurs avec les inspecteurs                                                 | <2018-03-30 ven.> | M   |    |
-   | Gobelins |                    | Création d’une team motivée pour la rédac de contenus scientifiques                       | <2018-03-30 ven.> | M   |    |
-   | Gobelins |                    | Première étape avec l’équipe responsable des textiles                                     | <2018-03-30 ven.> | M   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Avancée sur l’outil d’ETL et son API REST                                                 | <2018-04-06 ven.> | T   |  1 |
-   | Gobelins |                    | Cours ENSCI, plus prise de RDV Anthony Masure, plateforme collecta, ENSCI                 | <2018-04-06 ven.> | A   |  1 |
-   | Gobelins | Classification     | Classification des objets pour l’usager (en cours)                                        | <2018-04-06 ven.> | U   |  1 |
-   | Gobelins | Architecture macro | première ébauche                                                                          | <2018-04-06 ven.> | P   |  1 |
-   | Gobelins | Roadmap            | Validation par nos 2 mentors                                                              | <2018-04-06 ven.> | M   |  1 |
-   | Gobelins | Personas           | Validation avec nos 2 mentors                                                             | <2018-04-06 ven.> | U   |  1 |
-   | Gobelins |                    | Validation roadmap + personas avec le directeur du MN annulée                             | <2018-04-06 ven.> | MU  | -1 |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Classification des objets en cours, vision utilisateur                                    | <2018-04-14 sam.> | DU  |  1 |
-   | Gobelins |                    | Wireframes MVP en cours                                                                   | <2018-04-14 sam.> | P   |  1 |
-   | Gobelins |                    | Formation captation de l’attention + design éthique                                       | <2018-04-14 sam.> | A   |  1 |
-   | Gobelins |                    | Contact « DA » du MN (droits typos)                                                       | <2018-04-14 sam.> | M   |  1 |
-   | Gobelins |                    | Rencontre Google art et culture, pour partenariat                                         | <2018-04-14 sam.> | M   |  1 |
-   | Gobelins |                    | Quantification de l’effort logistique pour la campagne photographique                     | <2018-04-14 sam.> | M   |    |
-   | Gobelins |                    | Poursuite du remodelage des données SCOM pour l’API Rest                                  | <2018-04-14 sam.> | P   |    |
-   | Gobelins |                    | RDV avec le directeur du MN pour prise de décision annulé                                 | <2018-04-14 sam.> | M   | -1 |
-   | Gobelins |                    | Contact juridique Étalab pour le droit des images                                         | <2018-04-14 sam.> | D   |    |
-   | Gobelins |                    | On a un téléphone dans nos bureaux !                                                      | <2018-04-14 sam.> | I   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Plan d’attaque campagne photo + doc pour direction                                        | <2018-04-20 ven.> | MP  |    |
-   | Gobelins |                    | Wireframes                                                                                | <2018-04-20 ven.> | UP  |    |
-   | Gobelins |                    | Classification objet pour utilisateur + retour régie                                      | <2018-04-20 ven.> | UP  |    |
-   | Gobelins |                    | Communauté d’intérêt (inspecteur + régie des collections)                                 | <2018-04-20 ven.> | M   |    |
-   | Gobelins |                    | Droit des agents + thesaurus + écosystème avec Bastien                                    | <2018-04-20 ven.> | A   |    |
-   | Gobelins |                    | Droits typo / validation Com                                                              | <2018-04-20 ven.> | MC  |    |
-   | Gobelins |                    | Quick win : intégration des photos dans la BDD Textiles (inspecteurs)                     | <2018-04-20 ven.> | T   |    |
-   | Gobelins |                    | Obtention et exploitation d’un schéma graphique de SCOM                                   | <2018-04-20 ven.> | D   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Classification des matériaux pour utilisateur                                             | <2018-04-27 ven.> | UP  |  1 |
-   | Gobelins |                    | Maquette MVP (en cours)                                                                   | <2018-04-27 ven.> | P   |    |
-   | Gobelins |                    | Validation avec la direction des différentes campagnes de prises de vues (Interne + ...   | <2018-04-27 ven.> | M   |    |
-   | Gobelins |                    | Échange avec Maud Choquet + Bruno Ricard sur le droit des agents publics et les contra... | <2018-04-27 ven.> | M   |    |
-   | Gobelins |                    | Motivation de la personne se chargeant de la manutention pour la numérisation             | <2018-04-27 ven.> | M   |    |
-   | Gobelins |                    | Réservation de la photographe interne pour les fonds « arts graphique »                   | <2018-04-27 ven.> | M   |    |
-   | Gobelins |                    | Prise de RDV avec le bureau de l’innovation, ministère de la culture                      | <2018-04-27 ven.> | M   |    |
-   | Gobelins |                    | Tentatives infructueuses de mettre en place un export automatisé de la base SCOM          | <2018-04-27 ven.> | D   | -1 |
-   | Gobelins |                    | Prise de contact avec la société en charge de la maintenance de la base SCOM              | <2018-04-27 ven.> | D   |    |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Maquettes                                                                                 | <2018-05-04 ven.> | P   |  1 |
-   | Gobelins |                    | Recherches autour de l’intégration de la base du nuancier (base NIMES)                    | <2018-05-04 ven.> | D   |    |
-   | Gobelins |                    | Échanges/réunions autour des partenariats possibles pour la campagne photo (Google A...   | <2018-05-04 ven.> | M   |  1 |
-   | Gobelins |                    | Procédure amiable de récupération du domaine mobiliernational.fr via l’AFNIC (obtent...   | <2018-05-04 ven.> | M   |  1 |
-   | Gobelins |                    | Droits photographiques : encore des échanges et prises de contacts avec les acteurs ...   | <2018-05-04 ven.> | M   |  1 |
-   | Gobelins |                    | Prise de contact avec prestataire de la BDD legacy pour mise en place de l’export auto... | <2018-05-04 ven.> | M   |    |
-   | Gobelins |                    | Prises de contacts pour la définition d’un corpus pour la campagne photo                  | <2018-05-04 ven.> | M   |    |
-   | Gobelins |                    | Récolte des photographies détenues par la com                                             | <2018-05-04 ven.> | D   |  1 |
-   | Gobelins |                    | Finalisation par le service documentation de notre lexique de termes techniques (tap...   | <2018-05-04 ven.> | D   |  1 |
-   | Gobelins |                    | Réception des contenus d’un projet des étudiants en Master, à intégrer à la plateforme.   | <2018-05-04 ven.> | D   |  1 |
-   |----------+--------------------+-------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Maquettes                                                                                 | <2018-05-11 ven.> | P   |  1 |
-   | Gobelins |                    | Relevé d’incohérences et prises de contact avec les personnes concernées                  | <2018-05-11 ven.> | D   | -1 |
-   | Gobelins |                    | Point équipe sur les RDV à venir                                                          | <2018-05-11 ven.> | M   |  1 |
-   | Gobelins |                    | Organisation des RDV à venir                                                              | <2018-05-11 ven.> | M   |  1 |
+   | Défi     | Livrable           | Tâche                                                                                                | Fait le           | Cat |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | installation matériel                                                                                | <2018-02-15 jeu.> | I   |    |
+   | Gobelins |                    | visite des lieux                                                                                     | <2018-02-15 jeu.> | I   |    |
+   | Gobelins |                    | Prise de RDV avec le personnel                                                                       | <2018-02-15 jeu.> | U   |    |
+   | Gobelins |                    | Collecte ressources photo.                                                                           | <2018-02-15 jeu.> | D   |    |
+   | Gobelins | Roadmap            | Phasage du projet                                                                                    | <2018-02-15 jeu.> | M   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Lecture des analyses déjà réalisées par le MN                                                        | <2018-02-23 ven.> | AI  |    |
+   | Gobelins |                    | Découverte de nouvelles sources de données                                                           | <2018-02-23 ven.> | D   |    |
+   | Gobelins |                    | Récolte des vidéos, textes existants                                                                 | <2018-02-23 ven.> | C   |    |
+   | Gobelins |                    | Réflexion sur outil pour com interne sur le projet                                                   | <2018-02-23 ven.> | CM  |    |
+   | Gobelins |                    | Rencontre avec le prestataire s’occupant du logiciel de suivi                                        | <2018-02-23 ven.> | MD  |    |
+   | Gobelins |                    | Accès au logiciel de suivi des collections                                                           | <2018-02-23 ven.> | D   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Débrief mentor et présentation phasage du projet                                                     | <2018-03-02 ven.> | M   |    |
+   | Gobelins |                    | Début d’organisation pour permettre l’opendata                                                       | <2018-03-02 ven.> | T   |    |
+   | Gobelins |                    | Installation : j’ai la lumière                                                                       | <2018-03-02 ven.> | I   |    |
+   | Gobelins |                    | Outil de sensibilisation à notre travail                                                             | <2018-03-02 ven.> | CM  |    |
+   | Gobelins |                    | Questionnaire pour les usagers internes au MN                                                        | <2018-03-02 ven.> | U   |    |
+   | Gobelins |                    | Lecture des demandes d’usagers externes + Identification                                             | <2018-03-02 ven.> | U   |    |
+   | Gobelins |                    | Prise de contact avec outil similaire (CNAP)                                                         | <2018-03-02 ven.> | UM  |    |
+   | Gobelins |                    | Prise de contact avec détenteurs autres base de données                                              | <2018-03-02 ven.> | DM  |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Récolte de la base de données principale (SCOM)                                                      | <2018-03-09 ven.> | D   |    |
+   | Gobelins |                    | Obtention poste ministère et bientôt accès à l’outil de gestion des collections                      | <2018-03-09 ven.> | I   |    |
+   | Gobelins |                    | Obtention / installation logiciels Adobe                                                             | <2018-03-09 ven.> | I   |    |
+   | Gobelins |                    | Formation à la tapisserie                                                                            | <2018-03-09 ven.> | A   |    |
+   | Gobelins |                    | Visites + interview + compte rendu                                                                   | <2018-03-09 ven.> | U   |    |
+   | Gobelins |                    | Prise de RDV pour récolter la base de données textile                                                | <2018-03-09 ven.> | UD  |    |
+   | Gobelins |                    | Première ébauche pour la feuille de route                                                            | <2018-03-09 ven.> | M   |    |
+   | Gobelins |                    | Identification des personnes pour obtenir le nuancier informatisé                                    | <2018-03-09 ven.> | U   |    |
+   | Gobelins |                    | Organisation du suivi de projet avec la direction                                                    | <2018-03-09 ven.> | M   |    |
+   | Gobelins |                    | première approche sur l’ouverture des données                                                        | <2018-03-09 ven.> | M   |    |
+   | Gobelins |                    | Identification des contacts au CNAP ayant participé à la mise en ligne des œuvres                    | <2018-03-09 ven.> | UM  |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Analyse éléments graphiques existants / rencontre Com’ pour usages charte graphique                  | <2018-03-16 ven.> | U   |    |
+   | Gobelins |                    | Initiation de la Com’ à Google Analytics                                                             | <2018-03-16 ven.> | T   |    |
+   | Gobelins |                    | Prise de contact avec l’Institut des Métiers d’Art (INMA)                                            | <2018-03-16 ven.> | D   |    |
+   | Gobelins |                    | Visite de la réserve du Mobilier National (localisation secrète en Ile-de-France).                   | <2018-03-16 ven.> | D   |    |
+   | Gobelins |                    | Revue de code Open Scraper                                                                           | <2018-03-16 ven.> | M   |    |
+   | Gobelins |                    | Revue de design : communication projet (avec Social Connect)                                         | <2018-03-16 ven.> | M   |    |
+   | Gobelins |                    | Découverte de la BDD des travaux (restaurations, prestataires, etc)                                  | <2018-03-16 ven.> | D   |    |
+   | Gobelins |                    | Réalisation d’affiches de sensibilisation interne au projet                                          | <2018-03-16 ven.> | C   |    |
+   | Gobelins |                    | Poursuite du travail de cadrage du projet                                                            | <2018-03-16 ven.> | M   |    |
+   | Gobelins |                    | Installation de l'accès à SCOM, réseau local & serveur fichiers                                      | <2018-03-16 ven.> | I   |    |
+   | Gobelins |                    | Première approche du modèle de données SCOM, lecture de documentation                                | <2018-03-16 ven.> | D   |    |
+   | Gobelins |                    | Premières réflexions sur l'architecture des données entrantes                                        | <2018-03-16 ven.> | D   |    |
+   | Gobelins |                    | Rencontres: service tapisserie de décor contemporain                                                 | <2018-03-16 ven.> | U   |    |
+   | Gobelins |                    | Laurie a suivi une formation au tissage 😸                                                           | <2018-03-16 ven.> | A   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Roadmap fonctionnelle (macro) sur les 10 mois                                                        | <2018-03-23 ven.> | M   |    |
+   | Gobelins |                    | Tentative de cadrage de suivi de projet avec l’équipe élargie                                        | <2018-03-23 ven.> | M   |    |
+   | Gobelins |                    | Précision des utilisateurs                                                                           | <2018-03-23 ven.> | U   |    |
+   | Gobelins |                    | Premières étapes de nettoyage des données de la base principale                                      | <2018-03-23 ven.> | D   |    |
+   | Gobelins |                    | Prise de contact informelle avec tous les membres des équipes DSI                                    | <2018-03-23 ven.> | TM  |    |
+   | Gobelins |                    | Flux de données: première approche de l’automatisation des exports entre le MN et la DSI.            | <2018-03-23 ven.> | TM  |    |
+   | Gobelins |                    | Définition stack avec DSI: PHP, JS client-side only, Ansible pour gestion de config                  | <2018-03-23 ven.> | TM  |    |
+   | Gobelins |                    | Définition de la collaboration avec les étudiants de masters (récolte de contenus)                   | <2018-03-23 ven.> | D   |    |
+   | Gobelins |                    | Préparation Atelier UX/UI                                                                            | <2018-03-23 ven.> | A   |    |
+   | Gobelins |                    | Signalétique bureau + présentation projet                                                            | <2018-03-23 ven.> | C   |    |
+   | Gobelins |                    | Obtention « base de données » textiles + aides techniques envisagées                                 | <2018-03-23 ven.> | D   |    |
+   | Gobelins |                    | Récolte besoins service ameublement                                                                  | <2018-03-23 ven.> | U   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Propositions de nettoyage des thesaurus de la base SCOM                                              | <2018-03-30 ven.> | D   |    |
+   | Gobelins |                    | Poursuite de l’étude du schéma de SCOM, la BDD legacy                                                | <2018-03-30 ven.> | D   |    |
+   | Gobelins |                    | Début du modèle de donnée d’une API pour SCOM                                                        | <2018-03-30 ven.> | D   |    |
+   | Gobelins |                    | Réunion avec le responsable SCOM pour automatisation des exports                                     | <2018-03-30 ven.> | D   |    |
+   | Gobelins |                    | Autoformation sur le framework Laravel.                                                              | <2018-03-30 ven.> | A   |    |
+   | Gobelins |                    | Analyse des courriers d’utilisateurs                                                                 | <2018-03-30 ven.> | U   |    |
+   | Gobelins |                    | Finalisation des personnas                                                                           | <2018-03-30 ven.> | U   |    |
+   | Gobelins |                    | Planification réunion avec direction                                                                 | <2018-03-30 ven.> | M   |    |
+   | Gobelins |                    | Benchmark des plateformes similaires                                                                 | <2018-03-30 ven.> | U   |    |
+   | Gobelins |                    | Récolte contenus sur les ateliers / métiers                                                          | <2018-03-30 ven.> | D   |    |
+   | Gobelins |                    | Retours utilisateurs avec les inspecteurs                                                            | <2018-03-30 ven.> | M   |    |
+   | Gobelins |                    | Création d’une team motivée pour la rédac de contenus scientifiques                                  | <2018-03-30 ven.> | M   |    |
+   | Gobelins |                    | Première étape avec l’équipe responsable des textiles                                                | <2018-03-30 ven.> | M   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Avancée sur l’outil d’ETL et son API REST                                                            | <2018-04-06 ven.> | T   |  1 |
+   | Gobelins |                    | Cours ENSCI, plus prise de RDV Anthony Masure, plateforme collecta, ENSCI                            | <2018-04-06 ven.> | A   |  1 |
+   | Gobelins | Classification     | Classification des objets pour l’usager (en cours)                                                   | <2018-04-06 ven.> | U   |  1 |
+   | Gobelins | Architecture macro | première ébauche                                                                                     | <2018-04-06 ven.> | P   |  1 |
+   | Gobelins | Roadmap            | Validation par nos 2 mentors                                                                         | <2018-04-06 ven.> | M   |  1 |
+   | Gobelins | Personas           | Validation avec nos 2 mentors                                                                        | <2018-04-06 ven.> | U   |  1 |
+   | Gobelins |                    | Validation roadmap + personas avec le directeur du MN annulée                                        | <2018-04-06 ven.> | MU  | -1 |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Classification des objets en cours, vision utilisateur                                               | <2018-04-14 sam.> | DU  |  1 |
+   | Gobelins |                    | Wireframes MVP en cours                                                                              | <2018-04-14 sam.> | P   |  1 |
+   | Gobelins |                    | Formation captation de l’attention + design éthique                                                  | <2018-04-14 sam.> | A   |  1 |
+   | Gobelins |                    | Contact « DA » du MN (droits typos)                                                                  | <2018-04-14 sam.> | M   |  1 |
+   | Gobelins |                    | Rencontre Google art et culture, pour partenariat                                                    | <2018-04-14 sam.> | M   |  1 |
+   | Gobelins |                    | Quantification de l’effort logistique pour la campagne photographique                                | <2018-04-14 sam.> | M   |    |
+   | Gobelins |                    | Poursuite du remodelage des données SCOM pour l’API Rest                                             | <2018-04-14 sam.> | P   |    |
+   | Gobelins |                    | RDV avec le directeur du MN pour prise de décision annulé                                            | <2018-04-14 sam.> | M   | -1 |
+   | Gobelins |                    | Contact juridique Étalab pour le droit des images                                                    | <2018-04-14 sam.> | D   |    |
+   | Gobelins |                    | On a un téléphone dans nos bureaux !                                                                 | <2018-04-14 sam.> | I   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Plan d’attaque campagne photo + doc pour direction                                                   | <2018-04-20 ven.> | MP  |    |
+   | Gobelins |                    | Wireframes                                                                                           | <2018-04-20 ven.> | UP  |    |
+   | Gobelins |                    | Classification objet pour utilisateur + retour régie                                                 | <2018-04-20 ven.> | UP  |    |
+   | Gobelins |                    | Communauté d’intérêt (inspecteur + régie des collections)                                            | <2018-04-20 ven.> | M   |    |
+   | Gobelins |                    | Droit des agents + thesaurus + écosystème avec Bastien                                               | <2018-04-20 ven.> | A   |    |
+   | Gobelins |                    | Droits typo / validation Com                                                                         | <2018-04-20 ven.> | MC  |    |
+   | Gobelins |                    | Quick win : intégration des photos dans la BDD Textiles (inspecteurs)                                | <2018-04-20 ven.> | T   |    |
+   | Gobelins |                    | Obtention et exploitation d’un schéma graphique de SCOM                                              | <2018-04-20 ven.> | D   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Classification des matériaux pour utilisateur                                                        | <2018-04-27 ven.> | UP  |  1 |
+   | Gobelins |                    | Maquette MVP (en cours)                                                                              | <2018-04-27 ven.> | P   |    |
+   | Gobelins |                    | Validation avec la direction des différentes campagnes de prises de vues (Interne + ...              | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Échange avec Maud Choquet + Bruno Ricard sur le droit des agents publics et les contra...            | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Motivation de la personne se chargeant de la manutention pour la numérisation                        | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Réservation de la photographe interne pour les fonds « arts graphique »                              | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Prise de RDV avec le bureau de l’innovation, ministère de la culture                                 | <2018-04-27 ven.> | M   |    |
+   | Gobelins |                    | Tentatives infructueuses de mettre en place un export automatisé de la base SCOM                     | <2018-04-27 ven.> | D   | -1 |
+   | Gobelins |                    | Prise de contact avec la société en charge de la maintenance de la base SCOM                         | <2018-04-27 ven.> | D   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Maquettes                                                                                            | <2018-05-04 ven.> | P   |  1 |
+   | Gobelins |                    | Recherches autour de l’intégration de la base du nuancier (base NIMES)                               | <2018-05-04 ven.> | D   |    |
+   | Gobelins |                    | Échanges/réunions autour des partenariats possibles pour la campagne photo (Google A...              | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Procédure amiable de récupération du domaine mobiliernational.fr via l’AFNIC (obtent...              | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Droits photographiques : encore des échanges et prises de contacts avec les acteurs ...              | <2018-05-04 ven.> | M   |  1 |
+   | Gobelins |                    | Prise de contact avec prestataire de la BDD legacy pour mise en place de l’export auto...            | <2018-05-04 ven.> | M   |    |
+   | Gobelins |                    | Prises de contacts pour la définition d’un corpus pour la campagne photo                             | <2018-05-04 ven.> | M   |    |
+   | Gobelins |                    | Récolte des photographies détenues par la com                                                        | <2018-05-04 ven.> | D   |  1 |
+   | Gobelins |                    | Finalisation par le service documentation de notre lexique de termes techniques (tap...              | <2018-05-04 ven.> | D   |  1 |
+   | Gobelins |                    | Réception des contenus d’un projet des étudiants en Master, à intégrer à la plateforme.              | <2018-05-04 ven.> | D   |  1 |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Maquettes                                                                                            | <2018-05-11 ven.> | P   |  1 |
+   | Gobelins |                    | Relevé d’incohérences et prises de contact avec les personnes concernées                             | <2018-05-11 ven.> | D   | -1 |
+   | Gobelins |                    | Point équipe sur les RDV à venir                                                                     | <2018-05-11 ven.> | M   |  1 |
+   | Gobelins |                    | Organisation des RDV à venir                                                                         | <2018-05-11 ven.> | M   |  1 |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Slides pour présentation du projet et point d’étape                                                  | <2018-05-25 ven.> | C   |  1 |
+   | Gobelins |                    | Réunion avec direction innovation du MCC + Étalab + mentors (15 personnes)                           | <2018-05-25 ven.> | M   |  1 |
+   | Gobelins |                    | Réunion/réflexion sur la pérennisation du projet (horizon 2-3 ans)                                   | <2018-05-25 ven.> | M   |  1 |
+   | Gobelins |                    | Maquettes                                                                                            | <2018-05-25 ven.> | P   |  1 |
+   | Gobelins |                    | Réflexion UX sur la recherche (autocomplete, multi-critères)                                         | <2018-05-25 ven.> | U   |    |
+   | Gobelins |                    | Complété la tâche d’import et mapping des données SCOM                                               | <2018-05-25 ven.> | P   |  1 |
+   | Gobelins |                    | Réflexion sur notre stratégie éditoriale pour la valorisation des savoir-faire                       | <2018-05-25 ven.> | MU  |  1 |
+   | Gobelins |                    | Classification objet en cours de vérification par les inspecteurs, classification style validée      | <2018-05-25 ven.> | DU  |  1 |
+   | Gobelins |                    | Démarrage de la procédure litigieuse SYRELI (AFNIC) pour récupération du domaine mobiliernational.fr | <2018-05-25 ven.> | M   | 1  |
 
 ** Suite
 
+- [M] RDV Google + responsable des réserves textiles pour organisation
+- [M] Validation par le MCC de la convention Google
+- [MD] Définition des thématiques de travail pour les wikimédiens
 - [P] Maquettes
-- [D] Nettoyage des données + classification utilisateur (style des objets)
-- [M] RDV Direction
-- [M] RDV Organisation numérisation textile
-- [M] RDV DSI
-- [M] Prépa rencontre bureau de l’innovation, MCC
+- [MU] Points avec les mentors sur la valorisation des savoir-faire
+- [P] Intégration Elasticsearch
 
 * Hopkins
 
