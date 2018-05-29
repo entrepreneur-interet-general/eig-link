@@ -14,27 +14,27 @@
 
 Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
-| Date       | EIG / Mentors | LLL       | Thématique                      | Objectifs                                              |
-|------------+---------------+-----------+---------------------------------+--------------------------------------------------------|
-| 22 février | Mentors seuls | Thomas    | Bootcamp mentors                | Rex mentors et construction programme                  |
-| 8 mars     | EIG seuls     | Marylène  | Feuille de route                | Vérifier que chaque défi est clair sur sa roadmap      |
-| 22 mars    | EIG + mentors | Quentin   | Utilisateurs                    | Concevoir un produit avec ses utilisateurs!            |
-| 5 avril    | EIG seuls     |           | « Clinique » Data               | Résoudre des problèmes liés aux données                |
-| 11 avril   | EIG + mentors | Quentin   | Communiquer, apprendre          | Mieux communiquer sur son défi, sur EIG ; apprendre    |
-| 2 mai      | EIG seuls     |           | Barcamp Documentathon           | Améliorer la documentation de son projet               |
-| 16 mai     | EIG + mentors |           | Pérennistation avec les DSI     | Anticiper la mise en production des solutions          |
-|------------+---------------+-----------+---------------------------------+--------------------------------------------------------|
-| *31 mai*   | *EIG seuls*   | *Quentin* | Revue de code et démonstrations | Avancer sur le frontend et préparer les démonstrations |
-| 14 juin    | EIG + mentors | Marylène  | Bilan à mi-parcours et possible pitch de Latitudes            |                                                        |
-| 21 juin    | EIG seuls     |           | Démos / Pitchs                  |                                                        |
-| 5 juillet  | EIG + mentors | Quentin   | Bilan technique à mi-parcours   | Établir un bilan et ajuster la feuille de route        |
-| 30 août    | EIG seuls     |           |                                 |                                                        |
-| 13 sept    | EIG + mentors |           |                                 |                                                        |
-| 27 sept    | EIG seuls     | Quentin   |                                 |                                                        |
-| 11 oct     | EIG + mentors | Quentin   |                                 |                                                        |
-| 25 oct     | EIG seuls     |           |                                 |                                                        |
-| 8 nov      | EIG + mentors |           |                                 |                                                        |
-| 22 nov     | EIG seuls     | Quentin   |                                 |                                                        |
+| Date       | EIG / Mentors | LLL      | Thématique                                         | Objectifs                                              |
+|------------+---------------+----------+----------------------------------------------------+--------------------------------------------------------|
+| 22 février | Mentors seuls | Thomas   | Bootcamp mentors                                   | Rex mentors et construction programme                  |
+| 8 mars     | EIG seuls     | Marylène | Feuille de route                                   | Vérifier que chaque défi est clair sur sa roadmap      |
+| 22 mars    | EIG + mentors | Quentin  | Utilisateurs                                       | Concevoir un produit avec ses utilisateurs!            |
+| 5 avril    | EIG seuls     |          | « Clinique » Data                                  | Résoudre des problèmes liés aux données                |
+| 11 avril   | EIG + mentors | Quentin  | Communiquer, apprendre                             | Mieux communiquer sur son défi, sur EIG ; apprendre    |
+| 2 mai      | EIG seuls     |          | Barcamp Documentathon                              | Améliorer la documentation de son projet               |
+| 16 mai     | EIG + mentors |          | Pérennistation avec les DSI                        | Anticiper la mise en production des solutions          |
+|------------+---------------+----------+----------------------------------------------------+--------------------------------------------------------|
+| *31 mai*     | *EIG seuls*     | *Quentin*  | Revue de code et démonstrations                    | Avancer sur le frontend et préparer les démonstrations |
+| 14 juin    | EIG + mentors | Marylène | Bilan à mi-parcours et possible pitch de Latitudes |                                                        |
+| 21 juin    | EIG seuls     |          | Démos / Pitchs                                     |                                                        |
+| 5 juillet  | EIG + mentors | Quentin  | Bilan technique à mi-parcours                      | Établir un bilan et ajuster la feuille de route        |
+| 30 août    | EIG seuls     |          |                                                    |                                                        |
+| 13 sept    | EIG + mentors |          |                                                    |                                                        |
+| 27 sept    | EIG seuls     | Quentin  |                                                    |                                                        |
+| 11 oct     | EIG + mentors | Quentin  |                                                    |                                                        |
+| 25 oct     | EIG seuls     |          |                                                    |                                                        |
+| 8 nov      | EIG + mentors |          |                                                    |                                                        |
+| 22 nov     | EIG seuls     | Quentin  |                                                    |                                                        |
 
 * Présentation détaillée des sessions
 
