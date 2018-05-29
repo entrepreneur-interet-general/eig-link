@@ -473,18 +473,22 @@ un lien est ajouté.
    | DataESR |                           | Réunion interne sur la 2e brique de l’app :  Les laboratoires                                         | <2018-04-20 ven.> | C   |
    | DataESR | Modèle                    | Analyse et publication d'un premier modèle pour classer 4 classes basé sur la nomenclature SCOPUS     | <2018-04-20 ven.> | P   |
    | DataESR | Modèle                    | Test de Fasttext (plus rapide à sortir un modèle)                                                     | <2018-04-20 ven.> | P   |
+   |---------+---------------------------+-------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | DataESR |                           | Préparation pour mettre le code sur le repo du MESRI                                                  | <2018-05-25 ven.> | C   |
+   | DataESR |                           | Ajout de fonctionnalité d’import / export de données                                                  | <2018-05-25 ven.> | P   |
+   | DataESR |                           | Rédaction des ReadMe et de documentations d’archi                                                     | <2018-05-25 ven.> | D   |
+   | DataESR |                           | Amélioration de l’UX suivant premiers retours utilisateurs                                            | <2018-05-25 ven.> | P   |
+   | DataESR |                           | Publication code part of speech pour le FR version 0.2.1                                              | <2018-05-25 ven.> | P   |
+   | DataESR |                           | Réception des données de la base PascalFrancis (publis scientifiques)                                 | <2018-05-25 ven.> | D   |
+   | DataESR |                           | Sami se bat pour réinstaller ubuntu sur une machine après un gros fail                                | <2018-05-25 ven.> | X   |
 
 ** Suite
 
-- [P] {Front app - Etablissement} Intégration des rattachements, des types d'établissements et dernières finalisations de la page
-- [P] {Front app - Search Page} Mettre en place la pagination côté front
-- [D] {Données wikipédia} Extension à plusieurs classes basées sur des catégories wikipédia
-- [P] {API} Normaliser les erreurs
-- [P] {data} Remplir la DB avec la BCE
-- [P] {test} Vérifier le test coverage
-- [C] Demoday interne !
-- [P] {Modèle} Analyse des résultats des modèles de DL (qui prennent leur temps)
-- [P] {Modèle} Continuer à essayer fasttext sur plus de classes
+- [P] Approfondissement de l’algo de gestion des conflits
+- [P] Tenter de déployer sur la VM d’Etalab
+- [P] Base du microservice de récupération d’info depuis la base SIREN
+- [P] Preprocessing de la base PascalFrancis
+- [D] Rédaction d'un design pour le workflow de traitement de texte
 
 * EIG Node
 
