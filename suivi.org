@@ -241,86 +241,98 @@ un lien est ajouté.
 ** Dépôt
 ** Journal
 
-   | Défi             | Livrable | Tâche                                                                                             | Fait le           | Cat |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                                                             | <2018-02-16 ven.> | M   |
-   | BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs                                    | <2018-02-16 ven.> | MCR |
-   | BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                                                    | <2018-02-16 ven.> | C   |
-   | BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                                                       | <2018-02-16 ven.> | U   |
-   | BrigadeNumérique |          | Mise en place de KanBoard                                                                         | <2018-02-16 ven.> | PM  |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation                                               | <2018-02-23 ven.> | P   |
-   | BrigadeNumérique |          | ​RDV DINSIC pour premier contact avec FranceConnect                                                | <2018-02-23 ven.> | M   |
-   | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV                                                 | <2018-02-23 ven.> | U   |
-   | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction                                                | <2018-02-23 ven.> | P   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Tests sur l'accueil numérique de la gendarmerie                                                   | <2018-03-02 ven.> | P   |
-   | BrigadeNumérique |          | Organisation de la venue du Ministre de l'intérieur                                               | <2018-03-02 ven.> | CM  |
-   | BrigadeNumérique |          | Investigation approfondie des settings de VLC player                                              | <2018-03-02 ven.> | A   |
-   | BrigadeNumérique |          | Contact avec France connect                                                                       | <2018-03-02 ven.> | M   |
-   | BrigadeNumérique |          | RDV avec le service API de la Gendarmerie                                                         | <2018-03-02 ven.> | M   |
-   | BrigadeNumérique |          | Prise de contact avec la développeuse de Pulsar                                                   | <2018-03-02 ven.> | M   |
-   | BrigadeNumérique |          | Atelier sur les processus concerné par la prise de RV en ligne                                    | <2018-03-02 ven.> | P   |
-   | BrigadeNumérique |          | Voyage à Rennes pour un RV avec les magistrats                                                    | <2018-03-02 ven.> | M   |
-   | BrigadeNumérique |          | Premières maquettes de l'outil de RV                                                              | <2018-03-02 ven.> | P   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Présentation du projet de prise de RdV avec le dpt processus internes de la gendarmerie           | <2018-03-09 ven.> | C   |
-   | BrigadeNumérique |          | Rencontre du bureau de la mobilité et de la proximité numérique                                   | <2018-03-09 ven.> | M   |
-   | BrigadeNumérique |          | Tests des évolutions intégrées dans l'accueil numérique                                           | <2018-03-09 ven.> | M   |
-   | BrigadeNumérique |          | Intégration du chat sur les différentes sites de la gendarmerie                                   | <2018-03-09 ven.> | M   |
-   | BrigadeNumérique |          | Évolution des maquettes                                                                           | <2018-03-09 ven.> | P   |
-   | BrigadeNumérique |          | Réunion sur la refonte du logiciel de messagerie et agenda par la section travail collaboratif    | <2018-03-09 ven.> | S   |
-   | BrigadeNumérique |          | Investigation sur la possibilité d'interfaçage avec l'outil de prise de RdV                       | <2018-03-09 ven.> | S   |
-   | BrigadeNumérique |          | Réunion au CROGend pour définir le procès de la BNum en cas de crise                              | <2018-03-09 ven.> | T   |
-   | BrigadeNumérique |          | Planification journée de rencontre avec groupe de gendarmes pour cadrer l'outil de prise de RdV   | <2018-03-09 ven.> | U   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Rencontre DILA pour téléservice Violences S. (utilisation d’EasiWare)                             | <2018-03-16 ven.> | C   |
-   | BrigadeNumérique |          | Présentation du projet de prise de RdV à la DILA                                                  | <2018-03-16 ven.> | C   |
-   | BrigadeNumérique |          | Rencontre 100% Contacts Efficaces (SGMAP)                                                         | <2018-03-16 ven.> | C   |
-   | BrigadeNumérique |          | Finalisation d'un premier jeu de proposition de maquette                                          | <2018-03-16 ven.> | P   |
-   | BrigadeNumérique |          | Retro-ingénering des UseCases EasiWare suite à l'évolution de la doctrine                         | <2018-03-16 ven.> | M   |
-   | BrigadeNumérique |          | Réunion ST(SI)2 pour les 2 sujets : Transmission des horaires de brigades + Outil de prise de RdV | <2018-03-16 ven.> | M   |
-   | BrigadeNumérique |          | Réunion technique EasiWare                                                                        | <2018-03-16 ven.> | M   |
-   | BrigadeNumérique |          | Découpage des besoins UX/UI                                                                       | <2018-03-16 ven.> | U   |
-   | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                | <2018-03-16 ven.> | M   |
-   | BrigadeNumérique |          | Intégration du chat sur les différentes sites de la gendarmerie                                   | <2018-03-16 ven.> | M   |
-   | BrigadeNumérique |          | Echange avec la seule designer de la DGGN                                                         | <2018-03-16 ven.> | C   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Organisation et conception atelier de définition de l’outil de RdV                                | <2018-03-27 mar.> | M   |
-   | BrigadeNumérique |          | Atelier OpenLab FranceConnect #10                                                                 | <2018-03-27 mar.> | C   |
-   | BrigadeNumérique |          | Participation à la session LLL                                                                    | <2018-03-27 mar.> | A   |
-   | BrigadeNumérique |          | Définir process de transmission des données horaire de brigade (DGGN, Dila, DataGouv, Platefor... | <2018-03-27 mar.> | M   |
-   | BrigadeNumérique |          | Participation au Comité de pilotage de la BNum (Brigade Numérique)                                | <2018-03-27 mar.> | M   |
-   | BrigadeNumérique |          | Rencontre de l’équipe UX EasiWare                                                                 | <2018-03-27 mar.> | M   |
-   | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                | <2018-03-27 mar.> | M   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Réunions (3 au total: Dila, police) sur la plateforme commune gendarmerie-police dédiée aux vi... | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Réunions et cadrage du projet de mise en ligne des horaires d’accueil des brigades de gendarme... | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Travail sur l’article pour de l’inauguration de la BNum.                                          | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Travail d’écriture du doc de cadrage de l’outil de prise de RdV.                                  | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Point licences et projet avec Bastien.                                                            | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Atelier centré base de données et développement de l’outil de prise de RdV.                       | <2018-04-22 dim.> | P   |
-   | BrigadeNumérique |          | Suivi déploiement de la plateforme de gestion de communication multicanal                         | <2018-04-22 dim.> | P   |
-   | BrigadeNumérique |          | Déploiement du chat Easiwware sur les sites secondaire de la gendarmerie                          | <2018-04-22 dim.> | M   |
-   | BrigadeNumérique |          | Préparation et animation (avec Soizic) de l’atelier pitch.                                        | <2018-04-22 dim.> | M   |
-   |------------------+----------+---------------------------------------------------------------------------------------------------+-------------------+-----|
-   | BrigadeNumérique |          | Réunion cadrage sur l’outil de Prise de RdV (la 3ème avec DOE, CAB, STSISI...)                    | <2018-05-11 ven.> | M   |
-   | BrigadeNumérique |          | Rédaction de la note de cadrage avec un rétro-planning                                            | <2018-05-11 ven.> | C   |
-   | BrigadeNumérique |          | Atelier de faisabilité pour l’outil de Prise de RdV face aux contraintes planning                 | <2018-05-11 ven.> | PU  |
-   | BrigadeNumérique |          | Sensibilisation interne pour travailler en collaboration avec des développeurs STSI2              | <2018-05-11 ven.> | T   |
-   | BrigadeNumérique |          | Suivi projet ouverture horaires d’ouverture                                                       | <2018-05-11 ven.> | T   |
-   | BrigadeNumérique |          | Suivi hebdomadaire de l’activité BNum                                                             | <2018-05-11 ven.> | M   |
-   | BrigadeNumérique |          | Création de vidéos guides utilisateurs et administrateurs                                         | <2018-05-11 ven.> | M   |
-   | BrigadeNumérique |          | Retour sur les fondamentaux de développement JavaSript, HTML, CSS (pour JB)                       | <2018-05-11 ven.> | A   |
-   | BrigadeNumérique |          | Prise en main outils de reporting BNUM pour Mission du pilotage et de la performance              | <2018-05-11 ven.> | T   |
-   | BrigadeNumérique |          | Recette des correctifs, évolutions et suivi des livraisons plateformes de la BNum                 | <2018-05-11 ven.> | P   |
+   | Défi             | Livrable | Tâche                                                                                                                                                    | Fait le           | Cat |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | ​Copil mensuel de la Brigade Numérique​                                                                                                                    | <2018-02-16 ven.> | M   |   |
+   | BrigadeNumérique |          | ​Atelier de cadrage projet pour définir les besoins ​applicatifs                                                                                           | <2018-02-16 ven.> | MCR |   |
+   | BrigadeNumérique |          | Préparer un pitch pour le Ministre d'intérieur                                                                                                           | <2018-02-16 ven.> | C   |   |
+   | BrigadeNumérique |          | Rencontre des acteurs technico-fonctionnels                                                                                                              | <2018-02-16 ven.> | U   |   |
+   | BrigadeNumérique |          | Mise en place de KanBoard                                                                                                                                | <2018-02-16 ven.> | PM  |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | ​Pondre les premières maquettes et cas d'utilisation                                                                                                      | <2018-02-23 ven.> | P   |   |
+   | BrigadeNumérique |          | ​RDV DINSIC pour premier contact avec FranceConnect                                                                                                       | <2018-02-23 ven.> | M   |   |
+   | BrigadeNumérique |          | Atelier avec département qui définit prise de RdV                                                                                                        | <2018-02-23 ven.> | U   |   |
+   | BrigadeNumérique |          | Recette/Validation suite à la livraison/correction                                                                                                       | <2018-02-23 ven.> | P   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Tests sur l'accueil numérique de la gendarmerie                                                                                                          | <2018-03-02 ven.> | P   |   |
+   | BrigadeNumérique |          | Organisation de la venue du Ministre de l'intérieur                                                                                                      | <2018-03-02 ven.> | CM  |   |
+   | BrigadeNumérique |          | Investigation approfondie des settings de VLC player                                                                                                     | <2018-03-02 ven.> | A   |   |
+   | BrigadeNumérique |          | Contact avec France connect                                                                                                                              | <2018-03-02 ven.> | M   |   |
+   | BrigadeNumérique |          | RDV avec le service API de la Gendarmerie                                                                                                                | <2018-03-02 ven.> | M   |   |
+   | BrigadeNumérique |          | Prise de contact avec la développeuse de Pulsar                                                                                                          | <2018-03-02 ven.> | M   |   |
+   | BrigadeNumérique |          | Atelier sur les processus concerné par la prise de RV en ligne                                                                                           | <2018-03-02 ven.> | P   |   |
+   | BrigadeNumérique |          | Voyage à Rennes pour un RV avec les magistrats                                                                                                           | <2018-03-02 ven.> | M   |   |
+   | BrigadeNumérique |          | Premières maquettes de l'outil de RV                                                                                                                     | <2018-03-02 ven.> | P   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Présentation du projet de prise de RdV avec le dpt processus internes de la gendarmerie                                                                  | <2018-03-09 ven.> | C   |   |
+   | BrigadeNumérique |          | Rencontre du bureau de la mobilité et de la proximité numérique                                                                                          | <2018-03-09 ven.> | M   |   |
+   | BrigadeNumérique |          | Tests des évolutions intégrées dans l'accueil numérique                                                                                                  | <2018-03-09 ven.> | M   |   |
+   | BrigadeNumérique |          | Intégration du chat sur les différentes sites de la gendarmerie                                                                                          | <2018-03-09 ven.> | M   |   |
+   | BrigadeNumérique |          | Évolution des maquettes                                                                                                                                  | <2018-03-09 ven.> | P   |   |
+   | BrigadeNumérique |          | Réunion sur la refonte du logiciel de messagerie et agenda par la section travail collaboratif                                                           | <2018-03-09 ven.> | S   |   |
+   | BrigadeNumérique |          | Investigation sur la possibilité d'interfaçage avec l'outil de prise de RdV                                                                              | <2018-03-09 ven.> | S   |   |
+   | BrigadeNumérique |          | Réunion au CROGend pour définir le procès de la BNum en cas de crise                                                                                     | <2018-03-09 ven.> | T   |   |
+   | BrigadeNumérique |          | Planification journée de rencontre avec groupe de gendarmes pour cadrer l'outil de prise de RdV                                                          | <2018-03-09 ven.> | U   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Rencontre DILA pour téléservice Violences S. (utilisation d’EasiWare)                                                                                    | <2018-03-16 ven.> | C   |   |
+   | BrigadeNumérique |          | Présentation du projet de prise de RdV à la DILA                                                                                                         | <2018-03-16 ven.> | C   |   |
+   | BrigadeNumérique |          | Rencontre 100% Contacts Efficaces (SGMAP)                                                                                                                | <2018-03-16 ven.> | C   |   |
+   | BrigadeNumérique |          | Finalisation d'un premier jeu de proposition de maquette                                                                                                 | <2018-03-16 ven.> | P   |   |
+   | BrigadeNumérique |          | Retro-ingénering des UseCases EasiWare suite à l'évolution de la doctrine                                                                                | <2018-03-16 ven.> | M   |   |
+   | BrigadeNumérique |          | Réunion ST(SI)2 pour les 2 sujets : Transmission des horaires de brigades + Outil de prise de RdV                                                        | <2018-03-16 ven.> | M   |   |
+   | BrigadeNumérique |          | Réunion technique EasiWare                                                                                                                               | <2018-03-16 ven.> | M   |   |
+   | BrigadeNumérique |          | Découpage des besoins UX/UI                                                                                                                              | <2018-03-16 ven.> | U   |   |
+   | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                                                                       | <2018-03-16 ven.> | M   |   |
+   | BrigadeNumérique |          | Intégration du chat sur les différentes sites de la gendarmerie                                                                                          | <2018-03-16 ven.> | M   |   |
+   | BrigadeNumérique |          | Echange avec la seule designer de la DGGN                                                                                                                | <2018-03-16 ven.> | C   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Organisation et conception atelier de définition de l’outil de RdV                                                                                       | <2018-03-27 mar.> | M   |   |
+   | BrigadeNumérique |          | Atelier OpenLab FranceConnect #10                                                                                                                        | <2018-03-27 mar.> | C   |   |
+   | BrigadeNumérique |          | Participation à la session LLL                                                                                                                           | <2018-03-27 mar.> | A   |   |
+   | BrigadeNumérique |          | Définir process de transmission des données horaire de brigade (DGGN, Dila, DataGouv, Platefor...                                                        | <2018-03-27 mar.> | M   |   |
+   | BrigadeNumérique |          | Participation au Comité de pilotage de la BNum (Brigade Numérique)                                                                                       | <2018-03-27 mar.> | M   |   |
+   | BrigadeNumérique |          | Rencontre de l’équipe UX EasiWare                                                                                                                        | <2018-03-27 mar.> | M   |   |
+   | BrigadeNumérique |          | Réunion hebdo MNGN                                                                                                                                       | <2018-03-27 mar.> | M   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Réunions (3 au total: Dila, police) sur la plateforme commune gendarmerie-police dédiée aux vi...                                                        | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Réunions et cadrage du projet de mise en ligne des horaires d’accueil des brigades de gendarme...                                                        | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Travail sur l’article pour de l’inauguration de la BNum.                                                                                                 | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Travail d’écriture du doc de cadrage de l’outil de prise de RdV.                                                                                         | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Point licences et projet avec Bastien.                                                                                                                   | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Atelier centré base de données et développement de l’outil de prise de RdV.                                                                              | <2018-04-22 dim.> | P   |   |
+   | BrigadeNumérique |          | Suivi déploiement de la plateforme de gestion de communication multicanal                                                                                | <2018-04-22 dim.> | P   |   |
+   | BrigadeNumérique |          | Déploiement du chat Easiwware sur les sites secondaire de la gendarmerie                                                                                 | <2018-04-22 dim.> | M   |   |
+   | BrigadeNumérique |          | Préparation et animation (avec Soizic) de l’atelier pitch.                                                                                               | <2018-04-22 dim.> | M   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Réunion cadrage sur l’outil de Prise de RdV (la 3ème avec DOE, CAB, STSISI...)                                                                           | <2018-05-11 ven.> | M   |   |
+   | BrigadeNumérique |          | Rédaction de la note de cadrage avec un rétro-planning                                                                                                   | <2018-05-11 ven.> | C   |   |
+   | BrigadeNumérique |          | Atelier de faisabilité pour l’outil de Prise de RdV face aux contraintes planning                                                                        | <2018-05-11 ven.> | PU  |   |
+   | BrigadeNumérique |          | Sensibilisation interne pour travailler en collaboration avec des développeurs STSI2                                                                     | <2018-05-11 ven.> | T   |   |
+   | BrigadeNumérique |          | Suivi projet ouverture horaires d’ouverture                                                                                                              | <2018-05-11 ven.> | T   |   |
+   | BrigadeNumérique |          | Suivi hebdomadaire de l’activité BNum                                                                                                                    | <2018-05-11 ven.> | M   |   |
+   | BrigadeNumérique |          | Création de vidéos guides utilisateurs et administrateurs                                                                                                | <2018-05-11 ven.> | M   |   |
+   | BrigadeNumérique |          | Retour sur les fondamentaux de développement JavaSript, HTML, CSS (pour JB)                                                                              | <2018-05-11 ven.> | A   |   |
+   | BrigadeNumérique |          | Prise en main outils de reporting BNUM pour Mission du pilotage et de la performance                                                                     | <2018-05-11 ven.> | T   |   |
+   | BrigadeNumérique |          | Recette des correctifs, évolutions et suivi des livraisons plateformes de la BNum                                                                        | <2018-05-11 ven.> | P   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Réunions (avec decision positive) sur l'allocation de ressources gendarmerie (dev) nécessaires à l'implementation du projet prise de rendez-vous (RDV)   | <2018-05-25 ven.> | M   |   |
+   | BrigadeNumérique |          | Décision hébergement outil de prise de RDV sur le site web principal de la gendarmerie                                                                   | <2018-05-25 ven.> | M   |   |
+   | BrigadeNumérique |          | Evolutions de maquettes outil RDV                                                                                                                        | <2018-05-25 ven.> | T   |   |
+   | BrigadeNumérique |          | Fiche projet outil prise de RDV                                                                                                                          | <2018-05-25 ven.> | W   |   |
+   | BrigadeNumérique |          | Spécifications numérisation et publication des horaires d'accueil en brigade                                                                             | <2018-05-25 ven.> | W   |   |
+   | BrigadeNumérique |          | Réunions création et publication des données sur l'accessibilité des personnes à mobilité réduite dans les unités de gendarmerie ("ok")                  | <2018-05-25 ven.> | M   |   |
+   | BrigadeNumérique |          | Réunion Open Street Map                                                                                                                                  | <2018-05-25 ven.> | M   |   |
+   | BrigadeNumérique |          | Réunion DICOM sur l'évolution du module "trouver ma brigade" situé sur le site web gendarmerie                                                           | <2018-05-25 ven.> | M   |   |
+   | BrigadeNumérique |          | Conception et mise en place d'un plan d'integration des 100 Fb Messengers des groupements de gendarmerie dans l'interface de la Brigade numérique (BNum) | <2018-05-25 ven.> | G   |   |
+   | BrigadeNumérique |          | Evolutions de la plateforme d'accueil numérique (création d'une page chat sur le site web de la gendarmerie, integration de 10 comptes Fb Messenger)     | <2018-05-25 ven.> | T   |   |
+   | BrigadeNumérique |          | Automatisation d'une partie du reporting hebdomadaire de la BNum (au revoir feuille excel pour l'édition des camemberts)                                 | <2018-05-25 ven.> | T   |   |
 
 ** Suite
 
-- [U] Maquettage du "débruitage" pour l'outil de prise de RdV
-- [M] Suivi hebdomadaire de l’activité BNum
-- [M] Suivi de projet des correctifs, évolutions plateformes de la BNum
-- [M] 9eme Copil Bnum
+- [W] Spécifications EIG outil prise de RDV
+- [W] Évolution specs numérisation des horaires d'accueil en brigade
+- [W] Article pour le blog Etalab
+- [T] Évolutions des maquettes afin d'intégrer une page de débruitage qui renvoie vers les téléservices gendarmerie existants
 
 * CoachÉlèves
 
@@ -574,7 +586,6 @@ un lien est ajouté.
 - [M] Préparation session bilan mi-parcours du 14/06
 - [T] Démarchage défis EIG3
 - [T] Travail sur partenariat de recherche
-
 
 * EIG Link
 
