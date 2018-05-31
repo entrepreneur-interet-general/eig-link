@@ -62,9 +62,9 @@ défis EIG.
 ** Stack
 
 - Langages principaux: R et python
-- Librairies: 
- - python: pandas, scikit-learn, BeautifulSoup, Selenium
- - R: data.table, dplyr, rvest, shiny, plotly
+- Librairies:
+  - python: pandas, scikit-learn, BeautifulSoup, Selenium
+  - R: data.table, dplyr, rvest, shiny, plotly
 
 ** Outils de développement
 
@@ -80,6 +80,7 @@ défis EIG.
 - A compléter
 
 * PrédiSauvetage
+
 ** Stack
 
 - Datascience : Python 3, pandas, numpy, PostgreSQL
@@ -89,6 +90,7 @@ défis EIG.
 - Cartographie : Leaflet
 
 ** Outils de développement
+
 - Sublime Text
 - CircleCI
 
@@ -115,7 +117,6 @@ défis EIG.
 - Application standalone pour faire tourner les modèles?
 - Application standalone pour la carto?
 - Outil de génération de différent scénario pour les features dites "variables" (meteo par exemple)?
-
 
 * TODO Signaux Faibles
 
