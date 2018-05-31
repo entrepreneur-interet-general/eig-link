@@ -95,6 +95,12 @@ de démonstrations du 21 juin.
 Quentin et Bastien pour la partie revue de code et l'équipe EIG Node
 pour la partie démonstrations.
 
+Pour la revue de code, ce sera "open bar" : venez avec votre code et
+posez-nous vos questions.
+
+Pour la préparation des démos, les défis se mettront par groupe de
+deux pour préparer les démos de façon interactive.
+
 *** Quel déroulé pour la session ?
 
 1. *15h-15h15* : Accueil et présentation des ateliers.
