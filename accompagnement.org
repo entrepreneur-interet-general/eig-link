@@ -14,27 +14,26 @@
 
 Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
-| Date                    | EIG / Mentors   | LLL        | Thématique                      | Objectifs                                                    | "After"                        |
-|-------------------------+-----------------+------------+---------------------------------+--------------------------------------------------------------+--------------------------------|
-| 22 février              | Mentors seuls   | Thomas     | Bootcamp mentors                | Rex mentors et construction programme                        |                                |
-| 8 mars                  | EIG seuls       | Marylène   | Feuille de route                | Vérifier que chaque défi est clair sur sa roadmap            |                                |
-| 22 mars                 | EIG + mentors   | Quentin    | Utilisateurs                    | Concevoir un produit avec ses utilisateurs!                  |                                |
-| 5 avril                 | EIG seuls       |            | « Clinique » Data               | Résoudre des problèmes liés aux données                      |                                |
-| 11 avril                | EIG + mentors   | Quentin    | Communiquer, apprendre          | Mieux communiquer sur son défi, sur EIG ; apprendre          |                                |
-| 2 mai                   | EIG seuls       |            | Barcamp Documentathon           | Améliorer la documentation de son projet                     |                                |
-| 16 mai                  | EIG + mentors   |            | Pérennistation avec les DSI     | Anticiper la mise en production des solutions                |                                |
-| 31 mai                  | EIG seuls       | Quentin    | Revue de code et démonstrations | Avancer sur le frontend et préparer les démonstrations       |                                |
-|-------------------------+-----------------+------------+---------------------------------+--------------------------------------------------------------+--------------------------------|
-| 14 juin                 | *EIG + mentors* | *Marylène* | *Bilan à mi-parcours*           | *Faire un point EIG+mentors sur les feuilles de route*       | *Présentation de latitudes.cc* |
-| 21 juin                 | EIG seuls       |            | "Demo Day" (rue du Caire)       | Faire un point sur les projets et nous entraîner à présenter |                                |
-| 5 juillet (à confirmer) | EIG + mentors   |            |                                 |                                                              |                                |
-| 30 août                 | EIG seuls       |            |                                 |                                                              |                                |
-| 13 sept                 | EIG + mentors   |            |                                 |                                                              |                                |
-| 27 sept                 | EIG seuls       | Quentin    |                                 |                                                              |                                |
-| 11 oct                  | EIG + mentors   | Quentin    |                                 |                                                              |                                |
-| 25 oct                  | EIG seuls       |            |                                 |                                                              |                                |
-| 8 nov                   | EIG + mentors   |            |                                 |                                                              |                                |
-| 22 nov                  | EIG seuls       | Quentin    |                                 |                                                              |                                |
+| Date       | EIG / Mentors | LLL      | Thématique                      | Objectifs                                                    | "After"                      |
+|------------+---------------+----------+---------------------------------+--------------------------------------------------------------+------------------------------|
+| 22 février | Mentors seuls | Thomas   | Bootcamp mentors                | Rex mentors et construction programme                        |                              |
+| 8 mars     | EIG seuls     | Marylène | Feuille de route                | Vérifier que chaque défi est clair sur sa roadmap            |                              |
+| 22 mars    | EIG + mentors | Quentin  | Utilisateurs                    | Concevoir un produit avec ses utilisateurs!                  |                              |
+| 5 avril    | EIG seuls     |          | « Clinique » Data               | Résoudre des problèmes liés aux données                      |                              |
+| 11 avril   | EIG + mentors | Quentin  | Communiquer, apprendre          | Mieux communiquer sur son défi, sur EIG ; apprendre          |                              |
+| 2 mai      | EIG seuls     |          | Barcamp Documentathon           | Améliorer la documentation de son projet                     |                              |
+| 16 mai     | EIG + mentors |          | Pérennistation avec les DSI     | Anticiper la mise en production des solutions                |                              |
+| 31 mai     | EIG seuls     | Quentin  | Revue de code et démonstrations | Avancer sur le frontend et préparer les démonstrations       |                              |
+|------------+---------------+----------+---------------------------------+--------------------------------------------------------------+------------------------------|
+| 14 juin    | *EIG + mentors* | *Marylène* | *Bilan à mi-parcours*             | *Faire un point EIG+mentors sur les feuilles de route*         | *Présentation de latitudes.cc* |
+| 21 juin    | EIG seuls     |          | "Demo Day" (rue du Caire)       | Faire un point sur les projets et nous entraîner à présenter |                              |
+| 30 août    | EIG seuls     |          |                                 |                                                              |                              |
+| 13 sept    | EIG + mentors |          |                                 |                                                              |                              |
+| 27 sept    | EIG seuls     | Quentin  |                                 |                                                              |                              |
+| 11 oct     | EIG + mentors | Quentin  |                                 |                                                              |                              |
+| 25 oct     | EIG seuls     |          |                                 |                                                              |                              |
+| 8 nov      | EIG + mentors |          |                                 |                                                              |                              |
+| 22 nov     | EIG seuls     | Quentin  |                                 |                                                              |                              |
 
 * Présentation détaillée des sessions
 
@@ -60,6 +59,7 @@ sur la présentation.
 - 18h15-18h30 : Conclusion
 
 ** Session du *14 juin* : Bilan à mi-parcours
+
 *** Quels sont les objectifs de la session ?
 
 Faire un bilan à mi-parcours des défis et du programme EIG 2 dans son
@@ -71,7 +71,7 @@ Marylène de LLL.
 
 *** Quel déroulé pour la session ?
 
-1. Introduction par une personne invitée (à confirmer)
+1. Ouverture : Laure Lucchesi, directrice d’Etalab (TBC)
 
 2. Travail par défi sur le bilan, avec comme support les indicateurs
    de départ.
@@ -82,6 +82,8 @@ Marylène de LLL.
    des produits EIG.
 
 5. Retours d'expériences sur le programme EIG.
+
+6. Clôture : Augustin Courtier et Manon Léger, Latitudes
 
 ** Session du 31 mai : revue de code et préparation des démonstrations
 
