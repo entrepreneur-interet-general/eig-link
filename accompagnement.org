@@ -74,19 +74,22 @@ Marylène de LLL.
 
 *** Quel déroulé pour la session ?
 
-1. Ouverture : Laure Lucchesi, directrice d’Etalab (TBC)
+1. Intervention : Témoignage de Laure Lucchesi, directrice d’Etalab
 
-2. Travail par défi sur le bilan, avec comme support les indicateurs
-   de départ.
+2. Bilan à mi-parcours sur les objectifs et les livrables de chaque
+   défi. Remplir la fiche duo : EIG et mentors séparément.
 
-3. Mise en commun et réalisation d'un macro-calendrier.
+3. Bilan à mi-parcours sur les objectifs et les livrables de chaque
+   défi.  Remplir la fiche duo : vision commune mentors et EIG.
 
-4. Travail sur la pérennisation et les opportunités de développement
-   des produits EIG.
+4. Cartographie d’engagement : le défi au 14 juillet, au 30 septembre,
+   à fin novembre.  À co-construire (mentors & EIG) via des post-its
+   sur le schéma d'ensemble.
 
-5. Retours d'expériences sur le programme EIG.
+5. Breffage sur les principales échéances partagées : 3 minutes par
+   défi.
 
-6. Clôture : Augustin Courtier et Manon Léger, Latitudes
+6. Clôture : Augustin Courtier et Manon Léger, Latitudes.
 
 ** Session du 31 mai : revue de code et préparation des démonstrations
 
