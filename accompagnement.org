@@ -55,11 +55,15 @@ L'équipe EIG Node.
 Nous prendrons 5 minutes par défi et 10 minutes de réactions à chaud
 sur la présentation.
 
-- 15h-15h15 : Accueil et introduction
-- 15h15-16h30 : Présentations de cinq défis
-- 16h30-17h : Pause
-- 17h-18h15 : Présentations de cinq défis
-- 18h15-18h30 : Conclusion
+- 13h30-13h45 : Accueil et introduction
+- 13h45-14h45 : Présentations de quatre défis
+- 14h45-15h : Pause
+- 15h-16h : Présentations de quatre défis
+- 16h-16h30 : Pause
+- 16h30-17h30 : Présentations de quatre défis
+- 17h30 - 17h45 : Pause
+- 17h45 - 18h15 : Présentations de deux défis
+- 18h15 - 18h30 : Débrief
 
 ** Session du *14 juin* : Bilan à mi-parcours au Grand Atelier B, rue du Caire
 
