@@ -96,6 +96,12 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://opensource.guide
 
+* Icones
+
+- https://www.iconfinder.com/
+- https://www.flaticon.com/
+- https://iconmonstr.com/
+
 * Machine learning
 
 - [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
