@@ -31,7 +31,7 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 | 30 août    | EIG seuls     |          |                           |                                      |                                                              |                              |
 | 13 sept    | EIG + mentors |          |                           |                                      |                                                              |                              |
 | 27 sept    | EIG seuls     | Quentin  |                           |                                      |                                                              |                              |
-| 11 oct     | EIG + mentors | Quentin  |                           |                                      |                                                              |                              |
+| 11 oct     | EIG + mentors | Quentin  |  Atelier C rue du Caire                   |                                      |                                                              |                              |
 | 25 oct     | EIG seuls     |          |                           |                                      |                                                              |                              |
 | 8 nov      | EIG + mentors |          |                           |                                      |                                                              |                              |
 | 22 nov     | EIG seuls     | Quentin  |                           |                                      |                                                              |                              |
