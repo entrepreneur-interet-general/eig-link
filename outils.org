@@ -42,6 +42,10 @@
 
 - Centre de ressources : https://publicdesignvault.com/
 
+** Flow-charts, mockups, etc
+
+- https://whimsical.co
+
 ** Accessibilité
 
 - http://accessibility.voxmedia.com/
