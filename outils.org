@@ -42,6 +42,10 @@
 
 - Centre de ressources : https://publicdesignvault.com/
 
+** Diagrammes
+
+- https://github.com/knsv/mermaid
+
 ** Flow-charts, mockups, etc
 
 - https://whimsical.co
@@ -123,6 +127,7 @@ https://github.com/etalab/template.data.gouv.fr
 * Gestion de fichiers
 
 - https://github.com/hsoft/dupeguru : outil de détection des doublons.
+- http://archifiltre.fr : organiser l'archivage de fichiers
 
 * Gestion de projets
 
@@ -145,10 +150,6 @@ https://github.com/etalab/template.data.gouv.fr
 * Prototypage web
 
 - [[https://www.sketchapp.com/][Sketch]]
-
-* Diagramme
-
-- https://github.com/knsv/mermaid
 
 * Outils pour de la revue de code
 * Programmation à plusieurs mains (pair programming)
