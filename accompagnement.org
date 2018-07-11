@@ -22,7 +22,7 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 | 5 avril    | EIG seuls     |          |                           | « Clinique » Data                    | Résoudre des problèmes liés aux données                      |
 | 11 avril   | EIG + mentors | Quentin  |                           | Communiquer, apprendre               | Mieux communiquer sur son défi, sur EIG ; apprendre          |
 | 2 mai      | EIG seuls     |          |                           | Barcamp Documentathon                | Améliorer la documentation de son projet                     |
-| 16 mai     | EIG + mentors |          |                           | Pérennistation avec les DSI          | Anticiper la mise en production des solutions                |
+| 16 mai     | EIG + mentors |          |                           | Pérennisation avec les DSI           | Anticiper la mise en production des solutions                |
 | 31 mai     | EIG seuls     | Quentin  |                           | Revue de code et démonstrations      | Avancer sur le frontend et préparer les démonstrations       |
 | 14 juin    | EIG + mentors | Marylène | 15h au LLL                | Bilan à mi-parcours                  | Faire un point EIG+mentors sur les feuilles de route         |
 | 21 juin    | EIG seuls     |          | 13h30 au LLL rue du Caire | "Demo Day" (rue du Caire)            | Faire un point sur les projets et nous entraîner à présenter |
@@ -38,7 +38,7 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 * Présentation détaillée des sessions
 
-** Session du *21 juin* : "Demo Day" - rue du Caire
+** Session du 21 juin : "Demo Day" - rue du Caire
 
 Exceptionnellement la session commencera à 13h30.
 
@@ -65,7 +65,7 @@ sur la présentation.
 - 17h45 - 18h15 : Présentations de deux défis
 - 18h15 - 18h30 : Débrief
 
-** Session du *14 juin* : Bilan à mi-parcours au Grand Atelier B, rue du Caire
+** Session du 14 juin : Bilan à mi-parcours au Grand Atelier B, rue du Caire
 
 *** Quels sont les objectifs de la session ?
 
