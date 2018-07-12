@@ -24,7 +24,13 @@
 - Documents administratifs (notes de frais, télétravail, ...)
 - Contrats de confidentialité
 
-* Familiarisation avec le service
+* Familiarisation avec le métier et le service
+
+- Stage d'immersion sur le terrain.
+
+- Création d'une vidéo de présentation du projet pour créer de la
+  convivialité.
+
 * Positionnement des EIG dans le défi
 
 * Projection dans le programme d'accompagnement EIG
