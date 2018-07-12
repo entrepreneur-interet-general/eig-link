@@ -1,0 +1,19 @@
+#+title: Recommandations pour l'accueil des EIG
+
+* Accès aux données
+
+* Accès à Internet
+
+* Poste de travail
+
+** Pour un designer
+
+** Pour un data scientist
+
+** Pour un développeur web
+
+* Familiarisation avec le service
+
+* Positionnement des EIG dans le défi
+
+* Projection dans le programme d'accompagnement EIG
