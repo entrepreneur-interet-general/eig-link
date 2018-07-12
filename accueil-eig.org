@@ -12,8 +12,19 @@
 
 ** Pour un développeur web
 
-* Familiarisation avec le service
+* Personnes à identifier dans l'administration
 
+- AMD
+- DAJ
+- DSI
+- Référent technique du service
+
+* Documents à transmettre à l'arrivée
+
+- Documents administratifs (notes de frais, télétravail, ...)
+- Contrats de confidentialité
+
+* Familiarisation avec le service
 * Positionnement des EIG dans le défi
 
 * Projection dans le programme d'accompagnement EIG
