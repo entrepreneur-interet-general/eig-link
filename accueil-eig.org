@@ -1,6 +1,6 @@
-#+title: Guide pour l'accueil des EIG
+#+title: Guide pour la préparation du programme EIG
 
-* Assurer l'accès aux données
+* Assurer aux EIG un accès aux données
 
 /Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en
 travers de l'accès aux données./
@@ -15,7 +15,7 @@ Dans tous les cas, assurez-vous que les EIG ont accès au plus tôt aux
 données elles-mêmes et à toute la documentation relative à ces données
 (schémas de données, procédures d'utilisation des données, etc.)
 
-* Préparer le poste de travail
+* Préparer le poste de travail des EIG
 
 /Consultez les EIG en amont sur leurs postes de travail./
 
@@ -43,7 +43,7 @@ prévoyez ces besoins :
 - Pour tous les EIG :: Deux écrans de 17 à 19 pouces, et si l'espace
      de travail est un open space, un casque audio.
 
-* Assurer un accès ouvert à Internet
+* Assurer aux EIG un accès ouvert à Internet
 
 /Les EIG ont besoin d'un accès non bridé à Internet./
 
@@ -51,6 +51,15 @@ Si les données sur lesquelles les EIG travaillent ne sont accessibles
 que sur un réseau interne à l'administration et inaccessible depuis
 l'extérieur, prenez soin d'assurer par ailleurs un accès ouvert à
 Internet depuis au moins une autre connexion.
+
+* Communiquer sur le programme EIG avant son démarrage
+
+Plusieurs mentors des deux éditions précédentes ont insisté sur
+l'importance de bien communiquer sur le programme EIG avant même
+l'arrivée des EIG dans les services.
+
+Le site web EIG et les guides EIG pourront servir de ressources
+à diffuser dans les administrations.
 
 * Aider les EIG à identifier les bonnes personnes
 
