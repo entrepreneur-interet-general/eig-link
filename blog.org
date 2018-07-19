@@ -8,7 +8,7 @@
 | 18-07-XX | [Les EIG et l'open source]                                                     | Bastien                 |             |             |
 | 18-07-XX | [Ce que sont devenus les EIG 1 : Léo Bouloc]                                   | Bastien/Sophie          | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-05-que-sont-devenus-les-eig-entretien-avec-leo-bouloc.md][Github]]      |             |
 | 18-07-XX | [Expérience Dora dans la brigade numérique]                                    | Dora Crisan             |             |             |
-| 18-07-XX | [Blog post technique de Victor]                                                |                         |             |             |
+| 18-07-XX | [Blog post technique de Victor]                                                | Victor et Bastien       | [[https://github.com/entrepreneur-interet-general/blog-eig2/_posts/2018-07-24-entree-technique-tensorflow.md][Github]]|        |
 | 18-07-XX | [Pierre et Christophe : recherche de données]                                  | Pierre et Christophe    |             |             |
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
 | 18-06-11 | Travailler avec des données d'exception                                        | Antoine                 | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-11-travailler-avec-des-donnees-d-exception.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/06/11/travailler-avec-des-donnees-d-exception/][Blog]]        |
