@@ -2,14 +2,21 @@
 
 |     Date | Titre                                                                          | Auteur                  | Lien github | Lien public |
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
-| 18-08-XX | [Entrée de blog sur les EIG off ?]                                             | Benoît/Julien/Bastien   |             |             |
-| 18-08-XX | [Contribuer à Wikidata : compte-rendu du garagethon]                           | Bastien                 |             |             |
-| 18-07-XX | [Compte-rendu des discussions sur l’apprentissage]                             | Bastien                 | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-15-comment-les-eig-apprennent.md][Github]]      |             |
-| 18-07-XX | [Les EIG et l'open source]                                                     | Bastien                 |             |             |
-| 18-07-XX | [Ce que sont devenus les EIG 1 : Léo Bouloc]                                   | Bastien/Sophie          | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-05-que-sont-devenus-les-eig-entretien-avec-leo-bouloc.md][Github]]      |             |
-| 18-07-XX | [Expérience Dora dans la brigade numérique]                                    | Dora Crisan             |             |             |
-| 18-07-XX | [Blog post technique de Victor]                                                |                         |             |             |
-| 18-07-XX | [Pierre et Christophe : recherche de données]                                  | Pierre et Christophe    |             |             |
+| 18-08-27 | [Financement/RH : le modèle du programme]                                      | Mathilde                |         
+| 18-08-13 | [Comment présenter son défi à sa communauté : le retour de Social Connect]     | Bénédicte/Elise/Julien/Sophie   |         
+| 18-08-06 | [Signaux Faibles : interview de Stéphanie Schaer ?]                            | Benoît/Julien/Bastien   |         
+| 18-08-03 | [Que sont-ils devenus ? Adnène Trojette]                                       | Sophie                  |         
+| 18-07-27 | [Les mentors à mi-parcours, retour sur la session d'accompagnement]            | Mathilde ? Soizic ?     |         
+| 18-07-25 | [Les EIG 2 à mi-parcours avec leurs présentations]                             | Sophie/Bastien          |         
+| 18-07-20 | [Memo en anglais sur le programme]                                              | Sophie/Mathilde         |         
+| 18-08-24 | [Entrée de blog sur les EIG off ?]                                             | Benoît/Julien/Bastien   |             |             |
+| 18-08-31 | [Contribuer à Wikidata : compte-rendu du garagethon]                           | Bastien                 |             |             |
+| 18-08-20 | [Compte-rendu des discussions sur l’apprentissage]                             | Bastien                 | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-15-comment-les-eig-apprennent.md][Github]]      |             |
+| 18-08-10 | [Les EIG et l'open source]                                                     | Bastien                 |             |             |
+| 18-09-XX | [Ce que sont devenus les EIG 1 : Léo Bouloc]                                   | Bastien/Sophie          | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-05-que-sont-devenus-les-eig-entretien-avec-leo-bouloc.md][Github]]      |             |
+| 18-07-30 | [Expérience Dora dans la brigade numérique]                                    | Dora Crisan             |             |             |
+| 18-07-23 | [Blog post technique de Victor]                                                |                         |             |             |
+| 18-08-17 | [Pierre et Christophe : recherche de données]                                  | Pierre et Christophe    |             |             |
 |----------+--------------------------------------------------------------------------------+-------------------------+-------------+-------------|
 | 18-06-11 | Travailler avec des données d'exception                                        | Antoine                 | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/_18-06-11-travailler-avec-des-donnees-d-exception.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/06/11/travailler-avec-des-donnees-d-exception/][Blog]]        |
 | 18-05-29 | Pourquoi quitter son travail et devenir EIG ?                                  | Tiphaine                | [[https://github.com/entrepreneur-interet-general/blog-eig2/blob/master/_posts/18-05-29-pourquoi-devenir-EIG.md][Github]]      | [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/05/29/pourquoi-devenir-EIG/][Blog]]        |
