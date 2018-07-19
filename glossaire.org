@@ -1,5 +1,19 @@
 #+title: Glossaire
 
+- Frontend / backend :: 
+
+- Développeur :: 
+
+- UX/UI designer :: 
+
+- Défi :: 
+
+- Mentor :: 
+
+- API :: 
+
+- Datascientiste :: 
+
 - Logiciel libre :: logiciel publié sous une licence libre ou open
      source.
 
