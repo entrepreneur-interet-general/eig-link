@@ -114,4 +114,15 @@ promotions précédentes pour vous guider dans le bon démarrage du défi.
 - Contrat de confidentialité, correspondant au rappel des droits et
   devoirs des fonctionnaires.
 
-# * Aider les EIG à se positionner dans le défi
+* Aider les EIG à se positionner dans le défi
+
+Les EIG ne sont ni prestataires ni en complète autonomie pour décider
+de leur feuille de route.
+
+La bonne marche du défi exige un *dialogue régulier* entre les mentors
+et les EIG : les mentors doivent faire l'effort de bien comprendre la
+feuille de route proposée par les EIG, et les EIG doivent communiquer
+clairement sur ce qu'ils font.
+
+Ce dialogue doit se mettre en place en suivant un calendrier stable,
+indépendamment des sessions d'accompagnement.
