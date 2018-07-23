@@ -1,5 +1,7 @@
 #+title: Guide pour la préparation du programme EIG
 
+/Vous êtes mentor opérationnel d'un défi EIG et vous apprêtez à accueillir des EIG dans votre administration ? Ce guide vous propose quelques bonnes pratiques et actions à anticiper avant, pendant et après la venue des EIG./
+
 * Assurer aux EIG un accès aux données
 
 /Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en
@@ -13,7 +15,14 @@ Les données peuvent être accessible sous plusieurs formes :
 
 Dans tous les cas, assurez-vous que les EIG ont accès au plus tôt aux
 données elles-mêmes et à toute la documentation relative à ces données
-(schémas de données, procédures d'utilisation des données, etc.)
+(schémas de données, procédures d'utilisation des données, etc.) et toute la documentation non technique qui peut retracer l'histoire du défi (entretiens utilisateurs, maquettes, etc.)
+
+Pour cela, vous pouvez vous appuyer sur plusieurs alliés (voir section "Aider les EIG à identifier les bonnes personnes") : 
+- l'équipe EIG d'Etalab qui vous mettra en contact avec l'équipe de l'[[https://agd.data.gouv.fr/][Administrateur Général des Données]] pour réaliser une expertise juridique et technique si vous rencontrez des difficultés d'accès aux données, notamment s'il s'agit de données d'une autre administration
+- au sein de votre ministère : l'administrateur ministériel des données, la direction juridique, les directions métiers qui produisent les données
+
+
+Vous pouvez profiter de la période précédant l'arrivée des EIG pour classer cette documentation et repérer les "trous dans la raquette".
 
 * Préparer le poste de travail des EIG
 
@@ -42,7 +51,8 @@ prévoyez ces besoins :
 
 - Pour tous les EIG :: Deux écrans de 17 à 19 pouces, et si l'espace
      de travail est un open space, un casque audio.
-
+     
+     
 * Assurer aux EIG un accès ouvert à Internet
 
 /Les EIG ont besoin d'un accès non bridé à Internet./
@@ -67,12 +77,14 @@ Le site web EIG et les guides EIG pourront servir de ressources
 alliés./
 
 - AMD : L'administrateur ministériel des données
+- COD : Le correspondant open data
+- PRADA : Les personnes responsables de l'accès aux sein des administrations
 - DAJ : Le directeur des affaires juridiques
 - DSI : Le directeur des Systèmes d'Information
 - CIL : Le correspondant informatique et libertés
 - S'il existe, le référent technique du service
   
-* Aider les EIG à se familiariser avec le métier
+* Aider les EIG à se familiariser avec le métier et leur administration d'accueil
 
 /Aidez les EIG à mesurer tôt l'impact de leur projet et à trouver
 rapidement leurs futurs utilisateurs./
@@ -85,6 +97,8 @@ Quelques idées :
 - Organiser la création d'une vidéo de présentation du projet pour
   créer de la convivialité dans l'équipe, comme cela a été fait en
   2018 pour le défi Archifiltre.
+ 
+- Organiser des déjeuners ou temps informels réguliers dans votre administration pour que les EIG puissent présenter leurs travaux et rencontrer d'autres équipes. 
 
 * Aider les EIG et mentors à se projeter dans le programme d'accompagnement
 
@@ -95,6 +109,42 @@ rencontrer régulièrement pour construire un collectif d'entre-aide./
   d'accompagnement.
 
 - Comprendre comment ce calendrier se construit au fil de l'eau.
+
+- Communiquer à l'équipe EIG d'Etalab vos besoins et idées pour enrichir ce programme d'accompagnement.
+
+
+* Aider les EIG à se positionner dans le défi et instaurer des rituels
+
+/Les EIG ne sont ni prestataires ni en complète autonomie pour décider
+de leur feuille de route./
+
+La bonne marche du défi exige un *dialogue régulier* entre les mentors
+et les EIG : les mentors doivent faire l'effort de bien comprendre la
+feuille de route proposée par les EIG, et les EIG doivent communiquer
+clairement sur ce qu'ils font.
+
+Ce dialogue doit se mettre en place en suivant un calendrier stable,
+indépendamment des sessions d'accompagnement.
+
+Quelques bonnes pratiques : 
+
+- Un point hebdomadaire pour communiquer sur les actions - et éventuelles urgences - de la semaine
+
+- Un affichage "physique" de la feuille de route à quelques mois (voir [[https://entrepreneur-interet-general.etalab.gouv.fr/img/LLL-1-post-it.jpg][la photo du bureau d'Elsa et Julien au CGET]])
+
+- Des formations pair à pair
+
+* Aider les EIG à anticiper la pérennisation de leur défi
+
+/Avant même l'arrivé des EIG, il est important de synchroniser le défi avec la DSI./
+
+Un défi EIG qui n'est pas au minimum intégré à la feuille de route de la DSI ni à son cadre de cohérence technique est souvent un défi à risque. A la fin de la présence des EIG, le risque est que la DSI ne puisse pas intégrer et déployer les briques développées par les EIG.
+
+Pour réduire ce risque (vous pouvez aussi consulter le post sur la [[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/05/24/atelier-construction-plan-actions-avec-les-dsi/][pérennisation]]) :
+
+- Partager avec les équipes de la DSI les orientations imaginées pour résoudre le défi
+- Associer la DSI au recrutement des EIG
+- Partager le calendrier et réaliser des points réguliers avec la DSI et les EIG
 
 * Trouver des soutiens dans les précédentes promotions EIG
 
@@ -114,15 +164,6 @@ promotions précédentes pour vous guider dans le bon démarrage du défi.
 - Contrat de confidentialité, correspondant au rappel des droits et
   devoirs des fonctionnaires.
 
-* Aider les EIG à se positionner dans le défi
 
-Les EIG ne sont ni prestataires ni en complète autonomie pour décider
-de leur feuille de route.
 
-La bonne marche du défi exige un *dialogue régulier* entre les mentors
-et les EIG : les mentors doivent faire l'effort de bien comprendre la
-feuille de route proposée par les EIG, et les EIG doivent communiquer
-clairement sur ce qu'ils font.
 
-Ce dialogue doit se mettre en place en suivant un calendrier stable,
-indépendamment des sessions d'accompagnement.
