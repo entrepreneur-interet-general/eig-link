@@ -1,4 +1,4 @@
-#+title: Mise en oeuvre de l'open data
+#+title: Accéder à des données d'autres administrations et/ou Ouvrir des données
 
 * Arguments juridiques à mobiliser pour demander l’accès à ces données
 
@@ -8,10 +8,10 @@
 - Article 1er qui prévoit l’obligation de transmission de données
   entre administrations, si celles-ci ne font pas l’objet d’un secret
 
-Dans le cas des données fiscales :
+Dans le cas des données financières de la liasse fiscale :
 
 - Le secret fiscal a été introduit pour protéger l’entreprise de
-  l’utilisation de ses données transmises aux services fiscaux.  Les
+  l’utilisation de ses données transmises aux services fiscaux. Les
   données financières transmises dans la liasse fiscale font par
   ailleurs l’objet d’une obligation de publication au greffe : ces
   données ont vocation à être publiées et il est donc difficile de
