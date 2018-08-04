@@ -101,14 +101,47 @@ https://github.com/etalab/template.data.gouv.fr
 
 - [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]
 
-* Guides d’écriture de code
+* Gérer un changelog
 
-- https://github.com/alphagov/styleguides/
-- https://fr.wikipedia.org/wiki/GNU_coding_standards
+- https://keepachangelog.com/fr/1.0.0/ : à lire pour les bonnes
+  pratiques de Changelog.
+
+* Gestion de fichiers
+
+- https://github.com/hsoft/dupeguru : outil de détection des doublons.
+- http://archifiltre.fr : organiser l'archivage de fichiers
+
+* Gestion de mots de passe en équipe
+
+- https://bitwarden.com
+- https://lastpass.com
+
+* Gestion de projets
+
+| Site                                    | Outil                | Milestones | Releases | Tasks | Revue de code |
+|-----------------------------------------+----------------------+------------+----------+-------+---------------|
+| https://framaboard.org                  | https://kanboard.org |            |          |       |               |
+| https://trello.com                      |                      |            |          |       |               |
+| https://asana.com                       |                      |            |          |       |               |
+| https://taiga.io                        |                      |            |          |       |               |
+| https://phabricator.com                 |                      |            |          |       |               |
+| https://github.com                      |                      |            |          |       |               |
+| https://www.atlassian.com/software/jira |                      |            |          |       |               |
+| [[https://github.com/getpatchwork/patchwork][patchwork]]                               |                      |            |          |       |               |
+| [[https://www.atlassian.com/software/confluence][confluence]]                              |                      |            |          |       |               |
+| [[https://www.mantisbt.org/][mantis]]                                  |                      |            |          |       |               |
+| [[https://www.redmine.org/][redmine]]                                 |                      |            |          |       |               |
+| [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
+| [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
 
 * Guides de contribution à des projets open source
 
 - https://opensource.guide
+
+* Guides d’écriture de code
+
+- https://github.com/alphagov/styleguides/
+- https://fr.wikipedia.org/wiki/GNU_coding_standards
 
 * Icones
 
@@ -130,33 +163,6 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://statuscake.com
 
-* Gestion de fichiers
-
-- https://github.com/hsoft/dupeguru : outil de détection des doublons.
-- http://archifiltre.fr : organiser l'archivage de fichiers
-
-* Gestion de projets
-
-| Site                                    | Outil                | Milestones | Releases | Tasks | Revue de code |
-|-----------------------------------------+----------------------+------------+----------+-------+---------------|
-| https://framaboard.org                  | https://kanboard.org |            |          |       |               |
-| https://trello.com                      |                      |            |          |       |               |
-| https://asana.com                       |                      |            |          |       |               |
-| https://taiga.io                        |                      |            |          |       |               |
-| https://phabricator.com                 |                      |            |          |       |               |
-| https://github.com                      |                      |            |          |       |               |
-| https://www.atlassian.com/software/jira |                      |            |          |       |               |
-| [[https://github.com/getpatchwork/patchwork][patchwork]]                               |                      |            |          |       |               |
-| [[https://www.atlassian.com/software/confluence][confluence]]                              |                      |            |          |       |               |
-| [[https://www.mantisbt.org/][mantis]]                                  |                      |            |          |       |               |
-| [[https://www.redmine.org/][redmine]]                                 |                      |            |          |       |               |
-| [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
-| [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
-
-* Prototypage web
-
-- [[https://www.sketchapp.com/][Sketch]]
-
 * Outils pour de la revue de code
 * Programmation à plusieurs mains (pair programming)
 
@@ -166,6 +172,10 @@ https://github.com/etalab/template.data.gouv.fr
 - [[https://mobaxterm.mobatek.net/][MobaXterm]]
 - http://prose.io pour éditer des dépôts Github facilement
 - https://stackedit.io pour éditer du markdown en WYSIWYG
+
+* Prototypage web
+
+- [[https://www.sketchapp.com/][Sketch]]
 
 * SAS
 
@@ -202,11 +212,6 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://github.com/sshuttle/sshuttle
 - https://ngrok.com/
-
-* Gestion de mots de passe en équipe
-
-- https://bitwarden.com
-- https://lastpass.com
 
 * Vidéo et partage d’écran
 
