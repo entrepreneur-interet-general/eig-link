@@ -203,6 +203,11 @@ https://github.com/etalab/template.data.gouv.fr
 - https://github.com/sshuttle/sshuttle
 - https://ngrok.com/
 
+* Gestion de mots de passe en équipe
+
+- https://bitwarden.com
+- https://lastpass.com
+
 * Vidéo et partage d’écran
 
 ** Ne nécessitant pas de compte
