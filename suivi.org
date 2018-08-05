@@ -1027,11 +1027,18 @@ un lien est ajouté.
    | Hopkins | Graphe                  | MAJ données de graphes sur pays demandés par enquêteur                                  | <2018-05-25 ven.> | P   |
    | Hopkins | Graphe                  | Détection de sous graphes suspects : étude des noeuds de top betweenness                | <2018-05-25 ven.> | P   |
    | Hopkins |                         | Atelier graphes                                                                         | <2018-05-25 ven.> | A   |
+   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Graphe                  | Etude du graphe de personnes "centrales"                                                | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Débuggage d'entités matchés par erreur                                                  | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Recette de fusion d'entités                                                             | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Matching complet terminé en 30h                                                         | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Création d'un nouveau graphes comprenant l'ensemble des pays visés pour les enquêteurs  | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Feature: ajout de boutons de zooms                                                      | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Feature: visualiser les personnes déjà connues sous forme d'étoile                      | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Maquettes Sketch d'une version 0.3.0                                                    | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Présentation de graph-explorer à la CAS (Cellule d'Analyse Stratégique)                 | <2018-06-08 ven.> | C   |
 
 ** Suite
-
--[P] Réflexion et création d'un nouveau projet plus propre pour la création de graphe (suite et fin)
--[P] Détection de sous graphes suspects : étude de l'intérêt de mesures de centralité
 
 * Lab Santé
 
