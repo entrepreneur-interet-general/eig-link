@@ -404,10 +404,14 @@ un lien est ajouté.
    | CoachÉlève  | Décrochage                     | Point technique sur le stack du projet "décrochage scolaire"                                                                                                               | <2018-04-27 ven.> | I   | 1 |
    | CoachÉlève  | BDD Centrale                   | Premier NDA signé avec l’entreprise EDUCLEVER                                                                                                                              | <2018-04-27 ven.> | M   | 1 |
    | CoachÉlève  | Gouvernance des données        | Maquette pour la refonte du site implémentant la gouvernance des données                                                                                                   | <2018-04-27 ven.> | C   | 1 |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlèves |                                | RDV mi-parcours avec Étalab et mentors                                                                                                                                     | <2018-06-08 ven.> | M   |   |
+   | CoachÉlèves |                                | RDV JM Merriaux, support hiérarchique demandé et obtenu oralement                                                                                                          | <2018-06-08 ven.> | C   |   |
+   | CoachÉlèves |                                | Atelier graphisme au ministère avec stagiaire MICOM                                                                                                                        | <2018-06-08 ven.> | A   |   |
+   | CoachÉlèves |                                | Réunion cartographie et obtention des données de carto mise à jour                                                                                                         | <2018-06-08 ven.> | M   |   |
+   | CoachÉlèves |                                | Pitch au 110 bis, présentation du programme et de Coach Eleve                                                                                                              | <2018-06-08 ven.> | C   |   |
 
 ** Suite
-
-— {BDD Centrale} [AI] Déploiement de Learning Locker sous Kubernetes
 
 * DataESR
 
