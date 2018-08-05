@@ -1037,6 +1037,11 @@ un lien est ajouté.
    | Hopkins | Graphe                  | Feature: visualiser les personnes déjà connues sous forme d'étoile                      | <2018-06-08 ven.> | P   |
    | Hopkins | Graphe                  | Maquettes Sketch d'une version 0.3.0                                                    | <2018-06-08 ven.> | P   |
    | Hopkins | Graphe                  | Présentation de graph-explorer à la CAS (Cellule d'Analyse Stratégique)                 | <2018-06-08 ven.> | C   |
+   | Hopkins | Text                    | Refactoring code Web App                                                                | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Fix bugs Web App Validation                                                             | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Refactoring code modèle Tensorflow                                                      | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Préparation données pour classification                                                 | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Blog posts et Traduction (x2)                                                           | <2018-06-08 ven.> | C   |
 
 ** Suite
 
