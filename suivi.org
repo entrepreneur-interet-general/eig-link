@@ -334,6 +334,15 @@ un lien est ajouté.
    | BrigadeNumérique |          | Spécs application RDV                                                                                                                                    | <2018-06-08 ven.> | P   |   |
    | BrigadeNumérique |          | V1 d'un model de fichier compatible Open Street Maps pour le chargement des horaires d'accueil en brigade                                                | <2018-06-08 ven.> | C   |   |
    | BrigadeNumérique |          | Article blog Etalab, v2                                                                                                                                  | <2018-06-08 ven.> | P   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Formation de la brigade numérique sur le déploiement d'un produit numérique                                                                              | <2018-06-15 ven.> | P   |   |
+   | BrigadeNumérique |          | Benchmarking captcha open source pour l'outil de prise de RDV                                                                                            | <2018-06-22 ven.> | P   |   |
+   | BrigadeNumérique |          | Encadrement guides utilisateur/administrateur d'un produit numérique                                                                                     | <2018-06-29 ven.> | D   |   |
+   | BrigadeNumérique |          | Mise en place base de données accessibilité des personnes à mobilité réduite                                                                             | <2018-07-06 ven.> | P   |   |
+   | BrigadeNumérique |          | Aller/retour article blog Etalab v2 (Merci, Sophie!)                                                                                                     | <2018-07-13 ven.> | P   |   |
+   | BrigadeNumérique |          | Atelier Wikidata                                                                                                                                         | <2018-07-20 ven.> | D   |   |
+   | BrigadeNumérique |          | Réunions hébergement de l'outil prise de RDV avec la DILA, gendarmerie                                                                                   | <2018-07-27 ven.> | M   |   |
+   | BrigadeNumérique |          | Réunions ouverture des horaires d'accueil en brigade: gendarmerie, web geo service (google maps)                                                         | <2018-08-03 ven.> | M   |   |
 
 ** Suite
 
