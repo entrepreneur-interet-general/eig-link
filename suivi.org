@@ -625,6 +625,12 @@ un lien est ajouté.
    | EIG Node |          | présence datafin                                                                             | <2018-06-15 ven.> | C   |   |
    | EIG Node |          | relecture blogpost Antoine (promis on le publie bientôt)                                     | <2018-06-15 ven.> | C   |   |
    | EIG Node |          | présentation de notre bilan « EIG node » mi-parcours à Laure Lucchesi                        | <2018-06-15 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Évaluation et présélection des défis – MERCI à tous et BRAVO a Soizic !                      | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Préparation du jury – BRAVO à Sophie !                                                       | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Avancées sur le site web                                                                     | <2018-06-29 ven.> | P   |   |
+   | EIG Node |          | Roadmap équipe EIG node 5 prochains mois                                                     | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Point bilan avec Laure Lucchesi et Henri Verdier à J                                         | <2018-06-29 ven.> | T   |   |
 
 ** Suite
 
