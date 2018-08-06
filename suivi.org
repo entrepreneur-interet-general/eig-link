@@ -810,6 +810,14 @@ un lien est ajouté.
    | EIG Link |              | Installation d'un serveur shiny et FTP                                 | <2018-06-29 ven.> | I   |    |
    | EIG Link |              | Aide Signaux Faibles pour serveur AWS                                  | <2018-06-29 ven.> | P   |    |
    | EIG Link |              | Aide à la présélection des défis EIG 3                                 | <2018-06-29 ven.> | M   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Modération table ronde France-UK                                       | <2018-07-06 ven.> | S   |    |
+   | EIG Link |              | Préparation de la mission à Haïti                                      | <2018-07-06 ven.> | S   |    |
+   | EIG Link |              | Présentation du défi Blue Hats                                         | <2018-07-06 ven.> | T   |    |
+   | EIG Link |              | Participation au jury latitudes.cc                                     | <2018-07-06 ven.> | S   |    |
+   | EIG Link |              | Démo day 2 au LLL                                                      | <2018-07-06 ven.> | A   |    |
+   | EIG Link |              | Installation https://pad.eig-apps.org                                  | <2018-07-06 ven.> | PS  |    |
+   | EIG Link |              | Fin de configuration du serveur shiny                                  | <2018-07-06 ven.> | P   |    |
 
 ** Suite
 
