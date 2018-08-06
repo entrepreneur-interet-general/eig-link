@@ -606,148 +606,160 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi     | Livrable     | Tâche                                                        | Fait le           | Cat |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Maintenance  | Installation IRC                                             | <2018-02-13 mar.> | P   |    |
-   | EIG Link | blog-eig2    | Créer un blog                                                | <2018-02-14 mer.> | P   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Maintenance  | Mise à dispo du serveur de calcul                            | <2018-02-23 ven.> | P   |    |
-   | EIG Link |              | Participation session mentors                                | <2018-02-23 ven.> | M   |    |
-   | EIG Link | eig-link     | Avancée sur eig-link                                         | <2018-02-23 ven.> | P   |    |
-   | EIG Link |              | Réunion technique aux Gobelins                               | <2018-02-23 ven.> | M   |    |
-   | EIG Link | Maintenance  | Vidéo pour la prise en main serveur                          | <2018-02-23 ven.> | P   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | csv2html     | Outil de mise en forme d'un csv en HTML/JS avec datatables   | <2018-03-02 ven.> | P   |    |
-   | EIG Link | Maintenance  | Fin de la mise en place du serveur EIG                       | <2018-03-02 ven.> | P   |    |
-   | EIG Link | Maintenance  | Installation d'une instance de Matomo                        | <2018-03-02 ven.> | P   |    |
-   | EIG Link |              | Réunion scénario avec CoachÉlèves                            | <2018-03-02 ven.> | M   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Travail sur la roadmap avec mentor puis LLL                  | <2018-03-09 ven.> | MP  |    |
-   | EIG Link |              | Préparation de la revue de code du 14 mars                   | <2018-03-09 ven.> | M   |    |
-   | EIG Link |              | Mini rapport d’étonnement                                    | <2018-03-09 ven.> | P   |    |
-   | EIG Link |              | Participation séminaire interne Étalab                       | <2018-03-09 ven.> | M   |    |
-   | EIG Link |              | Réunion-canapé avec Julien pour OpenScraper                  | <2018-03-09 ven.> | M   |    |
-   | EIG Link |              | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                       | <2018-03-09 ven.> | P   |    |
-   | EIG Link |              | Module ox-timeline.el pour produire des frises               | <2018-03-09 ven.> | P   |    |
-   | EIG Link |              | J’ai ma carte de cantine                                     | <2018-03-09 ven.> | I   |    |
-   | EIG Link |              | Réunion avec Framasoft pour Storify next                     | <2018-03-09 ven.> | M   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Écriture d’une entrée de blog                                | <2018-03-16 ven.> | P   |    |
-   | EIG Link |              | Saisie des retours hebdomadaires                             | <2018-03-16 ven.> | P   |    |
-   | EIG Link |              | Session de revue de code                                     | <2018-03-16 ven.> | M   |    |
-   | EIG Link |              | Déjeuner avec Archifiltre sur l’open source                  | <2018-03-16 ven.> | M   |    |
-   | EIG Link |              | Réunion Étalab sur la communication EIG                      | <2018-03-16 ven.> | M   |    |
-   | EIG Link |              | Réunion MIMDEV                                               | <2018-03-16 ven.> | M   |    |
-   | EIG Link |              | Onboarding Sophie                                            | <2018-03-16 ven.> | IM  |    |
-   | EIG Link |              | Mises à jour sur le blog                                     | <2018-03-16 ven.> | P   |    |
-   | EIG Link |              | Test de Cloudron et sshuttle                                 | <2018-03-16 ven.> | P   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Ajout de mes projets sur https://todo.eig-apps.org           | <2018-03-23 ven.> | P   |    |
-   | EIG Link |              | Réunion avec CoachÉlève                                      | <2018-03-23 ven.> | M   |    |
-   | EIG Link |              | Réunion avec Lab Santé                                       | <2018-03-23 ven.> | M   |    |
-   | EIG Link |              | Session d’accompagnement                                     | <2018-03-23 ven.> | P   |    |
-   | EIG Link |              | Test et staging pour suivi_auto (merci Emmanuel !)           | <2018-03-23 ven.> | P   |    |
-   | EIG Link |              | Configuration https://twitter.com/eigforever                 | <2018-03-23 ven.> | PC  |    |
-   | EIG Link |              | Accès admin au Nextcloud pour Christophe                     | <2018-03-23 ven.> | P   |    |
-   | EIG Link |              | Mini-prise en main + config proxmox pour Julien              | <2018-03-23 ven.> | M   |    |
-   | EIG Link |              | Correction de la configuration des listes (merci Tiphaine !) | <2018-03-23 ven.> | P   |    |
-   | EIG Link |              | Organisation garagethon Storia                               | <2018-03-23 ven.> | M   |    |
-   | EIG Link |              | Accès etemptation (pour poser des congés)                    | <2018-03-23 ven.> | I   |    |
-   | EIG Link |              | Installation instance matomo pour Gobelins                   | <2018-03-23 ven.> | P   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Écrire de ouverture.org et ouverture-faq.org                 | <2018-03-30 ven.> | P   |    |
-   | EIG Link |              | Point avec Sophie sur le site                                | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Réunion avec l’agence de com’ sur la stratégie EIG           | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Réunion AGD à Étalab avec le MEN                             | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Rencontre Sugarizer avec CoachÉlève                          | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Point d’étape CoachÉlève + mentor                            | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Déboguage serveur (Antoine et Julien)                        | <2018-03-30 ven.> | P   |    |
-   | EIG Link |              | Proposition pour « EIG off »                                 | <2018-03-30 ven.> | P   |    |
-   | EIG Link |              | Échange avec Jean-Baptiste sur le journal de bord            | <2018-03-30 ven.> | M   |    |
-   | EIG Link |              | Garagethon « Storify en commun » le 30 mars                  | <2018-03-30 ven.> | MP  |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Animation    | Relance Christophe et Emmanuel pour EIG Off                  | <2018-04-06 ven.> | M   |    |
-   | EIG Link | Animation    | Suivi Sugarizer pour CoachÉlève                              | <2018-04-06 ven.> | M   |    |
-   | EIG Link | Animation    | Journée autour de Storia avec Framasoft                      | <2018-04-06 ven.> | MP  |  1 |
-   | EIG Link | Contenu      | Rédaction gestion projet open source                         | <2018-04-06 ven.> | P   |  1 |
-   | EIG Link | Site         | Avancée co-rédaction avec Paul                               | <2018-04-06 ven.> | P   |    |
-   | EIG Link | Site         | Discussion interne pour la suite                             | <2018-04-06 ven.> | MP  |    |
-   | EIG Link | Site         | Début de timeline pour EIG                                   | <2018-04-06 ven.> | P   |  1 |
-   | EIG Link | Animation    | Préparation de la session du 5 avril                         | <2018-04-06 ven.> | MP  |    |
-   | EIG Link | Animation    | Session d’accompagnement du 5 avril                          | <2018-04-06 ven.> | P   |  1 |
-   | EIG Link | Étalab       | Rendez-vous avec Henri Verdier                               | <2018-04-06 ven.> | M   |  1 |
-   | EIG Link | Étalab       | Participation Étalab talk open source evangelist AWS         | <2018-04-06 ven.> | MT  |  1 |
-   | EIG Link | Maintenance  | Mise à jour de la licence de pointk                          | <2018-04-06 ven.> | P   |    |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | RDV de prise de connaissance avec Perica                     | <2018-04-14 sam.> | M   |  1 |
-   | EIG Link |              | Avancement du futur site EIG                                 | <2018-04-14 sam.> | P   |  1 |
-   | EIG Link | animation    | Préparation de la session d’accompagnement EIG               | <2018-04-14 sam.> | PP  |    |
-   | EIG Link | animation    | Session d’accompagnement EIG                                 | <2018-04-14 sam.> | P   |  1 |
-   | EIG Link |              | Travail sur le blog EIG                                      | <2018-04-14 sam.> | P   |    |
-   | EIG Link | journal      | Apprentissage clojurescript/re-frame                         | <2018-04-14 sam.> | A   |    |
-   | EIG Link | suivi        | Accompagnement sur les CGU du défi SocialConnect             | <2018-04-14 sam.> | M   |    |
-   | EIG Link | suivi        | Après-midi d’échanges avec le défi Gobelins                  | <2018-04-14 sam.> | M   |    |
-   | EIG Link | eigforever   | Premier retweet du bot @eigforever !                         | <2018-04-14 sam.> | P   |  1 |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Site v2      | Avancée sur le contenu du futur site                         | <2018-04-21 sam.> | P   |    |
-   | EIG Link | Animation    | Lancement de l’Étalab talk du 4 mai                          | <2018-04-21 sam.> | P   |  1 |
-   | EIG Link | Animation    | Lancement d’un wiki·data·gouv                                | <2018-04-21 sam.> | P   |  1 |
-   | EIG Link | Animation    | Programmation EIG Off sur l’open source                      | <2018-04-21 sam.> | P   |    |
-   | EIG Link |              | Mise à jour de https://www.etalab.gouv.fr/lequipe            | <2018-04-21 sam.> | P   |  1 |
-   | EIG Link | Ouverture    | Atelier à Étalab sur l’ouverture du code source              | <2018-04-21 sam.> | P   |    |
-   | EIG Link | Suivi        | Point licences et projet avec Brigade Numérique              | <2018-04-21 sam.> | M   |    |
-   | EIG Link | Animation    | Ajout de Ned sur le serveur de calcul                        | <2018-04-21 sam.> | P   |    |
-   | EIG Link | Animation    | Installation plugin Gantt pour board.eig-forever.org         | <2018-04-21 sam.> | P   |    |
-   | EIG Link |              | Présentation de la session EIG du 16 mai devant les DSI      | <2018-04-21 sam.> | M   |    |
-   | EIG Link | Suivi        | Déjeuner SocialConnect                                       | <2018-04-21 sam.> | M   |  1 |
-   | EIG Link | Suivi        | Retours test de cis-openscraper                              | <2018-04-21 sam.> | P   |    |
-   | EIG Link | Suivi        | Envoi du retour udata de Tiphaine                            | <2018-04-21 sam.> | M   |    |
-   | EIG Link | Animation    | Participation au bureau ouvert de Paula Fortezza             | <2018-04-21 sam.> | M   |    |
-   | EIG Link | Suivi        | CR de la réunion Gobelins                                    | <2018-04-21 sam.> | PM  |    |
-   | EIG Link | Suivi        | CR de l’atelier « apprendre »                                | <2018-04-21 sam.> | PM  |    |
-   | EIG Link |              | RDV au MinCul pour https://beta.gouv.fr/startup/pop.html     | <2018-04-21 sam.> | M   |    |
-   | EIG Link |              | RDV au MinCul pour le suivi de l’inventaire des orgues       | <2018-04-21 sam.> | M   |  1 |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Animation    | Publication entrée de blog sur Framasoft                     | <2018-05-04 ven.> | P   |  1 |
-   | EIG Link | Animation    | Participation après-midi documenthaton                       | <2018-05-04 ven.> | MP  |    |
-   | EIG Link | Ouverture    | Organisation wiki·data·gouv                                  | <2018-05-04 ven.> | M   |    |
-   | EIG Link | Ouverture    | Étalab talk sur The Mother of All Demos                      | <2018-05-04 ven.> | P   |  1 |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | Site         | Avancée sur le site v2 : ajout de biographies                | <2018-05-11 ven.> | P   |    |
-   | EIG Link | Ouverture    | Début de réflexion sur des défis EIG 3                       | <2018-05-11 ven.> | M   |  1 |
-   | EIG Link | Animation    | Réunion LLL pour la suite de l'animation                     | <2018-05-11 ven.> | M   |    |
-   | EIG Link | Ouverture    | Organisation de l'événement wiki·data·gouv                   | <2018-05-11 ven.> | P   |  1 |
-   | EIG Link | floss-helper | Lecture d'informations pour project floss-helper             | <2018-05-11 ven.> | AP  |    |
-   | EIG Link | Datapad      | Début du prototype datapad                                   | <2018-05-11 ven.> | P   |  1 |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Atelier Open Source à Ségur                                  | <2018-05-18 ven.> | A   |  1 |
-   | EIG Link |              | Réunion d'information sur EIG au LLL                         | <2018-05-18 ven.> | A   |  1 |
-   | EIG Link |              | Préparation de la session du 16 mai                          | <2018-05-18 ven.> | M   |    |
-   | EIG Link |              | Suivi de contacts pour des idées EIG 3                       | <2018-05-18 ven.> | M   |    |
-   | EIG Link |              | Suivi des tâches pour le site v2                             | <2018-05-18 ven.> | M   |    |
-   | EIG Link |              | Suivi projet Wikipédia avec Gobelins                         | <2018-05-18 ven.> | M   |    |
-   | EIG Link |              | Organisation de l'Étalab talk du 4 juin                      | <2018-05-18 ven.> | MT  |    |
-   | EIG Link |              | Avancée sur l'entrée de blog sur le 16 mai                   | <2018-05-18 ven.> | P   |    |
-   | EIG Link |              | Session du 16 mai                                            | <2018-05-18 ven.> | P   |  1 |
-   | EIG Link |              | Atelier Internet Governance Forum                            | <2018-05-18 ven.> | T   |    |
-   | EIG Link |              | Premier Fridaylab : réparation https://agd.data.gouv.fr      | <2018-05-18 ven.> | T   |  1 |
-   |----------+--------------+--------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link | suivi        | Suivi interne ouverture SHOM                                 | <2018-05-25 ven.> | M   |    |
-   | EIG Link | suivi        | Participation réunion Gobelins                               | <2018-05-25 ven.> | M   |  1 |
-   | EIG Link | animation    | Participation EIG Off « graphe »                             | <2018-05-25 ven.> | P   |  1 |
-   | EIG Link | suivi        | Participation Étalab talk DataESR                            | <2018-05-25 ven.> | M   |    |
-   | EIG Link | site         | Publication entrée de blog session DSI                       | <2018-05-25 ven.> | P   |  1 |
-   | EIG Link | suivi        | Réunion pérennisation post-EIG Link                          | <2018-05-25 ven.> | M   |    |
-   | EIG Link |              | Suivi de propositions pour l'internet governance forum       | <2018-05-25 ven.> | T   | -1 |
+   | Défi     | Livrable     | Tâche                                                                  | Fait le           | Cat |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Maintenance  | Installation IRC                                                       | <2018-02-13 mar.> | P   |    |
+   | EIG Link | blog-eig2    | Créer un blog                                                          | <2018-02-14 mer.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Maintenance  | Mise à dispo du serveur de calcul                                      | <2018-02-23 ven.> | P   |    |
+   | EIG Link |              | Participation session mentors                                          | <2018-02-23 ven.> | M   |    |
+   | EIG Link | eig-link     | Avancée sur eig-link                                                   | <2018-02-23 ven.> | P   |    |
+   | EIG Link |              | Réunion technique aux Gobelins                                         | <2018-02-23 ven.> | M   |    |
+   | EIG Link | Maintenance  | Vidéo pour la prise en main serveur                                    | <2018-02-23 ven.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | csv2html     | Outil de mise en forme d'un csv en HTML/JS avec datatables             | <2018-03-02 ven.> | P   |    |
+   | EIG Link | Maintenance  | Fin de la mise en place du serveur EIG                                 | <2018-03-02 ven.> | P   |    |
+   | EIG Link | Maintenance  | Installation d'une instance de Matomo                                  | <2018-03-02 ven.> | P   |    |
+   | EIG Link |              | Réunion scénario avec CoachÉlèves                                      | <2018-03-02 ven.> | M   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Travail sur la roadmap avec mentor puis LLL                            | <2018-03-09 ven.> | MP  |    |
+   | EIG Link |              | Préparation de la revue de code du 14 mars                             | <2018-03-09 ven.> | M   |    |
+   | EIG Link |              | Mini rapport d’étonnement                                              | <2018-03-09 ven.> | P   |    |
+   | EIG Link |              | Participation séminaire interne Étalab                                 | <2018-03-09 ven.> | M   |    |
+   | EIG Link |              | Réunion-canapé avec Julien pour OpenScraper                            | <2018-03-09 ven.> | M   |    |
+   | EIG Link |              | Nouvelle page [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/serveur.org][serveur.org]] sur eig-link                                 | <2018-03-09 ven.> | P   |    |
+   | EIG Link |              | Module ox-timeline.el pour produire des frises                         | <2018-03-09 ven.> | P   |    |
+   | EIG Link |              | J’ai ma carte de cantine                                               | <2018-03-09 ven.> | I   |    |
+   | EIG Link |              | Réunion avec Framasoft pour Storify next                               | <2018-03-09 ven.> | M   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Écriture d’une entrée de blog                                          | <2018-03-16 ven.> | P   |    |
+   | EIG Link |              | Saisie des retours hebdomadaires                                       | <2018-03-16 ven.> | P   |    |
+   | EIG Link |              | Session de revue de code                                               | <2018-03-16 ven.> | M   |    |
+   | EIG Link |              | Déjeuner avec Archifiltre sur l’open source                            | <2018-03-16 ven.> | M   |    |
+   | EIG Link |              | Réunion Étalab sur la communication EIG                                | <2018-03-16 ven.> | M   |    |
+   | EIG Link |              | Réunion MIMDEV                                                         | <2018-03-16 ven.> | M   |    |
+   | EIG Link |              | Onboarding Sophie                                                      | <2018-03-16 ven.> | IM  |    |
+   | EIG Link |              | Mises à jour sur le blog                                               | <2018-03-16 ven.> | P   |    |
+   | EIG Link |              | Test de Cloudron et sshuttle                                           | <2018-03-16 ven.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Ajout de mes projets sur https://todo.eig-apps.org                     | <2018-03-23 ven.> | P   |    |
+   | EIG Link |              | Réunion avec CoachÉlève                                                | <2018-03-23 ven.> | M   |    |
+   | EIG Link |              | Réunion avec Lab Santé                                                 | <2018-03-23 ven.> | M   |    |
+   | EIG Link |              | Session d’accompagnement                                               | <2018-03-23 ven.> | P   |    |
+   | EIG Link |              | Test et staging pour suivi_auto (merci Emmanuel !)                     | <2018-03-23 ven.> | P   |    |
+   | EIG Link |              | Configuration https://twitter.com/eigforever                           | <2018-03-23 ven.> | PC  |    |
+   | EIG Link |              | Accès admin au Nextcloud pour Christophe                               | <2018-03-23 ven.> | P   |    |
+   | EIG Link |              | Mini-prise en main + config proxmox pour Julien                        | <2018-03-23 ven.> | M   |    |
+   | EIG Link |              | Correction de la configuration des listes (merci Tiphaine !)           | <2018-03-23 ven.> | P   |    |
+   | EIG Link |              | Organisation garagethon Storia                                         | <2018-03-23 ven.> | M   |    |
+   | EIG Link |              | Accès etemptation (pour poser des congés)                              | <2018-03-23 ven.> | I   |    |
+   | EIG Link |              | Installation instance matomo pour Gobelins                             | <2018-03-23 ven.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Écrire de ouverture.org et ouverture-faq.org                           | <2018-03-30 ven.> | P   |    |
+   | EIG Link |              | Point avec Sophie sur le site                                          | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Réunion avec l’agence de com’ sur la stratégie EIG                     | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Réunion AGD à Étalab avec le MEN                                       | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Rencontre Sugarizer avec CoachÉlève                                    | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Point d’étape CoachÉlève + mentor                                      | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Déboguage serveur (Antoine et Julien)                                  | <2018-03-30 ven.> | P   |    |
+   | EIG Link |              | Proposition pour « EIG off »                                           | <2018-03-30 ven.> | P   |    |
+   | EIG Link |              | Échange avec Jean-Baptiste sur le journal de bord                      | <2018-03-30 ven.> | M   |    |
+   | EIG Link |              | Garagethon « Storify en commun » le 30 mars                            | <2018-03-30 ven.> | MP  |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Animation    | Relance Christophe et Emmanuel pour EIG Off                            | <2018-04-06 ven.> | M   |    |
+   | EIG Link | Animation    | Suivi Sugarizer pour CoachÉlève                                        | <2018-04-06 ven.> | M   |    |
+   | EIG Link | Animation    | Journée autour de Storia avec Framasoft                                | <2018-04-06 ven.> | MP  |  1 |
+   | EIG Link | Contenu      | Rédaction gestion projet open source                                   | <2018-04-06 ven.> | P   |  1 |
+   | EIG Link | Site         | Avancée co-rédaction avec Paul                                         | <2018-04-06 ven.> | P   |    |
+   | EIG Link | Site         | Discussion interne pour la suite                                       | <2018-04-06 ven.> | MP  |    |
+   | EIG Link | Site         | Début de timeline pour EIG                                             | <2018-04-06 ven.> | P   |  1 |
+   | EIG Link | Animation    | Préparation de la session du 5 avril                                   | <2018-04-06 ven.> | MP  |    |
+   | EIG Link | Animation    | Session d’accompagnement du 5 avril                                    | <2018-04-06 ven.> | P   |  1 |
+   | EIG Link | Étalab       | Rendez-vous avec Henri Verdier                                         | <2018-04-06 ven.> | M   |  1 |
+   | EIG Link | Étalab       | Participation Étalab talk open source evangelist AWS                   | <2018-04-06 ven.> | MT  |  1 |
+   | EIG Link | Maintenance  | Mise à jour de la licence de pointk                                    | <2018-04-06 ven.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | RDV de prise de connaissance avec Perica                               | <2018-04-14 sam.> | M   |  1 |
+   | EIG Link |              | Avancement du futur site EIG                                           | <2018-04-14 sam.> | P   |  1 |
+   | EIG Link | animation    | Préparation de la session d’accompagnement EIG                         | <2018-04-14 sam.> | PP  |    |
+   | EIG Link | animation    | Session d’accompagnement EIG                                           | <2018-04-14 sam.> | P   |  1 |
+   | EIG Link |              | Travail sur le blog EIG                                                | <2018-04-14 sam.> | P   |    |
+   | EIG Link | journal      | Apprentissage clojurescript/re-frame                                   | <2018-04-14 sam.> | A   |    |
+   | EIG Link | suivi        | Accompagnement sur les CGU du défi SocialConnect                       | <2018-04-14 sam.> | M   |    |
+   | EIG Link | suivi        | Après-midi d’échanges avec le défi Gobelins                            | <2018-04-14 sam.> | M   |    |
+   | EIG Link | eigforever   | Premier retweet du bot @eigforever !                                   | <2018-04-14 sam.> | P   |  1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Site v2      | Avancée sur le contenu du futur site                                   | <2018-04-21 sam.> | P   |    |
+   | EIG Link | Animation    | Lancement de l’Étalab talk du 4 mai                                    | <2018-04-21 sam.> | P   |  1 |
+   | EIG Link | Animation    | Lancement d’un wiki·data·gouv                                          | <2018-04-21 sam.> | P   |  1 |
+   | EIG Link | Animation    | Programmation EIG Off sur l’open source                                | <2018-04-21 sam.> | P   |    |
+   | EIG Link |              | Mise à jour de https://www.etalab.gouv.fr/lequipe                      | <2018-04-21 sam.> | P   |  1 |
+   | EIG Link | Ouverture    | Atelier à Étalab sur l’ouverture du code source                        | <2018-04-21 sam.> | P   |    |
+   | EIG Link | Suivi        | Point licences et projet avec Brigade Numérique                        | <2018-04-21 sam.> | M   |    |
+   | EIG Link | Animation    | Ajout de Ned sur le serveur de calcul                                  | <2018-04-21 sam.> | P   |    |
+   | EIG Link | Animation    | Installation plugin Gantt pour board.eig-forever.org                   | <2018-04-21 sam.> | P   |    |
+   | EIG Link |              | Présentation de la session EIG du 16 mai devant les DSI                | <2018-04-21 sam.> | M   |    |
+   | EIG Link | Suivi        | Déjeuner SocialConnect                                                 | <2018-04-21 sam.> | M   |  1 |
+   | EIG Link | Suivi        | Retours test de cis-openscraper                                        | <2018-04-21 sam.> | P   |    |
+   | EIG Link | Suivi        | Envoi du retour udata de Tiphaine                                      | <2018-04-21 sam.> | M   |    |
+   | EIG Link | Animation    | Participation au bureau ouvert de Paula Fortezza                       | <2018-04-21 sam.> | M   |    |
+   | EIG Link | Suivi        | CR de la réunion Gobelins                                              | <2018-04-21 sam.> | PM  |    |
+   | EIG Link | Suivi        | CR de l’atelier « apprendre »                                          | <2018-04-21 sam.> | PM  |    |
+   | EIG Link |              | RDV au MinCul pour https://beta.gouv.fr/startup/pop.html               | <2018-04-21 sam.> | M   |    |
+   | EIG Link |              | RDV au MinCul pour le suivi de l’inventaire des orgues                 | <2018-04-21 sam.> | M   |  1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Animation    | Publication entrée de blog sur Framasoft                               | <2018-05-04 ven.> | P   |  1 |
+   | EIG Link | Animation    | Participation après-midi documenthaton                                 | <2018-05-04 ven.> | MP  |    |
+   | EIG Link | Ouverture    | Organisation wiki·data·gouv                                            | <2018-05-04 ven.> | M   |    |
+   | EIG Link | Ouverture    | Étalab talk sur The Mother of All Demos                                | <2018-05-04 ven.> | P   |  1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | Site         | Avancée sur le site v2 : ajout de biographies                          | <2018-05-11 ven.> | P   |    |
+   | EIG Link | Ouverture    | Début de réflexion sur des défis EIG 3                                 | <2018-05-11 ven.> | M   |  1 |
+   | EIG Link | Animation    | Réunion LLL pour la suite de l'animation                               | <2018-05-11 ven.> | M   |    |
+   | EIG Link | Ouverture    | Organisation de l'événement wiki·data·gouv                             | <2018-05-11 ven.> | P   |  1 |
+   | EIG Link | floss-helper | Lecture d'informations pour project floss-helper                       | <2018-05-11 ven.> | AP  |    |
+   | EIG Link | Datapad      | Début du prototype datapad                                             | <2018-05-11 ven.> | P   |  1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Atelier Open Source à Ségur                                            | <2018-05-18 ven.> | A   |  1 |
+   | EIG Link |              | Réunion d'information sur EIG au LLL                                   | <2018-05-18 ven.> | A   |  1 |
+   | EIG Link |              | Préparation de la session du 16 mai                                    | <2018-05-18 ven.> | M   |    |
+   | EIG Link |              | Suivi de contacts pour des idées EIG 3                                 | <2018-05-18 ven.> | M   |    |
+   | EIG Link |              | Suivi des tâches pour le site v2                                       | <2018-05-18 ven.> | M   |    |
+   | EIG Link |              | Suivi projet Wikipédia avec Gobelins                                   | <2018-05-18 ven.> | M   |    |
+   | EIG Link |              | Organisation de l'Étalab talk du 4 juin                                | <2018-05-18 ven.> | MT  |    |
+   | EIG Link |              | Avancée sur l'entrée de blog sur le 16 mai                             | <2018-05-18 ven.> | P   |    |
+   | EIG Link |              | Session du 16 mai                                                      | <2018-05-18 ven.> | P   |  1 |
+   | EIG Link |              | Atelier Internet Governance Forum                                      | <2018-05-18 ven.> | T   |    |
+   | EIG Link |              | Premier Fridaylab : réparation https://agd.data.gouv.fr                | <2018-05-18 ven.> | T   |  1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link | suivi        | Suivi interne ouverture SHOM                                           | <2018-05-25 ven.> | M   |    |
+   | EIG Link | suivi        | Participation réunion Gobelins                                         | <2018-05-25 ven.> | M   |  1 |
+   | EIG Link | animation    | Participation EIG Off « graphe »                                       | <2018-05-25 ven.> | P   |  1 |
+   | EIG Link | suivi        | Participation Étalab talk DataESR                                      | <2018-05-25 ven.> | M   |    |
+   | EIG Link | site         | Publication entrée de blog session DSI                                 | <2018-05-25 ven.> | P   |  1 |
+   | EIG Link | suivi        | Réunion pérennisation post-EIG Link                                    | <2018-05-25 ven.> | M   |    |
+   | EIG Link |              | Suivi de propositions pour l'internet governance forum                 | <2018-05-25 ven.> | T   | -1 |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Configuration de mon nouvel ordinateur                                 | <2018-06-18 lun.> | P   |  1 |
+   | EIG Link |              | Préparation des sessions d'accompagnement 31/05-14/06-21/06            | <2018-06-18 lun.> | P   |    |
+   | EIG Link |              | Préparation et mise en oeuvre Étalab talk du 4 juin                    | <2018-06-18 lun.> | TS  |    |
+   | EIG Link |              | Réunion Gobelins pour un point sur le partenariat Wikipédia            | <2018-06-18 lun.> | P   |    |
+   | EIG Link |              | Participation à l'inauguration du 110bis avec CoachÉlèves              | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Réunion SocialConnect pour un point sur... l'avenir                    | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Présentation du programme EIG à Makesense                              | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Réunion CoachÉlèves pour un point global                               | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Présentation du défi EIG 1 au Forum Entreprendre dans la culture       | <2018-06-18 lun.> | P   |    |
+   | EIG Link |              | Préparation de propositions pour l'Internet Governance Forum           | <2018-06-18 lun.> | PST |    |
+   | EIG Link |              | Préparation de défis EIG 3 portés par la DINSIC                        | <2018-06-18 lun.> | TS  |    |
+   | EIG Link |              | Point EIG avec EIG Node et Laure Lucchesi                              | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Point Étalab sur la passation des outils EIG                           | <2018-06-18 lun.> | M   |    |
+   | EIG Link |              | Travail de mise en forme sur agd.data.gouv.fr                          | <2018-06-18 lun.> | ST  |    |
+   | EIG Link |              | Test de La machine à laver les données de Léo Bouloc                   | <2018-06-18 lun.> | ST  |    |
+   | EIG Link |              | Organisation et réalisation de la journée wiki·data·gouv,              | <2018-06-18 lun.> | PT  |    |
+   | EIG Link |              | Relecture des défis EIG pour le futur site                             | <2018-06-18 lun.> | P   |    |
+   | EIG Link |              | Calendrier de rdv pour B@liseNav, SocialConnect, CoachÉlèves, Gobelins | <2018-06-18 lun.> | M   |    |
 
 ** Suite
-
-- Session d'accompagnement du 31 mai
-- Point d'étape sur les premières candidatures
-- Préparation de la réunion wiki-data-gouv du 12 juin
-- Entrée de blog sur la session d'apprentissage
-- Suivi de propositions de défis EIG
-- Mettre en place les sauvegardes pour le serveur
 
 * Gobelins
 ** Dépôt
