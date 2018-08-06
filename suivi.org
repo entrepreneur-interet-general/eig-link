@@ -584,14 +584,23 @@ un lien est ajouté.
    | EIG Node |          | Rencontre Dora à un forum Open d'État                                                        | <2018-05-25 ven.> | X   |   |
    |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
    | EIG Node |          | Intervention aux Rencontres des acteurs publics                                              | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Présence inauguration lab 110 bis                                                            | <2018-06-22 ven.> | C   |   |
-   | EIG Node |          | Publication blogpost Tiphaine et relecture blogpost Antoine                                  | <2018-07-06 ven.> | C   |   |
-   | EIG Node |          | Travail sur le site v2                                                                       | <2018-07-20 ven.> | C   |   |
-   | EIG Node |          | Rétroplanning mois de juin (réception candidatures EIG3 and co)                              | <2018-08-03 ven.> | M   |   |
-   | EIG Node |          | Bastien a un nouvel ordi                                                                     | <2018-08-17 ven.> | S   |   |
-   | EIG Node |          | Rédaction d’un bilan 360° pour Laure Lucchesi, back on track                                 | <2018-08-31 ven.> | M   |   |
-   | EIG Node |          | Orga lancement Appel à manisfestation d’intérêts IA                                          | <2018-09-14 ven.> | C   |   |
-   | EIG Node |          | Réunions EIG-Link avec Coach E et Gobelins                                                   | <2018-09-28 ven.> | M   |   |
+   | EIG Node |          | Présence inauguration lab 110 bis                                                            | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Publication blogpost Tiphaine et relecture blogpost Antoine                                  | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Travail sur le site v2                                                                       | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Rétroplanning mois de juin (réception candidatures EIG3 and co)                              | <2018-06-08 ven.> | M   |   |
+   | EIG Node |          | Bastien a un nouvel ordi                                                                     | <2018-06-08 ven.> | S   |   |
+   | EIG Node |          | Rédaction d’un bilan 360° pour Laure Lucchesi, back on track                                 | <2018-06-08 ven.> | M   |   |
+   | EIG Node |          | Orga lancement Appel à manisfestation d’intérêts IA                                          | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Réunions EIG-Link avec Coach E et Gobelins                                                   | <2018-06-08 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | mega sprint sur le site V2                                                                   | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | accompagnement de défis candidats EIG3 DINSIC                                                | <2018-06-15 ven.> | T   |   |
+   | EIG Node |          | préparation des 2 prochaines semaines de présélection pour EIG3                              | <2018-06-15 ven.> | M   |   |
+   | EIG Node |          | déjeuners « modèles économiques » avec les teams Social Connect et Archifiltre               | <2018-06-15 ven.> | M   |   |
+   | EIG Node |          | session mi-parcours                                                                          | <2018-06-15 ven.> | A   |   |
+   | EIG Node |          | présence datafin                                                                             | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | relecture blogpost Antoine (promis on le publie bientôt)                                     | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | présentation de notre bilan « EIG node » mi-parcours à Laure Lucchesi                        | <2018-06-15 ven.> | M   |   |
 
 ** Suite
 
