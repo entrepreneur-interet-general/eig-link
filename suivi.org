@@ -1459,15 +1459,19 @@ un lien est ajouté.
    | Prévisecours |              | Début de discussion pour l'ouverture des données interventions des sapeurs pompiers de l'Essonne                                        | <2018-05-25 ven.> | D   | 1 |
    | Prévisecours |              | Tutos NetNinja VueJS dont Julien avait parlé                                                                                            | <2018-05-25 ven.> | A   |   |
    | Prévisecours |              | Lecture et test sur CartAV pour voir les bouts de code réutilisables pour previsecours                                                  | <2018-05-25 ven.> | A   |   |
+   |--------------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | Prévisecours |              | Prototype viz: filtres et sliders                                                                                                       | <2018-06-08 ven.> | P   |   |
+   | Prévisecours |              | Tuto ElasticSearch + installation en local                                                                                              | <2018-06-08 ven.> | A   |   |
+   | Prévisecours |              | Développement de modèles pour des sous groupes d'interventions                                                                          | <2018-06-08 ven.> | P   |   |
+   | Prévisecours |              | Aggrégation des modèles                                                                                                                 | <2018-06-08 ven.> | P   |   |
+   | Prévisecours |              | Draft pour les articles sur prévisecours et notre méthode                                                                               | <2018-06-08 ven.> | C   |   |
+   | Prévisecours |              | Changement de TileLayers (celles de Heinsenberg ne sont plus dispo)                                                                     | <2018-06-08 ven.> | P   |   |
+   | Prévisecours |              | Préparation de la presentation des corrélations pour le COPIL                                                                           | <2018-06-08 ven.> | P   |   |
+   | Prévisecours |              | Discussion pour un MIDITECH sur previsecours en octobre                                                                                 | <2018-06-08 ven.> | C   |   |
+   | Prévisecours |              | COPIL 3 + CR                                                                                                                            | <2018-06-08 ven.> | C   |   |
+   | Prévisecours |              | meetup Dataiku                                                                                                                          | <2018-06-08 ven.> | A   |   |
 
 ** Suite
-
-- [P] Finalisation d'une version des prédictions par semaine avec un split de test pour 3 mois et non 12 mois
-- [P] Début de création de features pour les prédictions à la journée sur 5 jours
-- [P] Fix à faire sur des longueurs de scripts sur notre instance de calcul
-- [C] Commencer l'extraction de données et l'écriture d'un article concernant les corrélations pour publication sur le site de Prévisecours et diffusion pour communiquer autour du projet
-- [S] Création d'un bot pour la mise en relations entre membres d'une équipe pour partage de connaissances
-- [P] Prototypage pour une version de visualisation des prediction
 
 * Signaux Faibles
 
