@@ -537,105 +537,113 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi     | Livrable | Tâche                                                                                        | Fait le           | Cat |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Accueil et onboarding de Sophie qui fait ses premières PR sur github !                       | <2018-03-16 ven.> | I   |   |
-   | EIG Node |          | Code review au LLL                                                                           | <2018-03-16 ven.> | A   |   |
-   | EIG Node |          | Préparation de la session EIG-mentors du 22/03                                               | <2018-03-16 ven.> | M   |   |
-   | EIG Node |          | « Levée de fonds » pour la promotion EIG3                                                    | <2018-03-16 ven.> | M   |   |
-   | EIG Node |          | Avancée sur le rapport EIG                                                                   | <2018-03-16 ven.> | M   |   |
-   | EIG Node |          | Pitch du programme à l’événement « Ma fonction publique au 21^ème siècle »                   | <2018-03-16 ven.> | C   |   |
-   | EIG Node |          | Commande de goodies pour les EIG (Paul)                                                      | <2018-03-16 ven.> | C   |   |
-   | EIG Node |          | Restitution du diagnostic sur la communication du programme                                  | <2018-03-16 ven.> | C   |   |
-   | EIG Node |          | Relecture prochain blog site EIG de Bastien                                                  | <2018-03-16 ven.> | C   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA C.                           | <2018-03-27 mar.> | M   |   |
-   | EIG Node |          | Rencontre team Lab Santé et Marino P. sur leurs projets de datascience                       | <2018-03-27 mar.> | M   |   |
-   | EIG Node |          | Préparation session 22/03                                                                    | <2018-03-27 mar.> | M   |   |
-   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie                                           | <2018-03-27 mar.> | M   |   |
-   | EIG Node |          | Ordinateur Bastien, épisode 5, avec Paul                                                     | <2018-03-27 mar.> | I   |   |
-   | EIG Node |          | Réflexion sur la nouvelle version du site avec Sophie                                        | <2018-03-27 mar.> | C   |   |
-   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert                         | <2018-03-27 mar.> | T   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Présentation EIG à délégation ukrainienne (merci Tiphaine et Guillaume)                      | <2018-04-03 mar.> | C   |   |
-   | EIG Node |          | Réunion avec équipes SI, SG et mentors EIG sur leur projet de gouvernance des données        | <2018-04-03 mar.> | M   |   |
-   | EIG Node |          | Finalisation des slides de demande de financement pour EIG3                                  | <2018-04-03 mar.> | M   |   |
-   | EIG Node |          | Atelier communication avec l’agence Bastille, feuille de route et hypothèses site v2         | <2018-04-03 mar.> | C   |   |
-   | EIG Node |          | Suivi Villani                                                                                | <2018-04-03 mar.> | M   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Arrivée de Soizic                                                                            | <2018-04-06 ven.> | M   |   |
-   | EIG Node |          | Plan de rédaction de contenu site v2 et nouvelle apparence (Bastien, Sophie, Soizic)         | <2018-04-06 ven.> | C   |   |
-   | EIG Node |          | Rédaction de contenu blog                                                                    | <2018-04-06 ven.> | C   |   |
-   | EIG Node |          | EIG v3 validée par le COPIL PIA (1,5 M€)                                                     | <2018-04-06 ven.> | M   |   |
-   | EIG Node |          | Rétroplanning EIG v3 (Mathilde, Sophie, Soizic)                                              | <2018-04-06 ven.> | M   |   |
-   | EIG Node |          | Crowdsourcing “[[https://lite.framacalc.org/EIG2____Donnees][vos rêves de données]]”                                                         | <2018-04-06 ven.> | D   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Retour de Paul !                                                                             | <2018-04-20 ven.> | M   | 1 |
-   | EIG Node |          | Travail sur le site v2 (contenu, intégration, issues)                                        | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Rédaction et publication de contenu blog                                                     | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Travail sur le bilan EIG1 - en cours de finalisation                                         | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Préparation de l'appel à projets EIG3                                                        | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Sourcing des défis EIG 3                                                                     | <2018-04-20 ven.> | M   |   |
-   | EIG Node |          | Écriture du mémo en anglais                                                                  | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Premiers entretiens « Que sont-ils devenus ? »                                               | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Prise de contact avec Dora et Tiphaine pour leurs articles (en rédaction)                    | <2018-04-20 ven.> | M   |   |
-   | EIG Node |          | Suivi de la proposition de la Gazette des communes                                           | <2018-04-20 ven.> | C   |   |
-   | EIG Node |          | Budgétisation offsite                                                                        | <2018-04-20 ven.> | M   |   |
-   | EIG Node |          | Prestataires : goodies (soon), motion design (specs), matériel informatique                  | <2018-04-20 ven.> | P   |   |
-   | EIG Node |          | Le crowdsourcing « Vos rêves de données » [[https://lite.framacalc.org/EIG2____Donnees][continue]]                                           | <2018-04-20 ven.> | D   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Finalisation du cahier des charges pour l'appel à projets EIG3 et envoi au COPI...           | <2018-04-27 ven.> | P   | 1 |
-   | EIG Node |          | Travail sur le formulaire de réponse au cahier des charges                                   | <2018-04-27 ven.> | P   |   |
-   | EIG Node |          | Interviews « Que sont-ils devenus ? »                                                        | <2018-04-27 ven.> | P   |   |
-   | EIG Node |          | Préparation de l'atelier d'écriture du 2 mai                                                 | <2018-04-27 ven.> | P   |   |
-   | EIG Node |          | Préparation motion design                                                                    | <2018-04-27 ven.> | P   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Diffusion de l’appel à projets EIG 3                                                         | <2018-05-11 ven.> | P   |   |
-   | EIG Node |          | Préparation de la session DSI                                                                | <2018-05-11 ven.> | P   |   |
-   | EIG Node |          | Préparation de l’événement d’information EIG 3 du 15 mai                                     | <2018-05-11 ven.> | P   |   |
-   | EIG Node |          | Bastien est en train de recevoir son ordinateur, grâce à super-Paul + on a reçu de...        | <2018-05-11 ven.> | I   |   |
-   | EIG Node |          | On a réorganisé notre stand up interne pour plus de fluidité                                 | <2018-05-11 ven.> | M   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Visite Mobilier national : MCC embarqué pour accompagner Laurie et Ned dans les partenariats | <2018-05-25 ven.> | M   |   |
-   | EIG Node |          | Démarchage d’administrations pour l’appel à projets EIG3                                     | <2018-05-25 ven.> | T   |   |
-   | EIG Node |          | Rédaction/publication de l'article de blog sur la session DSI                                | <2018-05-25 ven.> | C   |   |
-   | EIG Node |          | Formalisation d’un planning de com / éditorial                                               | <2018-05-25 ven.> | C   |   |
-   | EIG Node |          | Sprints de rédaction de contenu pour le site v2                                              | <2018-05-25 ven.> | C   |   |
-   | EIG Node |          | Note sur la future organisation de l’administration générale des données au MEN              | <2018-05-25 ven.> | P   |   |
-   | EIG Node |          | Préparation de la présélection et du jury de l’appel à projets EIG3 (aura lieu le 04/07)     | <2018-05-25 ven.> | M   |   |
-   | EIG Node |          | Réunion pérennisation sur les outils EIG LINK                                                | <2018-05-25 ven.> | M   |   |
-   | EIG Node |          | Préparation des futures sessions                                                             | <2018-05-25 ven.> | M   |   |
-   | EIG Node |          | Rencontre Dora à un forum Open d'État                                                        | <2018-05-25 ven.> | X   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Intervention aux Rencontres des acteurs publics                                              | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Présence inauguration lab 110 bis                                                            | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Publication blogpost Tiphaine et relecture blogpost Antoine                                  | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Travail sur le site v2                                                                       | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Rétroplanning mois de juin (réception candidatures EIG3 and co)                              | <2018-06-08 ven.> | M   |   |
-   | EIG Node |          | Bastien a un nouvel ordi                                                                     | <2018-06-08 ven.> | S   |   |
-   | EIG Node |          | Rédaction d’un bilan 360° pour Laure Lucchesi, back on track                                 | <2018-06-08 ven.> | M   |   |
-   | EIG Node |          | Orga lancement Appel à manisfestation d’intérêts IA                                          | <2018-06-08 ven.> | C   |   |
-   | EIG Node |          | Réunions EIG-Link avec Coach E et Gobelins                                                   | <2018-06-08 ven.> | M   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | mega sprint sur le site V2                                                                   | <2018-06-15 ven.> | C   |   |
-   | EIG Node |          | accompagnement de défis candidats EIG3 DINSIC                                                | <2018-06-15 ven.> | T   |   |
-   | EIG Node |          | préparation des 2 prochaines semaines de présélection pour EIG3                              | <2018-06-15 ven.> | M   |   |
-   | EIG Node |          | déjeuners « modèles économiques » avec les teams Social Connect et Archifiltre               | <2018-06-15 ven.> | M   |   |
-   | EIG Node |          | session mi-parcours                                                                          | <2018-06-15 ven.> | A   |   |
-   | EIG Node |          | présence datafin                                                                             | <2018-06-15 ven.> | C   |   |
-   | EIG Node |          | relecture blogpost Antoine (promis on le publie bientôt)                                     | <2018-06-15 ven.> | C   |   |
-   | EIG Node |          | présentation de notre bilan « EIG node » mi-parcours à Laure Lucchesi                        | <2018-06-15 ven.> | M   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Évaluation et présélection des défis – MERCI à tous et BRAVO a Soizic !                      | <2018-06-29 ven.> | M   |   |
-   | EIG Node |          | Préparation du jury – BRAVO à Sophie !                                                       | <2018-06-29 ven.> | M   |   |
-   | EIG Node |          | Avancées sur le site web                                                                     | <2018-06-29 ven.> | P   |   |
-   | EIG Node |          | Roadmap équipe EIG node 5 prochains mois                                                     | <2018-06-29 ven.> | M   |   |
-   | EIG Node |          | Point bilan avec Laure Lucchesi et Henri Verdier à J                                         | <2018-06-29 ven.> | T   |   |
-   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
-   | EIG Node |          | Jury EIG3 et délibérations                                                                   | <2018-07-06 ven.> | M   |   |
-   | EIG Node |          | Cadrage offsite EIG2 début septembre                                                         | <2018-07-06 ven.> | M   |   |
-   | EIG Node |          | Petit dej mentor/EIG Social Connect                                                          | <2018-07-06 ven.> | M   |   |
-   | EIG Node |          | Participation jury Latitudes <3                                                              | <2018-07-06 ven.> | M   |   |
+   | Défi     | Livrable | Tâche                                                                                                                | Fait le           | Cat |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Accueil et onboarding de Sophie qui fait ses premières PR sur github !                                               | <2018-03-16 ven.> | I   |   |
+   | EIG Node |          | Code review au LLL                                                                                                   | <2018-03-16 ven.> | A   |   |
+   | EIG Node |          | Préparation de la session EIG-mentors du 22/03                                                                       | <2018-03-16 ven.> | M   |   |
+   | EIG Node |          | « Levée de fonds » pour la promotion EIG3                                                                            | <2018-03-16 ven.> | M   |   |
+   | EIG Node |          | Avancée sur le rapport EIG                                                                                           | <2018-03-16 ven.> | M   |   |
+   | EIG Node |          | Pitch du programme à l’événement « Ma fonction publique au 21^ème siècle »                                           | <2018-03-16 ven.> | C   |   |
+   | EIG Node |          | Commande de goodies pour les EIG (Paul)                                                                              | <2018-03-16 ven.> | C   |   |
+   | EIG Node |          | Restitution du diagnostic sur la communication du programme                                                          | <2018-03-16 ven.> | C   |   |
+   | EIG Node |          | Relecture prochain blog site EIG de Bastien                                                                          | <2018-03-16 ven.> | C   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Réunion gouvernance des données avec la team Coach Eleves et PA C.                                                   | <2018-03-27 mar.> | M   |   |
+   | EIG Node |          | Rencontre team Lab Santé et Marino P. sur leurs projets de datascience                                               | <2018-03-27 mar.> | M   |   |
+   | EIG Node |          | Préparation session 22/03                                                                                            | <2018-03-27 mar.> | M   |   |
+   | EIG Node |          | Rédaction notes pour la promotion EIG3 avec Sophie                                                                   | <2018-03-27 mar.> | M   |   |
+   | EIG Node |          | Ordinateur Bastien, épisode 5, avec Paul                                                                             | <2018-03-27 mar.> | I   |   |
+   | EIG Node |          | Réflexion sur la nouvelle version du site avec Sophie                                                                | <2018-03-27 mar.> | C   |   |
+   | EIG Node |          | Préparation de la publication d’un Plan d’action gouvernement ouvert                                                 | <2018-03-27 mar.> | T   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Présentation EIG à délégation ukrainienne (merci Tiphaine et Guillaume)                                              | <2018-04-03 mar.> | C   |   |
+   | EIG Node |          | Réunion avec équipes SI, SG et mentors EIG sur leur projet de gouvernance des données                                | <2018-04-03 mar.> | M   |   |
+   | EIG Node |          | Finalisation des slides de demande de financement pour EIG3                                                          | <2018-04-03 mar.> | M   |   |
+   | EIG Node |          | Atelier communication avec l’agence Bastille, feuille de route et hypothèses site v2                                 | <2018-04-03 mar.> | C   |   |
+   | EIG Node |          | Suivi Villani                                                                                                        | <2018-04-03 mar.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Arrivée de Soizic                                                                                                    | <2018-04-06 ven.> | M   |   |
+   | EIG Node |          | Plan de rédaction de contenu site v2 et nouvelle apparence (Bastien, Sophie, Soizic)                                 | <2018-04-06 ven.> | C   |   |
+   | EIG Node |          | Rédaction de contenu blog                                                                                            | <2018-04-06 ven.> | C   |   |
+   | EIG Node |          | EIG v3 validée par le COPIL PIA (1,5 M€)                                                                             | <2018-04-06 ven.> | M   |   |
+   | EIG Node |          | Rétroplanning EIG v3 (Mathilde, Sophie, Soizic)                                                                      | <2018-04-06 ven.> | M   |   |
+   | EIG Node |          | Crowdsourcing “[[https://lite.framacalc.org/EIG2____Donnees][vos rêves de données]]”                                                                                 | <2018-04-06 ven.> | D   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Retour de Paul !                                                                                                     | <2018-04-20 ven.> | M   | 1 |
+   | EIG Node |          | Travail sur le site v2 (contenu, intégration, issues)                                                                | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Rédaction et publication de contenu blog                                                                             | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Travail sur le bilan EIG1 - en cours de finalisation                                                                 | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Préparation de l'appel à projets EIG3                                                                                | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Sourcing des défis EIG 3                                                                                             | <2018-04-20 ven.> | M   |   |
+   | EIG Node |          | Écriture du mémo en anglais                                                                                          | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Premiers entretiens « Que sont-ils devenus ? »                                                                       | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Prise de contact avec Dora et Tiphaine pour leurs articles (en rédaction)                                            | <2018-04-20 ven.> | M   |   |
+   | EIG Node |          | Suivi de la proposition de la Gazette des communes                                                                   | <2018-04-20 ven.> | C   |   |
+   | EIG Node |          | Budgétisation offsite                                                                                                | <2018-04-20 ven.> | M   |   |
+   | EIG Node |          | Prestataires : goodies (soon), motion design (specs), matériel informatique                                          | <2018-04-20 ven.> | P   |   |
+   | EIG Node |          | Le crowdsourcing « Vos rêves de données » [[https://lite.framacalc.org/EIG2____Donnees][continue]]                                                                   | <2018-04-20 ven.> | D   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Finalisation du cahier des charges pour l'appel à projets EIG3 et envoi au COPI...                                   | <2018-04-27 ven.> | P   | 1 |
+   | EIG Node |          | Travail sur le formulaire de réponse au cahier des charges                                                           | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Interviews « Que sont-ils devenus ? »                                                                                | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Préparation de l'atelier d'écriture du 2 mai                                                                         | <2018-04-27 ven.> | P   |   |
+   | EIG Node |          | Préparation motion design                                                                                            | <2018-04-27 ven.> | P   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Diffusion de l’appel à projets EIG 3                                                                                 | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Préparation de la session DSI                                                                                        | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Préparation de l’événement d’information EIG 3 du 15 mai                                                             | <2018-05-11 ven.> | P   |   |
+   | EIG Node |          | Bastien est en train de recevoir son ordinateur, grâce à super-Paul + on a reçu de...                                | <2018-05-11 ven.> | I   |   |
+   | EIG Node |          | On a réorganisé notre stand up interne pour plus de fluidité                                                         | <2018-05-11 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Visite Mobilier national : MCC embarqué pour accompagner Laurie et Ned dans les partenariats                         | <2018-05-25 ven.> | M   |   |
+   | EIG Node |          | Démarchage d’administrations pour l’appel à projets EIG3                                                             | <2018-05-25 ven.> | T   |   |
+   | EIG Node |          | Rédaction/publication de l'article de blog sur la session DSI                                                        | <2018-05-25 ven.> | C   |   |
+   | EIG Node |          | Formalisation d’un planning de com / éditorial                                                                       | <2018-05-25 ven.> | C   |   |
+   | EIG Node |          | Sprints de rédaction de contenu pour le site v2                                                                      | <2018-05-25 ven.> | C   |   |
+   | EIG Node |          | Note sur la future organisation de l’administration générale des données au MEN                                      | <2018-05-25 ven.> | P   |   |
+   | EIG Node |          | Préparation de la présélection et du jury de l’appel à projets EIG3 (aura lieu le 04/07)                             | <2018-05-25 ven.> | M   |   |
+   | EIG Node |          | Réunion pérennisation sur les outils EIG LINK                                                                        | <2018-05-25 ven.> | M   |   |
+   | EIG Node |          | Préparation des futures sessions                                                                                     | <2018-05-25 ven.> | M   |   |
+   | EIG Node |          | Rencontre Dora à un forum Open d'État                                                                                | <2018-05-25 ven.> | X   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Intervention aux Rencontres des acteurs publics                                                                      | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Présence inauguration lab 110 bis                                                                                    | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Publication blogpost Tiphaine et relecture blogpost Antoine                                                          | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Travail sur le site v2                                                                                               | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Rétroplanning mois de juin (réception candidatures EIG3 and co)                                                      | <2018-06-08 ven.> | M   |   |
+   | EIG Node |          | Bastien a un nouvel ordi                                                                                             | <2018-06-08 ven.> | S   |   |
+   | EIG Node |          | Rédaction d’un bilan 360° pour Laure Lucchesi, back on track                                                         | <2018-06-08 ven.> | M   |   |
+   | EIG Node |          | Orga lancement Appel à manisfestation d’intérêts IA                                                                  | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Réunions EIG-Link avec Coach E et Gobelins                                                                           | <2018-06-08 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | mega sprint sur le site V2                                                                                           | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | accompagnement de défis candidats EIG3 DINSIC                                                                        | <2018-06-15 ven.> | T   |   |
+   | EIG Node |          | préparation des 2 prochaines semaines de présélection pour EIG3                                                      | <2018-06-15 ven.> | M   |   |
+   | EIG Node |          | déjeuners « modèles économiques » avec les teams Social Connect et Archifiltre                                       | <2018-06-15 ven.> | M   |   |
+   | EIG Node |          | session mi-parcours                                                                                                  | <2018-06-15 ven.> | A   |   |
+   | EIG Node |          | présence datafin                                                                                                     | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | relecture blogpost Antoine (promis on le publie bientôt)                                                             | <2018-06-15 ven.> | C   |   |
+   | EIG Node |          | présentation de notre bilan « EIG node » mi-parcours à Laure Lucchesi                                                | <2018-06-15 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Évaluation et présélection des défis – MERCI à tous et BRAVO a Soizic !                                              | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Préparation du jury – BRAVO à Sophie !                                                                               | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Avancées sur le site web                                                                                             | <2018-06-29 ven.> | P   |   |
+   | EIG Node |          | Roadmap équipe EIG node 5 prochains mois                                                                             | <2018-06-29 ven.> | M   |   |
+   | EIG Node |          | Point bilan avec Laure Lucchesi et Henri Verdier à J                                                                 | <2018-06-29 ven.> | T   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Jury EIG3 et délibérations                                                                                           | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Cadrage offsite EIG2 début septembre                                                                                 | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Petit dej mentor/EIG Social Connect                                                                                  | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Participation jury Latitudes <3                                                                                      | <2018-07-06 ven.> | M   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Rencontre team Coach Elèves et le Lab 110bis (super discussion sur les aspects « communauté »/ « communs » du coach) | <2018-07-20 ven.> | T   |   |
+   | EIG Node |          | Entretiens avec des administrations candidates à EIG3 non retenues, recherches d’options alternatives                | <2018-07-20 ven.> | T   |   |
+   | EIG Node |          | Rédaction de blogposts et autres mémo                                                                                | <2018-07-20 ven.> | P   |   |
+   | EIG Node |          | Sprint site de Sophie et Bastien                                                                                     | <2018-07-20 ven.> | P   |   |
+   | EIG Node |          | Design review aux Gobelins                                                                                           | <2018-07-20 ven.> | A   |   |
+   | EIG Node |          | Publication des défis EIG3 retenus                                                                                   | <2018-07-20 ven.> | C   |   |
+   | EIG Node |          | Préparation du calendrier de rentrée !!!                                                                             | <2018-07-20 ven.> | M   |   |
 
 ** Suite
 
