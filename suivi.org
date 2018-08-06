@@ -433,6 +433,10 @@ un lien est ajouté.
    | CoachÉlèves |                                | Organisation d'une rencontre MEN/Chercheurs pour discuter données                                                                                                          | <2018-06-22 ven.> | C   |   |
    | CoachÉlèves |                                | Obtention de nouvelles données BRNE                                                                                                                                        | <2018-06-22 ven.> | D   |   |
    | CoachÉlèves |                                | Travaille de synthèse des indicateurs                                                                                                                                      | <2018-06-22 ven.> | P   |   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlèves |                                | Rencontre de CPE et des Équipes Mobiles de Sécurité dans différents établissements du Val-de-Marne                                                                         | <2018-06-29 ven.> | A   |   |
+   | CoachÉlèves |                                | Présentation de nos travaux à la journée des Délégués Académiques et Numériques (DAN)                                                                                      | <2018-06-29 ven.> | C   |   |
+   | CoachÉlèves |                                | Présentation fonctionnement chatbots et définition des axes d’appuie pour le CNED                                                                                          | <2018-06-29 ven.> | M   |   |
 
 ** Suite
 
