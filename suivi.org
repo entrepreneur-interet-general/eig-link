@@ -427,6 +427,12 @@ un lien est ajouté.
    | CoachÉlèves | Décrochage                     | Production d'écrans pour projet CoachÉlève                                                                                                                                 | <2018-06-15 ven.> | P   |   |
    | CoachÉlèves | BDD Centrale                   | Arrivée des premiers jeux de données de la part de deux entreprises                                                                                                        | <2018-06-15 ven.> | D   |   |
    | CoachÉlèves | BDD Centrale                   | Rencontre membre du comité ISO sur Learning Analytics                                                                                                                      | <2018-06-15 ven.> | M   |   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlèves |                                | Analyse des données BRNE                                                                                                                                                   | <2018-06-22 ven.> | D   |   |
+   | CoachÉlèves |                                | Définitions indicateurs avec Numéri'Lab et DBE B                                                                                                                           | <2018-06-22 ven.> | P   |   |
+   | CoachÉlèves |                                | Organisation d'une rencontre MEN/Chercheurs pour discuter données                                                                                                          | <2018-06-22 ven.> | C   |   |
+   | CoachÉlèves |                                | Obtention de nouvelles données BRNE                                                                                                                                        | <2018-06-22 ven.> | D   |   |
+   | CoachÉlèves |                                | Travaille de synthèse des indicateurs                                                                                                                                      | <2018-06-22 ven.> | P   |   |
 
 ** Suite
 
