@@ -20,6 +20,8 @@
 - http://mapshaper.org
 - http://project-osrm.org : Modern C++ routing engine for shortest
   paths in road networks
+- https://www.keisan.io/knowledgebase/centos-7-open-street-map-tile-server :
+  monter un serveur de tiles OSM
 
 * Codes de conduite
 
