@@ -326,13 +326,16 @@ un lien est ajouté.
    | BrigadeNumérique |          | Conception et mise en place d'un plan d'integration des 100 Fb Messengers des groupements de gendarmerie dans l'interface de la Brigade numérique (BNum) | <2018-05-25 ven.> | G   |   |
    | BrigadeNumérique |          | Evolutions de la plateforme d'accueil numérique (création d'une page chat sur le site web de la gendarmerie, integration de 10 comptes Fb Messenger)     | <2018-05-25 ven.> | T   |   |
    | BrigadeNumérique |          | Automatisation d'une partie du reporting hebdomadaire de la BNum (au revoir feuille excel pour l'édition des camemberts)                                 | <2018-05-25 ven.> | T   |   |
+   |------------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | BrigadeNumérique |          | Evolutions des maquettes                                                                                                                                 | <2018-06-08 ven.> | A   |   |
+   | BrigadeNumérique |          | Réunion avec la DSI gendarmerie et la DILA sur l'hébergement et la pérénisation de l'outil prise de RDV                                                  | <2018-06-08 ven.> | M   |   |
+   | BrigadeNumérique |          | Avancements sur la publication des horaires d'accueil en brigades                                                                                        | <2018-06-08 ven.> | M   |   |
+   | BrigadeNumérique |          | Fiche décision sur hébergement de l'application RDV                                                                                                      | <2018-06-08 ven.> | P   |   |
+   | BrigadeNumérique |          | Spécs application RDV                                                                                                                                    | <2018-06-08 ven.> | P   |   |
+   | BrigadeNumérique |          | V1 d'un model de fichier compatible Open Street Maps pour le chargement des horaires d'accueil en brigade                                                | <2018-06-08 ven.> | C   |   |
+   | BrigadeNumérique |          | Article blog Etalab, v2                                                                                                                                  | <2018-06-08 ven.> | P   |   |
 
 ** Suite
-
-- [P] Spécifications EIG outil prise de RDV
-- [P] Évolution specs numérisation des horaires d'accueil en brigade
-- [P] Article pour le blog Etalab
-- [T] Évolutions des maquettes afin d'intégrer une page de débruitage qui renvoie vers les téléservices gendarmerie existants
 
 * CoachÉlèves
 
