@@ -1643,6 +1643,13 @@ un lien est ajouté.
    | Signaux Faibles |                   | Mesure des métriques de performance des versions l'algorithme                                                            | <2018-05-18 ven.> | P   |  1 |
    | Signaux Faibles |                   | Méditation sur les suites de test à mettre en place                                                                      | <2018-05-18 ven.> | A   |    |
    | Signaux Faibles |                   | Analyse de quelques menues informations saupoudrées par la DGFIP                                                         | <2018-05-18 ven.> | P   |    |
+   |-----------------+-------------------+--------------------------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Signaux Faibles |                   | Frontend (aggregation data + affichage)                                                                                  | <2018-06-15 ven.> | D   |  1 |
+   | Signaux Faibles |                   | Réseau de neurones récurrent                                                                                             | <2018-06-15 ven.> | P   |  1 |
+   | Signaux Faibles |                   | Echanges avec SESE et Darès a propos du projet                                                                           | <2018-06-15 ven.> | CU  |  1 |
+   | Signaux Faibles |                   | LLL                                                                                                                      | <2018-06-15 ven.> | LLL |  1 |
+   | Signaux Faibles |                   | Atelier opendata à la DGE                                                                                                | <2018-06-15 ven.> | C   |  1 |
+   | Signaux Faibles |                   | Dispatch des détections / prise de rendez vous                                                                           | <2018-06-15 ven.> | U   |  1 |
 
 ** Suite
 
