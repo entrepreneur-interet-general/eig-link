@@ -791,6 +791,19 @@ un lien est ajouté.
    | EIG Link |              | Organisation et réalisation de la journée wiki·data·gouv,              | <2018-06-18 lun.> | PT  |    |
    | EIG Link |              | Relecture des défis EIG pour le futur site                             | <2018-06-18 lun.> | P   |    |
    | EIG Link |              | Calendrier de rdv pour B@liseNav, SocialConnect, CoachÉlèves, Gobelins | <2018-06-18 lun.> | M   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Avancées sur le site web                                               | <2018-06-29 ven.> | P   |    |
+   | EIG Link |              | Réunion de travail avec les élèves de l'ENA                            | <2018-06-29 ven.> | C   |    |
+   | EIG Link |              | Participation à la réunion du collectif CIS                            | <2018-06-29 ven.> | C   |    |
+   | EIG Link |              | Participation au festival Futur·e·s                                    | <2018-06-29 ven.> | C   |    |
+   | EIG Link |              | Session d'accompagnement EIG Demo Day                                  | <2018-06-29 ven.> | C   |    |
+   | EIG Link |              | Visite manufacture d'orgue d'Eschau à Strasbourg                       | <2018-06-29 ven.> | U   |    |
+   | EIG Link |              | Conférence sur le numérique et le libre au CEREMA à Lille              | <2018-06-29 ven.> | C   |    |
+   | EIG Link |              | Préparation de la mission Étalab à Haïti                               | <2018-06-29 ven.> | P   |    |
+   | EIG Link |              | Session EIG Off Tech frontend au LLL                                   | <2018-06-29 ven.> | A   |    |
+   | EIG Link |              | Installation d'un serveur shiny et FTP                                 | <2018-06-29 ven.> | I   |    |
+   | EIG Link |              | Aide Signaux Faibles pour serveur AWS                                  | <2018-06-29 ven.> | P   |    |
+   | EIG Link |              | Aide à la présélection des défis EIG 3                                 | <2018-06-29 ven.> | M   |    |
 
 ** Suite
 
