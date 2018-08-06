@@ -1010,143 +1010,153 @@ un lien est ajouté.
 
 ** Journal
 
-   | Défi    | Livrable                | Tâche                                                                                   | Fait le           | Cat |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Biblio sur le matching                                                                  | <2018-02-15 jeu.> | P   |
-   | Hopkins |                         | Installation de matchID                                                                 | <2018-02-15 jeu.> | I   |
-   | Hopkins |                         | Familiarisation avec ElasticSearch                                                      | <2018-02-15 jeu.> | A   |
-   | Hopkins |                         | Exploration jeu de données sur Dataiku                                                  | <2018-02-15 jeu.> | D   |
-   | Hopkins |                         | Reprise en main de python                                                               | <2018-02-15 jeu.> | A   |
-   | Hopkins |                         | Découverte travail d’orientation auprès d’un utilisateur                                | <2018-02-15 jeu.> | U   |
-   | Hopkins |                         | Test de la librairie fuzzywuzzy                                                         | <2018-02-15 jeu.> | P   |
-   | Hopkins |                         | Trouver un workflow correct entre un ordi Windows                                       | <2018-02-15 jeu.> | I   |
-   | Hopkins |                         | Setup serveurs (zsh oh-my-zsh micro et tmux)                                            | <2018-02-15 jeu.> | I   |
-   | Hopkins |                         | Lire du code pour me mettre à jour                                                      | <2018-02-15 jeu.> | A   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Rencontre avec Fabien de matchID                                                        | <2018-02-23 ven.> | A   |
-   | Hopkins | Dataset labellisé       | Exploration des données COSI                                                            | <2018-02-23 ven.> | DP  |
-   | Hopkins | 1er matching            | Test de matchID sur un dataset réduit                                                   | <2018-02-23 ven.> | P   |
-   | Hopkins |                         | Tour de l'étage des enquêteurs                                                          | <2018-02-23 ven.> | U   |
-   | Hopkins |                         | Installation du kanboard                                                                | <2018-02-23 ven.> | I   |
-   | Hopkins |                         | Achat tableaux blancs autocollants pour écrire sur les murs                             | <2018-02-23 ven.> | I   |
-   | Hopkins |                         | Débroussaillage d’autodocumentations python                                             | <2018-02-23 ven.> | A   |
-   | Hopkins |                         | Rencontre autres personnels d’autres service                                            | <2018-02-23 ven.> | M   |
-   | Hopkins |                         | Préparation mise au point en NLP dans l’équipe                                          | <2018-02-23 ven.> | C   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Test matching 1 MatchId sur dataset réduit                                              | <2018-03-02 ven.> | P   |
-   | Hopkins |                         | Biblio évaluation d’entity resolution                                                   | <2018-03-02 ven.> | P   |
-   | Hopkins |                         | Evaluation matching 1                                                                   | <2018-03-02 ven.> | P   |
-   | Hopkins |                         | Discussion avec Samsoft, solution de matching                                           | <2018-03-02 ven.> | A   |
-   | Hopkins |                         | Débug code de matching existant ([[https://github.com/ekzhu/datasketch/][datasketch]])                                            | <2018-03-02 ven.> | P   |
-   | Hopkins |                         | VM (64Go) en cours d'obtention pour installer matchID                                   | <2018-03-02 ven.> | I   |
-   | Hopkins |                         | Web app d'exploration des résultats de classification                                   | <2018-03-02 ven.> | P   |
-   | Hopkins |                         | Obtenir une VM avec gitlab (et être sudoer)                                             | <2018-03-02 ven.> | S   |
-   | Hopkins |                         | Réparer install python 3 sur dataiku                                                    | <2018-03-02 ven.> | I   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Fin du tour des bureaux                                                                 | <2018-03-09 ven.> | CU  |
-   | Hopkins | Données structurées     | id unique pour chaque transaction                                                       | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées     | Recette de re-scoring des matchs                                                        | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées     | App Dataiku pour visualiser données en cours d'enquête                                  | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées     | Etude des faux positifs du matching                                                     | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées     | Biblio “”Evaluating Entity Resolution Results”                                          | <2018-03-09 ven.> | A   |
-   | Hopkins | Données structurées     | Alignement de phrases                                                                   | <2018-03-09 ven.> | P   |
-   | Hopkins | Données structurées     | Définition d’une feuille de route                                                       | <2018-03-09 ven.> | P   |
-   | Hopkins | Texte                   | Présentation sur tableau des techniques modernes de NLP                                 | <2018-03-09 ven.> | C   |
-   | Hopkins | Texte                   | Fin web app visualisation de classsification                                            | <2018-03-09 ven.> | P   |
-   | Hopkins | Texte                   | Debrief conférence traduction automatique                                               | <2018-03-09 ven.> | A   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Biblio lib de graphes et dérouillage en d3.js                                           | <2018-03-16 ven.> | A   |
-   | Hopkins |                         | Viz graphe : ajout de labels sur les noeuds et les arcs                                 | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Viz graphe : sélection dans une liste de top ben/don                                    | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Viz graphe : limitation de la profondeur du graphe                                      | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Viz graphe : couche esthétique en utilisant material-design (en cours)                  | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Étude des faux négatifs. Bug : des matchs exacts ne sont pas matchés                    | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Debug, nouveau matching et évaluation : le rappel passe de 14% à 65%                    | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Refactoring et documentation du code d’évaluation                                       | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Amélioration Web App Validation                                                         | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Déploiement Gitlab + Documentation                                                      | <2018-03-16 ven.> | P   |
-   | Hopkins |                         | Début conversion python 3                                                               | <2018-03-16 ven.> | P   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins | Matching                | Amélioration de l'app de graphe                                                         | <2018-03-23 ven.> | P   |
-   | Hopkins | Matching                | test de matching utilisant du Locality Sensitivity Hashing sur Sp...                    | <2018-03-23 ven.> | A   |
-   | Hopkins | Matching                | Effacer toutes les tables présentes sur HDFS                                            | <2018-03-23 ven.> | P   |
-   | Hopkins | Matching                | Evaluation de matching avec différentes limite de nombre de résul...                    | <2018-03-23 ven.> | P   |
-   | Hopkins | Matching                | Etude de différentes variations de la mesure group level Generali...                    | <2018-03-23 ven.> | P   |
-   | Hopkins | Matching                | Rédaction d'une première version de protocole d'évaluation                              | <2018-03-23 ven.> | P   |
-   | Hopkins | Text                    | Automatisation push gitlab                                                              | <2018-03-23 ven.> | P   |
-   | Hopkins | Text                    | Passage python 3 finit                                                                  | <2018-03-23 ven.> | P   |
-   | Hopkins | Text                    | Amélioration web app évaluation prédictions                                             | <2018-03-23 ven.> | P   |
-   | Hopkins | Text                    | Prise de rdv Users                                                                      | <2018-03-23 ven.> | U   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins | Explo graphe            | Démo de l’app à nos premiers utilisateurs et déploiement sur leurs ...                  | <2018-03-30 ven.> | U   |
-   | Hopkins | Explo graphe            | Création d’un backlog de fonctionnalités                                                | <2018-03-30 ven.> | M   |
-   | Hopkins | Explo graphe            | Refactor du code en utilisant Vue.js                                                    | <2018-03-30 ven.> | P   |
-   | Hopkins | Explo graphe            | Ajout de fonctionnalités (Expansion de noeud)                                           | <2018-03-30 ven.> | P   |
-   | Hopkins | Matching                | Installation/configuration serveur Elasticsearch                                        | <2018-03-30 ven.> | I   |
-   | Hopkins | Matching                | Insertion données depuis dataiku dans serveur ES                                        | <2018-03-30 ven.> | I   |
-   | Hopkins | Matching                | Test clustering de louvain sur petit dataset=> meilleur Matching                        | <2018-03-30 ven.> | P   |
-   | Hopkins | Matching                | Rencontre data esr merge machine. Étude macro du code                                   | <2018-03-30 ven.> | A   |
-   | Hopkins | Text                    | Accélération de code (stratification d'un dataset multi label)                          | <2018-03-30 ven.> | P   |
-   | Hopkins | Text                    | Feedback utilisateur test -> Amélioration de la web app de validation                   | <2018-03-30 ven.> | P   |
-   | Hopkins | Text                    | Déploiement auprès de tous (5...) les utilisateurs finaux                               | <2018-03-30 ven.> | U   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | visualisation des propriétés des noeuds et des arcs du graphe                           | <2018-04-06 ven.> | P   |
-   | Hopkins |                         | résolution de bugs sur l'app de graphe                                                  | <2018-04-06 ven.> | P   |
-   | Hopkins |                         | biblio graphe, test en local de Janus, une base graphe                                  | <2018-04-06 ven.> | A   |
-   | Hopkins |                         | biblio traduction automatique                                                           | <2018-04-06 ven.> | A   |
-   | Hopkins |                         | visualisation des propriétés des noeuds et des arcs du graphe                           | <2018-04-06 ven.> | P   |
-   | Hopkins |                         | résolution de bugs sur l'app de graphe                                                  | <2018-04-06 ven.> | P   |
-   | Hopkins |                         | biblio graphe, test en local de Janus, une base graphe                                  | <2018-04-06 ven.> | A   |
-   | Hopkins |                         | biblio traduction automatique                                                           | <2018-04-06 ven.> | A   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins | Classification          | Code Tensorflow pour classifier de texte                                                | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Sortie du code sur le [[https://github.com/entrepreneur-interet-general/graph-explorer][github EIG]]                                                        | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Passage sur Bulma.js comme framework CSS                                                | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Feature#59 Permettre de sélectionner un dataset parmi une liste de datasets disponibles | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Maquette Sketch de l'app                                                                | <2018-04-14 sam.> | A   |
-   | Hopkins | Matching/Graph explorer | Continuer test de temps de matching sur différentes taille de dataset, +/- fuzzy        | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Paralléliser le matching avec pandas => temps/2                                         | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Nouveaux collecteurs                                                                    | <2018-04-14 sam.> | P   |
-   | Hopkins | Matching/Graph explorer | Se plonger dans javascript/vue.Js                                                       | <2018-04-14 sam.> | A   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Fin de la mise à jour des collecteurs                                                   | <2018-04-20 ven.> | P   |
-   | Hopkins |                         | Matching de startrac avec cosi_1 (10h)                                                  | <2018-04-20 ven.> | P   |
-   | Hopkins |                         | Premier test de l'interface de validation de MatchID                                    | <2018-04-20 ven.> | P   |
-   | Hopkins |                         | Intégration d’un nouveau dataset à GraphExplorer                                        | <2018-04-20 ven.> | P   |
-   | Hopkins |                         | Installation de matchID sur VM 64Go                                                     | <2018-04-20 ven.> | I   |
-   | Hopkins |                         | Tutos Sketch et production de maquettes d'une v1.0 de GraphExplorer                     | <2018-04-20 ven.> | AP  |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | Modifications de dashboards à des fins de communication externe (conférence lutte co... | <2018-04-27 ven.> | P   |
-   | Hopkins |                         | Generation dataset de pays pour graph explorer                                          | <2018-04-27 ven.> | P   |
-   | Hopkins |                         | Debug matchid -> + d'espace disque sur la vm                                            | <2018-04-27 ven.> | P   |
-   | Hopkins |                         | Prise en main webapp de la webapp graph explorer                                        | <2018-04-27 ven.> | P   |
-   | Hopkins |                         | Nouvelle version de la web app graph explorer intégrant du search                       | <2018-04-27 ven.> | P   |
-   | Hopkins |                         | Déjeuner avec le service d’analyse stratégique                                          | <2018-04-27 ven.> | U   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins |                         | apprentissage du surf vers royan                                                        | <2018-05-04 ven.> | A   |
-   | Hopkins |                         | MAJ dataiku + debuggage                                                                 | <2018-05-04 ven.> | P   |
-   | Hopkins |                         | création dataset graph-explorer pour 2 autres pays                                      | <2018-05-04 ven.> | P   |
-   | Hopkins |                         | (en cours) afficher la somme totale reçu par une personne sur graph-explorer            | <2018-05-04 ven.> | P   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins | Graphe                  | Réflexion et création d'un nouveau projet plus propre pour la création de graphe        | <2018-05-25 ven.> | P   |
-   | Hopkins | Graphe                  | MAJ données de graphes sur pays demandés par enquêteur                                  | <2018-05-25 ven.> | P   |
-   | Hopkins | Graphe                  | Détection de sous graphes suspects : étude des noeuds de top betweenness                | <2018-05-25 ven.> | P   |
-   | Hopkins |                         | Atelier graphes                                                                         | <2018-05-25 ven.> | A   |
-   |---------+-------------------------+-----------------------------------------------------------------------------------------+-------------------+-----|
-   | Hopkins | Graphe                  | Etude du graphe de personnes "centrales"                                                | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Débuggage d'entités matchés par erreur                                                  | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Recette de fusion d'entités                                                             | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Matching complet terminé en 30h                                                         | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Création d'un nouveau graphes comprenant l'ensemble des pays visés pour les enquêteurs  | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Feature: ajout de boutons de zooms                                                      | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Feature: visualiser les personnes déjà connues sous forme d'étoile                      | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Maquettes Sketch d'une version 0.3.0                                                    | <2018-06-08 ven.> | P   |
-   | Hopkins | Graphe                  | Présentation de graph-explorer à la CAS (Cellule d'Analyse Stratégique)                 | <2018-06-08 ven.> | C   |
-   | Hopkins | Text                    | Refactoring code Web App                                                                | <2018-06-08 ven.> | P   |
-   | Hopkins | Text                    | Fix bugs Web App Validation                                                             | <2018-06-08 ven.> | P   |
-   | Hopkins | Text                    | Refactoring code modèle Tensorflow                                                      | <2018-06-08 ven.> | P   |
-   | Hopkins | Text                    | Préparation données pour classification                                                 | <2018-06-08 ven.> | P   |
-   | Hopkins | Text                    | Blog posts et Traduction (x2)                                                           | <2018-06-08 ven.> | C   |
+   | Défi    | Livrable                | Tâche                                                                                                                                                         | Fait le           | Cat |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Biblio sur le matching                                                                                                                                        | <2018-02-15 jeu.> | P   |
+   | Hopkins |                         | Installation de matchID                                                                                                                                       | <2018-02-15 jeu.> | I   |
+   | Hopkins |                         | Familiarisation avec ElasticSearch                                                                                                                            | <2018-02-15 jeu.> | A   |
+   | Hopkins |                         | Exploration jeu de données sur Dataiku                                                                                                                        | <2018-02-15 jeu.> | D   |
+   | Hopkins |                         | Reprise en main de python                                                                                                                                     | <2018-02-15 jeu.> | A   |
+   | Hopkins |                         | Découverte travail d’orientation auprès d’un utilisateur                                                                                                      | <2018-02-15 jeu.> | U   |
+   | Hopkins |                         | Test de la librairie fuzzywuzzy                                                                                                                               | <2018-02-15 jeu.> | P   |
+   | Hopkins |                         | Trouver un workflow correct entre un ordi Windows                                                                                                             | <2018-02-15 jeu.> | I   |
+   | Hopkins |                         | Setup serveurs (zsh oh-my-zsh micro et tmux)                                                                                                                  | <2018-02-15 jeu.> | I   |
+   | Hopkins |                         | Lire du code pour me mettre à jour                                                                                                                            | <2018-02-15 jeu.> | A   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Rencontre avec Fabien de matchID                                                                                                                              | <2018-02-23 ven.> | A   |
+   | Hopkins | Dataset labellisé       | Exploration des données COSI                                                                                                                                  | <2018-02-23 ven.> | DP  |
+   | Hopkins | 1er matching            | Test de matchID sur un dataset réduit                                                                                                                         | <2018-02-23 ven.> | P   |
+   | Hopkins |                         | Tour de l'étage des enquêteurs                                                                                                                                | <2018-02-23 ven.> | U   |
+   | Hopkins |                         | Installation du kanboard                                                                                                                                      | <2018-02-23 ven.> | I   |
+   | Hopkins |                         | Achat tableaux blancs autocollants pour écrire sur les murs                                                                                                   | <2018-02-23 ven.> | I   |
+   | Hopkins |                         | Débroussaillage d’autodocumentations python                                                                                                                   | <2018-02-23 ven.> | A   |
+   | Hopkins |                         | Rencontre autres personnels d’autres service                                                                                                                  | <2018-02-23 ven.> | M   |
+   | Hopkins |                         | Préparation mise au point en NLP dans l’équipe                                                                                                                | <2018-02-23 ven.> | C   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Test matching 1 MatchId sur dataset réduit                                                                                                                    | <2018-03-02 ven.> | P   |
+   | Hopkins |                         | Biblio évaluation d’entity resolution                                                                                                                         | <2018-03-02 ven.> | P   |
+   | Hopkins |                         | Evaluation matching 1                                                                                                                                         | <2018-03-02 ven.> | P   |
+   | Hopkins |                         | Discussion avec Samsoft, solution de matching                                                                                                                 | <2018-03-02 ven.> | A   |
+   | Hopkins |                         | Débug code de matching existant ([[https://github.com/ekzhu/datasketch/][datasketch]])                                                                                                                  | <2018-03-02 ven.> | P   |
+   | Hopkins |                         | VM (64Go) en cours d'obtention pour installer matchID                                                                                                         | <2018-03-02 ven.> | I   |
+   | Hopkins |                         | Web app d'exploration des résultats de classification                                                                                                         | <2018-03-02 ven.> | P   |
+   | Hopkins |                         | Obtenir une VM avec gitlab (et être sudoer)                                                                                                                   | <2018-03-02 ven.> | S   |
+   | Hopkins |                         | Réparer install python 3 sur dataiku                                                                                                                          | <2018-03-02 ven.> | I   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Fin du tour des bureaux                                                                                                                                       | <2018-03-09 ven.> | CU  |
+   | Hopkins | Données structurées     | id unique pour chaque transaction                                                                                                                             | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées     | Recette de re-scoring des matchs                                                                                                                              | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées     | App Dataiku pour visualiser données en cours d'enquête                                                                                                        | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées     | Etude des faux positifs du matching                                                                                                                           | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées     | Biblio “”Evaluating Entity Resolution Results”                                                                                                                | <2018-03-09 ven.> | A   |
+   | Hopkins | Données structurées     | Alignement de phrases                                                                                                                                         | <2018-03-09 ven.> | P   |
+   | Hopkins | Données structurées     | Définition d’une feuille de route                                                                                                                             | <2018-03-09 ven.> | P   |
+   | Hopkins | Texte                   | Présentation sur tableau des techniques modernes de NLP                                                                                                       | <2018-03-09 ven.> | C   |
+   | Hopkins | Texte                   | Fin web app visualisation de classsification                                                                                                                  | <2018-03-09 ven.> | P   |
+   | Hopkins | Texte                   | Debrief conférence traduction automatique                                                                                                                     | <2018-03-09 ven.> | A   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Biblio lib de graphes et dérouillage en d3.js                                                                                                                 | <2018-03-16 ven.> | A   |
+   | Hopkins |                         | Viz graphe : ajout de labels sur les noeuds et les arcs                                                                                                       | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Viz graphe : sélection dans une liste de top ben/don                                                                                                          | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Viz graphe : limitation de la profondeur du graphe                                                                                                            | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Viz graphe : couche esthétique en utilisant material-design (en cours)                                                                                        | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Étude des faux négatifs. Bug : des matchs exacts ne sont pas matchés                                                                                          | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Debug, nouveau matching et évaluation : le rappel passe de 14% à 65%                                                                                          | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Refactoring et documentation du code d’évaluation                                                                                                             | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Amélioration Web App Validation                                                                                                                               | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Déploiement Gitlab + Documentation                                                                                                                            | <2018-03-16 ven.> | P   |
+   | Hopkins |                         | Début conversion python 3                                                                                                                                     | <2018-03-16 ven.> | P   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Matching                | Amélioration de l'app de graphe                                                                                                                               | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching                | test de matching utilisant du Locality Sensitivity Hashing sur Sp...                                                                                          | <2018-03-23 ven.> | A   |
+   | Hopkins | Matching                | Effacer toutes les tables présentes sur HDFS                                                                                                                  | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching                | Evaluation de matching avec différentes limite de nombre de résul...                                                                                          | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching                | Etude de différentes variations de la mesure group level Generali...                                                                                          | <2018-03-23 ven.> | P   |
+   | Hopkins | Matching                | Rédaction d'une première version de protocole d'évaluation                                                                                                    | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                    | Automatisation push gitlab                                                                                                                                    | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                    | Passage python 3 finit                                                                                                                                        | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                    | Amélioration web app évaluation prédictions                                                                                                                   | <2018-03-23 ven.> | P   |
+   | Hopkins | Text                    | Prise de rdv Users                                                                                                                                            | <2018-03-23 ven.> | U   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Explo graphe            | Démo de l’app à nos premiers utilisateurs et déploiement sur leurs ...                                                                                        | <2018-03-30 ven.> | U   |
+   | Hopkins | Explo graphe            | Création d’un backlog de fonctionnalités                                                                                                                      | <2018-03-30 ven.> | M   |
+   | Hopkins | Explo graphe            | Refactor du code en utilisant Vue.js                                                                                                                          | <2018-03-30 ven.> | P   |
+   | Hopkins | Explo graphe            | Ajout de fonctionnalités (Expansion de noeud)                                                                                                                 | <2018-03-30 ven.> | P   |
+   | Hopkins | Matching                | Installation/configuration serveur Elasticsearch                                                                                                              | <2018-03-30 ven.> | I   |
+   | Hopkins | Matching                | Insertion données depuis dataiku dans serveur ES                                                                                                              | <2018-03-30 ven.> | I   |
+   | Hopkins | Matching                | Test clustering de louvain sur petit dataset=> meilleur Matching                                                                                              | <2018-03-30 ven.> | P   |
+   | Hopkins | Matching                | Rencontre data esr merge machine. Étude macro du code                                                                                                         | <2018-03-30 ven.> | A   |
+   | Hopkins | Text                    | Accélération de code (stratification d'un dataset multi label)                                                                                                | <2018-03-30 ven.> | P   |
+   | Hopkins | Text                    | Feedback utilisateur test -> Amélioration de la web app de validation                                                                                         | <2018-03-30 ven.> | P   |
+   | Hopkins | Text                    | Déploiement auprès de tous (5...) les utilisateurs finaux                                                                                                     | <2018-03-30 ven.> | U   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | visualisation des propriétés des noeuds et des arcs du graphe                                                                                                 | <2018-04-06 ven.> | P   |
+   | Hopkins |                         | résolution de bugs sur l'app de graphe                                                                                                                        | <2018-04-06 ven.> | P   |
+   | Hopkins |                         | biblio graphe, test en local de Janus, une base graphe                                                                                                        | <2018-04-06 ven.> | A   |
+   | Hopkins |                         | biblio traduction automatique                                                                                                                                 | <2018-04-06 ven.> | A   |
+   | Hopkins |                         | visualisation des propriétés des noeuds et des arcs du graphe                                                                                                 | <2018-04-06 ven.> | P   |
+   | Hopkins |                         | résolution de bugs sur l'app de graphe                                                                                                                        | <2018-04-06 ven.> | P   |
+   | Hopkins |                         | biblio graphe, test en local de Janus, une base graphe                                                                                                        | <2018-04-06 ven.> | A   |
+   | Hopkins |                         | biblio traduction automatique                                                                                                                                 | <2018-04-06 ven.> | A   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Classification          | Code Tensorflow pour classifier de texte                                                                                                                      | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Sortie du code sur le [[https://github.com/entrepreneur-interet-general/graph-explorer][github EIG]]                                                                                                                              | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Passage sur Bulma.js comme framework CSS                                                                                                                      | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Feature#59 Permettre de sélectionner un dataset parmi une liste de datasets disponibles                                                                       | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Maquette Sketch de l'app                                                                                                                                      | <2018-04-14 sam.> | A   |
+   | Hopkins | Matching/Graph explorer | Continuer test de temps de matching sur différentes taille de dataset, +/- fuzzy                                                                              | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Paralléliser le matching avec pandas => temps/2                                                                                                               | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Nouveaux collecteurs                                                                                                                                          | <2018-04-14 sam.> | P   |
+   | Hopkins | Matching/Graph explorer | Se plonger dans javascript/vue.Js                                                                                                                             | <2018-04-14 sam.> | A   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Fin de la mise à jour des collecteurs                                                                                                                         | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Matching de startrac avec cosi_1 (10h)                                                                                                                        | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Premier test de l'interface de validation de MatchID                                                                                                          | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Intégration d’un nouveau dataset à GraphExplorer                                                                                                              | <2018-04-20 ven.> | P   |
+   | Hopkins |                         | Installation de matchID sur VM 64Go                                                                                                                           | <2018-04-20 ven.> | I   |
+   | Hopkins |                         | Tutos Sketch et production de maquettes d'une v1.0 de GraphExplorer                                                                                           | <2018-04-20 ven.> | AP  |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Modifications de dashboards à des fins de communication externe (conférence lutte co...                                                                       | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Generation dataset de pays pour graph explorer                                                                                                                | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Debug matchid -> + d'espace disque sur la vm                                                                                                                  | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Prise en main webapp de la webapp graph explorer                                                                                                              | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Nouvelle version de la web app graph explorer intégrant du search                                                                                             | <2018-04-27 ven.> | P   |
+   | Hopkins |                         | Déjeuner avec le service d’analyse stratégique                                                                                                                | <2018-04-27 ven.> | U   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | apprentissage du surf vers royan                                                                                                                              | <2018-05-04 ven.> | A   |
+   | Hopkins |                         | MAJ dataiku + debuggage                                                                                                                                       | <2018-05-04 ven.> | P   |
+   | Hopkins |                         | création dataset graph-explorer pour 2 autres pays                                                                                                            | <2018-05-04 ven.> | P   |
+   | Hopkins |                         | (en cours) afficher la somme totale reçu par une personne sur graph-explorer                                                                                  | <2018-05-04 ven.> | P   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Graphe                  | Réflexion et création d'un nouveau projet plus propre pour la création de graphe                                                                              | <2018-05-25 ven.> | P   |
+   | Hopkins | Graphe                  | MAJ données de graphes sur pays demandés par enquêteur                                                                                                        | <2018-05-25 ven.> | P   |
+   | Hopkins | Graphe                  | Détection de sous graphes suspects : étude des noeuds de top betweenness                                                                                      | <2018-05-25 ven.> | P   |
+   | Hopkins |                         | Atelier graphes                                                                                                                                               | <2018-05-25 ven.> | A   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins | Graphe                  | Etude du graphe de personnes "centrales"                                                                                                                      | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Débuggage d'entités matchés par erreur                                                                                                                        | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Recette de fusion d'entités                                                                                                                                   | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Matching complet terminé en 30h                                                                                                                               | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Création d'un nouveau graphes comprenant l'ensemble des pays visés pour les enquêteurs                                                                        | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Feature: ajout de boutons de zooms                                                                                                                            | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Feature: visualiser les personnes déjà connues sous forme d'étoile                                                                                            | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Maquettes Sketch d'une version 0.3.0                                                                                                                          | <2018-06-08 ven.> | P   |
+   | Hopkins | Graphe                  | Présentation de graph-explorer à la CAS (Cellule d'Analyse Stratégique)                                                                                       | <2018-06-08 ven.> | C   |
+   | Hopkins | Text                    | Refactoring code Web App                                                                                                                                      | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Fix bugs Web App Validation                                                                                                                                   | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Refactoring code modèle Tensorflow                                                                                                                            | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Préparation données pour classification                                                                                                                       | <2018-06-08 ven.> | P   |
+   | Hopkins | Text                    | Blog posts et Traduction (x2)                                                                                                                                 | <2018-06-08 ven.> | C   |
+   |---------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----|
+   | Hopkins |                         | Organisation d'un « petit déjeuner Data Science ».  Introduction au matching, à la théorie des graphes, au machine learning et présentation de Graph Explorer | <2018-07-13 ven.> | C   |
+   | Hopkins |                         | Rencontre avec la DRM                                                                                                                                         | <2018-07-13 ven.> | C   |
+   | Hopkins | Graph Explorer          | amélioration des transitions entre deux états du graphe. Publication d’un  [[https://bl.ocks.org/benoitguigal/e11a791079318b7ff6ecde9a6464801d][bl.ocks]]                                                                            | <2018-07-13 ven.> | P   |
+   | Hopkins | Graph Explorer          | Ajout de drapeaux pays sur les noeuds                                                                                                                         | <2018-07-13 ven.> | P   |
+   | Hopkins |                         | Benchmarking de Gephi (open source) comme alternative à IBM Analyst Notebook (propriétaire et cher!)                                                          | <2018-07-13 ven.> | A   |
+   | Hopkins |                         | Installation de JanusGraph + chargement des données                                                                                                           | <2018-07-13 ven.> | I   |
+   | Hopkins |                         | Évaluation des plus grands groupes du matching complet                                                                                                        | <2018-07-13 ven.> | P   |
+   | Hopkins |                         | Début mise en place d'un système de flag des anomalies pour empêcher le matching sur les anomalies                                                            | <2018-07-13 ven.> | P   |
+   | Hopkins |                         | Évaluation des individus d'intérêt non connus les mieux scorés, beaucoup sont déjà connus => retour à l'étape de matching pour l'améliorer                    | <2018-07-13 ven.> | P   |
 
 ** Suite
 
