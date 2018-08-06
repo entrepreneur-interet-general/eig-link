@@ -823,6 +823,20 @@ un lien est ajouté.
    | EIG Link |              | Démo day 2 au LLL                                                      | <2018-07-06 ven.> | A   |    |
    | EIG Link |              | Installation https://pad.eig-apps.org                                  | <2018-07-06 ven.> | PS  |    |
    | EIG Link |              | Fin de configuration du serveur shiny                                  | <2018-07-06 ven.> | P   |    |
+   |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
+   | EIG Link |              | Présentation du programme EIG aux RMLL                                 | <2018-07-20 ven.> | C   |    |
+   | EIG Link |              | Participation Étalab talk NosSystèmes                                  | <2018-07-20 ven.> | A   |    |
+   | EIG Link |              | Participation présentation "transports"                                | <2018-07-20 ven.> | A   |    |
+   | EIG Link |              | Réunions de travail CoachÉlève                                         | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Installation discussion.eig-apps.org                                   | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Session avec les mentors                                               | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Prise de contact prestataire cloudron.org                              | <2018-07-20 ven.> | M   |    |
+   | EIG Link |              | Début de contenu pour accueil-eig.org                                  | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Mise en ligne des présentations                                        | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Atelier design review aux Gobelins                                     | <2018-07-20 ven.> | AP  |    |
+   | EIG Link |              | Point B@liseNav                                                        | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Mises à jour sur le site web                                           | <2018-07-20 ven.> | P   |    |
+   | EIG Link |              | Préparation séjour Haïti (annulé)                                      | <2018-07-20 ven.> | P   |    |
 
 ** Suite
 
