@@ -941,14 +941,32 @@ un lien est ajouté.
    | Gobelins |                    | Classification objet en cours de vérification par les inspecteurs, classification style validée      | <2018-05-25 ven.> | DU  |  1 |
    | Gobelins |                    | Démarrage de la procédure litigieuse SYRELI (AFNIC) pour récupération du domaine mobiliernational.fr | <2018-05-25 ven.> | M   |  1 |
    |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
-   | Gobelins |                    | Moteur de recherche, gestion des auteurs, périodes, années de conception,                            | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Backend: gestion images, mise en place de Glide, package de traitement d’images via URL              | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Mise à jour de la tâche d’import des données                                                         | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Réunion préparatoire pour le partenariat Wikipedia avec Bastien + Hélène                             | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Réunion préparatoire CMS                                                                             | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Annulation de la procédure SYRELI pour nom de domaine (Ned pas représentant du MN)                   | <2018-06-08 ven.> |     | -1 |
-   | Gobelins |                    | « Livraison » des maquettes desktop recherche                                                        | <2018-06-08 ven.> |     |  1 |
-   | Gobelins |                    | Maquettes mobile + tablette en cours                                                                 | <2018-06-08 ven.> |     |  1 |
+   | Gobelins |                    | Moteur de recherche, gestion des auteurs, périodes, années de conception,                            | <2018-06-08 ven.> | P   |  1 |
+   | Gobelins |                    | Backend: gestion images, mise en place de Glide, package de traitement d’images via URL              | <2018-06-08 ven.> | P   |  1 |
+   | Gobelins |                    | Mise à jour de la tâche d’import des données                                                         | <2018-06-08 ven.> | P   |  1 |
+   | Gobelins |                    | Réunion préparatoire pour le partenariat Wikipedia avec Bastien + Hélène                             | <2018-06-08 ven.> | M   |  1 |
+   | Gobelins |                    | Réunion préparatoire CMS                                                                             | <2018-06-08 ven.> | M   |  1 |
+   | Gobelins |                    | Annulation de la procédure SYRELI pour nom de domaine (Ned pas représentant du MN)                   | <2018-06-08 ven.> | S   | -1 |
+   | Gobelins |                    | « Livraison » des maquettes desktop recherche                                                        | <2018-06-08 ven.> | P   |  1 |
+   | Gobelins |                    | Maquettes mobile + tablette en cours                                                                 | <2018-06-08 ven.> | P   |  1 |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Réunion d’information communication externe sur l’avancée du projet                                  | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Réunion com interne, pour article sur l’avancée du projet (sensibilisation interne)                  | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Présentation du travail en cours aux conservateurs du MN                                             | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Invitation officielle à la rédaction de contenu pour les inspecteurs                                 | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Validation des classifications objets, matières, lieux de productions                                | <2018-06-29 ven.> | U   |    |
+   | Gobelins |                    | Planification des 1000 réunions (JPP)                                                                | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Retro planning Laurie                                                                                | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Point avec le responsable de la sécurité pour livraison art caméra                                   | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Prépa réunion avec la direction                                                                      | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Partage du contrat de cession de droit photo avec la com pour leurs photographes extérieurs          | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Signature convention Google                                                                          | <2018-06-29 ven.> | M   |    |
+   | Gobelins |                    | Livraison maquettes lexique responsive                                                               | <2018-06-29 ven.> | P   |    |
+   | Gobelins |                    | Livraison maquettes fiches objets responsives                                                        | <2018-06-29 ven.> | P   |    |
+   | Gobelins |                    | Backend: gestion des dimensions des objets                                                           | <2018-06-29 ven.> | P   |    |
+   | Gobelins |                    | Backend: aggregations ES pour filtres                                                                | <2018-06-29 ven.> | P   |    |
+   | Gobelins |                    | Refactoring des mappings ES pour une question de perf                                                | <2018-06-29 ven.> | P   |    |
+   | Gobelins |                    | EIG off GraphQL & VueJS, merci Tiphaine c’était très intéressant.                                    | <2018-06-29 ven.> | A   |    |
 
 ** Suite
 
