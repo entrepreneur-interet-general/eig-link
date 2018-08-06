@@ -422,6 +422,11 @@ un lien est ajouté.
    | CoachÉlèves |                                | Atelier graphisme au ministère avec stagiaire MICOM                                                                                                                        | <2018-06-08 ven.> | A   |   |
    | CoachÉlèves |                                | Réunion cartographie et obtention des données de carto mise à jour                                                                                                         | <2018-06-08 ven.> | M   |   |
    | CoachÉlèves |                                | Pitch au 110 bis, présentation du programme et de Coach Eleve                                                                                                              | <2018-06-08 ven.> | C   |   |
+   |-------------+--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | CoachÉlèves | Cartographie                   | Mise en place architecture technique de la refonte du site DOMEN                                                                                                           | <2018-06-15 ven.> | I   |   |
+   | CoachÉlèves | Décrochage                     | Production d'écrans pour projet CoachÉlève                                                                                                                                 | <2018-06-15 ven.> | P   |   |
+   | CoachÉlèves | BDD Centrale                   | Arrivée des premiers jeux de données de la part de deux entreprises                                                                                                        | <2018-06-15 ven.> | D   |   |
+   | CoachÉlèves | BDD Centrale                   | Rencontre membre du comité ISO sur Learning Analytics                                                                                                                      | <2018-06-15 ven.> | M   |   |
 
 ** Suite
 
