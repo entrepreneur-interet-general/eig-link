@@ -631,6 +631,11 @@ un lien est ajouté.
    | EIG Node |          | Avancées sur le site web                                                                     | <2018-06-29 ven.> | P   |   |
    | EIG Node |          | Roadmap équipe EIG node 5 prochains mois                                                     | <2018-06-29 ven.> | M   |   |
    | EIG Node |          | Point bilan avec Laure Lucchesi et Henri Verdier à J                                         | <2018-06-29 ven.> | T   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Jury EIG3 et délibérations                                                                   | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Cadrage offsite EIG2 début septembre                                                         | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Petit dej mentor/EIG Social Connect                                                          | <2018-07-06 ven.> | M   |   |
+   | EIG Node |          | Participation jury Latitudes <3                                                              | <2018-07-06 ven.> | M   |   |
 
 ** Suite
 
