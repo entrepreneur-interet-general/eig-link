@@ -999,6 +999,18 @@ un lien est ajouté.
    | Gobelins |                    | Backend: aggregations ES pour filtres                                                                | <2018-06-29 ven.> | P   |    |
    | Gobelins |                    | Refactoring des mappings ES pour une question de perf                                                | <2018-06-29 ven.> | P   |    |
    | Gobelins |                    | EIG off GraphQL & VueJS, merci Tiphaine c’était très intéressant.                                    | <2018-06-29 ven.> | A   |    |
+   |----------+--------------------+------------------------------------------------------------------------------------------------------+-------------------+-----+----|
+   | Gobelins |                    | Retro planning commun jusqu’à décembre                                                               | <2018-07-20 ven.> | M   |    |
+   | Gobelins |                    | Design review                                                                                        | <2018-07-20 ven.> | M   |    |
+   | Gobelins |                    | Aide au service de la communication                                                                  | <2018-07-20 ven.> | A   |    |
+   | Gobelins |                    | Réunion avec la direction / présentation nouveau directeur des collections                           | <2018-07-20 ven.> | M   |    |
+   | Gobelins |                    | Tour des 15 ateliers pour présenter le projet et récolter les accords pour wikipedia et streetview   | <2018-07-20 ven.> | M   |    |
+   | Gobelins |                    | Poursuite maquette                                                                                   | <2018-07-20 ven.> | P   |    |
+   | Gobelins |                    | Collecte des images didactiques par Kenza (stagiaire)                                                | <2018-07-20 ven.> | P   |    |
+   | Gobelins |                    | Dernières modifications de la classification d’objets                                                | <2018-07-20 ven.> | P   |    |
+   | Gobelins |                    | Mapping de la classification objet                                                                   | <2018-07-20 ven.> | P   |    |
+   | Gobelins |                    | Setup du frontend (typo, grilles, couleurs, etc)                                                     | <2018-07-20 ven.> | P   |    |
+   | Gobelins |                    | Choix d’architecture BE/FE pour l’app des collections (hybride React client-side, Blade SSR).        | <2018-07-20 ven.> | P   |    |
 
 ** Suite
 
