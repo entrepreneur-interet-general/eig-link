@@ -582,17 +582,18 @@ un lien est ajouté.
    | EIG Node |          | Réunion pérennisation sur les outils EIG LINK                                                | <2018-05-25 ven.> | M   |   |
    | EIG Node |          | Préparation des futures sessions                                                             | <2018-05-25 ven.> | M   |   |
    | EIG Node |          | Rencontre Dora à un forum Open d'État                                                        | <2018-05-25 ven.> | X   |   |
+   |----------+----------+----------------------------------------------------------------------------------------------+-------------------+-----+---|
+   | EIG Node |          | Intervention aux Rencontres des acteurs publics                                              | <2018-06-08 ven.> | C   |   |
+   | EIG Node |          | Présence inauguration lab 110 bis                                                            | <2018-06-22 ven.> | C   |   |
+   | EIG Node |          | Publication blogpost Tiphaine et relecture blogpost Antoine                                  | <2018-07-06 ven.> | C   |   |
+   | EIG Node |          | Travail sur le site v2                                                                       | <2018-07-20 ven.> | C   |   |
+   | EIG Node |          | Rétroplanning mois de juin (réception candidatures EIG3 and co)                              | <2018-08-03 ven.> | M   |   |
+   | EIG Node |          | Bastien a un nouvel ordi                                                                     | <2018-08-17 ven.> | S   |   |
+   | EIG Node |          | Rédaction d’un bilan 360° pour Laure Lucchesi, back on track                                 | <2018-08-31 ven.> | M   |   |
+   | EIG Node |          | Orga lancement Appel à manisfestation d’intérêts IA                                          | <2018-09-14 ven.> | C   |   |
+   | EIG Node |          | Réunions EIG-Link avec Coach E et Gobelins                                                   | <2018-09-28 ven.> | M   |   |
 
 ** Suite
-
-- [C] Présentation programme EIG à plusieurs acteurs (privés)
-- [C] Sprint site
-- [C] Réalisation de supports de com pérennes
-- [M] Contacts futurs membres du jury de l’AAP EIG3
-- [D] Aide sur données (Signaux Faibles)
-- [M] Préparation session bilan mi-parcours du 14/06
-- [T] Démarchage défis EIG3
-- [T] Travail sur partenariat de recherche
 
 * EIG Link
 
