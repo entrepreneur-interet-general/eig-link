@@ -188,6 +188,7 @@ https://github.com/etalab/template.data.gouv.fr
 - https://glitch.com (un [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]] d’introduction)
 - https://jsfiddle.net
 - https://codepen.io
+- https://beta.observablehq.com
 
 * Statistiques
 
