@@ -31,9 +31,10 @@
 
 - https://github.com/Kinto/kinto
 
-* Deep learning
+* Machine/deep learning
 
-- https://mxnet.incubator.apache.org/
+- https://mxnet.incubator.apache.org
+- https://mlflow.org (cf. https://databricks.com/mlflow)
 
 * Déploiement rapide d’applications
 
