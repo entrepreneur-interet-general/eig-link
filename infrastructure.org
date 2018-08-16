@@ -57,8 +57,8 @@ avez besoin d'un service AWS, envoyez un mail aux EIG Link qui vous
 créeront une instance =IAM=.
 
 * Synthèse
-
-| Fournisseur  | URL                     |      | Service       | Description                  | Backup                            |
+  
+| Fournisseur  | URL                     | RAM  | Service       | Description                  | Backup                            |
 |--------------+-------------------------+------+---------------+------------------------------+-----------------------------------|
 | OVH          | eig.etalab.gouv.fr:8006 | 32GO | Proxmox       | Déploiement containers / VM  | Copie manuelle 1j => eig-apps.org |
 | DigitalOcean | eig-apps.org            | 2GO  | Cloudron      | Déploiement applications web | 1j => S3                          |
