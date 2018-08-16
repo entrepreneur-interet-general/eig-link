@@ -19,14 +19,14 @@
 - https://discussion.eig-apps.org (mattermost) : Discuter en ligne (à la slack)
 - https://stats.eig-forever.org (Matomo) : suivre les statistiques d'un site web
 
-* Documentation
+* Documentation autour des ressources
 
 - [[file:opensource.org][Ouvrir]] son code source ([[file:opensource-faq.org][FAQ]])
 - [[file:serveur.org][Serveur]] de 32 GO (Proxmox VE) : déployer des containers et des VM
 - [[file:infrastructure.org]] : synthèse : Proxmox, AWS, Cloudron, Shiny
 - [[file:ressources-ecosysteme.org][Les ressources de l'écosystème]] : data.gouv, api.gouv, etc.
 
-* Autre
+* Animation
 
 - [[file:accompagnement.org][Le programme d'accompagnement]]
 - [[file:eig-off.org][Les événements EIG off]]
@@ -39,13 +39,13 @@
 - [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][L’agenda « ouvert » des EIG]]
 # - [[file:faq.org][FAQ EIG]]
 
-* Maintenance
+* Maintenance de ce dépôt
 
 Ce projet est maintenu par Bastien Guerry, EIG Link 2018.
 
 Pour toute question : =bastien.guerry@data.gouv.fr=
 
-* Contribution
+* Contribution sur ce dépôt
 
 Ce dépôt est ouvert aux contributions - vous pouvez :
 
@@ -58,6 +58,10 @@ Ce dépôt est ouvert aux contributions - vous pouvez :
   pouvoir contribuer directement au dépôt.
 
 Merci !
+
+* Aidez-nous !
+
+Nous tenons une [[file:aidez-nous.org][liste d'idées]] pour des contributions citoyennes.
 
 * Licence
 

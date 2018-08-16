@@ -1,0 +1,8 @@
+#+title: Vos contributions sont les bienvenues !
+
+Les défis EIG sont souvent l'occasion de publier des logiciels libres,
+auquel chacun peut contribuer selon ses compétences et ses envies :
+être bêta-testeur, aider à la traduction, corriger des bugs, etc.
+
+Nous listons sur cette page des idées de choses que chacun peut faire
+pour aider.
