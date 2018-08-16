@@ -707,7 +707,7 @@ un lien est ajouté.
    | EIG Link |              | Accès etemptation (pour poser des congés)                              | <2018-03-23 ven.> | I   |    |
    | EIG Link |              | Installation instance matomo pour Gobelins                             | <2018-03-23 ven.> | P   |    |
    |----------+--------------+------------------------------------------------------------------------+-------------------+-----+----|
-   | EIG Link |              | Écrire de ouverture.org et ouverture-faq.org                           | <2018-03-30 ven.> | P   |    |
+   | EIG Link |              | Écriture de ouverture.org et ouverture-faq.org                         | <2018-03-30 ven.> | P   |    |
    | EIG Link |              | Point avec Sophie sur le site                                          | <2018-03-30 ven.> | M   |    |
    | EIG Link |              | Réunion avec l’agence de com’ sur la stratégie EIG                     | <2018-03-30 ven.> | M   |    |
    | EIG Link |              | Réunion AGD à Étalab avec le MEN                                       | <2018-03-30 ven.> | M   |    |
