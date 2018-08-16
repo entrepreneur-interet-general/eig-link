@@ -37,8 +37,7 @@ service de déploiement d'applications web à la [[https://www.heroku.com/][Hero
 Si vous souhaitez déployer une application sur un sous-domaine de ce
 serveur (=mon-application.eig-paas.org=), envoyez un mail aux EIG Link.
 
-Cette instance DigitalOcean de 1GO est sauvegardée par /snapshot/
-hebdomadaire.
+Cette instance de 1GO est sauvegardée par /snapshot/ hebdomadaire.
 
 * Applications R sur =shiny.eig-forever.org=
 
@@ -47,7 +46,7 @@ hebdomadaire.
 Si vous souhaitez déployer une application R, envoyez un mail aux EIG
 Link.
 
-L'instance Vultr (2GO) est sauvegardée par /snapshot/ une fois par jour.
+Cette instance de 2GO est sauvegardée par /snapshot/ une fois par jour.
 
 * Amazon Web Services (AWS)
 
