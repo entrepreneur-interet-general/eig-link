@@ -12,7 +12,7 @@
 * Ressources
 
 - [[file:serveur.org][Serveur]] de 32 GO (Proxmox VE)
-- [[file:ouverture.org][Ouvrir]] son code source ([[file:ouverture-faq.org][FAQ]])
+- [[file:opensource.org][Ouvrir]] son code source ([[file:opensource-faq.org][FAQ]])
 - https://cloud.eig-forever.org (Nextcloud)
 - https://code.eig-forever.org (Gogs)
 - https://board.eig-forever.org (Kanboard)
