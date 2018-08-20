@@ -251,7 +251,7 @@ Voir le https://www.contributor-covenant.org pour un exemple.
 
 - Pour *respecter la loi* pour une République Numérique.
 
-- Pour être *transparence* : par exemple, si le code de votre
+- Pour être *transparent* : par exemple, si le code de votre
   administration met en oeuvre un algorithme au sujet duquel le
   citoyen est en droit de demander des explications.
 
