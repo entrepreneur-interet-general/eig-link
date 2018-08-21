@@ -16,6 +16,7 @@ projets libres existants, etc.
 - https://dataviz.drees.sante.gouv.fr/ [à vérifier]
 - http://signauxfaibl.es/
 - http://snosan.eig-forever.org
+- https://previsecours.fr/
 
 * Contributions à des sites internes à l'administration
 
