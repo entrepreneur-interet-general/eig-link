@@ -50,6 +50,8 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/suivi_auto
 - https://github.com/orgs/entrepreneur-interet-general/teams/archifiltre/repositories
 - https://github.com/topics/predisauvetage
+- https://github.com/entrepreneur-interet-general/vue-python-starter-kit
+- https://github.com/previsecours/vueJS_Previsecours
 
 * Contribution de nouvelles bibliothèques
 
