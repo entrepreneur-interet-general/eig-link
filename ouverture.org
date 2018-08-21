@@ -1,0 +1,63 @@
+#+title: Ouverture
+
+Ce fichier rassemble des informations sur les contributions faites
+lors des défis EIG : nouveaux dépôts sous licence libre, contributions
+à la publication de nouveaux jeux de données, contributions à des
+projets libres existants, etc.
+
+* Sites web publiés pendant les défis EIG 2
+
+- http://archifiltre.com
+- http://archifiltre.io
+- http://carrefourdesinnovationssociales.fr/
+- http://cis-openscraper.com/
+- http://redash.snosan.fr/
+- https://antoineaugusti.github.io/avurnav-api
+- https://dataviz.drees.sante.gouv.fr/ [à vérifier]
+- http://signauxfaibl.es/
+- http://snosan.eig-forever.org
+
+* Contributions à des sites internes à l'administration
+
+- http://data.drees.sante.gouv.fr [à vérifier]
+- https://mtes-mct.github.io/numerique/2018/03/26/api-avurnavs.html
+
+* Contribution à l'ouverture de jeux de données
+
+- Signaux Faibles : participation par à la publication d'une
+  réutilisation faite par C. Quest sur [[https://www.data.gouv.fr/fr/datasets/historique-des-changements-de-codes-siret/][l'historique des changements de
+  codes SIRET]]
+
+- Prédisauvetage : les données des [[https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/][opérations d’assistance et de
+  sauvetages menées en eaux françaises par les CROSS depuis 1985]].
+
+- Prédisauvetage : [[https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/][les vacances scolaires par zones]]
+
+* Contribution à des données déjà ouvertes
+
+- BaliseNAV : contribution aux icônes SVG de l'IHO [liens ?]
+
+* Code source ouvert à l'occasion des défis EIG 2
+
+- https://github.com/chrnin/ganboard
+- https://github.com/entrepreneur-interet-general/CIS-front
+- https://github.com/entrepreneur-interet-general/dataESR
+- https://github.com/entrepreneur-interet-general/gobelins
+- https://github.com/entrepreneur-interet-general/graph-explorer
+- https://github.com/entrepreneur-interet-general/OpenScraper
+- https://github.com/entrepreneur-interet-general/ox-html-timeline
+- https://github.com/entrepreneur-interet-general/suivi_auto
+- https://github.com/orgs/entrepreneur-interet-general/teams/archifiltre/repositories
+- https://github.com/topics/predisauvetage
+
+* Contribution de nouvelles bibliothèques
+
+- DataESR: (Gem ruby ?)
+- https://github.com/entrepreneur-interet-general/metadocs
+- https://github.com/entrepreneur-interet-general/mkinx
+- https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown
+
+* Contributions à des projets open source externes
+
+- DataESR : Oui [où ?]
+- Prédisauvetage : au travers d'issues [exemple ?]
