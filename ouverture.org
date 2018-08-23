@@ -16,6 +16,7 @@ projets libres existants, etc.
 - https://dataviz.drees.sante.gouv.fr/ [à vérifier]
 - http://signauxfaibl.es/
 - http://snosan.eig-forever.org
+- https://previsecours.fr/
 
 * Contributions à des sites internes à l'administration
 
@@ -49,6 +50,8 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/suivi_auto
 - https://github.com/orgs/entrepreneur-interet-general/teams/archifiltre/repositories
 - https://github.com/topics/predisauvetage
+- https://github.com/entrepreneur-interet-general/vue-python-starter-kit
+- https://github.com/previsecours/vueJS_Previsecours
 
 * Contribution de nouvelles bibliothèques
 
