@@ -191,6 +191,10 @@ https://github.com/etalab/template.data.gouv.fr
 - https://codepen.io
 - https://beta.observablehq.com
 
+* SRE (Site Reliability Engineering)
+
+- https://landing.google.com/sre/book/index.html
+
 * Statistiques
 
 - https://matomo.org (anciennement Piwiki)
