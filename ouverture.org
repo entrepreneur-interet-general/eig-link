@@ -11,7 +11,10 @@ projets libres existants, etc.
 - http://archifiltre.io
 - http://carrefourdesinnovationssociales.fr/
 - http://cis-openscraper.com/
-- http://redash.snosan.fr/
+- https://redash.snosan.fr/
+- https://www.snosan.fr
+- https://avurnavs.snosan.fr
+- https://quizz.snosan.fr
 - https://antoineaugusti.github.io/avurnav-api
 - https://dataviz.drees.sante.gouv.fr/ [à vérifier]
 - http://signauxfaibl.es/
@@ -30,9 +33,7 @@ projets libres existants, etc.
   codes SIRET]]
 
 - Prédisauvetage : les données des [[https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/][opérations d’assistance et de
-  sauvetages menées en eaux françaises par les CROSS depuis 1985]].
-
-- Prédisauvetage : [[https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/][les vacances scolaires par zones]]
+  sauvetages menées en eaux françaises par les CROSS depuis 1985]], [[https://www.data.gouv.fr/fr/datasets/radars-automatiques/][les radars automatiques]], [[https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/][les jours fériés en France]],  [[https://www.data.gouv.fr/fr/datasets/avis-urgents-aux-navigateurs-en-vigueur-en-eaux-francaises-metropolitaines/][les avis urgents aux navigateurs]].
 
 * Contribution à des données déjà ouvertes
 
@@ -49,7 +50,7 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/ox-html-timeline
 - https://github.com/entrepreneur-interet-general/suivi_auto
 - https://github.com/orgs/entrepreneur-interet-general/teams/archifiltre/repositories
-- https://github.com/topics/predisauvetage
+- https://github.com/topics/predisauvetage (plus de 10 répertoires)
 - https://github.com/entrepreneur-interet-general/vue-python-starter-kit
 - https://github.com/previsecours/vueJS_Previsecours
 
