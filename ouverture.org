@@ -13,6 +13,7 @@ projets libres existants, etc.
 - http://cis-openscraper.com/
 - https://redash.snosan.fr/
 - https://www.snosan.fr
+- https://carte.snosan.fr
 - https://avurnavs.snosan.fr
 - https://quizz.snosan.fr
 - https://antoineaugusti.github.io/avurnav-api
