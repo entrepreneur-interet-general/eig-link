@@ -180,9 +180,11 @@ https://github.com/etalab/template.data.gouv.fr
 
 - [[https://www.sketchapp.com/][Sketch]]
 
-* SAS
+* SAS/R
 
 - https://sassoftware.github.io/saspy/
+- https://bert-toolkit.com : BERT is a tool for connecting Excel with
+  the statistics language R
 
 * Site web pour partager du code
 
@@ -195,9 +197,9 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://landing.google.com/sre/book/index.html
 
-* Statistiques
+* Statistiques de suivi d'un site
 
-- https://matomo.org (anciennement Piwiki)
+- https://matomo.org (anciennement Piwik)
 - https://github.com/usefathom/fathom
 
 * Test
