@@ -202,7 +202,7 @@ https://github.com/etalab/template.data.gouv.fr
 - https://matomo.org (anciennement Piwik)
 - https://github.com/usefathom/fathom
 
-* Test
+* Tests
 
 ** Méthodes
 
@@ -223,6 +223,10 @@ https://github.com/etalab/template.data.gouv.fr
 - https://circleci.com
 - https://travis-ci.org
 - https://codeship.com
+
+** Divers
+
+- https://github.com/minimaxir/big-list-of-naughty-strings
 
 * Tunnels et Cie
 
