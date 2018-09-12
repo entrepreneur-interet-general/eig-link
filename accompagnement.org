@@ -31,10 +31,10 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 |------------+--------------------------+--------------+---------------------------------------------+-------------------------------------------+----------------------------------------------------------------------|
 | *6-7 sept*   | *EIG seuls*                |              | *[Hors Paris]*                                | *EIG "hors les murs"*                       | Travail pendant deux jours sur des sujets transverses à la promotion |
 | 20 sept    | Mentors EIG 2 et 3       |              | 110bis (Ministère de l'Éducation nationale) | Accueil des mentors EIG 3                 |                                                                      |
-| 27 sept    | EIG seuls                | Quentin      | 9h30-16h / 16h-19h dans le Grand atelier    | Auto-organisation / Rencontres EIG        |                                                                      |
+| 27 sept    | EIG seuls                | Quentin      | 9h30-16h / 16h-19h dans le Grand atelier et l'Agora    | Auto-organisation / Rencontres EIG        |                                                                      |
 | 10 oct     | Responsables RH et admin | Etalab + CDC | 10h Ségur, salle 4.724                      | Modalités conventions et financement EIG3 |                                                                      |
-| 11 oct     | EIG + Mentors            | Quentin      | 15h Grand atelier (+Agora quelques heures?) | Formations EIG => Mentors                 |                                                                      |
-| 25 oct     | EIG seuls                |              | 15h Grand atelier (+Agora quelques heures?) |                                           |                                                                      |
+| 11 oct     | EIG + Mentors            | Quentin      | 15h Grand atelier et atelier B | Formations EIG => Mentors                 |                                                                      |
+| 25 oct     | EIG seuls                |              | 15h Atelier C 16 rue du Caire |                                           |                                                                      |
 | 15 nov     | EIG + mentors            |              | [TBA]                                       |                                           |                                                                      |
 
 * Présentation détaillée des sessions
