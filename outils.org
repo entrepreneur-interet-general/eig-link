@@ -90,6 +90,11 @@
 
 https://github.com/etalab/template.data.gouv.fr
 
+** Jeux d'icones
+
+- https://fontawesome.com
+- https://www.favicongenerator.com/
+
 * Exploration (REPL) de langages de programmation
 
 - https://repl.it
@@ -216,6 +221,7 @@ https://github.com/etalab/template.data.gouv.fr
 - https://www.turbodrive.net/browsers
 - https://www.keycdn.com/blog/browser-compatibility-testing-tools/
 - Mock API locally: https://mockoon.com
+- https://richpreview.com pour tester l'en-tête HTML (og: etc.)
 
 ** Tests d’intégration
 
@@ -227,6 +233,7 @@ https://github.com/etalab/template.data.gouv.fr
 ** Divers
 
 - https://github.com/minimaxir/big-list-of-naughty-strings
+
 
 * Tunnels et Cie
 
