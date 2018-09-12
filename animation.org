@@ -4,8 +4,8 @@ Une réunion de groupe en présentiel tous les quinze jours au Liberté
 Living Lab.
 
 Des éléments de programme ont été proposés pendant la semaine de
-bootcamp, le [[file:accompagnement.org][programme définitif]] est toujours en évolution et il
-est partagé sur le [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][calendrier]].
+bootcamp, le [[file:accompagnement.org][programme définitif]] est toujours en évolution et il est
+partagé sur le [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][calendrier]].
 
 * Les échanges hebdomadaires entre EIG
 
