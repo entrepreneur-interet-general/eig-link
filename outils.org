@@ -177,6 +177,12 @@ https://github.com/etalab/template.data.gouv.fr
 - https://statuscake.com
 
 * Outils pour de la revue de code
+* Packaging d'applications
+
+- https://www.electron.build
+- https://www.flatpak.org
+- https://appimage.org
+
 * Programmation à plusieurs mains (pair programming)
 
 - [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]
