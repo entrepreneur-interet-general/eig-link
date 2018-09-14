@@ -15,6 +15,11 @@
 - http://www.hackertyper.com
 - https://github.com/zricethezav/gitleaks
 
+* Bases de données
+
+- https://zentity.io : module de résolution d'entités pour
+  ElasticSearch (voir [[https://www.slideshare.net/o19s/real-time-entity-resolution-with-elasticsearch-haystack-2018][cette présentation]])
+
 * Cartographie
 
 - http://mapshaper.org
@@ -233,7 +238,6 @@ https://github.com/etalab/template.data.gouv.fr
 ** Divers
 
 - https://github.com/minimaxir/big-list-of-naughty-strings
-
 
 * Tunnels et Cie
 
