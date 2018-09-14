@@ -1,0 +1,12 @@
+#+title: Outils d'animation
+
+Une page pour lister les différents outils, supports et formats
+d'animation expérimentés lors du programme EIG.
+
+- Bulloterie
+
+- Remue-méninges avec posts-its
+
+- Triangle de la pérennisation
+
+- EIG Off
