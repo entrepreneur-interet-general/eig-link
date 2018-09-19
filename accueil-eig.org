@@ -72,7 +72,14 @@ Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (nota
      
 ** Assurer aux EIG un accès ouvert à Internet
 
-/Les EIG ont besoin d'un accès non bridé à Internet./
+/Les EIG ont besoin d'un accès non bridé à Internet./ « Non bridé »
+signifie :
+
+- qu'il n'y a pas de démarche à effectuer pour accéder à un site web,
+  quel qu'il soit ;
+
+- qu'il est possible de se connecter à un serveur extérieur via les
+  ports 22 (SSH), 21 (FTP) ou autre.
 
 Si les données sur lesquelles les EIG travaillent ne sont accessibles
 que sur un réseau interne à l'administration et inaccessible depuis
@@ -108,6 +115,7 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la
 - Associer la DSI au recrutement des EIG ;
 - Partager le calendrier et réaliser des points réguliers avec la DSI
   et les EIG.
+
 
 * Dès l'arrivée des EIG
 
