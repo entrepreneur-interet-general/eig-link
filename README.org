@@ -1,7 +1,5 @@
 #+title: EIG Link - ressources EIG
 
-[[/images/logo-eig2.png]]
-
 * L’essentiel
 
 - EIG sur [[http://github.com/entrepreneur-interet-general/][Github]] et [[https://gitlab.com/eig][Gitlab]]
@@ -76,3 +74,5 @@ Les contenus accessibles dans ce dépôt sont placés sous Licence
 Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
 libre de réutiliser les contenus de ce dépôt sous les conditions
 précisées dans cette licence.
+
+[[/images/logo-eig2.png]]
