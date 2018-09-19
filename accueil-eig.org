@@ -152,7 +152,7 @@ Quelques idées :
   administration pour que les EIG puissent présenter leurs travaux et
   rencontrer d'autres équipes. 
   
-- Mettre une petite affiche d'information sur le programme / leurs profils à proximité de leur bureau, comme cela a été fait pour les défis « Gobelins » ou « Social Connect ».
+- Mettre une petite affiche d'information sur le programme / leurs profils à proximité de leur bureau, comme cela a été fait pour les défis [[/images/gobelins_signa.png][« Gobelins »]] ou « Social Connect ».
 
 ** Aider les EIG et mentors à se projeter dans le programme d'accompagnement
 
