@@ -1,5 +1,7 @@
 #+title: EIG Link - ressources EIG
 
+[[/images/logo-eig2.png]]
+
 * L’essentiel
 
 - EIG sur [[http://github.com/entrepreneur-interet-general/][Github]] et [[https://gitlab.com/eig][Gitlab]]
