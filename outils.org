@@ -80,6 +80,8 @@
 - https://material.io
 - http://getbootstrap.com
 - https://framework7.io
+- https://semantic-ui.com/
+- https://ant.design/
 
 ** Éco-conception web
 
@@ -99,6 +101,7 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://fontawesome.com
 - https://www.favicongenerator.com/
+- https://octicons.github.com/
 
 * Exploration (REPL) de langages de programmation
 
