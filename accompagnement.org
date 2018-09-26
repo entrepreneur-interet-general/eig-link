@@ -31,13 +31,32 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 | 6-7 sept   | EIG seuls                |              | [Hors Paris]                                     | EIG "hors les murs"                       | Travail pendant deux jours sur des sujets transverses à la promotion |
 |------------+--------------------------+--------------+--------------------------------------------------+-------------------------------------------+----------------------------------------------------------------------|
 | 20 sept    | Mentors EIG 2 et 3       |              | 110bis (Ministère de l'Éducation nationale)      | Accueil des mentors EIG 3 et transmission |                                                                      |
-| 27 sept    | EIG seuls                | Quentin      | 9h30-17h30 / 17h30-19h30, Grand atelier et Agora | Auto-organisation / Apéro EIG             |                                                                      |
+| 27 sept    | EIG seuls                | Quentin      | 9h30-17h30 / 17h30-19h30, Grand atelier et Agora | Session post-séminaire / Apéro EIG             |                                                                      |
 | 10 oct     | Responsables RH et admin | Etalab + CDC | 10h Ségur, salle 4.724                           | Modalités conventions et financement EIG3 |                                                                      |
 | 11 oct     | EIG + Mentors            | Quentin      | 15h Grand atelier et atelier B                   | Formations EIG => Mentors                 |                                                                      |
 | 25 oct     | EIG seuls                |              | 15h Atelier C 16 rue du Caire                    |                                           |                                                                      |
 | 15 nov     | EIG + mentors            |              | [TBA]                                            |                                           |                                                                      |
 
 * Présentation détaillée des sessions
+
+** Session du 27 septembre : Réalisation des livrables post-séminaire - LLL
+
+La session durera exceptionnellement toute la journée.
+
+*** Quels sont les objectifs de la session ?
+
+Finaliser des livrables commencés lors du séminaire hors les murs.
+
+*** Qui va animer ? 
+
+L'équipe EIG Node + les EIG
+
+*** Quel déroulé pour la session ? 
+
+2 séquences d'ateliers (2 ou 3 ateliers en parallèle) :
+- 10h - 12h : Préparation de l'événement du 15 novembre + Ecriture du manifeste + Futur des défis
+- 14h30 - 17h : Design review + Ecriture du manifeste 
+- 17h30 : "portes ouvertes" EIG  
 
 ** Session du 20 septembre : Accueil des mentors EIG 3 et transmission, 110bis (Ministère de l'Éducation nationale)
 
