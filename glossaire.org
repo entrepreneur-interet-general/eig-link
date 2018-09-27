@@ -1,8 +1,34 @@
 #+title: Glossaire
 
+- Agile (Scrum) ::
+
 - Agilité :: 
 
 - API :: 
+
+- ARchitecture / Urbanisme ::
+
+- AXAML ::
+
+- Back-end ::
+
+- BDD ::
+
+- Benchmarking ::
+
+- Beta.gouv ::
+
+- Big Data ::
+
+- CGET ::
+
+- Cloud ::
+
+- Code source ::
+
+- Data.gouv ::
+
+- Datascience ::
 
 - Datascientiste :: 
 
@@ -12,13 +38,43 @@
 
 - Développeur :: 
 
+- DINSIC ::
+
+- Doers / Makers ::
+
+- DREES ::
+
+- DSI ::
+
+- DSL ::
+
 - EIG ::
+
+- ETP ::
+
+- Evangélisation ::
+
+- Framwork ::
 
 - « Free software » :: Traduit par « logiciel libre ».  À noter que
      l'expression anglaise est ambiguë, « free » voulant dire à la
      fois « gratis » et « libre ».
 
+- Front-end ::
+
 - Frontend / backend :: 
+
+- GitHub ::
+
+- hackathon ::
+
+- JS / VueJS / ReactJS / D3.JS ::
+
+- KanBan / KanBoard ::
+
+- Language  ::
+
+- Libraire ::
 
 - Licence « copyleft » :: Soit A un logiciel libre et B un logiciel
      libre qui en est dérivé.  Une licence est dite « copyleft » si
@@ -50,6 +106,20 @@
 
 - Mentor EIG :: 
 
+- MOA ::
+
+- Modem ::
+
+- MOE ::
+
+- MVP ::
+
+- NLP ::
+
+- Open-data ::
+
+- Open-source ::
+
 - Opposition Libre / Open Source :: Le mouvement du « libre » est
      parcouru par deux tendances : l'une insiste sur l'importance
      éthique des logiciels libres, l'autre insiste sur leur qualité
@@ -62,7 +132,34 @@
      libres est identique à l'ensemble des logiciels/licences open
      source. 
 
+- Outsourced ::
+
+- Python ::
+
+- R ::
+
+- Repository ::
+
+- Saas ::
+
+- Scraper  ::
+
+- Serveur ::
+
+- SQL ::
+
+- Startup ::
+
+- TMA ::
+
+- TracFin ::
+
+- UI / interface ::
+
+- UX ::
+
 - UX/UI :: 
 
 - UX/UI designer :: 
 
+- Versioning ::
