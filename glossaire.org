@@ -1,5 +1,7 @@
 #+title: Glossaire
 
+https://bimestriel.framapad.org/p/eig-lexique
+
 - Agile (Scrum) ::
 
 - Agilité :: 
