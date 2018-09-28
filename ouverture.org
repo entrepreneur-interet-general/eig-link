@@ -21,6 +21,7 @@ projets libres existants, etc.
 - http://signauxfaibl.es/
 - http://snosan.eig-forever.org
 - https://previsecours.fr/
+- https://graph-explorer.fr
 
 * Contributions à des sites internes à l'administration
 
