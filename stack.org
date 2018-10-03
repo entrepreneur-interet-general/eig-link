@@ -38,7 +38,21 @@ défis EIG.
 - Outil web « EIG Readiness Scale »
 - Outil web « échelle de Costanza » (voir [[http://s3.cleverelephant.ca/2018-small-it.pdf][ce doc]])
 
-* TODO Gobelins
+* Gobelins
+
+** Stack
+
+- Langages : PHP et Javascript
+- Backend : Laravel
+- BDD : PostgresQL, ElasticSearch
+- Frontend : React, Sass, Babel, Webpack
+
+** Livrables code 
+
+- API d'accès aux données (gobelins-datasource)
+- Interface de recherche et de visualisation d'une collection
+- CMS
+
 * Hopkins
 
 ** Stack
