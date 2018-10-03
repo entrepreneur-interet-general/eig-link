@@ -1,14 +1,14 @@
-#+title: Accéder à des données d'autres administrations et/ou Ouvrir des données
+#+title: Accéder à des données d'autres administrations et/ou ouvrir des données
 
 * Arguments juridiques à mobiliser pour demander l’accès à ces données
 
 - Référence à la loi Lemaire 2016-1321 du 7/10/2016 pour une
-  République numérique
+  République numérique.
 
 - Article 1er qui prévoit l’obligation de transmission de données
-  entre administrations, si celles-ci ne font pas l’objet d’un secret
+  entre administrations, si celles-ci ne font pas l’objet d’un secret.
 
-Dans le cas des données financières de la liasse fiscale :
+Dans le cas des données financières de la liasse fiscale :
 
 - Le secret fiscal a été introduit pour protéger l’entreprise de
   l’utilisation de ses données transmises aux services fiscaux. Les
