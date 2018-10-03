@@ -62,6 +62,8 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/metadocs
 - https://github.com/entrepreneur-interet-general/mkinx
 - https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown
+- https://github.com/AntoineAugusti/vacances-scolaires-france
+- https://github.com/AntoineAugusti/jours-feries-france
 
 * Contributions à des projets open source externes
 
