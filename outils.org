@@ -73,6 +73,8 @@
 
 - https://www.inria.fr/actualite/agenda/reprise-du-mooc-sur-l-accessibilite-numerique
 
+- https://modalzmodalzmodalz.com
+
 ** Frameworks
 
 - https://bulma.io
@@ -91,7 +93,7 @@
 
 ** Design pattern
 
- - Python : https://github.com/faif/python-patterns
+- Python : https://github.com/faif/python-patterns
 
 ** Éléments de design de data.gouv.fr
 
@@ -277,6 +279,11 @@ https://github.com/etalab/template.data.gouv.fr
 ** Scraping
 
 - http://webscraper.io
+- http://www.cis-openscraper.com
+
+** Crawling
+
+- https://github.com/internetarchive/heritrix3
 
 ** Form builder
 
