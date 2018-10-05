@@ -17,11 +17,14 @@ projets libres existants, etc.
 - https://avurnavs.snosan.fr
 - https://quizz.snosan.fr
 - https://antoineaugusti.github.io/avurnav-api
-- https://dataviz.drees.sante.gouv.fr/ [à vérifier]
-- http://signauxfaibl.es/
+- http://signaux.faibles.fr (http://signauxfaibl.es)
 - http://snosan.eig-forever.org
 - https://previsecours.fr/
 - https://graph-explorer.fr
+
+À vérifier :
+
+- https://dataviz.drees.sante.gouv.fr/
 
 * Contributions à des sites internes à l'administration
 
@@ -69,6 +72,8 @@ projets libres existants, etc.
 
 - DataESR : Oui [où ?]
 - Prédisauvetage : au travers d'issues [exemple ?]
+- [[https://github.com/Attendize/Attendize][Attendize]] (via EIG Link / Etalab)
+
 * Contributions à des Q&A sur des forums
 
 - https://stackoverflow.com/questions/52624102/local-mathjax-with-mkdocs
