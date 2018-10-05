@@ -67,3 +67,6 @@ projets libres existants, etc.
 
 - DataESR : Oui [où ?]
 - Prédisauvetage : au travers d'issues [exemple ?]
+* Contributions à des Q&A sur des forums
+
+- https://stackoverflow.com/questions/52624102/local-mathjax-with-mkdocs
