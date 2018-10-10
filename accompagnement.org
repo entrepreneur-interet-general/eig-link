@@ -39,6 +39,22 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 * Présentation détaillée des sessions
 
+** Session du 11 octobre
+
+En parallèle : tournage des vidéos de restitution.
+
+15h-15h30 : Introduction
+
+15h30-16h45 : Ateliers au choix 
+- Futur des défis, animé par Mathilde
+-	Bilan des compétences et valorisation des apprentissages, animé par Soizic 
+-	Espace libre pour ateliers de production auto-organisés (manifeste, design review, code review, etc.)
+
+16h45-17h15 : Pause
+
+17h15-18h30 : Echange sur l’événement de restitution
+
+
 ** Session du 27 septembre : Réalisation des livrables post-séminaire - LLL
 
 La session durera exceptionnellement toute la journée.
