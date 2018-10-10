@@ -11,16 +11,18 @@ projets libres existants, etc.
 - http://archifiltre.io
 - http://carrefourdesinnovationssociales.fr/
 - http://cis-openscraper.com/
-- https://redash.snosan.fr/
-- https://www.snosan.fr
-- https://carte.snosan.fr
-- https://avurnavs.snosan.fr
-- https://quizz.snosan.fr
 - https://antoineaugusti.github.io/avurnav-api
+- https://avurnavs.snosan.fr
+- https://carte.snosan.fr
+- https://graph-explorer.fr
 - http://signaux.faibles.fr (http://signauxfaibl.es)
 - http://snosan.eig-forever.org
+- https://outils.snosan.fr/
 - https://previsecours.fr/
-- https://graph-explorer.fr
+- https://quizz.snosan.fr
+- https://redash.snosan.fr/
+- https://www.snosan.fr
+- https://collections-mobilier-national.com
 
 À vérifier :
 
@@ -38,13 +40,15 @@ projets libres existants, etc.
   codes SIRET]]
 
 - Prédisauvetage : les données des [[https://www.data.gouv.fr/fr/datasets/operations-coordonnees-par-les-cross/][opérations d’assistance et de
-  sauvetages menées en eaux françaises par les CROSS depuis 1985]], [[https://www.data.gouv.fr/fr/datasets/radars-automatiques/][les radars automatiques]], [[https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/][les jours fériés en France]],  [[https://www.data.gouv.fr/fr/datasets/avis-urgents-aux-navigateurs-en-vigueur-en-eaux-francaises-metropolitaines/][les avis urgents aux navigateurs]].
+  sauvetages menées en eaux françaises par les CROSS depuis 1985]], [[https://www.data.gouv.fr/fr/datasets/radars-automatiques/][les
+  radars automatiques]], [[https://www.data.gouv.fr/fr/datasets/jours-feries-en-france/][les jours fériés en France]], [[https://www.data.gouv.fr/fr/datasets/avis-urgents-aux-navigateurs-en-vigueur-en-eaux-francaises-metropolitaines/][les avis urgents
+  aux navigateurs]].
 
 * Contribution à des données déjà ouvertes
 
 - BaliseNAV : contribution aux icônes SVG de l'IHO [liens ?]
 
-* Code source ouvert à l'occasion des défis EIG 2
+* Dépôts de code source ouverts pendant EIG 2
 
 - https://github.com/chrnin/ganboard
 - https://github.com/entrepreneur-interet-general/CIS-front
@@ -58,6 +62,15 @@ projets libres existants, etc.
 - https://github.com/topics/predisauvetage (plus de 10 répertoires)
 - https://github.com/entrepreneur-interet-general/vue-python-starter-kit
 - https://github.com/previsecours/vueJS_Previsecours
+- https://github.com/entrepreneur-interet-general/gobelins
+- https://github.com/entrepreneur-interet-general/gobelins-datasource
+- https://github.com/entrepreneur-interet-general/gobelins-landingpage
+
+* Comptes d'organisation github liés à EIG
+
+- https://github.com/entrepreneur-interet-general
+- https://github.com/open-student-environment
+- https://github.com/previsecours
 
 * Contribution de nouvelles bibliothèques
 
@@ -80,5 +93,6 @@ projets libres existants, etc.
 - https://stackoverflow.com/questions/52624102/local-mathjax-with-mkdocs
 
 * Articles de blog
+
 - [[https://medium.com/@BGuigal/janusgraph-python-9e8d6988c36c][JanusGraph & Python]]
 - [[https://medium.com/@BGuigal/elasticsearch-mapping-and-analysers-ab0c507f4ada][Elasticsearch: mapping and analyzers]]
