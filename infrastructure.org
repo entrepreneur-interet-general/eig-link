@@ -29,19 +29,9 @@ mail aux EIG Link.
 Le serveur cloudron est sauvegardé tous les jours par un envoi de
 l'archive sur une instance AWS S3.
 
-* Déploiement à la Heroku sur =www.eig-paas.org=
-
-[[http://dokku.viewdocs.io/dokku/][Dokku]] est un logiciel libre permettant de transformer un serveur en
-service de déploiement d'applications web à la [[https://www.heroku.com/][Heroku]].
-
-Si vous souhaitez déployer une application sur un sous-domaine de ce
-serveur (=mon-application.eig-paas.org=), envoyez un mail aux EIG Link.
-
-Cette instance de 1GO est sauvegardée par /snapshot/ hebdomadaire.
-
 * Applications R sur =shiny.eig-forever.org=
 
-=shiny.eig-apps.org= est un serveur d'applications développées en =R=.
+=shiny.eig-forever.org= est un serveur d'applications développées en =R=.
 
 Si vous souhaitez déployer une application R, envoyez un mail aux EIG
 Link.
@@ -55,11 +45,25 @@ développeurs.  Le programme EIG dispose de crédits limités.  Si vous
 avez besoin d'un service AWS, envoyez un mail aux EIG Link qui vous
 créeront une instance =IAM=.
 
-* Synthèse
+* Synthèse des services
   
-| Fournisseur  | URL                     | RAM  | Service       | Description                  | Backup                            |
-|--------------+-------------------------+------+---------------+------------------------------+-----------------------------------|
-| OVH          | eig.etalab.gouv.fr:8006 | 32GO | Proxmox       | Déploiement containers / VM  | Copie manuelle 1j => eig-apps.org |
-| DigitalOcean | eig-apps.org            | 2GO  | Cloudron      | Déploiement applications web | 1j => S3                          |
-| Vultr        | shiny.eig-forever.org   | 1GO  | Shiny serveur | Déploiement applications R   | 1j (snapshot)                     |
-| Vultr        | eig-paas.org            | 1GO  | Dokku         | Déploiement à la Heroku      | 1j (snapshot)                     |
+| Fournisseur  | URL                     | RAM  | Service       | Statut           | Description                  | Backup                            |
+|--------------+-------------------------+------+---------------+------------------+------------------------------+-----------------------------------|
+| OVH          | eig.etalab.gouv.fr:8006 | 32GO | Proxmox       | Prod             | Déploiement containers / VM  | Copie manuelle 1j => eig-apps.org |
+| DigitalOcean | eig-apps.org            | 2GO  | Cloudron      | Test             | Déploiement applications web | 1j => S3                          |
+| Vultr        | shiny.eig-forever.org   | 1GO  | Shiny serveur | Test             | Déploiement applications R   | 1j (snapshot)                     |
+| Vultr        | eig-paas.org            | 1GO  | Dokku         | Effacé           | Déploiement à la Heroku      | 1j (snapshot)                     |
+| AWS          |                         |      | EC2           | Dépannage ad hoc | Amazon Web Services          |                                   |
+
+* Obsolète
+
+** Déploiement à la Heroku sur =www.eig-paas.org=
+
+ [[http://dokku.viewdocs.io/dokku/][Dokku]] est un logiciel libre permettant de transformer un serveur en
+ service de déploiement d'applications web à la [[https://www.heroku.com/][Heroku]].
+
+ Si vous souhaitez déployer une application sur un sous-domaine de ce
+ serveur (=mon-application.eig-paas.org=), envoyez un mail aux EIG Link.
+
+ Cette instance de 1GO est sauvegardée par /snapshot/ hebdomadaire.
+
