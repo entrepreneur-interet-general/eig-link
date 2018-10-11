@@ -12,10 +12,10 @@ après la venue des EIG./
 /Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en
 travers de l'accès aux données./
 
-Les données peuvent être accessible sous plusieurs formes :
+Les données peuvent être accessible sous plusieurs formes :
 
-- via une API publique ou privée ;
-- via une procédure d'export d'une base de données ;
+- via une API publique ou privée ;
+- via une procédure d'export d'une base de données ;
 - via des fichiers accessibles à la demande.
 
 Dans tous les cas, assurez-vous que les EIG ont accès au plus tôt aux
@@ -25,15 +25,15 @@ toute la documentation non technique qui peut retracer l'histoire du
 défi (entretiens utilisateurs, maquettes, etc.)
 
 Pour cela, vous pouvez vous appuyer sur plusieurs alliés (voir section
-"Aider les EIG à identifier les bonnes personnes") :
+"Aider les EIG à identifier les bonnes personnes") :
 
 - l'équipe EIG d'Etalab qui vous mettra en contact avec l'équipe de
   l'[[https://agd.data.gouv.fr/][Administrateur Général des Données]] pour réaliser une expertise
   juridique et technique si vous rencontrez des difficultés d'accès
   aux données, notamment s'il s'agit de données d'une autre
-  administration ;
+  administration ;
 
-- au sein de votre ministère : l'administrateur ministériel des
+- au sein de votre ministère : l'administrateur ministériel des
   données, la direction juridique, les directions métiers qui
   produisent les données, les correspondants open data.
 
@@ -50,22 +50,22 @@ pour que ceux-ci permettent les connexions depuis des ordinateurs qui
 ne sont estampillés par l'administration.
 
 Si les EIG travaillent depuis un poste fourni par l'administration,
-prévoyez ces besoins :
+prévoyez ces besoins :
 
-- Pour un designer :: Demandez aux EIG s'ils ont besoin de *logiciels
-     spécifiques* pour travailler : la suite Adobe est souvent demandée
+- Pour un designer :: Demandez aux EIG s'ils ont besoin de *logiciels
+     spécifiques* pour travailler : la suite Adobe est souvent demandée
      par les designer.
 
-- Pour un data scientist :: Demandez aux EIG de *quelle puissance de
-     calcul* ils ont besoin sur leur machine : en général, prévoir en
+- Pour un data scientist :: Demandez aux EIG de *quelle puissance de
+     calcul* ils ont besoin sur leur machine : en général, prévoir en
      16Go et 32Go pour des machines confortables.
 
-- Pour un développeur web :: Demandez aux EIG de *quel système
+- Pour un développeur web :: Demandez aux EIG de *quel système
      d'exploitation* ils ont besoin.  Les développeurs travaillent
      souvent avec des distributions de GNU/Linux (Ubuntu, Debian,
      ArchLinux, etc.)
 
-- Pour tous les EIG :: Deux écrans de 17 à 19 pouces, et si l'espace
+- Pour tous les EIG :: Deux écrans de 17 à 19 pouces, et si l'espace
      de travail est un open space, un casque audio.
      
 Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (notamment pour acheter des serveurs, de l'hébergement, etc.). Bien que cela soit très difficile dans l'administration, vous pouvez commencer par réfléchir à des moyens pour leur faciliter la tâche sur l'achat de petit matériel.  
@@ -76,7 +76,7 @@ Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (nota
 signifie :
 
 - qu'il n'y a pas de démarche à effectuer pour accéder à un site web,
-  quel qu'il soit ;
+  quel qu'il soit ;
 
 - qu'il est possible de se connecter à un serveur extérieur via les
   ports 22 (SSH), 21 (FTP) ou autre.
@@ -95,7 +95,8 @@ l'arrivée des EIG dans les services.
 Le site web EIG et les guides EIG pourront servir de ressources à
 diffuser dans les administrations.
 
-N'hésitez pas à mobiliser le mentor de haut niveau pour que les annonces circulent à tous les niveaux.
+N'hésitez pas à mobiliser le mentor de haut niveau pour que les
+annonces circulent à tous les niveaux.
 
 ** Aider les EIG à anticiper la pérennisation de leur défi
 
@@ -108,14 +109,13 @@ risque. A la fin de la présence des EIG, le risque est que la DSI ne
 puisse pas intégrer et déployer les briques développées par les EIG.
 
 Pour réduire ce risque (vous pouvez aussi consulter le post sur la
-[[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/05/24/atelier-construction-plan-actions-avec-les-dsi/][pérennisation]]) :
+[[https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/05/24/atelier-construction-plan-actions-avec-les-dsi/][pérennisation]]) :
 
 - Partager avec les équipes de la DSI les orientations imaginées pour
-  résoudre le défi ;
-- Associer la DSI au recrutement des EIG ;
+  résoudre le défi ;
+- Associer la DSI au recrutement des EIG ;
 - Partager le calendrier et réaliser des points réguliers avec la DSI
   et les EIG.
-
 
 * Dès l'arrivée des EIG
 
@@ -124,12 +124,12 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la
 /Aidez les EIG à faire connaissance en personne avec leurs futurs
 alliés./
 
-- AMD : L'administrateur ministériel des données
-- COD : Le correspondant open data
-- PRADA : Les personnes responsables de l'accès aux sein des administrations
-- DAJ : Le directeur des affaires juridiques
-- DSI : Le directeur des Systèmes d'Information
-- CIL : Le correspondant informatique et libertés
+- AMD : L'administrateur ministériel des données
+- COD : Le correspondant open data
+- PRADA : Les personnes responsables de l'accès aux sein des administrations
+- DAJ : Le directeur des affaires juridiques
+- DSI : Le directeur des Systèmes d'Information
+- CIL : Le correspondant informatique et libertés
 - S'il existe, le référent technique du service
 
 Une fois que vous avez identifié ces personnes, n'hésitez pas à leur présenter les EIG en personne (même de manière informelle).
@@ -139,7 +139,7 @@ Une fois que vous avez identifié ces personnes, n'hésitez pas à leur présent
 /Aidez les EIG à mesurer tôt l'impact de leur projet et à trouver
 rapidement leurs futurs utilisateurs./
 
-Quelques idées :
+Quelques idées :
 
 - Proposer aux EIG un « stage d'immersion » sur le terrain, comme cela
   a été fait en 2018 pour les défis « Prévisecours » ou « Prédisauvetage » (entre autres).
@@ -172,17 +172,18 @@ Pour plus d'informations, vous pouvez consulter [[https://entrepreneur-interet-g
 ** Aider les EIG à se positionner dans le défi et instaurer des rituels
 
 /Les EIG ne sont ni prestataires ni en complète autonomie pour décider
-de leur feuille de route. Ils ont également besoin de l'expertise métier des agents publics./
+de leur feuille de route. Ils ont également besoin de l'expertise
+métier des agents publics./
 
 La bonne marche du défi exige un *dialogue régulier* entre les mentors
-et les EIG : les mentors doivent faire l'effort de bien comprendre la
+et les EIG : les mentors doivent faire l'effort de bien comprendre la
 feuille de route proposée par les EIG, et les EIG doivent communiquer
 clairement sur ce qu'ils font.
 
 Ce dialogue doit se mettre en place en suivant un calendrier stable,
 indépendamment des sessions d'accompagnement.
 
-Quelques bonnes pratiques : 
+Quelques bonnes pratiques :
 
 - Un point hebdomadaire pour communiquer sur les actions - et
   éventuelles urgences - de la semaine
@@ -197,7 +198,8 @@ Quelques bonnes pratiques :
 Il est rare qu'une administration ou un défi ne présente aucun rapport
 avec une administration ou un défi ayant précédemment participé au
 programme EIG.  N'hésitez pas à contacter les EIG et mentors des
-promotions précédentes pour vous guider dans le bon démarrage du défi (vous pouvez trouver leurs profils sur [[https://entrepreneur-interet-general.etalab.gouv.fr/][le site EIG]]).
+promotions précédentes pour vous guider dans le bon démarrage du défi
+(vous pouvez trouver leurs profils sur [[https://entrepreneur-interet-general.etalab.gouv.fr/][le site EIG]]).
 
 ** Partager des ressources administratives entre mentors
 
@@ -208,4 +210,5 @@ promotions précédentes pour vous guider dans le bon démarrage du défi (vous 
 - Contrat de confidentialité, correspondant au rappel des droits et
   devoirs des fonctionnaires.
   
-Vous trouverez également toutes les ressources EIG Link compilées sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/README.org][le fichier "readme" du dépôt.]]
+Vous trouverez également toutes les ressources EIG Link compilées dans
+[[https://github.com/entrepreneur-interet-general/eig-link/blob/master/README.org][le fichier README du dépôt.]]
