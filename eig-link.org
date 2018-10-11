@@ -1,0 +1,50 @@
+#+title: Retours sur le rôle EIG link dans le programme EIG 2
+
+* Les Différents rôles
+
+- Technique :: gestion des outils EIG et de l'accompagnement technique
+- Animation EIG :: aider à construire le collectif EIG
+- Médiation EIG :: prévenir les risques dans quelques défis
+- Production :: développer des contenus et outils spécifiques
+- Participation Etalab :: contribuer à l'administration d'accueil
+
+* Détail des rôles
+
+** Technique
+
+- Mise en place d'outils
+- Maintenance de l'[[file:infrastructure.org][infrastructure]]
+- Hotline pour l'utilisation des outils
+- Interactions avec le référent technique du LLL pour définir son
+  implication
+
+** Animation EIG
+
+- Organisation et participation au bootcamp et rebootcamp
+- Organisation du suivi hebdomadaire
+- Organisation du stand-up EIG
+- Aide d'EIG Node pour la définition des sessions d'accompagnement
+- Animation d'ateliers pendant les sessions
+- Animation d'ateliers hors session (open source)
+- Participation aux ateliers EIG Off
+- Réservation de la salle du LLL tous les mercredi
+- Participation à la rédaction de documents collectifs (ex. Manifeste EIG)
+
+** Médiation EIG
+
+- Suivi de 4 défis en particulier
+- Intervention en médiation pour ces défis
+
+** Production
+
+- Accompagnement d'Etalab (EIG Node) pour le site EIG
+- Maintenance des contenus sur le dépôt [[https://github.com/entrepreneur-interet-general/eig-link/][eig-link]]
+- Création de guides : [[file:opensource][open source]], [[file:accueil-eig.org][accueil EIG]]
+
+** Participation à Etalab
+
+- Organisation d'Etalab talks
+- Participation au stand-up hebdomadaire d'Etalab
+- Publication de jeux de données (inventaire des codes sources)
+- Création de mini-outils (csv2html, datapad, etc.)
+- Participation à la réflexion autour de l'ouverture des codes sources
