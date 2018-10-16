@@ -65,6 +65,7 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/gobelins
 - https://github.com/entrepreneur-interet-general/gobelins-datasource
 - https://github.com/entrepreneur-interet-general/gobelins-landingpage
+- https://github.com/sammous/spacy-lefff
 
 * Comptes d'organisation github liés à EIG
 
