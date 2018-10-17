@@ -205,6 +205,14 @@ https://github.com/etalab/template.data.gouv.fr
 
 - [[https://www.sketchapp.com/][Sketch]]
 
+* Publication
+
+** D'une page web en PDF
+
+- https://github.com/danburzo/percollate
+- https://github.com/fraserxu/electron-pdf
+- https://github.com/danburzo/toolbox#working-with-documents
+
 * SAS/R
 
 - https://sassoftware.github.io/saspy/
