@@ -1,5 +1,7 @@
 #+title: Outils
 
+La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org][tableau]].
+
 * Agents conversationnels
 
 - https://www.botfuel.io

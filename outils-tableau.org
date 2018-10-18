@@ -1,0 +1,123 @@
+#+title: Outils
+
+| Lien                                                           | Type                                              | Détail                                                             |
+|----------------------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------|
+| https://www.botfuel.io                                         | Agents conversationnels                           |                                                                    |
+| [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment]]         | Datascience                                       | Article de fond sur la donnée                                      |
+| http://www.hackertyper.com                                     | Random                                            |                                                                    |
+| https://github.com/zricethezav/gitleaks                        | Test                                              | Audit git repos for secrets                                        |
+| https://zentity.io                                             | Module de résolution d'entités pour ElasticSearch | [[https://www.slideshare.net/o19s/real-time-entity-resolution-with-elasticsearch-haystack-2018][Présentation]]                                                       |
+| http://mapshaper.org                                           | Cartographie                                      |                                                                    |
+| http://project-osrm.org                                        | Cartographie                                      | Modern C++ routing engine for shortest paths in road networks      |
+| [[https://www.keisan.io/knowledgebase/centos-7-open-street-map-tile-server][centos-7-open-street-map-tile-server]]                           | Cartographie                                      | Article : monter un serveur de tiles OSM                           |
+| https://www.contributor-covenant.org                           | Codes de conduite                                 |                                                                    |
+| https://github.com/Kinto/kinto                                 | Base de donnée                                    |                                                                    |
+| https://mxnet.incubator.apache.org                             | Machine learning                                  |                                                                    |
+| https://mlflow.org                                             | Machine learning                                  |                                                                    |
+| https://cloudron.io                                            | Déploiement d'applications                        |                                                                    |
+| https://bitnami.com                                            | Déploiement d'applications                        |                                                                    |
+| https://yunohost.org                                           | Déploiement d'applications                        |                                                                    |
+| https://publicdesignvault.com/                                 | Design                                            | Centre de ressources                                               |
+| http://colorsupplyyy.com                                       | Design                                            | Couleurs                                                           |
+| http://paletton.com                                            | Design                                            | Couleurs                                                           |
+| http://contrast-ratio.com                                      | Design                                            | Couleurs                                                           |
+| https://github.com/knsv/mermaid                                | Design                                            | Diagrammes                                                         |
+| https://whimsical.co                                           | Design                                            | Flow-charts, mockups                                               |
+| http://accessibility.voxmedia.com/                             | Design                                            |                                                                    |
+| https://opt-out.ferank.eu/en/install/                          | Design                                            | Accessibilité : Gestion cookies/données personnelles               |
+| [[https://www.inria.fr/actualite/agenda/reprise-du-mooc-sur-l-accessibilite-numerique][mooc-sur-l-accessibilite-numerique]]                             | Design                                            |                                                                    |
+| https://modalzmodalzmodalz.com                                 | Design                                            |                                                                    |
+| https://bulma.io                                               | Design                                            | Frameworks Web                                                     |
+| https://framework7.io                                          | Design                                            | Frameworks Web                                                     |
+| https://material.io                                            | Design                                            | Frameworks Web                                                     |
+| http://getbootstrap.com                                        | Design                                            | Frameworks Web                                                     |
+| https://framework7.io                                          | Design                                            | Frameworks Web                                                     |
+| https://semantic-ui.com/                                       | Design                                            | Frameworks Web                                                     |
+| https://ant.design/                                            | Design                                            | Frameworks Web                                                     |
+| http://www.ecoindex.fr                                         | Design                                            | Éco-conception                                                     |
+| https://addons.mozilla.org/fr/firefox/addon/ecoindex/ ([[https://github.com/didierfred/ecoIndexPlugin][github]]) | Design                                            | Éco-conception                                                     |
+| https://collectif.greenit.fr/outils.html                       | Design                                            | Éco-conception                                                     |
+| https://github.com/faif/python-patterns                        | Design                                            | Design pattern                                                     |
+| https://github.com/etalab/template.data.gouv.fr                | Design                                            | Élements de design pour data.gouv.fr                               |
+| https://fontawesome.com                                        | Design                                            | Jeux d'icones                                                      |
+| https://www.favicongenerator.com/                              | Design                                            | Jeux d'icones                                                      |
+| https://octicons.github.com/                                   | Design                                            | Jeux d'icones                                                      |
+| https://repl.it                                                | Développement                                     | Exploration REPL de langages                                       |
+| https://www.pythonanywhere.com                                 | Développement                                     | Exploration REPL de langages                                       |
+| [[http://interactivepython.org/runestone/static/thinkcspy/index.html][thinkcspy]]                                                      | Développement                                     | Exploration REPL de langages                                       |
+| https://mybinder.org                                           | Développement                                     | Turn a GitHub repo into a collection of interactive notebooks      |
+| https://books.trinket.io/thinkjava/                            | Développement                                     | Exploration REPL de langages                                       |
+| [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]                              | Développement                                     | Centre de ressources pour apprendre                                |
+| https://keepachangelog.com/fr/1.0.0/                           | Gestion de projet                                 | À lire pour les bonnes pratiques de Changelog                      |
+| https://github.com/hsoft/dupeguru                              | Manipulation de texte                             | Outil de détection des doublons                                    |
+| http://archifiltre.fr                                          | Archivage de fichiers                             |                                                                    |
+| https://bitwarden.com                                          | Bureautique                                       | Gestion de mots de passe                                           |
+| https://lastpass.com                                           | Bureautique                                       | Gestion de mots de passe                                           |
+| https://kanboard.org                                           | Gestion de projets                                |                                                                    |
+| https://trello.com                                             | Gestion de projets                                |                                                                    |
+| https://asana.com                                              | Gestion de projets                                |                                                                    |
+| https://taiga.io                                               | Gestion de projets                                |                                                                    |
+| https://phabricator.com                                        | Gestion de projets                                |                                                                    |
+| https://github.com                                             | Gestion de projets                                |                                                                    |
+| https://www.atlassian.com/software/jira                        | Gestion de projets                                |                                                                    |
+| [[https://github.com/getpatchwork/patchwork][patchwork]]                                                      | Gestion de projets                                |                                                                    |
+| [[https://www.atlassian.com/software/confluence][confluence]]                                                     | Gestion de projets                                |                                                                    |
+| [[https://www.mantisbt.org/][mantis]]                                                         | Gestion de projets                                |                                                                    |
+| [[https://www.redmine.org/][redmine]]                                                        | Gestion de projets                                |                                                                    |
+| [[https://www.pivotaltracker.com/][pivotal tracker]]                                                | Gestion de projets                                |                                                                    |
+| [[https://www.pipefy.com/][pipefy]]                                                         | Gestion de projets                                |                                                                    |
+| https://opensource.guide                                       | Gestion de projet                                 | Centre de ressources sur l'open source                             |
+| https://github.com/alphagov/styleguides/                       | Guides d’écriture de code                         |                                                                    |
+| https://www.gnu.org/prep/standards/                            | Guides d’écriture de code                         |                                                                    |
+| https://www.iconfinder.com/                                    | Design                                            | Jeux d'icenes                                                      |
+| https://www.flaticon.com/                                      | Design                                            | Jeux d'icenes                                                      |
+| https://iconmonstr.com/                                        | Design                                            | Jeux d'icenes                                                      |
+| [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]                                     | Machine learning                                  | Article                                                            |
+| http://aif360.mybluemix.net                                    | Machine learning                                  | open source toolkit for bias                                       |
+| https://www.gov.uk/service-manual/agile-delivery               | Gestion de projets                                | Méthode agile                                                      |
+| https://statuscake.com                                         | Sysadmin / devops                                 |                                                                    |
+| https://www.electron.build                                     | Packaging                                         |                                                                    |
+| https://www.flatpak.org                                        | Packaging                                         |                                                                    |
+| https://appimage.org                                           | Packaging                                         |                                                                    |
+| [[https://fr.wikipedia.org/wiki/GNU_Screen][screen]]                                                         | Sysadmin / devops                                 |                                                                    |
+| [[https://fr.wikipedia.org/wiki/Secure_Shell][ssh]]                                                            | Sysadmin / devops                                 |                                                                    |
+| [[https://tmux.github.io/][tmux]]                                                           | Sysadmin / devops                                 |                                                                    |
+| [[https://mobaxterm.mobatek.net/][MobaXterm]]                                                      | Sysadmin / devops                                 |                                                                    |
+| http://prose.io                                                | Édition de documents                              | éditer des dépôts Github facilement                                |
+| https://stackedit.io                                           | Édition de documents                              | éditer du markdown en WYSIWYG                                      |
+| [[https://www.sketchapp.com/][Sketch]]                                                         | Design                                            | Prototypage rapide                                                 |
+| https://github.com/danburzo/percollate                         | Édition de documents                              | Publier une page web en PDF                                        |
+| https://github.com/fraserxu/electron-pdf                       | Édition de documents                              | Publier une page web en PDF                                        |
+| https://github.com/danburzo/toolbox#working-with-documents     | Édition de documents                              | Publier une page web en PDF                                        |
+| https://sassoftware.github.io/saspy/                           | Datascience                                       |                                                                    |
+| https://bert-toolkit.com                                       | Datascience                                       | BERT is a tool for connecting Excel with the statistics language R |
+| https://glitch.com                                             | Développement                                     | Partage de code : voir cet [[http://icn.cpn56.fr/2018/02/programmer-avec-glitch/][article]]                                 |
+| https://jsfiddle.net                                           | Développement                                     | Partage de code                                                    |
+| https://codepen.io                                             | Développement                                     | Partage de code                                                    |
+| https://beta.observablehq.com                                  | Développement                                     | Partage de code                                                    |
+| https://landing.google.com/sre/book/index.html                 | Sysadmin / devops                                 | Site Reliability Engineering                                       |
+| https://matomo.org (anciennement Piwik)                        | Sysadmin / devops                                 |                                                                    |
+| https://github.com/usefathom/fathom                            | Sysadmin / devops                                 |                                                                    |
+| https://fr.wikipedia.org/wiki/Test_driven_development          | Test                                              | Méthode                                                            |
+| [[https://docs.seleniumhq.org/][Selenium]]                                                       | Test                                              | tests web                                                          |
+| [[https://devexpress.github.io/testcafe/][testcafe]]                                                       | Test                                              | A node.js tool to automate end-to-end web testing                  |
+| [[https://github.com/stevenvachon/broken-link-checker][broken-link-checker]]                                            | Test                                              | vérifier les liens morts                                           |
+| [[https://www.keycdn.com/blog/browser-compatibility-testing-tools/][browser-compatibility]]                                          | Test                                              | vérification de la compatibilité avec les navigateurs              |
+| https://mockoon.com                                            | Test                                              | Mock API locally                                                   |
+| https://richpreview.com                                        | Test                                              | tester l'en-tête HTML                                              |
+| https://jenkins.io                                             | Test                                              | Tests d'intégration                                                |
+| https://circleci.com                                           | Test                                              | Tests d'intégration                                                |
+| https://travis-ci.org                                          | Test                                              | Tests d'intégration                                                |
+| https://codeship.com                                           | Test                                              | Tests d'intégration                                                |
+| https://github.com/minimaxir/big-list-of-naughty-strings       | Test                                              |                                                                    |
+| [[https://github.com/sshuttle/sshuttle][sshuttle]]                                                       | Sysadmin / devops                                 | Transparent proxy server                                           |
+| https://ngrok.com                                              | Sysadmin / devops                                 | Public URLs for demoing from your own machine                      |
+| https://appear.in                                              | Bureautique                                       | Chat                                                               |
+| https://meet.jit.si                                            | Bureautique                                       | Chat                                                               |
+| https://asciinema.org                                          | Bureautique                                       | Partage de screencasts                                             |
+| [[https://www.cnil.fr/fr/cookies-comment-mettre-mon-site-web-en-conformite][cookies : mettre son site en conformité]]                        | Design                                            |                                                                    |
+| http://webscraper.io                                           | Développement                                     | Web Scraping                                                       |
+| http://www.cis-openscraper.com                                 | Développement                                     | Web Scraping                                                       |
+| https://github.com/internetarchive/heritrix3                   | Développement                                     | Web Crawling                                                       |
+| https://www.fourmilieres.net                                   | Développement                                     | Web form builder                                                   |
+| https://framaforms.org                                         | Développement                                     | Web form builder                                                   |
