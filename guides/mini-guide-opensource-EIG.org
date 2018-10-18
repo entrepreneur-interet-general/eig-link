@@ -1,0 +1,74 @@
+#+title: Mini-guide pour l'ouverture du code source lors du défi EIG
+
+Les EIG utilisent des logiciels /open source/, mais ils vont aussi
+*produire du code et le publier* sous licence libre.  Ce mini-guide
+répond à des questions très générales sur l'ouverture des codes
+sources de l'administration par les EIG.
+
+* Pourquoi ouvrir son code ?
+
+Pour *contribuer aux biens communs numériques* : tous les systèmes
+d’information reposent directement ou indirectement sur des logiciels
+libres : en ouvrant son code, l’administration participe à cette mise
+en commun du code.
+
+Pour *améliorer votre code* : coder « /in the open/ » est une façon de se
+contraindre à adopter des bonnes pratiques qui touchent à la fois la
+technique (structurer son code, le tester) et la communication (écrire
+une documentation, répondre aux questions des utilisateurs, etc.)
+
+Pour *impliquer des développeurs extérieurs* : si vous allez au-delà de
+la simple mise à disposition du code sous licence libre et vous
+mobilisez pour construire une communauté, vous pourrez bénéficier de
+contributions extérieures.
+
+* Comprendre les licences libres
+
+Les licences libres sont des /contrats/ passés entre l’auteur d’un
+logiciel et un utilisateur, celui-là accordant à celui-ci ces quatre
+libertés : (1) la liberté *d'utiliser* le logiciel ; (2) la liberté *de
+copier* le logiciel ; (3) la liberté *d'étudier* le logiciel ; (4) la
+liberté *de modifier* le logiciel et de redistribuer les versions
+modifiées.  Ce principe est commun à /toutes/ les licences libres,
+parfois appelées « open source ».
+
+Votre code étant publié par une administration, il doit l'être sous
+une licence figurant dans [[https://www.data.gouv.fr/fr/licences][cette liste]].  Parmi ces licences figure
+celle publiée par Étalab, couvrant aussi bien les logiciels que les
+contenus autres, la [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][Licence Ouverte 2.0]] ([[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][pdf]]).
+
+* Choisir une licence libre
+
+*Vous contribuez à un logiciel libre existant ?* la loi pour une
+République Numérique autorise les agents publics à contribuer à des
+logiciels libres existant.  Si vous êtes dans ce cas, veuillez vous
+référer à la [[https://disic.github.io/politique-de-contribution-open-source/*][Politique de Contribution Open source]], qui vient d’être
+publiée en version 1.  Les administrations sont en train de se
+familiariser avec cette politique : n’hésitez pas à faire part de vos
+remarques à votre administration.
+
+*Vous fourchez (/forkez/) un logiciel libre existant ?* si le logiciel
+parent est sous licence copyleft, votre version modifiée sera sous la
+même licence (ou sous une autre licence copyleft compatible) ; si le
+logiciel parent est sous licence permissive, vous pouvez publier votre
+version sous la licence permissive ou copyleft que vous voulez,
+l’usage courant étant d’utiliser la même licence que le logiciel
+parent.
+     
+*Vous écrivez un nouveau logiciel libre ?* le choix entre une licence
+permissive ou copyleft se fera selon votre stratégie et/ou selon les
+choix faits par d’autres logiciels similaires écrits dans le même
+langage.
+
+Pour le détail sur la compatibilité des licences voir [[https://vvlibri.org/fr/guide-de-lauteur-libre-gerer-des-licences-differentes-compatibilites-de-licences/tableau-de][ce tableau]] et
+ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]] de la FSF.
+
+* Pour aller plus loin
+
+- Le [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org][guide d'ouverture logicielle d'EIG]] et sa [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org][foire aux questions]]
+- La [[https://www.data.gouv.fr/fr/licences][liste]] des licences libres pour l’administration
+- La [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique logiciel libre]] publiée par la DINSIC
+- La [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][licence ouverte 2.0]] publiée par Etalab
+- Des [[https://opensource.guide][guides sur l’open source]] en général
+- Le guide [[https://www.gov.uk/government/publications/open-source-guidance][Open source Guidance]] par le gouvernement britannique
+- [[https://open-source-guide.18f.gov/][18F Open Source Style Guide]] par l’agence états-unienne 18F
