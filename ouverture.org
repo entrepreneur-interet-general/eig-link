@@ -82,6 +82,7 @@ projets libres existants, etc.
 - https://github.com/AntoineAugusti/vacances-scolaires-france
 - https://github.com/AntoineAugusti/jours-feries-france
 - [[https://bl.ocks.org/benoitguigal/e11a791079318b7ff6ecde9a6464801d][D3.js force directed graph with smooth transitions]]
+- https://github.com/entrepreneur-interet-general/H3.Standard
 
 * Contributions à des projets open source externes
 
