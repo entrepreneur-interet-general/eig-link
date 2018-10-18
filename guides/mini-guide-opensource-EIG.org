@@ -1,4 +1,4 @@
-#+title: Mini-guide pour l'ouverture du code source lors du défi EIG
+#+title: Mini-guide pour l'ouverture du code source d'un défi EIG
 
 Les EIG utilisent des logiciels /open source/, mais ils vont aussi
 *produire du code et le publier* sous licence libre.  Ce mini-guide
