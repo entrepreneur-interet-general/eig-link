@@ -41,20 +41,20 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 ** Session du 25 octobre : ateliers de travail - LLL
 
-15h-15h30 : Introduction, point calendrier (Restitution, GovTech, etc.)
+15h-15h30 : Introduction et point calendrier (Restitution, GovTech, etc.)
 
-15h30-17h15 : Ateliers au choix
+15h30-17h15 : Quatre ateliers au choix
 
-- Atelier "posters" (voir la [[https://drive.google.com/drive/folders/1-KMjVesE6zdKenZTTfGCDuanhdNoyQXe][proposition de design]] et le [[https://docs.google.com/spreadsheets/d/1uDduqrsEv1bXKoNmpS6U75lSSZcLZaCYKwl3FuDYgaw/edit#gid=0][tableau avec les retours]])
-- Atelier "retours orga" (pour [[https://github.com/entrepreneur-interet-general/eig-link/issues][commenter les issues]] du dépôt eig-link)
-- Atelier "manifeste EIG" (pour avancer sur [[https://github.com/entrepreneur-interet-general/manifeste-eig][le dépôt]])
-- Atelier "EIG tech" (pour définir les demandes de formation pour Quentin)
-- Atelier "EIG futur" (pour continuer à stabiliser les valeurs et la roadmap)
-- Autre atelier (proposé par les EIG en introduction)
+- Atelier "posters" : voir la [[https://drive.google.com/drive/folders/1-KMjVesE6zdKenZTTfGCDuanhdNoyQXe][proposition de design]] et le [[https://docs.google.com/spreadsheets/d/1uDduqrsEv1bXKoNmpS6U75lSSZcLZaCYKwl3FuDYgaw/edit#gid=0][tableau
+  rempli par vos soins]]
+- Atelier "manifeste EIG" pour avancer sur [[https://github.com/entrepreneur-interet-general/manifeste-eig/issues][les issues du dépôt]]
+  =manifeste-eig=
+- Atelier "retours orga" pour [[https://github.com/entrepreneur-interet-general/eig-link/issues][discuter des issues du dépôt]] =eig-link=
+- Autre atelier possiblement proposé par les EIG en introduction
 
 17h15-17h45 : Pause
 
-17h45-18h30 : Echange sur l’événement de restitution et le week-end 
+17h45-18h30 : Echange sur l’événement de restitution et le week-end
 
 ** Session du 11 octobre : ateliers de travail - LLL
 
