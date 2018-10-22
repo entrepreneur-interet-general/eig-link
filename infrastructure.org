@@ -52,8 +52,9 @@ créeront une instance =IAM=.
 | OVH          | eig.etalab.gouv.fr:8006 | 32GO | Proxmox       | Prod             | Déploiement containers / VM  | Copie manuelle 1j => eig-apps.org |
 | DigitalOcean | eig-apps.org            | 2GO  | Cloudron      | Test             | Déploiement applications web | 1j => S3                          |
 | Vultr        | shiny.eig-forever.org   | 1GO  | Shiny serveur | Test             | Déploiement applications R   | 1j (snapshot)                     |
-| Vultr        | eig-paas.org            | 1GO  | Dokku         | Effacé           | Déploiement à la Heroku      | 1j (snapshot)                     |
 | AWS          |                         |      | EC2           | Dépannage ad hoc | Amazon Web Services          |                                   |
+|--------------+-------------------------+------+---------------+------------------+------------------------------+-----------------------------------|
+| Vultr        | eig-paas.org            | 1GO  | Dokku         | Effacé           | Déploiement à la Heroku      | 1j (snapshot)                     |
 
 * Obsolète
 
