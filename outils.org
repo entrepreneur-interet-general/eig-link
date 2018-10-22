@@ -107,6 +107,10 @@ https://github.com/etalab/template.data.gouv.fr
 - https://www.favicongenerator.com/
 - https://octicons.github.com/
 
+** Illustrations sous licence libre
+
+- https://undraw.co
+
 * Exploration (REPL) de langages de programmation
 
 - https://repl.it
