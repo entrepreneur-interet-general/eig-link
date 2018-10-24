@@ -51,6 +51,7 @@ La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org
 * Design
 
 - Centre de ressources : https://publicdesignvault.com/
+- Guide : https://www.gov.uk/guidance/government-design-principles
 
 ** Couleurs
 
