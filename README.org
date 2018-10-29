@@ -12,18 +12,16 @@
 * Ressources
 
 - https://cloud.eig-forever.org (Nextcloud) : partager des fichiers
-- http://www.eig-paas.org (Dokku) : déployer des applications « à la heroku »
-- https://code.eig-forever.org (Gogs) : partager des dépôts Git publics ou privés
-- https://board.eig-forever.org (Kanboard) : application web de kanboard
-- https://irc.eig-forever.org (Kiwiirc) : client web pour discussion IRC
 - https://discussion.eig-apps.org (mattermost) : Discuter en ligne (à la slack)
-- https://stats.eig-forever.org (Matomo) : suivre les statistiques d'un site web
+- https://board.eig-forever.org (Kanboard) : application web de kanboard
+- https://code.eig-forever.org (Gogs) : partager des dépôts Git publics ou privés
+- https://irc.eig-forever.org (Kiwiirc) : client web pour discussion IRC
 
 * Documentation autour des ressources
 
 - [[file:opensource.org][Ouvrir]] son code source ([[file:opensource-faq.org][FAQ]])
 - [[file:serveur.org][Serveur]] de 32 GO (Proxmox VE) : déployer des containers et des VM
-- [[file:infrastructure.org]] : synthèse : Proxmox, AWS, Cloudron, Shiny
+- [[Infrastructure]] : présentation de Proxmox, AWS, Cloudron, Shiny
 - [[file:ressources-ecosysteme.org][Les ressources de l'écosystème]] : data.gouv, api.gouv, etc.
 
 * Animation
