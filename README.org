@@ -7,12 +7,12 @@
 - [[file:stack.org][Les stacks des projets]]
 - [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][L’agenda public des EIG]]
 - [[file:contacts.org][Les contacts des EIG]]
-- [[https://entrepreneur-interet-general.etalab.gouv.fr/blog.html][blog EIG]] via le [[view-source:https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml][Vous abonner au blog EIG]]
+- [[https://entrepreneur-interet-general.etalab.gouv.fr/blog.html][Blog EIG]] via le [[https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml][flux RSS]]
 
 * Ressources
 
 - https://cloud.eig-forever.org (Nextcloud) : partager des fichiers
-- https://discussion.eig-apps.org (mattermost) : Discuter en ligne (à la slack)
+- https://discussion.eig-apps.org (Mattermost) : Discuter en ligne (à la slack)
 - https://board.eig-forever.org (Kanboard) : application web de kanboard
 - https://code.eig-forever.org (Gogs) : partager des dépôts Git publics ou privés
 - https://irc.eig-forever.org (Kiwiirc) : client web pour discussion IRC
