@@ -57,6 +57,6 @@ feuille de route.
 * Pour aller plus loin
 
 - Le [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/accueil-eig.org][guide d'accueil]] des EIG
-- Les [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/guide-projet-eig.md][notes sur la gestion de projet]] EIG
+- Les [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/guides/guide-projet-eig.md][notes sur la gestion de projet]] EIG
 - La [[https://entrepreneur-interet-general.etalab.gouv.fr/faq-eig.html][FAQ EIG]] et la [[https://entrepreneur-interet-general.etalab.gouv.fr/faq-administrations.html][FAQ administration]] sur le site EIG
 - [[https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html][Les 6 facteurs de réussite d'un défi]] sur le blog EIG
