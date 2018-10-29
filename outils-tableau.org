@@ -123,3 +123,4 @@
 | https://framaforms.org                                         | Développement                                     | Web form builder                                                   |
 | https://undraw.co/                                             | Design                                            | Illustrations sous licence libre                                   |
 | https://www.gov.uk/guidance/government-design-principles       | Design                                            | Guide                                                              |
+| https://codesandbox.io                                         | Développement                                     | The online code editor for web development                                                   |

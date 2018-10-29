@@ -232,6 +232,7 @@ https://github.com/etalab/template.data.gouv.fr
 - https://jsfiddle.net
 - https://codepen.io
 - https://beta.observablehq.com
+- https://codesandbox.io : The online code editor for web development
 
 * SRE (Site Reliability Engineering)
 
