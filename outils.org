@@ -43,6 +43,17 @@ La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org
 - https://mxnet.incubator.apache.org
 - https://mlflow.org (cf. https://databricks.com/mlflow)
 
+** Articles :
+
+- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
+
+- http://aif360.mybluemix.net/ : This extensible open source toolkit
+  can help you examine, report, and mitigate discrimination and bias
+  in machine learning models throughout the AI application lifecycle.
+
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ :
+  traduit [[http://www.r2d3.us/lapprentissage-automatique-en-images-chapitre-1/][ici]] - et la deuxième partie en anglais [[http://www.r2d3.us/visual-intro-to-machine-learning-part-2/][ici]].
+
 * Déploiement rapide d’applications
 
 - https://cloudron.io
@@ -112,6 +123,11 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://undraw.co
 
+** Storytelling
+
+- https://storytelling.design/stories
+- https://storymakers.eu
+
 * Exploration (REPL) de langages de programmation
 
 - https://repl.it
@@ -173,14 +189,6 @@ https://github.com/etalab/template.data.gouv.fr
 - https://www.iconfinder.com/
 - https://www.flaticon.com/
 - https://iconmonstr.com/
-
-* Machine learning
-
-- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
-
-- http://aif360.mybluemix.net/ : This extensible open source toolkit
-  can help you examine, report, and mitigate discrimination and bias
-  in machine learning models throughout the AI application lifecycle.
 
 * Méthodes de projet
 

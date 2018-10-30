@@ -123,4 +123,6 @@
 | https://framaforms.org                                         | Développement                                     | Web form builder                                                   |
 | https://undraw.co/                                             | Design                                            | Illustrations sous licence libre                                   |
 | https://www.gov.uk/guidance/government-design-principles       | Design                                            | Guide                                                              |
-| https://codesandbox.io                                         | Développement                                     | The online code editor for web development                                                   |
+| https://codesandbox.io                                         | Développement                                     | The online code editor for web development                         |
+| https://storytelling.design/stories                            | Design                                            | A collection of the web’s best digital stories                     |
+| https://storymakers.eu/                                        | Design                                            | Storytelling, build a pitch people remember                        |
