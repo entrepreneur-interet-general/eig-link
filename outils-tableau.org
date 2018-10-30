@@ -126,3 +126,4 @@
 | https://codesandbox.io                                         | Développement                                     | The online code editor for web development                         |
 | https://storytelling.design/stories                            | Design                                            | A collection of the web’s best digital stories                     |
 | https://storymakers.eu/                                        | Design                                            | Storytelling, build a pitch people remember                        |
+| https://drivendata.github.io/cookiecutter-data-science/        | Datascience                                       | Project structure for doing/sharing data science work              |
