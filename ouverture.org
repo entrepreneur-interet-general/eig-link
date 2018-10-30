@@ -94,6 +94,7 @@ projets libres existants, etc.
 - DataESR : Oui [où ?]
 - Prédisauvetage : au travers d'issues [exemple ?]
 - [[https://github.com/Attendize/Attendize][Attendize]] (via EIG Link / Etalab)
+- https://uber.github.io/h3/#/documentation/community/bindings
 
 * Contributions à des Q&A sur des forums
 
