@@ -48,6 +48,11 @@ projets libres existants, etc.
 
 - BaliseNAV : contribution aux icônes SVG de l'IHO [liens ?]
 
+* Contribution à des outils communs pour EIG
+
+- https://drees.shinyapps.io/bulloterie_eig/
+- https://github.com/entrepreneur-interet-general/suivi_auto
+
 * Dépôts de code source ouverts pendant EIG 2
 
 - https://github.com/chrnin/ganboard
@@ -98,3 +103,4 @@ projets libres existants, etc.
 
 - [[https://medium.com/@BGuigal/janusgraph-python-9e8d6988c36c][JanusGraph & Python]]
 - [[https://medium.com/@BGuigal/elasticsearch-mapping-and-analysers-ab0c507f4ada][Elasticsearch: mapping and analyzers]]
+- [[https://guillim.github.io/pandas/2018/10/22/Pandas-if-else-on-columns.html][Pandas-if-else-on-columns]]
