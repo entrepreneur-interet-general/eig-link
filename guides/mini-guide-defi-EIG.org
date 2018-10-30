@@ -1,4 +1,4 @@
-#+title: Mini-guide pour la réussite d'un défi EIG
+#+title: Mini-guide pour l'accueil des EIG et la réussite du défi
 
 Ce mini-guide veut attirer l'attention des mentors EIG sur des points
 importants tout au long des 10 mois du défi EIG.
@@ -13,15 +13,16 @@ assurez-vous d'en parler tôt avec les EIG.  Ils auront aussi besoin de
 se connecter à un Internet non bridé : si votre administration limite
 les sites web accessibles et les ports ouverts vers l'extérieur,
 vérifiez avec les EIG à ce que ces contraintes ne font pas obstacle à
-leur productivité.
+leur productivité et contactez les services pertinents pour lever ces
+obstacles.
 
 * La familiarisation avec le métier
 
 Les EIG ne connaissent ni l'administration en général, ni les métiers
-du service dans lequel il est accueilli, ni les usagers du défi qu'ils
-relèvent.  Le premier mois est l'occasion de se familiariser avec
-cela.  Vous pouvez proposer aux EIG une liste des acronymes utilisés
-dans votre administration ; leur communiquer les documents
+du service dans lequel ils sont accueillis, ni les usagers du défi
+qu'ils relèvent.  Le premier mois est l'occasion de se familiariser
+avec cela.  Vous pouvez proposer aux EIG une liste des acronymes
+utilisés dans votre administration ; leur communiquer les documents
 « métier » ; leur proposer une semaine d'immersion avec les usagers du
 produit auquel il travaillera.
 
@@ -29,10 +30,11 @@ produit auquel il travaillera.
 
 Vous connaissez vos données par coeur mais les EIG les découvrent.
 Pour faciliter leur prise en main, assurez-vous qu'ils ont accès à la
-documentation nécessaire sur ces données et qu'ils peuvent facilement
-les télécharger et les manipuler.  Si la collecte des données est un
-enjeu de votre défi, proposez un calendrier précis sur les dates à
-partir desquelles les données seront disponibles.
+documentation nécessaire sur ces données, qu'ils peuvent facilement
+les télécharger et les manipuler et qu'ils savent qui contacter pour
+poser les questions relatives aux données.  Si la collecte des données
+est un enjeu de votre défi, proposez un calendrier précis sur les
+dates à partir desquelles les données seront disponibles.
 
 * La construction de l'équipe du défi
 
