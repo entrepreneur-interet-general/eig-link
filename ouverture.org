@@ -100,6 +100,11 @@ projets libres existants, etc.
 
 - https://stackoverflow.com/questions/52624102/local-mathjax-with-mkdocs
 
+* Contributions extérieures à des projets EIG
+
+- https://github.com/entrepreneur-interet-general/H3.Standard/issues/1
+- https://github.com/entrepreneur-interet-general/metadocs/pull/1
+
 * Articles de blog
 
 - [[https://medium.com/@BGuigal/janusgraph-python-9e8d6988c36c][JanusGraph & Python]]
