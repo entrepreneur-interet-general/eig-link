@@ -38,22 +38,6 @@ La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org
 
 - https://github.com/Kinto/kinto
 
-* Machine/deep learning
-
-- https://mxnet.incubator.apache.org
-- https://mlflow.org (cf. https://databricks.com/mlflow)
-
-** Articles :
-
-- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
-
-- http://aif360.mybluemix.net/ : This extensible open source toolkit
-  can help you examine, report, and mitigate discrimination and bias
-  in machine learning models throughout the AI application lifecycle.
-
-- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ :
-  traduit [[http://www.r2d3.us/lapprentissage-automatique-en-images-chapitre-1/][ici]] - et la deuxième partie en anglais [[http://www.r2d3.us/visual-intro-to-machine-learning-part-2/][ici]].
-
 * Déploiement rapide d’applications
 
 - https://cloudron.io
@@ -184,17 +168,27 @@ https://github.com/etalab/template.data.gouv.fr
 - https://github.com/alphagov/styleguides/
 - https://fr.wikipedia.org/wiki/GNU_coding_standards
 
-* Structure de projets de datascience
-
-- https://drivendata.github.io/cookiecutter-data-science/ : A logical,
-  reasonably standardized, but flexible project structure for doing
-  and sharing data science work.
-
 * Icones
 
 - https://www.iconfinder.com/
 - https://www.flaticon.com/
 - https://iconmonstr.com/
+
+* Machine/deep learning
+
+- https://mxnet.incubator.apache.org
+- https://mlflow.org (cf. https://databricks.com/mlflow)
+
+** Articles :
+
+- [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
+
+- http://aif360.mybluemix.net/ : This extensible open source toolkit
+  can help you examine, report, and mitigate discrimination and bias
+  in machine learning models throughout the AI application lifecycle.
+
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ :
+  traduit [[http://www.r2d3.us/lapprentissage-automatique-en-images-chapitre-1/][ici]] - et la deuxième partie en anglais [[http://www.r2d3.us/visual-intro-to-machine-learning-part-2/][ici]].
 
 * Méthodes de projet
 
@@ -205,6 +199,10 @@ https://github.com/etalab/template.data.gouv.fr
 ** Web
 
 - https://statuscake.com
+
+* NLP/TAL
+
+- [[https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p][Writing Code for NLP Research]]
 
 * Outils pour de la revue de code
 * Packaging d'applications
@@ -256,6 +254,12 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://matomo.org (anciennement Piwik)
 - https://github.com/usefathom/fathom
+
+* Structure de projets de datascience
+
+- https://drivendata.github.io/cookiecutter-data-science/ : A logical,
+  reasonably standardized, but flexible project structure for doing
+  and sharing data science work.
 
 * Tests
 
