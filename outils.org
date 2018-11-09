@@ -12,15 +12,12 @@ La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org
 
 - [[https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf][The Six Primary Dimensions For Data Quality Assessment (pdf)]]
 
-* Au quotidien
-
-- http://www.hackertyper.com
-- https://github.com/zricethezav/gitleaks
-
 * Bases de données
 
 - https://zentity.io : module de résolution d'entités pour
   ElasticSearch (voir [[https://www.slideshare.net/o19s/real-time-entity-resolution-with-elasticsearch-haystack-2018][cette présentation]])
+
+- https://github.com/Kinto/kinto
 
 * Cartographie
 
@@ -33,20 +30,23 @@ La liste des outils est aussi disponible sous forme de [[file:outils-tableau.org
 * Codes de conduite
 
 - https://www.contributor-covenant.org
+- https://www.gnu.org/philosophy/kind-communication.fr.html
+- https://www.debian.org/code_of_conduct
 
-* Databases
-
-- https://github.com/Kinto/kinto
-
-* Déploiement rapide d’applications
+* Déploiement d’applications en un clic
 
 - https://cloudron.io
 - https://bitnami.com
+- https://yunohost.org
 
 * Design
 
 - Centre de ressources : https://publicdesignvault.com/
 - Guide : https://www.gov.uk/guidance/government-design-principles
+
+** Frontend
+
+- [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]
 
 ** Couleurs
 
@@ -120,12 +120,6 @@ https://github.com/etalab/template.data.gouv.fr
 - https://mybinder.org : Turn a GitHub repo into a collection of interactive notebooks
 - https://books.trinket.io/thinkjava/
 
-* Frontend
-
-** Ressources pour apprendre
-
-- [[https://frontendmasters.com/books/front-end-handbook/2018/][Front-End Developer Handbook 2018]]
-
 * Gérer un changelog
 
 - https://keepachangelog.com/fr/1.0.0/ : à lire pour les bonnes
@@ -140,28 +134,29 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://bitwarden.com
 - https://lastpass.com
+- https://github.com/zricethezav/gitleaks : Audit git repos for secrets
 
 * Gestion de projets
 
-| Site                                    | Outil                | Milestones | Releases | Tasks | Revue de code |
-|-----------------------------------------+----------------------+------------+----------+-------+---------------|
-| https://framaboard.org                  | https://kanboard.org |            |          |       |               |
-| https://trello.com                      |                      |            |          |       |               |
-| https://asana.com                       |                      |            |          |       |               |
-| https://taiga.io                        |                      |            |          |       |               |
-| https://phabricator.com                 |                      |            |          |       |               |
-| https://github.com                      |                      |            |          |       |               |
-| https://www.atlassian.com/software/jira |                      |            |          |       |               |
-| [[https://github.com/getpatchwork/patchwork][patchwork]]                               |                      |            |          |       |               |
-| [[https://www.atlassian.com/software/confluence][confluence]]                              |                      |            |          |       |               |
-| [[https://www.mantisbt.org/][mantis]]                                  |                      |            |          |       |               |
-| [[https://www.redmine.org/][redmine]]                                 |                      |            |          |       |               |
-| [[https://www.pivotaltracker.com/][pivotal tracker]]                         |                      |            |          |       |               |
-| [[https://www.pipefy.com/][pipefy]]                                  |                      |            |          |       |               |
+- https://framaboard.org                  
+- https://trello.com                      
+- https://asana.com                       
+- https://taiga.io                        
+- https://phabricator.com                 
+- https://github.com                      
+- https://www.atlassian.com/software/jira 
+- [[https://github.com/getpatchwork/patchwork][patchwork]]                               
+- [[https://www.atlassian.com/software/confluence][confluence]]                              
+- [[https://www.mantisbt.org/][mantis]]                                  
+- [[https://www.redmine.org/][redmine]]                                 
+- [[https://www.pivotaltracker.com/][pivotal tracker]]                         
+- [[https://www.pipefy.com/][pipefy]]                                  
 
 * Guides de contribution à des projets open source
 
 - https://opensource.guide
+- https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org
+- https://github.com/disic/politique-de-contribution-open-source/
 
 * Guides d’écriture de code
 
@@ -178,8 +173,9 @@ https://github.com/etalab/template.data.gouv.fr
 
 - https://mxnet.incubator.apache.org
 - https://mlflow.org (cf. https://databricks.com/mlflow)
+- https://spinningup.openai.com/en/latest/user/introduction.html
 
-** Articles :
+** Articles
 
 - [[https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469][Understanding word vectors]]
 
@@ -192,13 +188,16 @@ https://github.com/etalab/template.data.gouv.fr
 
 * Méthodes de projet
 
-- Agile : https://www.gov.uk/service-manual/agile-delivery
+- La méthode agile : https://www.gov.uk/service-manual/agile-delivery
+- Software Craftmanship : http://manifesto.softwarecraftsmanship.org/#/fr-fr
+- Extreme Programming : https://fr.wikipedia.org/wiki/Extreme_programming
 
 * Monitoring
 
 ** Web
 
 - https://statuscake.com
+- http://munin-monitoring.org
 
 * NLP/TAL
 
@@ -231,6 +230,10 @@ https://github.com/etalab/template.data.gouv.fr
 - https://github.com/danburzo/percollate
 - https://github.com/fraserxu/electron-pdf
 - https://github.com/danburzo/toolbox#working-with-documents
+
+* Random
+
+- http://www.hackertyper.com
 
 * SAS/R
 
