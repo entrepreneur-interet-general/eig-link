@@ -127,3 +127,5 @@
 | https://storytelling.design/stories                            | Design                                            | A collection of the web’s best digital stories                     |
 | https://storymakers.eu/                                        | Design                                            | Storytelling, build a pitch people remember                        |
 | https://drivendata.github.io/cookiecutter-data-science/        | Datascience                                       | Project structure for doing/sharing data science work              |
+| https://spinningup.openai.com/en/latest/user/introduction.html | Datascience                                       | Educational resource produced by OpenAI about deep RL              |
+| https://bokeh.github.io/blog/2018/10/24/release-1-0-0/         | Datascience / Développement                       | Shiny For Python                                                   |
