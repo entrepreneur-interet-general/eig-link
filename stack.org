@@ -10,9 +10,6 @@ défis EIG.
 - Langages principaux : [[https://clojure.org/][Clojure]] et [[https://clojurescript.org/][Clojurescript]]
 - Framework pour application web : [[https://github.com/Day8/re-frame][re-frame]]
 - Design : [[https://getbootstrap.com/][Bootstrap]] via [[https://github.com/Day8/re-com][re-com]] ou [[https://ant.design/][Ant]] via [[https://github.com/priornix/antizer][antizer]]
-- https://www.datomic.com pour la base de données
-- https://auth0.com pour la gestion des utilisateurs
-- http://filestack.com pour la gestion des fichiers
 
 ** Outils de développement
 
