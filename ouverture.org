@@ -86,7 +86,6 @@ projets libres existants, etc.
 - https://github.com/entrepreneur-interet-general/open_api_schemas_to_markdown
 - https://github.com/AntoineAugusti/vacances-scolaires-france
 - https://github.com/AntoineAugusti/jours-feries-france
-- [[https://bl.ocks.org/benoitguigal/e11a791079318b7ff6ecde9a6464801d][D3.js force directed graph with smooth transitions]]
 - https://github.com/entrepreneur-interet-general/H3.Standard
 
 * Contributions à des projets open source externes
@@ -108,5 +107,6 @@ projets libres existants, etc.
 * Articles de blog
 
 - [[https://medium.com/@BGuigal/janusgraph-python-9e8d6988c36c][JanusGraph & Python]]
+- [[https://bl.ocks.org/benoitguigal/e11a791079318b7ff6ecde9a6464801d][D3.js force directed graph with smooth transitions]]
 - [[https://medium.com/@BGuigal/elasticsearch-mapping-and-analysers-ab0c507f4ada][Elasticsearch: mapping and analyzers]]
 - [[https://guillim.github.io/pandas/2018/10/22/Pandas-if-else-on-columns.html][Pandas-if-else-on-columns]]
