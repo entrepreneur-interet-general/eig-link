@@ -103,6 +103,7 @@ projets libres existants, etc.
 
 - https://github.com/entrepreneur-interet-general/H3.Standard/issues/1
 - https://github.com/entrepreneur-interet-general/metadocs/pull/1
+- https://github.com/etalab/inventaire-codes-sources-organismes-publics/pull/3
 
 * Articles de blog
 
