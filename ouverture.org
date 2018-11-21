@@ -15,7 +15,7 @@ projets libres existants, etc.
 - https://avurnavs.snosan.fr
 - https://carte.snosan.fr
 - https://graph-explorer.fr
-- http://signaux.faibles.fr (http://signauxfaibl.es)
+- https://signaux.faibles.fr (http://signauxfaibl.es)
 - http://snosan.eig-forever.org
 - https://outils.snosan.fr/
 - https://previsecours.fr/
