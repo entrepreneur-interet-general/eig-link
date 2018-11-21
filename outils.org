@@ -296,6 +296,10 @@ https://github.com/etalab/template.data.gouv.fr
 - https://github.com/sshuttle/sshuttle
 - https://ngrok.com/
 
+* Unix (outils)
+
+- [[http://man7.org/linux/man-pages/man8/fstrim.8.html][fstrim]] : libérer des blocs non-utilisés dans un système de fichiers.
+
 * Vidéo et partage d’écran
 
 ** Ne nécessitant pas de compte
