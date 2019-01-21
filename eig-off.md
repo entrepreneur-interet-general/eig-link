@@ -3,7 +3,7 @@
 Les EIG participent à trois types d’événements :
 
 1.  Les sessions d’[accompagnement](accompagnement.md) (EIG **on**)
-2.  Des événements [extérieurs](https://github.com/entrepreneur-interet-general/open-agenda-eig2018/blob/master/index.org) (EIG **open**)
+2.  Des événements [extérieurs](index.md) (EIG **open**)
 3.  Des événements de la communauté (EIG **off**)
 
 

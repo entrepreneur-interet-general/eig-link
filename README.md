@@ -4,10 +4,10 @@ EIG Link - ressources EIG
 # L’essentiel
 
 - EIG sur [Github](http://github.com/entrepreneur-interet-general/) et [Gitlab](https://gitlab.com/eig)
-- [Le suivi des projets](./suivi.org)
-- [Les stacks des projets](./stack.org)
+- [Le suivi des projets](./suivi.md)
+- [Les stacks des projets](./stack.md)
 - [L’agenda public des EIG](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018)
-- [Les contacts des EIG](./contacts.org)
+- [Les contacts des EIG](./contacts.md)
 - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 
 # Ressources
@@ -20,21 +20,21 @@ EIG Link - ressources EIG
 
 # Documentation autour des ressources
 
-- [Ouvrir](./opensource.org) son code source ([FAQ](./opensource-faq.org))
-- [Serveur](./serveur.org) de 32 GO (Proxmox VE) : déployer des containers et des VM
+- [Ouvrir](./opensource.md) son code source ([FAQ](./opensource-faq.md))
+- [Serveur](./serveur.md) de 32 GO (Proxmox VE) : déployer des containers et des VM
 - Infrastructure : présentation de Proxmox, AWS, Cloudron, Shiny
-- [Les ressources de l'écosystème](./ressources-ecosysteme.org) : data.gouv, api.gouv, etc.
+- [Les ressources de l'écosystème](./ressources-ecosysteme.md) : data.gouv, api.gouv, etc.
 
 # Animation
 
-- [Le programme d'accompagnement](./accompagnement.org)
-- [Les événements EIG off](./eig-off.org)
-- [Animation et communication](./animation.org)
+- [Le programme d'accompagnement](./accompagnement.md)
+- [Les événements EIG off](./eig-off.md)
+- [Animation et communication](./animation.md)
 - [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-- [La boîte à outils](./boite-a-outils.org)
-- [Les informations sur et pour le bootcamp](./bootcamp.org)
-- [Une revue de presse](./revue-de-presse.org)
-- [Une liste d'acronymes utiles](./acronymes.org)
+- [La boîte à outils](./boite-a-outils.md)
+- [Les informations sur et pour le bootcamp](./bootcamp.md)
+- [Une revue de presse](./revue-de-presse.md)
+- [Une liste d'acronymes utiles](./acronymes.md)
 - [L’agenda « ouvert » des EIG](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open)
 
 # Maintenance de ce dépôt
@@ -58,7 +58,7 @@ Merci !
 
 # Aidez-nous !
 
-Nous tenons une [liste d'idées](./aidez-nous.org) pour des contributions citoyennes.
+Nous tenons une [liste d'idées](./aidez-nous.md) pour des contributions citoyennes.
 
 # Licence
 

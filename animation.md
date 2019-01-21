@@ -5,11 +5,11 @@ Animation EIG (à mettre à jour pour 2019)
 
 Une réunion de groupe en présentiel tous les quinze jours au Liberté Living Lab.
 
-Des éléments de programme ont été proposés pendant la semaine de bootcamp, le [programme définitif](./accompagnement.org) est toujours en évolution et il est partagé sur le [calendrier](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
+Des éléments de programme ont été proposés pendant la semaine de bootcamp, le [programme définitif](./accompagnement.md) est toujours en évolution et il est partagé sur le [calendrier](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 # Les échanges hebdomadaires entre EIG
 
-- *Stand up* : le stand a lieu en ligne, sur IRC ou sur slack, le vendredi de 11h30 à 12h30.  Chaque EIG a une minute pour faire le point sur sa semaine passée et à venir.  Le stand up permet de maintenir à jour le document de [suivi](./suivi.org).
+- *Stand up* : le stand a lieu en ligne, sur IRC ou sur slack, le vendredi de 11h30 à 12h30.  Chaque EIG a une minute pour faire le point sur sa semaine passée et à venir.  Le stand up permet de maintenir à jour le document de [suivi](./suivi.md).
 
 # Autres canaux de communication
 
@@ -37,9 +37,9 @@ Le site https://entrepreneur-interet-general.etalab.gouv.fr est maintenu par Mat
 Des contenus qui évolueront au gré des contributions:
 
 - Le [blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) et son [flux RSS](view-source:https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
-- [Le suivi des projets](./suivi.org)
+- [Le suivi des projets](./suivi.md)
 - Une liste de [tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-- Une liste des [stacks](./stack.org) de chaque défi
+- Une liste des [stacks](./stack.md) de chaque défi
 - Une liste des éléments de communication de chaque défi
 
 # Les agendas partagés
@@ -48,7 +48,7 @@ L’agenda partagé contient :
 
 - Les sessions proposées par l’équipe encadrant EIG (bootcamp, etc.)
 - Les sessions d’animation technique proposées par EIG Link.
-- [Les événements EIG off](./eig-off.org)
+- [Les événements EIG off](./eig-off.md)
 - Les rendez-vous individuels par défi.
 - Les événements de l’écosystème administratif (par exemple, les geek-lunch des Ministères de la Transition écologique et solidaire et de la Cohésion des territoires).
 
@@ -58,7 +58,7 @@ En plus de l’agenda EIG, nous tenons à jour un [agenda « ouvert »](https://
 
 # Comptes Twitter, Github, Mastodon
 
-La liste des [comptes des EIG](./contacts.org), toutes promos confondues.
+La liste des [comptes des EIG](./contacts.md), toutes promos confondues.
 
 Le compte des alumni EIG: https://twitter.com/eigforever
 

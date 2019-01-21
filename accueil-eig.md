@@ -107,7 +107,7 @@ Quelques idées :
 
 Pour plus d'informations, vous pouvez consulter [la page de présentation de l'accompagnement sur le site EIG](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html)
 
--   Prendre rapidement connaissance du [calendrier des sessions d'accompagnement.](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.org)
+-   Prendre rapidement connaissance du [calendrier des sessions d'accompagnement.](accompagnement.md)
 -   Comprendre comment ce calendrier se construit au fil de l'eau.
 -   Communiquer à l'équipe EIG d'Etalab vos besoins et idées pour enrichir ce programme d'accompagnement.
 
@@ -139,5 +139,5 @@ Il est rare qu'une administration ou un défi ne présente aucun rapport avec un
 -   Formulaire d'autorisation au télétravail.
 -   Contrat de confidentialité, correspondant au rappel des droits et devoirs des fonctionnaires.
 
-Vous trouverez également toutes les ressources EIG Link compilées dans [le fichier README du dépôt.](https://github.com/entrepreneur-interet-general/eig-link/blob/master/README.org)
+Vous trouverez également toutes les ressources EIG Link compilées dans [le fichier README du dépôt.](README.md)
 
