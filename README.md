@@ -39,9 +39,12 @@ EIG Link - ressources EIG
 
 # Maintenance de ce dépôt
 
-Ce projet est maintenu par Bastien Guerry, EIG Link 2018.
+Ce projet est maintenu par Antoine Augusti et Jean-Baptiste Le Dévéhat, EIG Link 2019.
 
-Pour toute question : =bastien.guerry@data.gouv.fr=
+Pour toute question : 
+
+- =antoine-augusti@data.gouv.fr=
+- =jean-baptiste.le-devehat@data.gouv.fr=
 
 # Contribution sur ce dépôt
 

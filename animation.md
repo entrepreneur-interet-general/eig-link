@@ -15,9 +15,7 @@ Des éléments de programme ont été proposés pendant la semaine de bootcamp, 
 
 ## Canal de discussion sur slack
 
-Le [canal slack](https://eig-hq.slack.com) ouvert par les EIG2017 peut être réutilisé.
-
-Bastien sera sur le slack tous les après-midi.
+Le [canal slack](https://eig-hq.slack.com) ouvert par les EIG2017 et utilisé par les EIG2018 peut être réutilisé.
 
 - =@channel= pour notifier tout le canal ;
 - =@here= pour notifier tous ceux qui sont présents.
