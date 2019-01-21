@@ -1,0 +1,39 @@
+#+title: Autour du programme EIG
+
+La mention d’un organisme sur cette page n’indique aucune affiliation
+formelle avec le programme EIG.
+
+Ces liens sont affichés ici à toutes fins utiles.
+
+* Beta Gouv
+
+- https://beta.gouv.fr
+
+* UT7
+
+- Lundi (1/4): jsldd, pour se mettre au javascript, ou s'entrainer à
+  l'enseigner (http://jsldd.org) 
+
+- Lundi (1/2): cercle des diodes : entrainement à la philosophie
+  (http://diodes.ut7.fr/)
+
+- Un mardi aprèm sur 4 : entrainement pour développeur pro
+  http://gymclub.ut7.fr
+
+- Mercredi, 18h30, c'est gnan club (pour coder entre ados)
+
+- Le jeudi midi : pour faire connaissance avec /ut7 (sur invitation
+  uniquement)
+
+- Le vendredi : le rookie club, pour se mettre au code :
+  https://framalistes.org/sympa/info/rookie-club
+
+* Latitude
+
+- Nuit du Code Citoyen
+
+* Fabrique du numérique
+
+https://mtes-mct.github.io/numerique/ressources/
+
+* Data For Good
