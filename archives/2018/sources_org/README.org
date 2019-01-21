@@ -48,12 +48,8 @@ Pour toute question : =bastien.guerry@data.gouv.fr=
 Ce dépôt est ouvert aux contributions - vous pouvez :
 
 - poser une question sur le contenu en ouvrant une issue ;
-
-- /forker/ le dépôt et envoyer des /pull request/ avec des propositions
-  d'amélioration ;
-
-- si vous êtes EIG, demander à être ajouté comme collaborateur pour
-  pouvoir contribuer directement au dépôt.
+- /forker/ le dépôt et envoyer des /pull request/ avec des propositions d'amélioration ;
+- si vous êtes EIG, demander à être ajouté comme collaborateur pour pouvoir contribuer directement au dépôt.
 
 Merci !
 
@@ -63,14 +59,10 @@ Nous tenons une [[file:aidez-nous.org][liste d'idées]] pour des contributions c
 
 * Licence
 
-© 2018 Direction interministérielle du numérique et du système
-d'information et de communication de l'État
+© 2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
 
 © 2018 Les contributeurs accessibles via l'historique du dépôt.
 
-Les contenus accessibles dans ce dépôt sont placés sous Licence
-Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
-libre de réutiliser les contenus de ce dépôt sous les conditions
-précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous Licence Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 
 [[/images/logo-eig2.png]]
