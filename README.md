@@ -43,8 +43,8 @@ Ce projet est maintenu par Antoine Augusti et Jean-Baptiste Le Dévéhat, EIG Li
 
 Pour toute question : 
 
-- =antoine-augusti@data.gouv.fr=
-- =jean-baptiste.le-devehat@data.gouv.fr=
+- `antoine-augusti@data.gouv.fr`
+- `jean-baptiste.le-devehat@data.gouv.fr`
 
 # Contribution sur ce dépôt
 
