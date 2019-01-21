@@ -1,0 +1,35 @@
+
+
+# Arguments juridiques à mobiliser pour demander l’accès à ces données
+
+-   Référence à la loi Lemaire 2016-1321 du 7/10/2016 pour une
+    République numérique.
+
+-   Article 1er qui prévoit l’obligation de transmission de données
+    entre administrations, si celles-ci ne font pas l’objet d’un secret.
+
+Dans le cas des données financières de la liasse fiscale :
+
+-   Le secret fiscal a été introduit pour protéger l’entreprise de
+    l’utilisation de ses données transmises aux services fiscaux. Les
+    données financières transmises dans la liasse fiscale font par
+    ailleurs l’objet d’une obligation de publication au greffe : ces
+    données ont vocation à être publiées et il est donc difficile de
+    justifier qu’elles sont dans le même temps couvertes par le secret
+    fiscal.
+
+
+# Procédure à mettre en œuvre pour accéder aux données
+
+-   Formaliser une demande auprès de l’administration concernée.
+
+-   Si la demande est rejetée, saisir l’administrateur général des
+    données pour avis (décret n°2014-1050 du 16 septembre 2014) ou la
+    CADA (commission d’accès aux documents administratifs). La saisine
+    de l’[AGD](https://agd.data.gouv.fr/la-fonction/) permettrait aux juristes de la DINSIC d’examiner les
+    arguments opposés pour refuser l’accès aux données financières de la
+    liasse fiscale.
+
+-   Si ces démarches échouent, formuler une demande auprès de la
+    commission du secret statistique.
+
