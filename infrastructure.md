@@ -1,12 +1,10 @@
-Le programme EIG propose des ressources pour que les EIG, quel que
-soit leur environnement de travail, accède aux outils dont ils ont
-besoin.  Ils disposent notamment :
+Le programme EIG propose des ressources pour que les EIG, quel que soit leur environnement de travail, accède aux outils dont ils ont besoin.  Ils disposent notamment :
 
--   d'un serveur pour déployer des containers et des machines virtuelles
--   d'un serveur d'applications web déployables via Cloudron
--   d'un serveur de déploiement d'application à la volée
--   d'un serveur d'applications R Shiny
--   d'un accès à des comptes AWS
+- d'un serveur pour déployer des containers et des machines virtuelles
+- d'un serveur d'applications web déployables via Cloudron
+- d'un serveur de déploiement d'application à la volée
+- d'un serveur d'applications R Shiny
+- d'un accès à des comptes AWS
 
 
 # Serveur Proxmox VE
@@ -16,36 +14,27 @@ Voir la [documentation détaillée](serveur.md).
 
 # Serveur d'applications web via Cloudron
 
-[Cloudron](https://cloudron.io) est un logiciel libre permettant de transformer un serveur
-GNU/Linux en service de déploiement d'applications web à la volée.
+[Cloudron](https://cloudron.io) est un logiciel libre permettant de transformer un serveur GNU/Linux en service de déploiement d'applications web à la volée.
 
-Etalab dispose d'un compte Cloudron sur une machine légère (2GO) et
-propose aux EIG qui en aurait besoin de déployer des applications dans
-[la liste des applications disponibles](https://cloudron.io/store/index.html) via Cloudron.
+Etalab dispose d'un compte Cloudron sur une machine légère (2GO) et propose aux EIG qui en aurait besoin de déployer des applications dans [la liste des applications disponibles](https://cloudron.io/store/index.html) via Cloudron.
 
-Si vous souhaitez déployer une application via Cloudron, envoyez un
-mail aux EIG Link.
+Si vous souhaitez déployer une application via Cloudron, envoyez un mail aux EIG Link.
 
-Le serveur cloudron est sauvegardé tous les jours par un envoi de
-l'archive sur une instance AWS S3.
+Le serveur cloudron est sauvegardé tous les jours par un envoi de l'archive sur une instance AWS S3.
 
 
 # Applications R sur `shiny.eig-forever.org`
 
 `shiny.eig-forever.org` est un serveur d'applications développées en `R`.
 
-Si vous souhaitez déployer une application R, envoyez un mail aux EIG
-Link.
+Si vous souhaitez déployer une application R, envoyez un mail aux EIG Link.
 
 Cette instance de 2GO est sauvegardée par *snapshot* une fois par jour.
 
 
 # Amazon Web Services (AWS)
 
-Amazon Web Service (AWS) propose toute une gamme d'outils pour les
-développeurs.  Le programme EIG dispose de crédits limités.  Si vous
-avez besoin d'un service AWS, envoyez un mail aux EIG Link qui vous
-créeront une instance `IAM`.
+Amazon Web Service (AWS) propose toute une gamme d'outils pour les développeurs.  Le programme EIG dispose de crédits limités.  Si vous avez besoin d'un service AWS, envoyez un mail aux EIG Link qui vous créeront une instance `IAM`.
 
 
 # Synthèse des services
@@ -55,17 +44,11 @@ créeront une instance `IAM`.
 
 <colgroup>
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
 </colgroup>
 <thead>
@@ -144,11 +127,9 @@ créeront une instance `IAM`.
 
 ## Déploiement à la Heroku sur `www.eig-paas.org`
 
-[Dokku](http://dokku.viewdocs.io/dokku/) est un logiciel libre permettant de transformer un serveur en
-service de déploiement d'applications web à la [Heroku](https://www.heroku.com/).
+[Dokku](http://dokku.viewdocs.io/dokku/) est un logiciel libre permettant de transformer un serveur en service de déploiement d'applications web à la [Heroku](https://www.heroku.com/).
 
-Si vous souhaitez déployer une application sur un sous-domaine de ce
-serveur (`mon-application.eig-paas.org`), envoyez un mail aux EIG Link.
+Si vous souhaitez déployer une application sur un sous-domaine de ce serveur (`mon-application.eig-paas.org`), envoyez un mail aux EIG Link.
 
 Cette instance de 1GO est sauvegardée par *snapshot* hebdomadaire.
 

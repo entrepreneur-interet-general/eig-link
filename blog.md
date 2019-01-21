@@ -1,5 +1,3 @@
-
-
 # Programme
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -7,13 +5,9 @@
 
 <colgroup>
 <col  class="org-right" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
 </colgroup>
 <thead>

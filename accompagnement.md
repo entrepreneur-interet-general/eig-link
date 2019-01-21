@@ -1,34 +1,20 @@
-
-
 # L’esprit du programme
 
 -   Apporter de la valeur à la réalisation des défis.
-
--   Assurer des synergies techniques et méthodologiques (entre défis et
-    compétences).
-
--   Souder la promotion des EIG et des mentors, et s'ancrer dans la
-    communauté "numérique et Etat".
-
+-   Assurer des synergies techniques et méthodologiques (entre défis et compétences).
+-   Souder la promotion des EIG et des mentors, et s'ancrer dans la communauté "numérique et Etat".
 
 # Le calendrier des sessions
 
 Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
 <colgroup>
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
 </colgroup>
 <thead>
@@ -245,10 +231,8 @@ Les sessions se tiennent chaque fois de 15h à 18h30 au Liberté Living Lab.
 
 15h30-17h15 : Quatre ateliers au choix
 
--   Atelier "posters" : voir la [proposition de design](https://drive.google.com/drive/folders/1-KMjVesE6zdKenZTTfGCDuanhdNoyQXe) et le [tableau
-    rempli par vos soins](https://docs.google.com/spreadsheets/d/1uDduqrsEv1bXKoNmpS6U75lSSZcLZaCYKwl3FuDYgaw/edit#gid=0)
--   Atelier "manifeste EIG" pour avancer sur [les issues du dépôt](https://github.com/entrepreneur-interet-general/manifeste-eig/issues)
-    `manifeste-eig`
+-   Atelier "posters" : voir la [proposition de design](https://drive.google.com/drive/folders/1-KMjVesE6zdKenZTTfGCDuanhdNoyQXe) et le [tableau rempli par vos soins](https://docs.google.com/spreadsheets/d/1uDduqrsEv1bXKoNmpS6U75lSSZcLZaCYKwl3FuDYgaw/edit#gid=0)
+-   Atelier "manifeste EIG" pour avancer sur [les issues du dépôt](https://github.com/entrepreneur-interet-general/manifeste-eig/issues) `manifeste-eig`
 -   Atelier "retours orga" pour [discuter des issues du dépôt](https://github.com/entrepreneur-interet-general/eig-link/issues) `eig-link`
 -   Autre atelier possiblement proposé par les EIG en introduction
 
@@ -266,10 +250,8 @@ En parallèle : tournage des vidéos de restitution.
 15h30-16h45 : Ateliers au choix
 
 -   Futur des défis, animé par Mathilde
--   Bilan des compétences et valorisation des apprentissages, animé par
-    Soizic
--   Espace libre pour ateliers de production auto-organisés (manifeste,
-    design review, code review, etc.)
+-   Bilan des compétences et valorisation des apprentissages, animé par Soizic
+-   Espace libre pour ateliers de production auto-organisés (manifeste, design review, code review, etc.)
 
 16h45-17h15 : Pause
 
@@ -371,20 +353,10 @@ Marylène de LLL.
 ### Quel déroulé pour la session ?
 
 1.  Intervention : Témoignage de Laure Lucchesi, directrice d’Etalab
-
-2.  Bilan à mi-parcours sur les objectifs et les livrables de chaque
-    défi. Remplir la fiche duo : EIG et mentors séparément.
-
-3.  Bilan à mi-parcours sur les objectifs et les livrables de chaque
-    défi.  Remplir la fiche duo : vision commune mentors et EIG.
-
-4.  Cartographie d’engagement : le défi au 14 juillet, au 30 septembre,
-    à fin novembre.  À co-construire (mentors & EIG) via des post-its
-    sur le schéma d'ensemble.
-
-5.  Breffage sur les principales échéances partagées : 3 minutes par
-    défi.
-
+2.  Bilan à mi-parcours sur les objectifs et les livrables de chaque défi. Remplir la fiche duo : EIG et mentors séparément.
+3.  Bilan à mi-parcours sur les objectifs et les livrables de chaque défi.  Remplir la fiche duo : vision commune mentors et EIG.
+4.  Cartographie d’engagement : le défi au 14 juillet, au 30 septembre, à fin novembre.  À co-construire (mentors & EIG) via des post-its sur le schéma d'ensemble.
+5.  Breffage sur les principales échéances partagées : 3 minutes par défi.
 6.  Clôture : Augustin Courtier et Manon Léger, Latitudes.
 
 
@@ -393,20 +365,16 @@ Marylène de LLL.
 
 ### Quels sont les objectifs de la session ?
 
-Faire un atelier de revue de code pour les EIGs et préparer la session
-de démonstrations du 21 juin.
+Faire un atelier de revue de code pour les EIGs et préparer la session de démonstrations du 21 juin.
 
 
 ### Qui va animer ?
 
-Quentin et Bastien pour la partie revue de code et l'équipe EIG Node
-pour la partie démonstrations.
+Quentin et Bastien pour la partie revue de code et l'équipe EIG Node pour la partie démonstrations.
 
-Pour la revue de code, ce sera "open bar" : venez avec votre code et
-posez-nous vos questions.
+Pour la revue de code, ce sera "open bar" : venez avec votre code et posez-nous vos questions.
 
-Pour la préparation des démos, les défis se mettront par groupe de
-deux pour préparer les démos de façon interactive.
+Pour la préparation des démos, les défis se mettront par groupe de deux pour préparer les démos de façon interactive.
 
 
 ### Quel déroulé pour la session ?
@@ -423,24 +391,14 @@ deux pour préparer les démos de façon interactive.
 
 ### Quels sont les objectifs de la session ?
 
-1.  Renforcer le **contact et la communication** entre les EIG et les DSI
-    de leur administration d'accueil ;
-
-2.  Permettre aux DSI, aux mentors et aux EIG **d'anticiper la mise en
-    production** de leurs projets.
+1.  Renforcer le **contact et la communication** entre les EIG et les DSI de leur administration d'accueil ;
+2.  Permettre aux DSI, aux mentors et aux EIG **d'anticiper la mise en production** de leurs projets.
 
 Le tout se fera en passant l'après-midi à définir :
 
--   le *quoi* : quels sont les sujets communs aux EIG et DSI ?  (Quelles
-    problématiques de devops, hébergement de code source, de données,
-    etc.)
-
--   le *comment* : quelles actions à mener pour la mise en production et
-    selon quel calendrier ?
-
--   le *pourquoi* : où en sera le défi dans deux ans ?  où en sera la DSI
-    dans deux ans ?  Quels sont les points de croisement des feuilles de
-    route ?  En quoi EIG et DSI travaillent à une vision commune ?
+-   le *quoi* : quels sont les sujets communs aux EIG et DSI ?  (Quelles problématiques de devops, hébergement de code source, de données, etc.)
+-   le *comment* : quelles actions à mener pour la mise en production et selon quel calendrier ?
+-   le *pourquoi* : où en sera le défi dans deux ans ?  où en sera la DSI dans deux ans ?  Quels sont les points de croisement des feuilles de route ?  En quoi EIG et DSI travaillent à une vision commune ?
 
 
 ### Qui va animer ?
@@ -450,31 +408,19 @@ L'équipe « EIG Node » d'Étalab.
 
 ### Quel déroulé pour la session ?
 
-1.  **15h-16h** : Accueil et présentation du déroulé de l'après-midi.
-    Échanges autour de présentations des uns et des autres.
-
-2.  **16h-17h** : Lister et classer les actions pour le déploiement, la
-    transmission des connaissances, la fiabilisation de la mise en
-    production.  Garder en tête ces questions :
+1.  **15h-16h** : Accueil et présentation du déroulé de l'après-midi.  Échanges autour de présentations des uns et des autres.
+2.  **16h-17h** : Lister et classer les actions pour le déploiement, la transmission des connaissances, la fiabilisation de la mise en production.  Garder en tête ces questions :
     1.  Qui doit faire quoi quand ?
     2.  Quels sont les contraintes et obstacles actuels ?
     3.  Quel mode de communication entre EIG et DSI pour avancer ?
-
 3.  **17h-17h30** : Pause.
-
-4.  **17h30-18h00** : Construire les frises chronologiques à 6 et 12 mois,
-    dialoguer autour d'une vision commune.
-
-5.  **18h-18h30** : Restitution collective : chaque défi présente le fruit
-    de son travail de l'après-midi en deux minutes : ce que la session
-    a apporté et la prochaine action.
+4.  **17h30-18h00** : Construire les frises chronologiques à 6 et 12 mois, dialoguer autour d'une vision commune.
+5.  **18h-18h30** : Restitution collective : chaque défi présente le fruit de son travail de l'après-midi en deux minutes : ce que la session a apporté et la prochaine action.
 
 
 ## Session du 2 mai : « documentathon » / session libre
 
-Tour d'horizon des différents projets en présentant ce qui a été fait
-et ce qui reste à faire pour la **documentation** - est « documentation »
-tout ce qui n'est pas du code.
+Tour d'horizon des différents projets en présentant ce qui a été fait et ce qui reste à faire pour la **documentation** - est « documentation » tout ce qui n'est pas du code.
 
 
 ## Session du 11 avril : communiquer, apprendre
@@ -482,14 +428,11 @@ tout ce qui n'est pas du code.
 -   **Quels sont les objectifs de la session ?**
     -   Aider les EIG à communiquer sur le programme EIG
     -   Aider les EIG à communiquer sur leur défi
-    -   Aider les EIG à construire et mettre en oeuvre un plan
-        d’apprentissage
-
+    -   Aider les EIG à construire et mettre en oeuvre un plan d’apprentissage
 -   **Qui va animer ? : team EIG Etalab + Quentin + EIGs**
     -   Soizic et Dora : atelier "présentation rapide", naming
     -   Mathilde et Sophie : présentation du site, kit com’, kit press
     -   Bastien et Quentin : plan d’apprentissage : pourquoi, quoi, comment ?
-
 -   **Quel déroulé pour la session ?**
     -   15h - 15h10 : accueil
     -   15h10 - 15h30 : présentation des ateliers et inscriptions
@@ -498,19 +441,13 @@ tout ce qui n'est pas du code.
     -   17h - 18h : deuxième « round » d’ateliers
     -   18h : présentation des acquis par défi
 
-
 ## Session du 5 avril : "clinique data"
 
 -   Quels sont les objectifs de la session ?
-    -   Traiter ensemble de problèmes concrets (techniques ou juridiques /
-        de gouvernance) que les équipes défis rencontrent par rapport à un
-        ou des jeux/types de données particuliers
-    
+    -   Traiter ensemble de problèmes concrets (techniques ou juridiques / de gouvernance) que les équipes défis rencontrent par rapport à un ou des jeux/types de données particuliers
     -   Monter en compétences sur l'open data, la gouvernance des données,
         l'accès aux données, les aspects juridiques
-
 -   Qui va animer ? : team EIG Etalab
-
 -   Quel déroulé pour la session ?
     -   15h – 15h15 : présentation de la session et organisation en groupes de thématiques communes
     -   15h15 – 16h15 : première session de travail en petits groupes
@@ -525,15 +462,12 @@ tout ce qui n'est pas du code.
     -   Se situer dans l’avancement de son défi du point de vue utilisateurs
     -   S’inspirer de réalisations de plusieurs équipes EIG
     -   Intégrer des bonnes pratiques utilisateurs, de la conception du produit à la documentation technique, en passant bien sûr par l’UX/l’UI
-
 -   Qui va animer ?
     -   Mathilde pour la présentation/clôture
     -   Quentin pour l'atelier 1
     -   Des EIG pour l'atelier 2 ?
     -   Bastien pour l'atelier 3
-
 -   Qui va intervenir ?
-
 -   Quel déroulé pour la session ?
     -   15h-15h15 : présentation de la session
     -   15h15-17h15 : Ateliers (2 fois 1 heure)
@@ -565,7 +499,6 @@ tout ce qui n'est pas du code.
     -   15h-16h30 : atelier "bulloterie" pour les mentors
     -   16h45-17h15 : présentation des ressources techniques
     -   17h15-18h : construction de la suite du programme
-
 
 # Questions en amont de l’organisation d’une session
 

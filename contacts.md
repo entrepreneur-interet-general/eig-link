@@ -5,13 +5,9 @@ Défi, Twitter/Mastodon, Github et site/blog.
 
 <colgroup>
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
-
 <col  class="org-left" />
 </colgroup>
 <thead>

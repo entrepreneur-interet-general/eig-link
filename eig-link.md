@@ -1,5 +1,3 @@
-
-
 # Les Différents rôles
 
 -   **Technique:** Gestion des outils EIG et de l'accompagnement technique.
