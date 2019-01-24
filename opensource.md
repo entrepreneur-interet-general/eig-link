@@ -269,35 +269,35 @@ Voir le <https://www.contributor-covenant.org> pour un exemple.
 
 # Les réticences à surmonter pour l'ouverture
 
-- **« Nous allons nous faire pirater notre serveur » :** Publier le code source d'une application web va permettre à d'autres de la tester et de faire remonter les éventuels problèmes de sécurité.
-- **« Nous allons montrer du code sale » :** Oui. Cela vous incitera à le nettoyer.
-- **« Ouvrir le code va nous donner plus de travail » :** Non si l'ouverture correspond au « degré zéro » de l'ouverture, à savoir la simple mise à disposition sous licence libre. Oui si votre stratégie d'ouverture implique un degré supplémentaire, avec une maintenance active.
-- **« Nous allons exposer des problèmes de sécurité » :** Oui, cela permet de mieux les corriger.
-- **« Notre code est inutile sans certains paramètres » :** Dans ce cas, les utilisateurs pourront toujours vérifier que votre code fait bien ce qu'il est supposer faire, avec ou sans la connaissance des paramètres.
-- **« Nous allons exposer des données confidentielles » :** Au moment de publier le code source de votre application, veillez à ne pas y laisser traîner de mots de passe ou de clefs secrètes.
-- **« Nous ne pourrons plus breveter notre logiciel » :** Il n'est pas possible de breveter des logiciels en Europe.
-- **« Nous ne pourrons plus exploiter commercialement notre code » :** Vous ne pourrez pas faire reposer votre modèle de financement sur la vente d'un logiciel fermé mais il existe de nombreux modèles économiques autour du logiciel libre.
+- **« Nous allons nous faire pirater notre serveur »** Publier le code source d'une application web va permettre à d'autres de la tester et de faire remonter les éventuels problèmes de sécurité.
+- **« Nous allons montrer du code sale »** Oui. Cela vous incitera à le nettoyer.
+- **« Ouvrir le code va nous donner plus de travail »** Non si l'ouverture correspond au « degré zéro » de l'ouverture, à savoir la simple mise à disposition sous licence libre. Oui si votre stratégie d'ouverture implique un degré supplémentaire, avec une maintenance active.
+- **« Nous allons exposer des problèmes de sécurité »** Oui, cela permet de mieux les corriger.
+- **« Notre code est inutile sans certains paramètres »** Dans ce cas, les utilisateurs pourront toujours vérifier que votre code fait bien ce qu'il est supposer faire, avec ou sans la connaissance des paramètres.
+- **« Nous allons exposer des données confidentielles »** Au moment de publier le code source de votre application, veillez à ne pas y laisser traîner de mots de passe ou de clefs secrètes.
+- **« Nous ne pourrons plus breveter notre logiciel »** Il n'est pas possible de breveter des logiciels en Europe.
+- **« Nous ne pourrons plus exploiter commercialement notre code »** Vous ne pourrez pas faire reposer votre modèle de financement sur la vente d'un logiciel fermé mais il existe de nombreux modèles économiques autour du logiciel libre.
 
 Les réticences les plus fréquentes portent sur les problèmes de sécurité et les problèmes d'exploitation commerciale.
 
 # Foire aux questions
 
-- **Suis-je obligé de publier mon code source ? :** Si vous êtes une administration et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
-- **Où dois-je publier mon code source ? :** En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur GitHub ou ailleurs) de votre administration ; (2) le compte GitHub du programme [Entrepreneur d'intérêt général](http://github.com/entrepreneur-interet-general) ; (3) n’importe quel autre compte d’organisation ou personnel.
-- **Comment gérer les versions de mon logiciel ? :** Vous pouvez utiliser la [gestion sémantique de version](https://semver.org/lang/fr/) ou tout autre système permettant de bien communiquer vos progrès avec vos utilisateurs.
-- **Qui dois-je indiquer comme auteur du logiciel ? :** Dans le README, vous devez indiquer `© [Votre administration], [Vous]`.
-- **Où publier la licence d’un logiciel ? :** Dans un dépôt, vous indiquez la licence dans le README et vous ajoutez la licence dans un fichier LICENSE à la racine du dépôt.
-- **Où trouver la licence d’un logiciel ? :** En général, dans un fichier LICENSE à la racine du dépôt.
-- **Sous quelle licence dois-je publier la documentation ? :** Vous devez la publier sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
+- **Suis-je obligé de publier mon code source ?** Si vous êtes une administration et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
+- **Où dois-je publier mon code source ?** En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur GitHub ou ailleurs) de votre administration ; (2) le compte GitHub du programme [Entrepreneur d'intérêt général](http://github.com/entrepreneur-interet-general) ; (3) n’importe quel autre compte d’organisation ou personnel.
+- **Comment gérer les versions de mon logiciel ?** Vous pouvez utiliser la [gestion sémantique de version](https://semver.org/lang/fr/) ou tout autre système permettant de bien communiquer vos progrès avec vos utilisateurs.
+- **Qui dois-je indiquer comme auteur du logiciel ?** Dans le README, vous devez indiquer `© [Votre administration], [Vous]`.
+- **Où publier la licence d’un logiciel ?** Dans un dépôt, vous indiquez la licence dans le README et vous ajoutez la licence dans un fichier LICENSE à la racine du dépôt.
+- **Où trouver la licence d’un logiciel ?** En général, dans un fichier LICENSE à la racine du dépôt.
+- **Sous quelle licence dois-je publier la documentation ?** Vous devez la publier sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 - **Sous quelle licence dois-je publier les graphismes de mon logiciel:** Vous devez les publier sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
-- **Puis-je modifier un logiciel sous copyleft, l’améliorer sur ma machine et ne pas publier mes améliorations ? :** Oui.
-- **Puis-je utiliser une licence qui n’est pas dans [les licences autorisées](http://www.data.gouv.fr/fr/licences) par décret ? :** Oui mais vous devez faire une demande d’homologation de la licence envisagée auprès de `homologation.licence@data.gouv.fr`
-- **Puis-je publier des contenus « libres de droits » ? :** Non, « libre de droits » ne signifie rien.  Vos contenus sont soit sous droit d’auteur classique (la situation par défaut), soit sous licence libre.
-- **Que signifie le plus dans GNU GPLv3+ ? :** Il signifie « or later », « ou version ultérieure ».  Quand vous placez un logiciel sous licence GNU GPLv3+, tout réutilisateur peut obéir aux conditions posées par la GNU GPLv3, GNU GPLv4, etc.  Ce n’est que théorique pour l’instant, la dernière version publiée de la GPL est la v3.
-- **Puis-je intégrer des éléments « libres de droits » dans mon logiciel ? :** « Libre de droits » ne signifie rien.  Il y a toujours des droits associés aux contenus, que ces droits soient mentionnés ou non.  Un contenu sous licence libre n’est jamais « libre de droits ».  Donc non, vous ne pouvez pas réutiliser des contenus « libres de droits », vous devez d’abord vous renseigner sur les droits d’auteur associés aux contenus que vous voulez utiliser.
-- **Est-ce qu’un logiciel peut changer de licence en cours de route ? :** Oui.  Mais les versions antérieures publiées sous une licence libre X restent toujours réutilisables sous cette licence X.
-- **Peut-on donner le choix aux utilisateurs de la licence ? :** Oui.  Certains logiciels sont publiés sous deux licences (pratique nommée *dual licensing*).  Cela signifie que l’auteur du logiciel autorise les réutilisations sous l’une ou l’autre des licences. Par exemple, vous publiez votre logiciel en licence GPLv3+.  Cette licence impose des restrictions sur la redistribution de tout logiciel intégrant le vôtre.  Une entreprise pourrait vouloir intégrer votre logiciel dans un produit commercial, mais la GPLv3+ l’en empêche.  Vous publiez donc votre logiciel sous une licence GPLv3+ **et** une licence Apache 2.0, que vous vendez à l’entreprise, qui achète ainsi le droit de redistribuer votre logiciel dans son logiciel propriétaire.
-- **Qu’est-ce que le « copyleft de compromis » ? :** La Free Software Foundation a publié une licence nommée Lesser GNU Public License.  C’est une licence qui permet de redistribuer une bibliothèque logicielle dans un logiciel propriétaire.  Elle lève certaines restrictions imposées par la GPL classique, qui ne permet pas cela.  On appelle parfois cela le « copyleft faible » (vs le copyleft « fort » de la GPL.)
+- **Puis-je modifier un logiciel sous copyleft, l’améliorer sur ma machine et ne pas publier mes améliorations ?** Oui.
+- **Puis-je utiliser une licence qui n’est pas dans [les licences autorisées](http://www.data.gouv.fr/fr/licences) par décret ?** Oui mais vous devez faire une demande d’homologation de la licence envisagée auprès de `homologation.licence@data.gouv.fr`
+- **Puis-je publier des contenus « libres de droits » ?** Non, « libre de droits » ne signifie rien.  Vos contenus sont soit sous droit d’auteur classique (la situation par défaut), soit sous licence libre.
+- **Que signifie le plus dans GNU GPLv3+ ?** Il signifie « or later », « ou version ultérieure ».  Quand vous placez un logiciel sous licence GNU GPLv3+, tout réutilisateur peut obéir aux conditions posées par la GNU GPLv3, GNU GPLv4, etc.  Ce n’est que théorique pour l’instant, la dernière version publiée de la GPL est la v3.
+- **Puis-je intégrer des éléments « libres de droits » dans mon logiciel ?** « Libre de droits » ne signifie rien.  Il y a toujours des droits associés aux contenus, que ces droits soient mentionnés ou non.  Un contenu sous licence libre n’est jamais « libre de droits ».  Donc non, vous ne pouvez pas réutiliser des contenus « libres de droits », vous devez d’abord vous renseigner sur les droits d’auteur associés aux contenus que vous voulez utiliser.
+- **Est-ce qu’un logiciel peut changer de licence en cours de route ?** Oui.  Mais les versions antérieures publiées sous une licence libre X restent toujours réutilisables sous cette licence X.
+- **Peut-on donner le choix aux utilisateurs de la licence ?** Oui.  Certains logiciels sont publiés sous deux licences (pratique nommée *dual licensing*).  Cela signifie que l’auteur du logiciel autorise les réutilisations sous l’une ou l’autre des licences. Par exemple, vous publiez votre logiciel en licence GPLv3+.  Cette licence impose des restrictions sur la redistribution de tout logiciel intégrant le vôtre.  Une entreprise pourrait vouloir intégrer votre logiciel dans un produit commercial, mais la GPLv3+ l’en empêche.  Vous publiez donc votre logiciel sous une licence GPLv3+ **et** une licence Apache 2.0, que vous vendez à l’entreprise, qui achète ainsi le droit de redistribuer votre logiciel dans son logiciel propriétaire.
+- **Qu’est-ce que le « copyleft de compromis » ?** La Free Software Foundation a publié une licence nommée Lesser GNU Public License.  C’est une licence qui permet de redistribuer une bibliothèque logicielle dans un logiciel propriétaire.  Elle lève certaines restrictions imposées par la GPL classique, qui ne permet pas cela.  On appelle parfois cela le « copyleft faible » (vs le copyleft « fort » de la GPL.)
 
 # Quelques ressources utiles
 
