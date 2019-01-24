@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "lint-md": "remark ."
+    "lint-md": "remark --frail ."
   },
   "remarkConfig": {
     "plugins": [
