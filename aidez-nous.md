@@ -8,5 +8,5 @@ Nous listons sur cette page des idées de choses que chacun peut faire pour aide
 -   Vous pouvez tester [la dernière version](https://archifiltre.github.io/v8/) de l'application [Archifiltre](https://archifiltre.github.io/).
 -   Vous pouvez tester l'application [OpenSignauxFaibles](https://github.com/entrepreneur-interet-general/opensignauxfaibles).
 
-Pour trouver tous les sites et outils publiés dans le cadre des projets EIG, rendez-vous sur la page [« ouverture »](ouverture.md).
+Pour trouver toutes les contributions effectuées dans le cadre des projets EIG, rendez-vous sur la page [« contributions »](contributions.md).
 
