@@ -6,6 +6,13 @@ Ce document a pour vocation de guider les EIG dans la publication et la gestion 
 
 Il propose quelques outils pour avancer pragmatiquement : il ne prétend pas couvrir ces problématiques de façon exhaustive et n'a pas vocation à être un référentiel juridique.
 
+# Dans quels cas ne pas publier
+Tous les codes sources, documents ou données ne peuvent être publiés ou communiqués. Par exemple, on ne peut pas communiquer ou publier des éléments qui pourraient porter atteinte à la sûreté de l'Etat, à la sécurité publique, à la sécurité des personnes ou à la sécurité des systèmes d'information des administrations.
+
+La liste des exceptions est listée dans l'[article L311-5 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708).
+
+**Si vous avez le moindre doute, prenez contact avec votre hiérarchie et Etalab, ne communiquez ou ne publiez rien !**
+
 # Choisir une licence libre pour vos codes sources
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).
 ## Les licences autorisées pour l'administration publique
@@ -282,7 +289,8 @@ Les réticences les plus fréquentes portent sur les problèmes de sécurité et
 
 # Foire aux questions
 
-- **Suis-je obligé de publier mon code source ?** Si vous êtes une administration et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
+- **Suis-je obligé de publier mon code source ?** Si vous êtes une administration, que votre code source ne rentre pas dans [la liste des exceptions](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708) et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
+- **Je travaille dans une structure avec des habilitations de défense ou avec des missions sensibles, je ne peux rien publier ?** Non, vous pouvez communiquer ou publier tout ce qui est autorisé par la loi. Ainsi, si vous développez par exemple une bibliothèque générique d'un langage de programmation, il n'y a vraisemblablement pas de problème à la publier en ligne. Toutefois, il est nécessaire d'avoir l'accord de votre hiérarchie. Etalab peut vous conseiller sur la possibilité de publier des documents.
 - **Où dois-je publier mon code source ?** En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur GitHub ou ailleurs) de votre administration ; (2) le compte GitHub du programme [Entrepreneur d'intérêt général](http://github.com/entrepreneur-interet-general) ; (3) n’importe quel autre compte d’organisation ou personnel.
 - **Comment gérer les versions de mon logiciel ?** Vous pouvez utiliser la [gestion sémantique de version](https://semver.org/lang/fr/) ou tout autre système permettant de bien communiquer vos progrès avec vos utilisateurs.
 - **Qui dois-je indiquer comme auteur du logiciel ?** Dans le README, vous devez indiquer `© [Votre administration], [Vous]`.
