@@ -1,7 +1,7 @@
 # Programme d'accompagnement et d'animation - EIG 2019
 
 Le programme EIG s'organise suivants plusieurs axes d'animations et d'évènements : 
-* Le **[programme d'animation](https://)** comprend des sessions avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors. Ce programme permet ainsi :
+* Le **[programme d'animation](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md)** comprend des sessions avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors. Ce programme permet ainsi :
     * d'apporter de la valeur à la réalisation des défis
     * d'assurer des synergies techniques et méthodologiques (entre défis et compétences)
     * de souder la promotion des EIG et des mentors, et s’ancrer dans la communauté “numérique et Etat”
