@@ -8,7 +8,7 @@ Le programme EIG s'organise suivants plusieurs axes d'animations et d'évènemen
 
 * Au commencement du programme un **[bootcamp](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md#bootcamp-eig--mentors-%C3%A0-certain-moment--11-au-15-f%C3%A9vrier-)** est organisé. De plus, 2 séminaires collectifs, aussi nommé **EIG hors-les-murs**, sont prévus.
 
-* Des **sessions individuels** par défis seront également prévue en fonction des besoins par les EIG Link. Ces sessions seront un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défis. 
+* Des **sessions individuels** par défis seront également prévus en fonction des besoins par les EIG Link. Ces sessions seront un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défis. 
  
 * Le **Standup EIG** vient de la methode [Standup BetaGouv](https://github.com/betagouv/beta.gouv.fr/wiki/Standup). C'est un moyen de partager entre EIG ses avancées, ses problèmatiques, son actualité... Chaque défi à 1min pour transmettre ses infos, s'il en juge la nécéssité. 
     * > Le Standup (EIG 2018) avait lieu sur channel *#eig-2018*, le **vendredi de 11h30 à 12h30**. (WiP pour l'année 2019)
