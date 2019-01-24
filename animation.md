@@ -7,9 +7,6 @@ Le programme EIG s'organise suivants plusieurs axes d'animations et d'évènemen
     * de souder la promotion des EIG et des mentors, et s’ancrer dans la communauté “numérique et Etat”
 
 * Au commencement du programme un **[bootcamp](https://github.com/entrepreneur-interet-general/eig-link/blob/master/accompagnement.md#bootcamp-eig--mentors-%C3%A0-certain-moment--11-au-15-f%C3%A9vrier-)** est organisé. De plus, 2 séminaires collectifs, aussi nommé **EIG hors-les-murs**, sont prévus.
-    * Programme du bootcamp
-    * 1er EIG hors-les-murs en Mai (WiP)
-    * 2ème EIG hors-les-murs en Septembre (WiP)
 
 * Des **sessions individuels** par défis seront également prévue en fonction des besoins par les EIG Link. Ces sessions seront un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défis. 
  
