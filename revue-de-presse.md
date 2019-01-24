@@ -1,39 +1,18 @@
+# 2019
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+
 # 2018
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-<colgroup>
-<col  class="org-left" />
-<col  class="org-left" />
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-27 jeu.&gt;</span></span></td>
-<td class="org-left">[Avec son « entrepôt à données », l’Arcep veut passer à l’ère industrielle](https://www.nextinpact.com/news/107079-avec-son-entrepot-a-donnees-larcep-veut-passer-a-lere-industrielle.htm)</td>
-<td class="org-left">Public</td>
-</tr>
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-19 lun.&gt;</span></span></td>
-<td class="org-left">[L'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec)</td>
-<td class="org-left">Payant</td>
-</tr>
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-01-18 jeu.&gt;</span></span></td>
-<td class="org-left">[Quand la techno part à l’assaut de la démocratie. Partie 3 : la Civictech](https://cdonnees.com/2018/01/18/quand-la-techno-part-a-lassaut-de-la-democratie-partie-3-la-civictech/)</td>
-<td class="org-left">Public</td>
-</tr>
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-01-18 jeu.&gt;</span></span></td>
-<td class="org-left">[Trois entrepreneurs d'intérêt général travaillent à la valorisation du système des données de santé](http://www.hospimedia.fr/actualite/nominations/20180118-trois-entrepreneurs-d-interet-general-travaillent-a-la)</td>
-<td class="org-left">Payant</td>
-</tr>
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-01-17 mer.&gt;</span></span></td>
-<td class="org-left">[Installation d’une seconde promotion d’entrepreneurs d’intérêt général](https://www.nextinpact.com/brief/installation-d-une-seconde-promotion-d-entrepreneurs-d-interet-general-2156.htm)</td>
-<td class="org-left">Public</td>
-</tr>
-</tbody>
-</table>
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+|2018-09-27 | Next INpact | [Avec son « entrepôt à données », l’Arcep veut passer à l’ère industrielle](https://www.nextinpact.com/news/107079-avec-son-entrepot-a-donnees-larcep-veut-passer-a-lere-industrielle.htm) | Public | DataReg |
+| 2018-02-19 | Acteurs Publics | [L'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec) | Payant | |
+| 2018-01-18 | C'est Données | [Quand la techno part à l’assaut de la démocratie. Partie 3 : la Civictech](https://cdonnees.com/2018/01/18/quand-la-techno-part-a-lassaut-de-la-democratie-partie-3-la-civictech/) | Public | Défis EIG 1|
+| 2018-01-18 | Hospimedia | [Trois entrepreneurs d'intérêt général travaillent à la valorisation du système des données de santé](http://www.hospimedia.fr/actualite/nominations/20180118-trois-entrepreneurs-d-interet-general-travaillent-a-la) | Payant | Lab Santé |
+| 2018-01-17 | Next INpact | [Installation d’une seconde promotion d’entrepreneurs d’intérêt général](https://www.nextinpact.com/brief/installation-d-une-seconde-promotion-d-entrepreneurs-d-interet-general-2156.htm) | Public | EIG 2 |
+
 # 2017
 
 ## Étalab
