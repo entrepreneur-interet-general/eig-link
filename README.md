@@ -14,14 +14,20 @@ EIG Link - ressources EIG
 - [Serveur](./serveur.md) de 32 GO (Proxmox VE) : déployer des containers et des VM
 - Infrastructure : présentation de Proxmox, AWS, Cloudron, Shiny
 
-# Animation
+# Animations, contributions et communications 
 
-- [Le programme d'accompagnement](./accompagnement.md) (WIP)
-- [Les événements EIG](./eig-off.md) (WIP)
-- [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-- [La boîte à outils](./outils.md)
-- [Une revue de presse](./revue-de-presse.md)
-- [Une liste d'acronymes utiles](./acronymes.md)
+* [Les modes d'animations](./animation.md)
+* [Le programme d'accompagnement](./accompagnement.md)
+* [Les contributions des EIG](./contributions.md)
+* [Les moyens de communications EIG](./communication.md)
+
+# Outils et tutos 
+
+* [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
+* [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
+* [La boîte à outils](./outils.md)
+* [Une revue de presse](./revue-de-presse.md)
+* [Une liste d'acronymes utiles](./acronymes.md)
 
 # Maintenance de ce dépôt
 
