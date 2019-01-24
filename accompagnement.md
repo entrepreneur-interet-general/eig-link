@@ -39,3 +39,5 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 ### Session EIG | 14 mars | 
 ### Session EIG (+ mentors l’après-midi) | 11 avril | 
 ### Session Mentors | 18 avril |
+## Programme d'accompagnement EIG 2018
+> Lien vers le [programme d'accompagnement 2018](./archives/2018/accompagnement_2018.org)
