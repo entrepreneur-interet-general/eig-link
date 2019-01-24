@@ -3,14 +3,14 @@ EIG Link - ressources EIG
 
 # L’essentiel
 
-- EIG sur [Github](http://github.com/entrepreneur-interet-general/) 
+- L'organisation EIG sur [GitHub](http://github.com/entrepreneur-interet-general/) 
 - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
 - [La communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html)
 - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 
 # Documentation autour des ressources
 
-- [Ouvrir](./opensource.md) son code source ([FAQ](./opensource-faq.md))
+- [Ouvrir son code source](./opensource.md)
 - [Serveur](./serveur.md) de 32 GO (Proxmox VE) : déployer des containers et des VM
 - Infrastructure : présentation de Proxmox, AWS, Cloudron, Shiny
 
@@ -32,12 +32,12 @@ Pour toute question :
 - `antoine-augusti@data.gouv.fr`
 - `jean-baptiste.le-devehat@data.gouv.fr`
 
-# Contribution sur ce dépôt
+# Contributions sur ce dépôt
 
 Ce dépôt est ouvert aux contributions - vous pouvez :
 
 - poser une question sur le contenu en ouvrant une issue ;
-- /forker/ le dépôt et envoyer des /pull request/ avec des propositions d'amélioration ;
+- *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration ;
 - si vous êtes EIG, demander à être ajouté comme collaborateur pour pouvoir contribuer directement au dépôt.
 
 Merci !
@@ -52,6 +52,6 @@ Nous tenons une [liste d'idées](./aidez-nous.md) pour des contributions citoyen
 
 © 2018 Les contributeurs accessibles via l'historique du dépôt.
 
-Les contenus accessibles dans ce dépôt sont placés sous Licence Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
+Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0] (LICENSE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 
-[[/images/logo-eig2.png]]
+![Logo](./images/logo-eig2.png)
