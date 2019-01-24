@@ -43,7 +43,7 @@
 
 -   Accompagnement d'Etalab (EIG Node) pour le site EIG
 -   Maintenance des contenus sur le dépôt [eig-link](https://github.com/entrepreneur-interet-general/eig-link/)
--   Création de guides : [open source](opensource), [accueil EIG](accueil-eig.md)
+-   Création de guides : [open source](opensource.md), [accueil EIG](accueil-eig.md)
 
 
 ## Participation à Etalab
