@@ -3,6 +3,7 @@
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
 |2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
+|2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
 |2019-01-17 | Next INpact | [Contre les usurpations de plaques d’immatriculation, l’État mise sur l’intelligence artificielle](https://www.nextinpact.com/news/107516-contre-usurpations-plaques-dimmatriculation-letat-mise-sur-lintelligence-artificielle.htm) | Payant | IA Flash |
 |2019-01-17 | Maddyness | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.maddyness.com/2019/01/17/letat-accueille-sa-3eme-promotion-dentrepreneur%C2%B7es-dinteret-general/) | Public | EIG 3 |
 |2019-01-16 | Acteurs Publics | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.acteurspublics.com/2019/01/16/la-nouvelle-promotion-des-entrepreneurs-d-interet-general-fait-sa-rentree) | Payant | EIG 3 |
