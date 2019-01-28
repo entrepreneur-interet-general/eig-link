@@ -15,11 +15,13 @@ La liste des exceptions est listée dans l'[article L311-5 du Code des relations
 
 # Choisir une licence libre pour vos codes sources
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).
-## Les licences autorisées pour l'administration publique
+## Les licences autorisées pour l'administration publique et les points de contact
 
-Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour le code source écrit et publié par les administrations publiques.
+Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour les données publiques et les codes sources produits et publiés par les administrations publiques.
 
-Si vous publiez un code source, il est recommandé de publier votre dépôt sous la licence MIT. Pour des données, la licence recommandée est la Licence Ouverte version 2.0.
+Si vous avez des questions sur les licences de vos données publiques, contactez [Romain Talès](mailto:romain.tales@modernisation.gouv.fr), référent open data à Etalab.
+
+Si vous avez des questions sur les licences de votre projet logiciel, contactez [Bastien Guerry](mailto:opensource@data.gouv.fr), référent logiciels libres à Etalab.
 
 # Où publier son code ?
 Certaines administrations publiques possèdent déjà des comptes d'organisation sur des plateformes comme GitHub ou Gitlab. Vous pouvez retrouver [cette liste sur un répertoire de la DINSIC](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts). Vous pouvez vous rapprocher de la personne responsable de l'organisation de votre administration pour être ajouté à cette organisation.
