@@ -37,8 +37,10 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 # Design
 
 - Centre de ressources : <https://publicdesignvault.com/>
-- Guide : <https://www.gov.uk/guidance/government-design-principles>
+- Guide anglais : <https://www.gov.uk/guidance/government-design-principles> / <https://design-system.service.gov.uk/>
 - Guide australien : <https://designsystem.gov.au/>
+- Guide américain : <https://designsystem.digital.gov/>
+- Guide italien : <https://designers.italia.it/>
 
 ## Frontend
 
