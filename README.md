@@ -5,7 +5,7 @@ EIG Link - ressources EIG
 
 - L'organisation EIG sur [GitHub](http://github.com/entrepreneur-interet-general/) 
 - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
-- [La communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html)
+- [La communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html) / [La cartographie des EIG 2019](http://u.osmfr.org/m/277159/)
 - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 
 # Documentation autour des ressources
