@@ -66,6 +66,6 @@ Pour le détail sur la compatibilité des licences voir [ce tableau](https://vvl
 
 ## Les licences autorisées pour l’administration publique
 
-Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour les codes sources de l’administration publique.
+Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour le code source écrit et publié par les administrations publiques.
 
 Si vous publiez un code source, il est recommandé de publier votre dépôt sous la licence MIT. Pour des données, la licence recommandée est la Licence Ouverte version 2.0.

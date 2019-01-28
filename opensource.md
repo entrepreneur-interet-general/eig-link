@@ -17,7 +17,7 @@ La liste des exceptions est listée dans l'[article L311-5 du Code des relations
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).
 ## Les licences autorisées pour l'administration publique
 
-Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) lorsque vous publiez un code source en tant qu'administration publique.
+Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour le code source écrit et publié par les administrations publiques.
 
 Si vous publiez un code source, il est recommandé de publier votre dépôt sous la licence MIT. Pour des données, la licence recommandée est la Licence Ouverte version 2.0.
 
