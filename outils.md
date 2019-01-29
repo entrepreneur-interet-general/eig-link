@@ -41,6 +41,9 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 - Guide australien : <https://designsystem.gov.au/>
 - Guide américain : <https://designsystem.digital.gov/>
 - Guide italien : <https://designers.italia.it/>
+- Kit design : <http://www.designkit.org/>
+- Site comment faire de la DITP : <http://comment-faire.modernisation.gouv.fr/>
+- 6eme cahier Innovation et Prospective du Laboration d'innovation de la CNIL : <https://linc.cnil.fr/cahier-ip6-la-forme-des-choix>
 
 ## Frontend
 
