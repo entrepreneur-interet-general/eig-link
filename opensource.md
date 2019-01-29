@@ -17,7 +17,7 @@ La liste des exceptions est listée dans l'[article L311-5 du Code des relations
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).
 ## Les licences autorisées pour l'administration publique et les points de contact
 
-Etalab publie [la liste des licences autorisées](http://www.data.gouv.fr/fr/licences) pour les données publiques et les codes sources produits et publiés par les administrations publiques.
+Etalab publie [la liste des licences autorisées](https://www.data.gouv.fr/fr/licences) pour les données publiques et les codes sources produits et publiés par les administrations publiques.
 
 Si vous avez des questions sur les licences de vos données publiques, contactez [Romain Talès](mailto:romain.tales@modernisation.gouv.fr), référent open data à Etalab.
 
@@ -301,7 +301,7 @@ Les réticences les plus fréquentes portent sur les problèmes de sécurité et
 - **Sous quelle licence dois-je publier la documentation ?** Vous devez la publier sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 - **Sous quelle licence dois-je publier les graphismes de mon logiciel:** Vous devez les publier sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 - **Puis-je modifier un logiciel sous copyleft, l’améliorer sur ma machine et ne pas publier mes améliorations ?** Oui.
-- **Puis-je utiliser une licence qui n’est pas dans [les licences autorisées](http://www.data.gouv.fr/fr/licences) par décret ?** Oui mais vous devez faire une demande d’homologation de la licence envisagée auprès de `homologation.licence@data.gouv.fr`
+- **Puis-je utiliser une licence qui n’est pas dans [les licences autorisées](https://www.data.gouv.fr/fr/licences) par décret ?** Oui mais vous devez faire une demande d’homologation de la licence envisagée auprès de `homologation.licence@data.gouv.fr`
 - **Puis-je publier des contenus « libres de droits » ?** Non, « libre de droits » ne signifie rien.  Vos contenus sont soit sous droit d’auteur classique (la situation par défaut), soit sous licence libre.
 - **Que signifie le plus dans GNU GPLv3+ ?** Il signifie « or later », « ou version ultérieure ».  Quand vous placez un logiciel sous licence GNU GPLv3+, tout réutilisateur peut obéir aux conditions posées par la GNU GPLv3, GNU GPLv4, etc.  Ce n’est que théorique pour l’instant, la dernière version publiée de la GPL est la v3.
 - **Puis-je intégrer des éléments « libres de droits » dans mon logiciel ?** « Libre de droits » ne signifie rien.  Il y a toujours des droits associés aux contenus, que ces droits soient mentionnés ou non.  Un contenu sous licence libre n’est jamais « libre de droits ».  Donc non, vous ne pouvez pas réutiliser des contenus « libres de droits », vous devez d’abord vous renseigner sur les droits d’auteur associés aux contenus que vous voulez utiliser.
