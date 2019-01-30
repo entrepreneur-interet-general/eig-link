@@ -13,22 +13,20 @@ Nous encourageons l'utilisation des threads pour les discussions afin de fluidif
 
 Pour faciliter la découverte des canaux, chaque canal est préfixé d'une catégorie.
 
-- `bruit-` : canaux de discussion sans but productif ;
 - `domaine-` : canaux de discussion liés à des pratiques / compétences ;
-- `projet-` : canaux liés à des défis EIG ;
+- `eig<année>-<nom>` : un canal spécifique à une promotion EIG ;
+- `off-` : canaux de discussion sans but productif ;
+- `projet-<année>-<nom>` : canaux liés à des défis EIG ;
 - `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
 
 ### Canaux spéciaux
 
 En plus des précédents canaux, on peut trouver ces différents canaux :
-- `afterwork` : pour se désaltérer entre collègues ;
-- `eig<annee>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
+- `eig<année>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
+- `help` : besoin d'aide à adresser à la communauté ;
+- `offres-emploi` : partager des offres au sein de la communauté EIG ;
 - `outils-utiles` : pour partager des outils entre nous ;
 - `punchlines` : vous entendez quelque chose de rigolo autour de vous ? C'est ici pour en faire profiter les autres.
-
-### Nommage
-
-Les préfixes et suffixes sont séparés par des `-`. Les noms de base sont joints par des `_`.
 
 ## Mailinglist
 
