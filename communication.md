@@ -24,7 +24,7 @@ En plus des précédents canaux, on peut trouver ces différents canaux :
 - `afterwork` : pour se désaltérer entre collègues ;
 - `eig<annee>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
 - `outils-utiles` : pour partager des outils entre nous ;
-- `punchlines` : vous entendez quelque chose de rigolo autour de vous ? C'est ici pour en faire profiter les autres/
+- `punchlines` : vous entendez quelque chose de rigolo autour de vous ? C'est ici pour en faire profiter les autres.
 
 ### Nommage
 
