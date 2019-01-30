@@ -1,10 +1,34 @@
 # Les moyens de communications
 
-## Slack EIG
+## Slack
 
-Le [Slack EIG](https://eig-hq.slack.com/) ouvert par les EIG2017 et utilisé par les EIG2018 et EIG2019.
-    =@channel= pour notifier tout le canal ;
-    =@here= pour notifier tous ceux qui sont présents. 
+Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
+
+### Threads
+Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
+
+## Conventions de nommage des canaux
+
+### Préfixes
+
+Pour faciliter la découverte des canaux, chaque canal est préfixé d'une catégorie.
+
+- `bruit-` : canaux de discussion sans but productif ;
+- `domaine-` : canaux de discussion liés à des pratiques / compétences ;
+- `projet-` : canaux liés à des défis EIG ;
+- `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
+
+### Canaux spéciaux
+
+En plus des précédents canaux, on peut trouver ces différents canaux :
+- `afterwork` : pour se désaltérer entre collègues ;
+- `eig<annee>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
+- `outils-utiles` : pour partager des outils entre nous ;
+- `punchlines` : vous entendez quelque chose de rigolo autour de vous ? C'est ici pour en faire profiter les autres/
+
+### Nommage
+
+Les préfixes et suffixes sont séparés par des `-`. Les noms de base sont joints par des `_`.
 
 ## Mailinglist
 
