@@ -24,9 +24,7 @@ Pour faciliter la découverte des canaux, chaque canal est préfixé d'une caté
 En plus des précédents canaux, on peut trouver ces différents canaux :
 - `eig<année>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
 - `help` : besoin d'aide à adresser à la communauté ;
-- `offres-emploi` : partager des offres au sein de la communauté EIG ;
-- `outils-utiles` : pour partager des outils entre nous ;
-- `punchlines` : vous entendez quelque chose de rigolo autour de vous ? C'est ici pour en faire profiter les autres.
+- `offres-emploi` : partager des offres au sein de la communauté EIG.
 
 ## Mailinglist
 
