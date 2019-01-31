@@ -16,7 +16,7 @@ Pour faciliter la découverte des canaux, chaque canal est préfixé d'une caté
 - `domaine-` : canaux de discussion liés à des pratiques / compétences ;
 - `eig<année>-<nom>` : un canal spécifique à une promotion EIG ;
 - `off-` : canaux de discussion sans but productif ;
-- `projet-<année>-<nom>` : canaux liés à des défis EIG ;
+- `projet-<nom>` : canaux liés à des défis EIG ;
 - `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
 
 ### Canaux spéciaux
