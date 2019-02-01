@@ -15,22 +15,22 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Programme 2019
 
-| SESSIONS D'ACCOMPAGNEMENT | DATES 2019 | 
-| -------- | -------- |
-| Bootcamp (EIG + mentors à certain moment)| 11 au 15 février| 
-| Mentors | 21 février | 
-| EIG | 14 mars | 
-| EIG (+ mentors l’après-midi) | 11 avril | 
-| Mentors | 18 avril |
-| **Séminaire EIG** | 16 & 17 mai | 
-| Mentors | 23 mai |
-| EIG (+ mentors l’après-midi) | 6 juin |
-| EIG | 4 juillet |
-| Mentors | 11 juillet |
-| **Seminaire EIG** | 5 & 6 septembre |
-| Mentors | 19 septembre |
-| EIG (+ mentors l’après-midi) | 10 octobre |
-| **Restitution** (EIG + mentors) | 7 ou 14 novembre |
+| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU
+| -------- | -------- | ------- | ------- |
+| Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp |
+| Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
+| EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) |
+| EIG seuls | 11 avril | 9h - 18h30 | TBC
+| Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
+| **Séminaire EIG** | 16 & 17 mai | Les 2 jours | TBC
+| Mentors | 23 mai | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
+| EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) |
+| EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) |
+| Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
+| **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC
+| Mentors | 19 septembre | 14h - 18h30 | Atelier C
+| EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | TBC
+| **Restitution** (EIG + mentors) | 7 ou 14 novembre | TBC | TBC
 
 ## Présentation détaillée des sessions
 > Work in progress
