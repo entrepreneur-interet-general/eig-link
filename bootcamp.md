@@ -105,14 +105,14 @@ Déjeuner libre
 
 ### Programme
 
-9h30 - 10h : icebreaker 
-10h - 12h : session de travail
-12h - 12h30 : visite du Liberté Living Lab
-12h30 - 14h30 : déjeuner libre
-14h30 - 14h50 : présentation de Latitudes
-14h50 - 17h : session de travail
-17h - 17h30 : bilan du bootcamp
-17h30 : verre au Happiness Bar
+* 9h30 - 10h : icebreaker 
+* 10h - 12h : session de travail
+* 12h - 12h30 : visite du Liberté Living Lab
+* 12h30 - 14h30 : déjeuner libre
+* 14h30 - 14h50 : présentation de Latitudes
+* 14h50 - 17h : session de travail
+* 17h - 17h30 : bilan du bootcamp
+* 17h30 : verre au Happiness Bar
 
 ## Vendredi 15 Février
 
@@ -120,11 +120,11 @@ Déjeuner libre
 BercyLab (INFOS A VENIR)
 
 **Programme**
-9h - 9h30 : petit-déjeuner d'accueil
-9h30 - 10h15 : présentation "Mener un projet d'intraprenariat dans l'Etat" - Inès Hijazi, Ishan Bhojwani, Benjamin Doberset, de l'incubateur des Startups d'Etat
-10h15 - 10h30 : rapport d'étonnement de Clément Mabi + 
-10h30 - 10h45 : pause
-10h45 - 12h30 : atelier mentors - EIG 
-12h30 - 13h30 : déjeuner libre
-14h20 : rendez-vous à l'Assemblée Nationale
-14h20 - 17h30 : visite de l'Assemblée Nationale et du Bureau ouvert
+* 9h - 9h30 : petit-déjeuner d'accueil
+* 9h30 - 10h15 : présentation "Mener un projet d'intraprenariat dans l'Etat" - Inès Hijazi, Ishan Bhojwani, Benjamin Doberset, de l'incubateur des Startups d'Etat
+* 10h15 - 10h30 : rapport d'étonnement de Clément Mabi + 
+* 10h30 - 10h45 : pause
+* 10h45 - 12h30 : atelier mentors - EIG 
+* 12h30 - 13h30 : déjeuner libre
+* 14h20 : rendez-vous à l'Assemblée Nationale
+* 14h20 - 17h30 : visite de l'Assemblée Nationale et du Bureau ouvert
