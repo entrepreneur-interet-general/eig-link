@@ -7,12 +7,20 @@ Ce document décrit l'ensemble des informations pour le bootcamp des EIG 2019 du
 
 Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presque systématiquement demandée.
 
+## Informations générales
+* **Rendez-vous le 11 février à Bercy à 8h15, à l'Hôtel des Ministres (139 rue de Bercy, 75012).**
+* Les déjeuners seront auto-organisés. Le mardi, nous avons réservé des tables dans un restaurant à côté du Lab 110bis (le lieu où nous nous trouverons). Le reste du temps, vous pouvez apporter votre pique-nique ou aller déjeuner dans des restaurants alentours.
+* Les journées finissent volontairement tôt pour nous permettre de continuer autour d'un jus de fruits ou autre. Le lundi, nous aurons probablement la chance d'être rejoints par les EIG 1 et 2 qui témoigneront l'après-midi. Si vous avez des contraintes personnelles, réservez en priorité votre soirée du 14 février : nous convierons également tous les intervenants du bootcamp. Pour celles et ceux qui fêtent la Saint Valentin : vous vous joindrez à nous au moins pour un petit verre ? 
+
+## Préparation de certains temps forts
+* Lundi après-midi, chaque équipe sera invitée à présenter son défi aux autres en 1 minute.
+* Mardi matin, chacune et chacun sera invité à présenter une anecdote qui parle d'elle/lui et de son métier, un projet/événement qui lui tient à coeur, une compétence particulière ou autre. Vous aurez 2 minutes !
+
 ## Lundi 11 Février
 
 ### Lieux & Logistique 
-**8h30 :** Bercy (salle TBC) :
-* Venir un peu en avance (8h15), car Bercy, c'est grand.
-* Infos à venir [TO-DO]
+**8h30 :** Bercy (Hôtel des Ministres, 139 rue de Bercy 75012) :
+* Venir un peu en avance (8h15), car Bercy, c'est grand. 
 
 **9h30 - 10h** : trajet en autonomie jusqu'à Ségur. ([trajet possible](https://goo.gl/maps/3g178pTint72))
 
@@ -20,6 +28,8 @@ Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presq
 * Après avoir récupéré son badge à l'accueil, prendre l'ascenseur central et tourner à droite puis encore à droite -vous y êtes.
 
 **Attention : déjeuner libre**
+
+_Participants & intervenants de la journée : EIG 3, EIG node, Mounir Mahjoubi (SENUM), Nadi Bou Hanna (DINSIC), alumni EIG, journalistes, Clément Mabi._
 
 ### Programme (8h30 - 17h30 + verre)
 
@@ -29,7 +39,7 @@ Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presq
 - 10h30 - 10h45 : Présentation du bootcamp
 - 10h45 - 12h30 : Atelier "se situer dans son administration d'accueil"
 - 12h30 - 14h30 : Déjeuner libre
-- 14h30 - 14h45 : Mot d'accueil de Nadi Bou Hanna
+- 14h30 - 14h45 : Mot d'accueil de Nadi Bou Hanna, Directeur du numérique et du système d'information et de communication de l'État
 - 14h45 - 15h30 : Je pitche mon défi : chaque équipe a 1 minute pour présenter son défi
 - 16h - 17h15 : Témoignages EIG 1 et 2
 - 17h30 : Fin de la journée
@@ -42,6 +52,8 @@ Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presq
 [Lab 110bis - Ministère de l'éducation nationale - 54 Rue de Bellechasse, 75007 Paris](https://goo.gl/maps/7suZXJT7CC32)
 
 **Déjeuner** : on a réservé des tables dans une cantine à côté du Lab. 
+
+_Participants & intervenants de la journée : EIG 3, EIG node, Clément Mabi, un journaliste le matin._
 
 ### Programme (9h30 - 17h30)
 * 9h30 - 11h : atelier "qui sont les EIG 3?"
@@ -58,13 +70,17 @@ Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presq
 
 ### Lieu & Logistique 
 20 avenue de Ségur, 75007 Paris 
+
 Le matin : Salle 5.112
 * Prendre l'ascenseur central, monter au 5e étage et tourner à gauche.
+
 L'après-midi : Salle 2.115
 * Prendre l'ascenseur central, monter au 2e étage tourner à gauche. 
 Les mentors sont aussi conviés.
 
 **Déjeuner libre**
+
+_Participants & intervenants de la journée : EIG 3, EIG node, mentors EIG 3, Clément Mabi, membres de la DINSIC et d'Etalab, membres du Linc._
 
 ### Programme
 
@@ -103,6 +119,8 @@ Les mentors sont aussi conviés.
 
 Déjeuner libre
 
+_Participants & intervenants de la journée : EIG 3, EIG node, Thomas Cottinet et Ian Cugnière du Liberté Living Lab, Yannick Morel de Latitudes. Le soir : tout le monde !_
+
 ### Programme : journée "prototype journée d'accompagnement"
 
 * 9h30 - 10h : icebreaker 
@@ -125,6 +143,8 @@ Déjeuner libre
 * **Atelier libre (proposé par des EIG)** : bring your own data/issue, clinique design, side project...
 
 ## Vendredi 15 Février (9h - 17h30) 
+
+_Participants & intervenants de la journée : EIG 3, EIG node, mentors EIG 3, Clément Mabi, membres de beta.gouv.fr, peut-être un journaliste le matin, l'équipe de Paula Forteza / du Bureau Ouvert._
 
 ### Lieu & Logistique
 BercyLab, 139 rue de Bercy (75012 Paris).
