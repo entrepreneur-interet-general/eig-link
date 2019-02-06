@@ -5,7 +5,7 @@
 Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
 
 ### Threads
-Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas "cachés" par un flux de messages trop important.
+Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas « cachés » par un flux de messages trop important.
 
 ## Conventions de nommage des canaux
 
@@ -26,27 +26,23 @@ En plus des précédents canaux, on peut trouver ces différents canaux :
 - `help` : besoin d'aide à adresser à la communauté ;
 - `offres-emploi` : partager des offres au sein de la communauté EIG.
 
-## Mailinglist
+## Listes de diffusion
 
-Les mailings lists de la promo EIG et mentors : 
+Les EIG et mentors sont inscrits sur des listes de diffusion :
 
-* Tous les EIG 2019 sont inscrits sur [la liste eig2019](https://framalistes.org/sympa/review/eig2019) à l'adresse suivante : [eig2019@framalistes.org](mailto:eig2019@framalistes.org)
-* Tous les Mentors 2019 sont inscrits sur la liste  : [eig2019-mentors@framalistes.org](mailto:eig2019-mentors@framalistes.org)
+* Les EIG 2019 sont inscrits sur la liste [eig2019@framalistes.org](mailto:eig2019-mentors@framalistes.org)
+* Les mentors 2019 sont inscrits sur la liste [eig2019-mentors@framalistes.org](mailto:eig2019-mentors@framalistes.org)
 
+## Site web
 
->    * Tous les EIG 2018 sont inscrits sur [la liste eig2018](https://framalistes.org/sympa/review/eig2018) : [eig2018@framalistes.org](mailto:eig2018@framalistes.org)
->    * Tous les Mentors 2018 sont inscrits sur la liste  : [eig2018-mentors@framalistes.org](mailto:eig2018-mentors@framalistes.org)
+Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link. Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
 
-## Siteweb
+Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/)
 
-Le site [https://entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par Sophie, Soizic, Guénolé, Antoine et JB. Vous pouvez soumettre des retours ou envoyer des PR via le [dépôt Github](https://github.com/entrepreneur-interet-general/site-eig).
+## Réseaux sociaux 
 
-Le blog EIG est accéssible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/)
+Le compte Twitter EIG : [@eigforever](https://twitter.com/eigforever)
 
-## Réseaux Sociaux 
+## Les présentations des EIG et mentors
 
-Le compte twitter EIG : [https://twitter.com/eigforever](https://twitter.com/eigforever)
-
-## Les présentations PPT/KeyNote des EIG et mentors
-
-Les présentation sur [SpeakerDesk](https://speakerdeck.com/eig2018)
+Les présentations sont archivées sur [SpeakerDeck](https://speakerdeck.com/eig2018).
