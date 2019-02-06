@@ -55,7 +55,7 @@ Si votre administration possède déjà une organisation, publiez en priorité v
 - [ ] Un point de contact avec le mainteneur
 - [ ] Une indication des contributions acceptées
 - [ ] La licence libre utilisée
-- [ ] Pour EIG : une mention finale "Projet développé dans le cadre du programme « Entrepreneur d'intérêt général »" avec un lien vers le [site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/).
+- [ ] Pour EIG : une mention finale "Projet développé dans le cadre du programme « Entrepreneurs d'intérêt général »" avec un lien vers le [site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/).
 
 ## Guider les contributeurs sur GitHub
 
@@ -293,7 +293,7 @@ Les réticences les plus fréquentes portent sur les problèmes de sécurité et
 
 - **Suis-je obligé de publier mon code source ?** Si vous êtes une administration, que votre code source ne rentre pas dans [la liste des exceptions](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708) et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
 - **Je travaille dans une structure avec des habilitations de défense ou avec des missions sensibles, je ne peux rien publier ?** Non, vous pouvez communiquer ou publier tout ce qui est autorisé par la loi. Ainsi, si vous développez par exemple une bibliothèque générique d'un langage de programmation, il n'y a vraisemblablement pas de problème à la publier en ligne. Toutefois, il est nécessaire d'avoir l'accord de votre hiérarchie. Etalab peut vous conseiller sur la possibilité de publier des documents.
-- **Où dois-je publier mon code source ?** En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur GitHub ou ailleurs) de votre administration ; (2) le compte GitHub du programme [Entrepreneur d'intérêt général](http://github.com/entrepreneur-interet-general) ; (3) n’importe quel autre compte d’organisation ou personnel.
+- **Où dois-je publier mon code source ?** En tant qu’EIG, vous avez plusieurs possibilités, à considérer dans l’ordre : (1) le compte d’organisation (sur GitHub ou ailleurs) de votre administration ; (2) le compte GitHub du programme [Entrepreneurs d'intérêt général](http://github.com/entrepreneur-interet-general) ; (3) n’importe quel autre compte d’organisation ou personnel.
 - **Comment gérer les versions de mon logiciel ?** Vous pouvez utiliser la [gestion sémantique de version](https://semver.org/lang/fr/) ou tout autre système permettant de bien communiquer vos progrès avec vos utilisateurs.
 - **Qui dois-je indiquer comme auteur du logiciel ?** Dans le README, vous devez indiquer `© [Votre administration], [Vous]`.
 - **Où publier la licence d’un logiciel ?** Dans un dépôt, vous indiquez la licence dans le README et vous ajoutez la licence dans un fichier LICENSE à la racine du dépôt.
