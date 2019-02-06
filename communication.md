@@ -41,8 +41,29 @@ Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet
 
 ## Réseaux sociaux 
 
-Le compte Twitter EIG : [@eigforever](https://twitter.com/eigforever)
+Le programme possède un compte Twitter EIG : [@eigforever](https://twitter.com/eigforever). Nous vous encourageons à utiliser le hashtag `#EIG2019` lorsque vous parlez sur les réseaux sociaux du programme EIG.
 
 ## Les présentations des EIG et mentors
 
 Les présentations sont archivées sur [SpeakerDeck](https://speakerdeck.com/eig2018).
+
+# Parler du programme EIG
+Lorsque vous parlez du programme, écrivez en majuscules et écrivez le nom du programme en entier avant d'utiliser l'acronyme EIG.
+
+> Le programme Entrepreneurs d'Intérêt Général accueille des data scientists, des développeurs et des designers.
+
+Lorsque vous parlez d'un ou de plusieurs EIG, écrivez tout en minuscules.
+
+> Les entrepreneurs d'intérêt général ont des compétences variées et complémentaires.
+
+# Presse
+Dans le cadre de votre mission, vous serez peut-être sollicités par la presse pour répondre à des questions, intervenir à un événement ou écrire un article.
+
+Quel que soit le média, quel que soit le format et même si l'on vous promet la confidentialité, avant de répondre favorablement à une sollicitation presse, nous vous demandons :
+- D'en informer votre mentor ;
+- D'en informer l'équipe de coordination en écrivant à l'alias entrepreneur-interet-general@data.gouv.fr ;
+- D'attendre l'aval des mentors et de l'équipe de coordination.
+
+Cela vous permettra de vous assurer que vous êtes alignés avec la communication de votre administration d'accueil et celle du programme. Cela permettra aussi à l'équipe de coordination d'avoir une vision globale des actions de communication menées par les différents défis.
+
+L'équipe de coordination dispose d'un alias presse où vous pouvez faire suivre les demandes émanant de la presse : eig-presse@data.gouv.fr.
