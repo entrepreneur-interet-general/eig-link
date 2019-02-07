@@ -29,7 +29,7 @@ Il y a deux grandes familles de licences libres :
 - les licences dites « **copyleft** », qui garantissent que les versions redistribuées du logiciel (modifié ou non) sont publiées avec les mêmes garanties sur les libertés de l’utilisateur ;
 - les licences dites « **permissives** », qui permettent à des versions redistribuées du logiciel (modifié ou non) d’être publiées sous des conditions ne garantissant pas les quatre libertés fondamentales de l’utilisateur.
 
-La licence copyleft la plus connue est la licence [GNU GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%25C3%25A9n%25C3%25A9rale_GNU) (General Public license).
+La licence copyleft la plus connue est la licence [GNU GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) (General Public license).
 
 Les licences permissives connues sont les licences [BSD](https://fr.wikipedia.org/wiki/Licence_BSD), [MIT](https://fr.wikipedia.org/wiki/Licence_MIT), [Apache](https://fr.wikipedia.org/wiki/Licence_Apache).
 

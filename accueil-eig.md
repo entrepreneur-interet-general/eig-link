@@ -123,8 +123,7 @@ Ce dialogue doit se mettre en place en suivant un calendrier stable, indépendam
 Quelques bonnes pratiques :
 
 -   Un point hebdomadaire pour communiquer sur les actions - et éventuelles urgences - de la semaine
--   Un affichage "physique" de la feuille de route à quelques mois (voir [la photo du bureau d'Elsa et Julien au CGET](https://entrepreneur-interet-general.etalab.gouv.fr/img/LLL-1-post-it.jpg))
-
+-   Un affichage "physique" de la feuille de route à quelques mois
 -   Des formations en pair à pair.
 
 

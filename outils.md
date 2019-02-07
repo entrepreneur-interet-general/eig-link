@@ -155,7 +155,7 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 # Guides de contribution à des projets open source
 
 - <https://opensource.guide>
-- <https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org>
+- <https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md>
 - <https://github.com/disic/politique-de-contribution-open-source/>
 
 # Guides d’écriture de code
