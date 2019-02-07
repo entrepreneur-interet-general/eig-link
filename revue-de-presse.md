@@ -2,6 +2,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+|2019-02-01 | Cour des comptes | [Le rapport public annuel 2019](https://www.ccomptes.fr/system/files/2019-01/RPA2019-Tome-3-integral.pdf) | Public | Plume |
 |2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassatio](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
 |2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
 |2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
