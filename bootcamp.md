@@ -2,13 +2,10 @@
 
 Ce document décrit l'ensemble des informations pour le bootcamp des EIG 2019 du 11 février au 15 février 2019.
 
-*--- Programme prévisionnel ---*
-![Programme prévisionnel](https://pad.etalab.studio/uploads/upload_36c55b1f117c292a73d33490f3963ca7.png)
-
 Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presque systématiquement demandée.
 
 ## Informations générales
-* **Rendez-vous le 11 février à Bercy à 8h45, à l'Hôtel des Ministres (139 rue de Bercy, 75012).**
+* **Rendez-vous le 11 février à Bercy à 8h45, à l'Hôtel des Ministres (139 rue de Bercy, 75012).** Nous avons rendez-vous dans la salle à manger n°6. On sera à l'accueil pour vous guider ! Contacter Guénolé si vous avez un problème (son numéro de portable est sur Slack)
 * Les déjeuners seront auto-organisés. Le mardi, nous avons réservé des tables dans un restaurant à côté du Lab 110bis (le lieu où nous nous trouverons). Le reste du temps, vous pouvez apporter votre pique-nique ou aller déjeuner dans des restaurants alentours.
 * Les journées finissent volontairement tôt pour nous permettre de continuer autour d'un jus de fruits ou autre. Le lundi, nous aurons probablement la chance d'être rejoints par les EIG 1 et 2 qui témoigneront l'après-midi. Si vous avez des contraintes personnelles, réservez en priorité votre soirée du 14 février : nous convierons également tous les intervenants du bootcamp. Pour celles et ceux qui fêtent la Saint Valentin : vous vous joindrez à nous au moins pour un petit verre ? 
 
@@ -20,7 +17,7 @@ Pour chaque lieu, merci de prévoir une pièce d'identité -elle vous sera presq
 
 ### Lieux & Logistique 
 **8h45 :** Bercy (Hôtel des Ministres, 139 rue de Bercy 75012) :
-* Venir un peu en avance (8h15), car Bercy, c'est grand. 
+* Venir un peu en avance (8h45), car Bercy, c'est grand. 
 
 **10h - 10h30** : trajet en autonomie jusqu'à Ségur. ([trajet possible](https://goo.gl/maps/3g178pTint72))
 
@@ -56,7 +53,8 @@ _Participants & intervenants de la journée : EIG 3, EIG node, Mounir Mahjoubi (
 _Participants & intervenants de la journée : EIG 3, EIG node, Clément Mabi, un journaliste le matin._
 
 ### Programme (9h30 - 17h30)
-* 9h30 - 11h : atelier "qui sont les EIG 3?"
+* 9h30 - 10h : accueil au 110Bis : présentation du lieu et présentation de la Startup d'Etat [Classe à 12](https://beta.gouv.fr/startups/classes12.html) par ses intrapreneurs.
+* 11h : atelier "qui sont les EIG 3?"
 	* Chaque personne a 2 minutes pour présenter un projet, quelque chose qu'elle a fait qui lui tient à coeur... 
 * 11h30 - 12h30 : présentation de Clément Mabi et questions-réponses
 	* Clément Mabi est maître de conférence en Science de l'information et de la communication à l'Université de Compiègne. Ses recherches portent sur la participation politique en ligne et les usages citoyens du numérique. Récemment, il a travaillé sur différents objets comme l’ouverture des données publiques (Open data), l’usage du numérique dans les dispositifs de concertation, le développement du « Gouvernement Ouvert » (Open Governement) et les civic tech. Il va mener un travail de recherche sur EIG.
