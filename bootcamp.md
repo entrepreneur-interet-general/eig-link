@@ -59,7 +59,7 @@ _Participants & intervenants de la journée : EIG 3, EIG node, Clément Mabi, un
 * 11h30 - 12h30 : présentation de Clément Mabi et questions-réponses
 	* Clément Mabi est maître de conférence en Science de l'information et de la communication à l'Université de Compiègne. Ses recherches portent sur la participation politique en ligne et les usages citoyens du numérique. Récemment, il a travaillé sur différents objets comme l’ouverture des données publiques (Open data), l’usage du numérique dans les dispositifs de concertation, le développement du « Gouvernement Ouvert » (Open Governement) et les civic tech. Il va mener un travail de recherche sur EIG.
 * 12h30 - 14h30 : déjeuner (restaurant réservé)
-* 14h30  : présentation des outils partagés, du programme d'accompagnement
+* 14h30  : [présentation des outils partagés, du programme d'accompagnement](https://docs.google.com/presentation/d/1zQkW-eoEbE2dCpuHIVT_xGbReowcMeBwmOD4avhBqvE/edit?usp=sharing)
 	* Par les EIG Link : Antoine et Jean-Baptiste 
 * 17h30 -- Fin de la journée
 
