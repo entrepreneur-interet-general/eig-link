@@ -121,23 +121,19 @@ _Participants & intervenants de la journée : EIG 3, EIG node, Thomas Cottinet e
 ### Programme : journée "prototype journée d'accompagnement"
 
 * 9h30 - 10h : icebreaker 
-* 10h - 12h : session de travail
+* 10h - 10h30 : préparation des ateliers
+* 10h30 - 12h : session de travail (3 ateliers)
 * 12h - 12h30 : visite du Liberté Living Lab
 * 12h30 - 14h30 : déjeuner libre
 * 14h30 - 14h50 : présentation de l'association [Latitudes](http://www.latitudes.cc/)
-* 14h50 - 17h15 : session de travail
-* 17h30 - 18h00 : bilan du bootcamp
+* 14h50 - 17h00 : session de travail
+* 17h00 - 18h00 : restitution des ateliers + prochaines étapes
 * 18h : verre au Happiness Bar
 
-#### Première session de travail (10h - 12h)
+#### Ateliers proposés
 * **Atelier clinique défis 360** (animation : Mathilde/Soizic) 
-* Atelier "open data / open source" ? (animation : Antoine) (TBC)
-* **Atelier libre (proposé par des EIG)** : bring your own data/issue, clinique design, side project...  
-
-#### Deuxième session de travail (10h - 12h)
-* **Atelier clinique défis 360** (animation Soizic)
 * **Atelier prise en main de GitHub** 
-* **Atelier libre (proposé par des EIG)** : bring your own data/issue, clinique design, side project...
+* **Atelier libre (proposé par des EIG)** : bring your own data/issue, clinique design, side project...  
 
 ## Vendredi 15 Février (9h - 17h30) 
 
