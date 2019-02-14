@@ -315,6 +315,7 @@ Les réticences les plus fréquentes portent sur les problèmes de sécurité et
 ## Du côté de la mission Etalab
 
 - La liste des licences libres pour l'administration : <https://www.data.gouv.fr/fr/licences>
+- Un guide d'ouverture des codes sources publics : <https://github.com/etalab/ouverture-des-codes-sources-publics>
 - La politique de contribution Open Source : <https://www.numerique.gouv.fr/publications/politique-logiciel-libre/>
 
 ## Ressources extérieures
