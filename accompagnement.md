@@ -35,6 +35,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 ## Présentation détaillée des sessions
 > Work in progress
 ### Bootcamp (EIG + mentors à certain moment) | 11 au 15 février | 
+Voir la [page descriptive du bootcamp EIG 2019](./bootcamp.md)
 > Lien vers le [Bootcamp EIG 2018](./archives/2018/bootcamp_2018.org)
 ### Session Mentors | 21 février | 
 ### Session EIG | 14 mars | 
