@@ -6,7 +6,7 @@ Le programme EIG s'organise suivants plusieurs axes d'animations et d'évènemen
     * d'assurer des synergies techniques et méthodologiques (entre défis et compétences)
     * de souder la promotion des EIG et des mentors, et s’ancrer dans la communauté “numérique et Etat”
 
-* Au commencement du programme un **[bootcamp](./accompagnement.md)** est organisé. De plus, 2 séminaires collectifs, aussi nommé **EIG hors-les-murs**, sont prévus.
+* Au commencement du programme un **[bootcamp](./bootcamp.md)** est organisé. De plus, 2 séminaires collectifs, aussi nommé **EIG hors-les-murs**, sont prévus.
 
 * Des **sessions individuels** par défis seront également prévus en fonction des besoins par les [EIG Link](./eig-link.md). Ces sessions seront un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défis. 
  
@@ -22,5 +22,7 @@ Le programme EIG s'organise suivants plusieurs axes d'animations et d'évènemen
     * > Pensez à en parler à l’équipe d’encadrement du programme entrepreneur-interet-general@data.gouv.fr pour qu’elle ait une vision globale de la communication du programme.
  
 * Les **Etalab Talks** et **Tech Talks** sont des ateliers (techniques) internes à Etalab donnés par des membres d'Etalab et à destination de toute la DINSIC. 
-    * Page des (futurs) [Tech Talks](https://github.com/etalab/etalab/blob/master/tech-talks.md) 
+    * Liste des [Tech Talks](https://github.com/etalab/etalab/blob/master/tech-talks.md) 
     * Etalab Talks (WiP)
+
+ *Pour plus d'informations voir le [document de présentation du programme EIG](https://speakerdeck.com/eig2018/programme-daccompagnement-eig-2019)*
