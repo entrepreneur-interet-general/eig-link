@@ -1,4 +1,4 @@
-# Bootcamp -- EIG 2019
+# Bootcamp - EIG 2019
 
 Ce document décrit l'ensemble des informations pour le bootcamp des EIG 2019 du 11 février au 15 février 2019.
 
@@ -83,26 +83,32 @@ _Participants & intervenants de la journée : EIG 3, EIG node, mentors EIG 3, Cl
 
 #### 9h30 - 12h30 : présentation des ressources de la DINSIC et d'Etalab
 
-| Horaire | Activité | Référent | Ressource | Présentation |
-| -------- | -------- | -------- | ------- | ------- |
-| 9h30     | Data science / AGD / Lab IA     | Paul-Antoine Chevallier     |  | |
-|9h50| Open gov | Amélie Banzet |  | |
-|10h10| Data.gouv.fr | Alexandre Bulté |  | |
-|10h30|Open data| Romain Talès |  | |
-|10h50|Algorithmes publics | Simon Chignard |  | |
-|11h10| PAUSE ||||
-|11h30|Qualité des services en ligne|Bénédicte Roullier|||
-|11h50|Open Fisca|Amandine Audras et Antonin Garrone|||
-|12h10|France Connect|Florian Delezenne|||
+| Horaire | Activité | Référent | Ressource |
+| -------- | -------- | -------- | ------- | 
+| 9h30     | Data science / AGD / Lab IA     | Paul-Antoine Chevallier |  | 
+|9h50| Open gov | Amélie Banzet | (+ d'infos ci-dessous) | 
+|10h10| Data.gouv.fr | Alexandre Bulté | [Présentation](https://speakerdeck.com/eig2018/presentation-data-dot-gouv-dot-fr) | 
+|10h30|Open data| Romain Talès | [Présentation](https://speakerdeck.com/eig2018/presentation-open-data) | 
+|10h50|Algorithmes publics | Simon Chignard |  | 
+|11h10| >>>> PAUSE <<<< |||
+|11h30|Qualité des services en ligne|Bénédicte Roullier| [Présentation](https://speakerdeck.com/eig2018/presentation-qualite-des-services-en-ligne)|
+|11h50|Open Fisca|Amandine Audras et Antonin Garrone| [Présentation](https://speakerdeck.com/eig2018/presentation-openfisca) |
+|12h10|France Connect|Florian Delezenne| [SiteWeb](https://franceconnect.gouv.fr/) |
 
+##### Contenus OpenGov
+- La Plateforme des outils de consultation pour les administrations : https://consultation.etalab.gouv.fr/
+- Les Forums Open d’Etat : https://www.etalab.gouv.fr/forum-open-d-etat
+- Le Plan d’action de la France pour une action publique transparente et collaborative : https://www.etalab.gouv.fr/plan-daction-national
+- Le Partenariat pour un gouvernement ouvert : https://www.opengovpartnership.org/
+ 
 #### 12h30 - 14h : déjeuner libre
 #### 14h - 15h : suite de la présentation des ressources de la DINSIC et d'Etalab
 
-| Horaire | Activité | Référent | Ressource | Présentation |
-| -------- | -------- | -------- | ------- | ------- |
-|14h|Cadre légal|Perica Sucevic|||
-|14h20|API|Anna-Livia Gomart et Alexandre de Pablo|||
-|14h40|Open source|Bastien Guerry|||
+| Horaire | Activité | Référent | Ressource | 
+| -------- | -------- | -------- | ------- | 
+|14h|Cadre légal|Perica Sucevic||
+|14h20|API|Anna-Livia Gomart et Alexandre de Pablo| [Lien GitHub](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#outils-dexposition-api-de-donn%C3%A9es-publiques) |
+|14h40|Open source|Bastien Guerry| [Présentation](https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general) |
 
 #### 15h30 - 17h : rencontre avec le [Linc, Laboratoire d'innovation numérique de la CNIL](https://linc.cnil.fr/).
 
