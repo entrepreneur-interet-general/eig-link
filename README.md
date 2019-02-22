@@ -9,6 +9,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 ## L’essentiel
 
 - [Programme d'accompagnement et d'animation 2019](./animation.md)
+- [Travailler au Liberté Living Lab](./liberte-living-lab.md)
 - [Les contributions des EIG](./contributions.md)
 - [Les moyens de communications EIG](./communication.md)
   - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
