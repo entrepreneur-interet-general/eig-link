@@ -56,6 +56,9 @@
 - [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0)
 - [Tremplin UTC, « Devenez Entrepreneur d’Intérêt Général ! »](http://www.tremplin-utc.asso.fr/index.php/article/devenez-entrepreneur-e-d-interet-general/09/10/2017/913)
 - [ID formation, « Le gouvernement lance un programme inédit : Entrepreneur d’intérêt général »](http://www.id-formation.com/2016-gouvernement-lance-programme-inedit-entrepreneur-interet-general.html)
+- [Henri Verdier: “L’Etat N’Est Pas Bien Armé Pour Recruter Des Développeurs Au Profil Atypique”](https://www.forbes.fr/management/henri-verdier-letat-nest-pas-bien-arme-pour-recruter-des-developpeurs-au-profil-atypique/)
+- [Les “entrepreneurs d’intérêt général”, trousse de secours des administrations](https://www.acteurspublics.com/2017/03/07/les-entrepreneurs-d-interet-general-trousse-de-secours-des-administrations)
+
 
 ## Événements
 
