@@ -1,6 +1,6 @@
 # EIG Link - Ressources EIG
 
-Le [dépôt GitHub EIG Link](http://github.com/entrepreneur-interet-general/) permet d'agréger les ressources du programme [Entrepreneur d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
+Le [dépôt GitHub EIG Link](http://github.com/entrepreneur-interet-general/) permet d'agréger les ressources du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
 
 La mission principale EIG Link est d'accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat ([en savoir plus..](https://github.com/entrepreneur-interet-general/eig-link/blob/master/eig-link.md)). 
 
