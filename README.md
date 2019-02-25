@@ -2,16 +2,16 @@
 
 Le [dépôt GitHub EIG Link](http://github.com/entrepreneur-interet-general/) permet d'agréger les ressources du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
 
-La mission principale EIG Link est d'accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat ([en savoir plus..](https://github.com/entrepreneur-interet-general/eig-link/blob/master/eig-link.md)). 
+La mission principale EIG Link est d'accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat ([en savoir plus.](https://github.com/entrepreneur-interet-general/eig-link/blob/master/eig-link.md)).
 
-Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https://github.com/etalab/) au sein de la DINSIC. 
+Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https://github.com/etalab) au sein de la DINSIC.
 
 ## L’essentiel
 
 - [Programme d'accompagnement et d'animation 2019](./animation.md)
 - [Travailler au Liberté Living Lab](./liberte-living-lab.md)
 - [Les contributions des EIG](./contributions.md)
-- [Les moyens de communications EIG](./communication.md)
+- [Les moyens de communication EIG](./communication.md)
   - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
   - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 - [La cartographie (géo) des EIG 2019](http://u.osmfr.org/m/277159/)
@@ -19,10 +19,10 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 # Documentation autour des ressources
 
 - [Ouvrir son code source](./opensource.md)
-- [Serveur](./serveur.md) de 32 GO (Proxmox VE) : déployer des containers et des VM
-- Infrastructure : présentation de Proxmox, AWS, Cloudron, Shiny
+- [Serveur](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
+- [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
 
-# Outils et tutos 
+# Outils et tutoriels
 
 * [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
 * [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
