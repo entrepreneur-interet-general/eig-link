@@ -1,4 +1,15 @@
-# Arguments juridiques à mobiliser pour demander l’accès à ces données
+# Publier et réutiliser des données
+L'obligation de publication des documents administratifs par les organismes en charge d'une mission de service public est précisée dans le [livre III du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190225).
+
+[Un document élaboré par la CNIL et la Cada](https://www.cnil.fr/sites/default/files/atoms/files/guide_open_data.pdf) (Commission d'accès aux documents administratifs) traite des points suivants :
+- Les obligations de publication en ligne (mise en ligne sur demande, mise en ligne par défaut)
+- Le contenu des documents publiés (traitement des données personnelles, occultation des mentions protégées)
+- Les modalisations de diffusion en ligne (obligations RGPD, formats de diffusion, licences de réutilisation)
+- Réutilisation de données publiées
+
+Le [site web de la Cada](https://www.cada.fr) regroupe plusieurs pages donnant des conseils sur l'interprétation de la loi, des fiches pratiques et des détails sur la procédure à suivre pour obtenir un avis sur la communicabilité d'un document. De plus, le site [cada.data.gouv.fr](https://cada.data.gouv.fr) regroupe l'ensemble des avis rendus par la Cada et permet de trouver des cas similaires.
+
+# Arguments juridiques à mobiliser pour demander l’accès à des données
 
 -   Référence à la loi Lemaire 2016-1321 du 7/10/2016 pour une République numérique.
 -   Article 1er qui prévoit l’obligation de transmission de données entre administrations, si celles-ci ne font pas l’objet d’un secret.
@@ -7,10 +18,7 @@ Dans le cas des données financières de la liasse fiscale :
 
 -   Le secret fiscal a été introduit pour protéger l’entreprise de l’utilisation de ses données transmises aux services fiscaux. Les données financières transmises dans la liasse fiscale font par ailleurs l’objet d’une obligation de publication au greffe : ces données ont vocation à être publiées et il est donc difficile de justifier qu’elles sont dans le même temps couvertes par le secret fiscal.
 
-
 # Procédure à mettre en œuvre pour accéder aux données
 
--   Formaliser une demande auprès de l’administration concernée.
--   Si la demande est rejetée, saisir l’administrateur général des données pour avis (décret n°2014-1050 du 16 septembre 2014) ou la CADA (commission d’accès aux documents administratifs). La saisine de l’[AGD](https://agd.data.gouv.fr/la-fonction/) permettrait aux juristes de la DINSIC d’examiner les arguments opposés pour refuser l’accès aux données financières de la liasse fiscale.
--   Si ces démarches échouent, formuler une demande auprès de la commission du secret statistique.
+[Une page sur le site web](https://www.cada.fr/particulier/quand-et-comment-saisir-la-cada) de la Cada explique la procédure à suivre pour demander la publication d'un document administratif et préparer une éventuelle saisine de la Cada.
 
