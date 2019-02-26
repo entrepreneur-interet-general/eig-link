@@ -22,18 +22,18 @@
 
 # 2017
 
-## Étalab
+## Etalab
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-| 2017-07-19 | Blog Etalab | [Entrepreneurs d’intérêt général / Promo 2 : découvrez les 10 défis retenus par le jury !](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury) | Public | EIG 2 |
-| 2017-03-01 | Blog Etalab | [Plaquette de présentation des EIG](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/Plaquette-de-presentation-EIG.pdf) | Public | EIG 2 |
 | 2016-11-03 | Blog Etalab | [Rejoignez la 1e promotion d’Entrepreneurs d’Intérêt Général !](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general) | Public | EIG 1 |
-| 2017-06-21 | Blog Etalab  | [Entrepreneurs d’intérêt général / Promo 2 : 43 défis proposés par les administrations, un jury d’experts pour les sélectionner](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) | Public | EIG 2 |
-| 2016-12-14 | Blog Etalab | [Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) | Public | EIG 1 |
 | 2016-12-01 | Blog Etalab | [Le Compte Github de la première promotion](https://github.com/entrepreneur-interet-general) | Public | EIG 1 |
-| 2017-05-04 | Blog Etalab | [Appel à projet : Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/appel-a-projets-administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) | Public | EIG 2 |
+| 2016-12-14 | Blog Etalab | [Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) | Public | EIG 1 |
+| 2017-03-01 | Blog Etalab | [Plaquette de présentation des EIG](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/Plaquette-de-presentation-EIG.pdf) | Public | EIG 2 |
+| 2017-05-04 | Blog Etalab | [Appel à projet : Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/appel-a-projets-administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) | Public | EIG 2 |
+| 2017-06-21 | Blog Etalab  | [Entrepreneurs d’intérêt général / Promo 2 : 43 défis proposés par les administrations, un jury d’experts pour les sélectionner](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) | Public | EIG 2 |
 | 2017-07-19 | Blog Etalab | [Découvrez les 10 défis retenus par le Jury pour la Deuxième Promotion](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury) | Public | EIG 2 |
+| 2017-07-19 | Blog Etalab | [Entrepreneurs d’intérêt général / Promo 2 : découvrez les 10 défis retenus par le jury !](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury) | Public | EIG 2 |
 
 
 ## SGMAP
@@ -42,35 +42,35 @@
 | --- | --- | --- | --- | --- |
 | 2016-10-28 | Modernisation.gouv | [Le programme Entrepreneur d’Intérêt Général lancé prochainement](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/le-programme-entrepreneur-dinteret-general-lance-prochainement) | Public | EIG 1 |
 | 2016-11-03 | Modernisation.gouv | [Les Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general) | Public | EIG 1 |
-| 2017-03-06 | Modernisation.gouv | [Le Président de la République Rencontre la 1e Promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/president-de-la-republique-rencontre-la-1re-promotion-entrepreneurs-interet-general) | Public | EIG 1 |
 | 2017-02-20 | Modernisation.gouv | [Découvrez la première promotion des Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general) | Public | EIG 1 |
+| 2017-03-06 | Modernisation.gouv | [Le Président de la République Rencontre la 1e Promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/president-de-la-republique-rencontre-la-1re-promotion-entrepreneurs-interet-general) | Public | EIG 1 |
 | 2017-05-05 | Modernisation.gouv | [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) | Public | EIG 1 |
-| 2017-05-16 | Modernisation.gouv | [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations) | Public | EIG 1 |
+| 2017-05-16 | Modernisation.gouv | [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations) | Public | EIG 1 |
 | 2017-10-18 | Modernisation.gouv | [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis) | Public | EIG 1 |
 
 ## Presse
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-| 2017-07-17 | Youtube Futures en Seine | [Vidéos : Entrepreneurs d’intérêt général, kezako ?](https://www.youtube.com/watch?v=-fF5871_8vU) | Public | EIG 1 |
+| 2016-10-09 | Tremplin UTC | [Tremplin UTC, « Devenez Entrepreneur d’Intérêt Général ! »](http://www.tremplin-utc.asso.fr/index.php/article/devenez-entrepreneur-e-d-interet-general/09/10/2017/913) | Public | EIG 1 |
+| 2016-10-29 | Silicon | [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0) | Public | EIG 1 |
+| 2016-11-07 | Next Impact | [NextINpact : l’Etat recherche dix entrepreneurs d’intérêt général](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm) | Public | EIG 1 |
+| 2016-11-13 | April | [April, L’Etat recherche dix « entrepreneurs d’intérêt général »](https://www.april.org/next-inpact-l-etat-recherche-dix-entrepreneurs-d-interet-general) | Public | EIG 1 |
 | 2017-01-01 | Dailymotion Etalab | [Interviews des EIG Promo 1](http://www.dailymotion.com/playlist/x4tlyz_SGMAP_entrepreneur-d-interet-general-eig) | Public | EIG 1 |
-| 2017-05-01 | Caisse des dépôts | [Caisse des Dépôts, « Des Civic Tech à l’Entreprenariat d’intérêt général », Mohammed ADNENE TROJETTE](http://www.caissedesdepots.fr/des-civictech-lentrepreneuriat-dinteret-general) | Public | EIG |
-| 2017-07-11 | Acteurs Publics | [Acteurs Publics, « La Performance se mesure de manière très nouvelle avec les entrepreneurs d’intérêt général », Mathilde BRAS](https://www.acteurspublics.com/webtv/2017/07/11/mathilde-bras-la-performance-se-mesure-de-maniere-tres-nouvelle-avec-les-entrepreneurs-dinteret-general) | Public | EIG 1 |
-| 2016-11-13 | April | [April, L’Etat recherche dix « entrepreneurs d’intérêt général »](https://www.april.org/next-inpact-l-etat-recherche-dix-entrepreneurs-d-interet-general) | Public | EIG 1 |
-| 2017-09-29 | Le Monde Informatique | [Le Monde Informatique, « L’Etat recrute 27 informaticiens payés 4 000 euros nets ».](http://www.lemondeinformatique.fr/actualites/lire-l-etat-recrute-27-informaticiens-payes-4-000-euros-net-69531.html) | Public | EIG 1 |
-| 2016-11-07 | Next Impact | [NextINpact : l’Etat recherche dix entrepreneurs d’intérêt général](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm) | Public | EIG 1 |
-| 2016-10-29 | Silicon | [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0) | Public | EIG 1 |
-| 2016-10-09 | Tremplin UTC | [Tremplin UTC, « Devenez Entrepreneur d’Intérêt Général ! »](http://www.tremplin-utc.asso.fr/index.php/article/devenez-entrepreneur-e-d-interet-general/09/10/2017/913) | Public | EIG 1 |
-| 2017-11-18 | ID Formation | [ID formation, « Le gouvernement lance un programme inédit : Entrepreneur d’intérêt général »](http://www.id-formation.com/2016-gouvernement-lance-programme-inedit-entrepreneur-interet-general.html) | Public | EIG 1 |
+| 2017-05-01 | Caisse des dépôts | [Caisse des Dépôts, « Des Civic Tech à l’Entreprenariat d’intérêt général », Mohammed ADNENE TROJETTE](http://www.caissedesdepots.fr/des-civictech-lentrepreneuriat-dinteret-general) | Public | EIG |
+| 2017-07-11 | Acteurs Publics | [Acteurs Publics, « La Performance se mesure de manière très nouvelle avec les entrepreneurs d’intérêt général », Mathilde BRAS](https://www.acteurspublics.com/webtv/2017/07/11/mathilde-bras-la-performance-se-mesure-de-maniere-tres-nouvelle-avec-les-entrepreneurs-dinteret-general) | Public | EIG 1 |
+| 2017-07-17 | Youtube Futures en Seine | [Vidéos : Entrepreneurs d’intérêt général, kezako ?](https://www.youtube.com/watch?v=-fF5871_8vU) | Public | EIG 1 |
+| 2017-09-29 | Le Monde Informatique | [Le Monde Informatique, « L’Etat recrute 27 informaticiens payés 4 000 euros nets ».](http://www.lemondeinformatique.fr/actualites/lire-l-etat-recrute-27-informaticiens-payes-4-000-euros-net-69531.html) | Public | EIG 1 |
+| 2017-11-18 | ID Formation | [ID formation, « Le gouvernement lance un programme inédit : Entrepreneur d’intérêt général »](http://www.id-formation.com/2016-gouvernement-lance-programme-inedit-entrepreneur-interet-general.html) | Public | EIG 1 |
 
 ## Relais administratifs
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2017-03-10 | Economie.gouv.fr | [Ministère de l’Economie, « 11 entrepreneurs d’engagent pour des défis d’intérêt général »](https://www.economie.gouv.fr/entreprises/entrepreneurs-interet-general) | Public | EIG 1 |
 | 2017-03-17 | Gouvernement.fr | [Gouvernement, Visite du Liberté Living Lab avec les Entrepreneurs d’Intérêt Général](http://www.gouvernement.fr/visite-du-liberte-living-lab-et-rencontre-avec-les-entrepreneurs-d-interet-general) | Public | EIG 1 |
-| 2017-03-10 | Economie.gouv.fr | [Ministère de l’Economie, « 11 entrepreneurs d’engagent pour des défis d’intérêt général »](https://www.economie.gouv.fr/entreprises/entrepreneurs-interet-general) | Public | EIG 1 |
-| 2017-05-04 | Caisse des dépôts | [Caisse des Dépôts, Appel à projet ; Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général](https://cdcinvestissementsdavenir.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2017_F5cizb3iEh) | Public | EIG 2 |
-| | SHOM.fr| [SHOM, Devenez Entrepreneur(e) d’intérêt général en 2018](http://www.shom.fr/le-shom/actualites/les-communiques/actualite-detaillee/article/devenez-entrepreneure-dinteret-general-en-2018/) | Public | EIG 2 |
-| 2018-08-21 | Education.gouv.fr | [Ecole du Numérique, « Appel à Candidature Entrepreneurs d’Intérêt Général 2018 : relever le défi de l’intelligence artificielle pour l’éducation »](http://ecolenumerique.education.gouv.fr/2017/10/11/appel-candidatures-entrepreneurs-dinteret-general-2018-relever-le-defi-de-lintelligence-artificielle-pour-leducation/) | Public | EIG 2 |
+| 2017-05-04 | Caisse des dépôts | [Caisse des Dépôts, Appel à projet ; Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général](https://cdcinvestissementsdavenir.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2017_F5cizb3iEh) | Public | EIG 2 |
+| 2017-10-04 | Préfécture Bourgogne-Franche-Comté | [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur.e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2) | Public | EIG 2 |
 | 2017-10-06 | Préfécture de Saône et Loire | [Préfecture de Saône et Loire, Devenez Entrepreneur.e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html) | Public | EIG 2 |
-| 2017-10-04 | Préfécture Bourgogne-Franche-Comté | [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur.e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2) | Public | EIG 2 |
+| 2018-08-21 | Education.gouv.fr | [Ecole du Numérique, « Appel à Candidature Entrepreneurs d’Intérêt Général 2018 : relever le défi de l’intelligence artificielle pour l’éducation »](http://ecolenumerique.education.gouv.fr/2017/10/11/appel-candidatures-entrepreneurs-dinteret-general-2018-relever-le-defi-de-lintelligence-artificielle-pour-leducation/) | Public | EIG 2 |
+| | SHOM| [SHOM, Devenez Entrepreneur(e) d’intérêt général en 2018](http://www.shom.fr/le-shom/actualites/les-communiques/actualite-detaillee/article/devenez-entrepreneure-dinteret-general-en-2018/) | Public | EIG 2 |
