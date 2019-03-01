@@ -52,6 +52,8 @@ Découvrir les bases du design et de la gestion de projet agile et mieux compren
 17h30 - 18h: Discussion "EIG Next"
 18h: fin de la session
 
+[Accéder aux diapositives de présentation.](https://speakerdeck.com/eig2018/2019)
+
 ### Session EIG | 14 mars | 
 ### Session EIG (+ mentors l’après-midi) | 11 avril | 
 ### Session Mentors | 18 avril |
