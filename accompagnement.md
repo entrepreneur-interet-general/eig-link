@@ -15,11 +15,11 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Programme 2019
 
-| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU
-| -------- | -------- | ------- | ------- |
-| Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp |
-| Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
-| EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) |
+| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
+| -------- | -------- | ------- | ------- | ------ | ----- |
+| Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp | | |
+| Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Mini-bootcamp mentors | Rex mentors, présentation design / agile |
+| EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | 
 | EIG seuls | 11 avril | 9h - 18h30 | TBC
 | Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
 | **Séminaire EIG** | 16 & 17 mai | Les 2 jours | TBC
@@ -38,6 +38,20 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 Voir la [page descriptive du bootcamp EIG 2019](./bootcamp.md)
 > Lien vers le [Bootcamp EIG 2018](./archives/2018/bootcamp_2018.org)
 ### Session Mentors | 21 février | 
+
+**Quels sont les objectifs de la session ?**
+Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG 
+Découvrir les bases du design et de la gestion de projet agile et mieux comprendre comment les mentors peuvent se positionner au sein des défis EIG 
+
+**Programme**
+14h30 - 14h45: icebreaker (parler d'une expérience ou d'un projet qui nous tient à coeur)
+14h45 - 15h: présentation du programme + retour sur le bootcamp
+15h - 16h: discussion ouverte : partage d'expérience/étonnements/besoins/attentes... 
+16h - 16h30: pause 
+16h30 - 17h30: le métier de designer / gestion de projet agile (et le rôle que les mentors peuvent jouer dans le défi EIG) 
+17h30 - 18h: Discussion "EIG Next"
+18h: fin de la session
+
 ### Session EIG | 14 mars | 
 ### Session EIG (+ mentors l’après-midi) | 11 avril | 
 ### Session Mentors | 18 avril |
