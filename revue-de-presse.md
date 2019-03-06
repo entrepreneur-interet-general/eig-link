@@ -2,7 +2,10 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-|2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Public | Open Justice |
+
+| 2019-3-06 | Acteurs Publics | [24 heures en immersion avec les entrepreneurs d’intérêt général](https://www.acteurspublics.com/2019/03/06/24-heures-en-immersion-avec-les-entrepreneurs-d-interet-general) | Payant | EIG 3 |
+| 2019-3-06 | Acteurs Publics | [Anciens EIG : pourquoi ils sont restés dans l’administration](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Payant | EIG 1-2 |
+|2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.acteurspublics.com/2019/03/06/anciens-eig-pourquoi-ils-sont-restes-dans-l-administration) | Public | Open Justice |
 |2019-02-01 | Cour des comptes | [Le rapport public annuel 2019](https://www.ccomptes.fr/system/files/2019-01/RPA2019-Tome-3-integral.pdf) | Public | Plume |
 |2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassation](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
 |2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
@@ -27,6 +30,9 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+
+
+| 2016-11-03 | Blog Etalab | [Le BootCamp #EIG3 : une semaine d’intégration à la découverte des communautés du numérique d’intérêt général](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general) | Public | EIG 3 |
 | 2016-11-03 | Blog Etalab | [Rejoignez la 1e promotion d’Entrepreneurs d’Intérêt Général !](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general) | Public | EIG 1 |
 | 2016-12-01 | Blog Etalab | [Le Compte Github de la première promotion](https://github.com/entrepreneur-interet-general) | Public | EIG 1 |
 | 2016-12-14 | Blog Etalab | [Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) | Public | EIG 1 |
