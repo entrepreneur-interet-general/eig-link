@@ -30,7 +30,6 @@
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
 
-
 | 2016-11-03 | Blog Etalab | [Le BootCamp #EIG3 : une semaine d’intégration à la découverte des communautés du numérique d’intérêt général](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general) | Public | EIG 3 |
 | 2016-11-03 | Blog Etalab | [Rejoignez la 1e promotion d’Entrepreneurs d’Intérêt Général !](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general) | Public | EIG 1 |
 | 2016-12-01 | Blog Etalab | [Le Compte Github de la première promotion](https://github.com/entrepreneur-interet-general) | Public | EIG 1 |
