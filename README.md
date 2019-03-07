@@ -22,6 +22,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Publier et accéder à des données](./opendata.md)
 - [Serveur](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
 - [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
+- [Ressources du Bootcamp EIG 3](./ressources-bootcamp.md) : Liste de toutes les ressources présentées lors du bootcamp EIG3
 
 # Outils et tutoriels
 
