@@ -63,4 +63,4 @@ Nous tenons une [liste d'idées](./aidez-nous.md) pour des contributions citoyen
 
 Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENSE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 
-![Logo](./images/Logo EIG 2019.png)
+![Logo](./images/logo-eig2.png)
