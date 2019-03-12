@@ -128,10 +128,14 @@ Maintenant que vous travaillez pour des administrations, il vous faudra simpleme
       
 Pour structurer la présence du programme en ligne, il est important d'être cohérent. 
 
-Pour parler du programme, utilisez #EIG. 
-Pour parler des promotions, utilisez # EIG"année de la promotion". Par exemple, pour la promotion 3, utilisez #EIG2019. 
+Pour parler du programme, utilisez `#EIG`. 
+Pour parler des promotions, utilisez `#EIG"année de la promotion"`. Par exemple, pour la promotion 3, utilisez #EIG2019. 
 Pour parler de vos défis, utilisez les hashtags suivants :
 
-|Défi|Hashtag|Défi|Hashtag| 
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| ACOSS-plateforme | #ACOSSplateforme | :-------------: | :-------------: |
+|Défi|Hashtag|Défi|Hashtag|Défi|Hashtag|  
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| ACOSS-plateforme | #ACOSSplateforme | DataReg | #DataReg | LexImpact | :-------------: |
+| ADLER | #ADLER | EIG Link | #EIGlink | Open Chronic | :-------------: |
+| CartoBio | #CartoBio | Explocode | :-------------: | Open Justice | :-------------: |
+| CibNav | #CibNav | IA Flash | :-------------: | Plume | :-------------: |
+| DataJust | #DataJust | Karfu'R | :-------------: | PolyGraphe | :-------------: |
