@@ -139,3 +139,5 @@ Pour parler de vos défis, utilisez les hashtags suivants :
 | CartoBio | #CartoBio | Explocode | #ExploCode | Open Justice | #OpenJustice |
 | CibNav | #CibNav | IA Flash | #IAflash | Plume | #Plume |
 | DataJust | #DataJust | Karfu'R | #KarfuR | PolyGraphe | #PolyGraphe |
+
+# Les éléments graphiques que vous pouvez utiliser pour vos supports de communication
