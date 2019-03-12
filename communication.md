@@ -76,7 +76,7 @@ Pour présenter le programme, vous pouvez vous appuyer sur différents supports 
 Ce livret présente à la fois le fonctionnement du programme, la troisième promotion du programme et les réalisations des promotions précédentes. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à un supérieur hiérarchique, à un potentiel partenaire, à de potentiels contributeurs au défi. Il présente l'avantage d'être tangible et polyvalent.
 
-> lien vers le livret de présentation
+> [lien vers le livret de présentation](/guides/livret-presentation-programme-2019.pdf)
 
 ### Présentation PowerPoint
 
@@ -99,7 +99,7 @@ Elles sont destinées à un public large. Elles peuvent servir pour présenter l
 Ce texte de quatre pages présente l'ambition du programme et son fonctionnement. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à des étrangers. Il peut également servir pour piocher des éléments de langage en anglais. Il présente l'avantage d'être en anglais, donc.
 
-> lien vers le mémo en anglais
+> [lien vers le mémo en anglais](/guides/Public Interest Entrepreneurs-EN-memo-V2.pdf)
 
 # Les bonnes pratiques de communication
 
