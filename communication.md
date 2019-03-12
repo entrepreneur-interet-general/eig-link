@@ -99,7 +99,7 @@ Elles sont destinées à un public large. Elles peuvent servir pour présenter l
 Ce texte de huit pages (avec beaucoup de photos) présente l'ambition du programme et son fonctionnement. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à des étrangers. Il peut également servir pour piocher des éléments de langage en anglais. Il présente l'avantage d'être en anglais, donc.
 
-> [lien vers le mémo en anglais](/guides/Public Interest Entrepreneurs-EN-memo-V2.pdf)
+> [lien vers le mémo en anglais](/guides/Public-Interest-Entrepreneurs-EN-memo-V2.pdf)
 
 # Les bonnes pratiques de communication
 
