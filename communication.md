@@ -134,8 +134,8 @@ Pour parler de vos défis, utilisez les hashtags suivants :
 
 |Défi|Hashtag|Défi|Hashtag|Défi|Hashtag|  
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| ACOSS-plateforme | #ACOSSplateforme | DataReg | #DataReg | LexImpact | :-------------: |
-| ADLER | #ADLER | EIG Link | #EIGlink | Open Chronic | :-------------: |
-| CartoBio | #CartoBio | Explocode | :-------------: | Open Justice | :-------------: |
-| CibNav | #CibNav | IA Flash | :-------------: | Plume | :-------------: |
-| DataJust | #DataJust | Karfu'R | :-------------: | PolyGraphe | :-------------: |
+| ACOSS-plateforme | #ACOSSplateforme | DataReg | #DataReg | LexImpact | #LexImpact |
+| ADLER | #ADLER | EIG Link | #EIGlink | Open Chronic | #OpenChronic |
+| CartoBio | #CartoBio | Explocode | :-------------: | Open Justice | #OpenJustice |
+| CibNav | #CibNav | IA Flash | :-------------: | Plume | #Plume |
+| DataJust | #DataJust | Karfu'R | :-------------: | PolyGraphe | #PolyGraphe |
