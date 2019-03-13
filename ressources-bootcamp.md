@@ -1,5 +1,7 @@
 # Bootcamp EIG 3 - Présentation des ressources de la DINSIC et d’Etalab
 
+# Équipes Etalab
+
 ## **data.gouv**
 La plateforme [data.gouv.fr](https://www.data.gouv.fr/) est la plateforme nationale ouverte des données publiques françaises.
 Sa particularité est qu’elle est communautaire et que l’on peut aussi y publier des réutilisations de données ouvertes.
@@ -80,6 +82,8 @@ Les Forums Open d’État, événements réguliers qui réunissent administratio
 
 **Contact : amelie.banzet@modernisation.gouv.fr**
 
+# Produits Etalab-DINSIC
+
 ## **Beta.gouv**
 L’incubateur de services publics numériques [beta.gouv.fr](https://beta.gouv.fr/) a pour mission de créer des solutions numériques à partir d’irritants constatés sur le terrain par des agents publics, afin d’améliorer la qualité du service public rendu. C’est en quelque sorte un dispositif miroir du programme EIG.
 
@@ -115,6 +119,8 @@ Le service d’identité France Connect permet aux utilisateurs d’accéder plu
 [Twitter France Connect](https://twitter.com/_FranceConnect_) 
 
 **Contact : florian.delezenne@beta.gouv.fr**
+
+# Thématiques transverses
 
 ## **Qualité des services en ligne**
 Le service Qualité des services en ligne de la DINSIC propose différents outils pour améliorer l’accessibilité des sites internet en contact avec du public. 
