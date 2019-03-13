@@ -30,11 +30,14 @@ Pour rappel, les EIG participent à trois types d’événements :
 ## Liste des "EIG off"
 *(par ordre anti-chronologique)*
 
-> **Présentation de Docker**
+> [**Introduction au Traitement Automatique du Langage Naturel**](https://speakerdeck.com/eig2018/introduction-au-traitement-automatique-du-langage-naturel)<br/>
+> par Valentin Barriere le 13 Mars 2019 à 10h30 au LLL
+
+> [**Présentation de Docker**](https://speakerdeck.com/eig2018/presentation-docker-par-thierry-razanajao)<br/>
 > par Thierry Razanajao le 6 Mars 2019 à 15h au LLL
 
-> [**Présentation Apache Airflow Embulk**](https://speakerdeck.com/eig2018/apache-airflow-and-embulk)
+> [**Présentation Apache Airflow Embulk**](https://speakerdeck.com/eig2018/apache-airflow-and-embulk)<br/>
 > par Antoine Augusti le 27 Février 2019 de 15h à 16h au LLL
  
-> [**Présentation d'OpenScraper**](https://github.com/entrepreneur-interet-general/OpenScraper)
+> [**Présentation d'OpenScraper**](https://github.com/entrepreneur-interet-general/OpenScraper)<br/>
 > par Julien Paris le 20 Février 2019 à 14h au LLL
