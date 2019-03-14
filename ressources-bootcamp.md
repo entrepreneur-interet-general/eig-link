@@ -34,7 +34,7 @@ Dans le cadre de la [Loi pour une République Numérique](https://www.legifrance
 -	Les contacter si vous souhaitez organiser un rendez-vous au sein de votre administration pour actionner une démarche d’ouverture de données ;
 -	Au sein de vos administrations, agir en éclaireurs et identifier les acteurs qui ont des besoins récurrents en termes de circulation des données.
 
-(La présentation de l'équipe lors du bootcamp)[https://speakerdeck.com/eig2018/presentation-open-data]
+[La présentation de l'équipe lors du bootcamp](https://speakerdeck.com/eig2018/presentation-open-data)
 
 **Contact : romain.tales@modernisation.gouv.fr**
 
