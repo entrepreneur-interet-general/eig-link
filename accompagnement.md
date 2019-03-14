@@ -61,7 +61,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 12h30 : Déjeuner    
 14h30 : Arrivée des mentors et ateliers de l'après-midi  
-14h30 - 16h : Présentation open data / [Présentation open source](https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique)  + questions (Antoine / Bastien)   
+14h30 - 16h : [Présentation open data](https://speakerdeck.com/eig2018/open-data) / [Présentation open source](https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique)  + questions (Antoine / Bastien)   
 16h - 16h30 : Pause  
 16h30 - 18h : "Cliniques" avec différents intervenants/facilitateurs de l'après-midi (voir liste ci-dessous)  
 18h : Conclusion  
