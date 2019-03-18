@@ -85,7 +85,7 @@ Voici un exemple de règle `iptables` pour la redirection:
        user root
        ProxyCommand ssh robert@eig.etalab.gouv.fr nc -w 1 192.168.0.101 22
     ```
-Cette configuration vous permettra de taper `~$ ssh eig101` dans un Terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
+   Cette configuration vous permettra de taper `~$ ssh eig101` dans un Terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
 4. Vous pouvez aussi ajouter une clef publique de votre machine locale à l’utilisateur `root` du container et à l’utilisateur `robert` de la machine `eig.etalab.gouv.fr` pour ne pas avoir à taper deux mots de passe à chaque fois.
 
 # Utiliser `sshfs` pour monter un répertoire distant
