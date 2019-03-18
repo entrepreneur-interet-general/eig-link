@@ -80,10 +80,12 @@ Voici un exemple de règle `iptables` pour la redirection:
 1. Demandez à Bastien de vous créer un utilisateur sur la machine `eig.etalab.gouv.fr` et dans l’interface de Proxmox (ex: "robert")
 2. Créez votre container ou votre VM (ex: CT identifié par "101")
 3. Sur votre machine locale, éditez le fichier ~/.ssh/config :
+    ```bash
     Host eig101
        user root
        ProxyCommand ssh robert@eig.etalab.gouv.fr nc -w 1 192.168.0.101 22
-    Cette configuration vous permettra de taper `~$ ssh eig101` dans un Terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
+    ```
+Cette configuration vous permettra de taper `~$ ssh eig101` dans un Terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
 4. Vous pouvez aussi ajouter une clef publique de votre machine locale à l’utilisateur `root` du container et à l’utilisateur `robert` de la machine `eig.etalab.gouv.fr` pour ne pas avoir à taper deux mots de passe à chaque fois.
 
 # Utiliser `sshfs` pour monter un répertoire distant
