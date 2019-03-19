@@ -22,3 +22,15 @@ Dans le cas des données financières de la liasse fiscale :
 
 [Une page sur le site web](https://www.cada.fr/particulier/quand-et-comment-saisir-la-cada) de la Cada explique la procédure à suivre pour demander la publication d'un document administratif et préparer une éventuelle saisine de la Cada.
 
+# Ressources externes
+## Avis Cada
+- [L'ensemble des avis de la Cada](https://cada.data.gouv.fr)
+- [Le site web de la Cada](https://www.cada.fr)
+
+## Anonymisation
+- [CNIL : Le G29 publie un avis sur les techniques d’anonymisation
+](https://www.cnil.fr/fr/le-g29-publie-un-avis-sur-les-techniques-danonymisation)
+- [SNDS : guide d'accompagnement](https://www.snds.gouv.fr/download/Guide_accompagnement.pdf)
+
+## Présentations générales
+- [Historique et cadre juridique](https://speakerdeck.com/eig2018/open-data)
