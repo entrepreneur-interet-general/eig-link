@@ -65,7 +65,7 @@ Le programme n'a pas encore choisi sa baseline. Pour présenter le programme en 
 
 Pour présenter le programme en un paragraphe, vous pouvez utiliser :
 
-> Le programme Entrepreneur d'Intérêt Général a pour objectif de faire travailler ensemble des personens extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
+> Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
 
 ## Supports de communication
 
@@ -76,7 +76,7 @@ Pour présenter le programme, vous pouvez vous appuyer sur différents supports 
 Ce livret présente à la fois le fonctionnement du programme, la troisième promotion du programme et les réalisations des promotions précédentes. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à un supérieur hiérarchique, à un potentiel partenaire, à de potentiels contributeurs au défi. Il présente l'avantage d'être tangible et polyvalent.
 
-> [lien vers le livret de présentation](/guides/livret-presentation-programme-2019.pdf)
+> [Le livret de présentation](/guides/livret-presentation-programme-2019.pdf)
 
 ### Présentation PowerPoint
 
@@ -90,9 +90,9 @@ Il est destiné à un public plutôt administratif. Il peut servir pour présent
 Ces vidéos présentent le principe du programme en présentant la promotion 2 (première vidéo) et la promotion 3 (deuxième vidéo).
 Elles sont destinées à un public large. Elles peuvent servir pour présenter le programme de façon ludique et peuvent être intégrées à un site web, une présentation orale, l'habillage d'un stand de salon... Elles ont l'avantage d'incarner le collectif EIG. 
 
-> lien vers la vidéo de présentation EIG 2 
+>[La vidéo de présentation des EIG 2](https://www.dailymotion.com/video/x6fp47d)
 
-> lien vers la vidéo de présentation EIG 3
+>Lien vers la vidéo de présentation EIG 3
 
 ### Mémo en anglais
 
