@@ -39,6 +39,38 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG (+ mentors l’après-midi) | 11 avril |
 
+* Lieu : Liberté Living Lab, Atelier C . 
+* Qui va animer ? L'équipe EIG Core + des EIG 3 .  
+* **Livrables** : TBC
+* **Objectifs** : 
+	* Comprendre le métier de designer . 
+	* Savoir utiliser les outils du design dans son défi . 
+	* Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
+	* Savoir pourquoi et comment communiquer autour de son défi
+
+**Programme de la journée**
+
+9h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
+10h : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes 
+10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
+11h : Pause  
+11h15 : Troisième séquence : User stories / Interfaces (Jean-Baptiste)  
+11h45 : Quatrième séquence : Communication (Sophie)  
+12h15 : Conclusion  
+
+_Note : les séquences du matin sont composées d'une présentation de 5 à 10 minutes, puis d'un temps en petits groupes de 20 minutes facilité par les designers de la promotion 3 et par certains EIG Node si besoin._  
+
+12h30 : Déjeuner    
+14h30 : Ateliers de l'après-midi, en auto-organisation (à définir) :  
+* Clinique défis générale (Soizic) 
+* Recherche utilisateur  
+* Interfaces  
+* Communiquer avec ses parties prenantes  
+* Atelier documentation (Antoine ?)  
+* ... 
+
+18h - 18h30 : Conclusion de la journée
+
 ### Session EIG | 14 mars | 
 
 * Lieu : Liberté Living Lab, Grand Atelier
