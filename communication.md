@@ -114,8 +114,6 @@ Quel que soit le média, quel que soit le format et même si l'on vous promet la
 
 Cela vous permettra de vous assurer que vous êtes alignés avec la communication de votre administration d'accueil et celle du programme. Cela permettra aussi à l'équipe de coordination d'avoir une vision globale des actions de communication menées par les différents défis.
 
-L'équipe de coordination dispose d'un alias presse où vous pouvez faire suivre les demandes émanant de la presse : eig-presse@data.gouv.fr.
-
 ## Si vous communiquez sur les réseaux sociaux
 
 Vous êtes les principaux ambassadeurs du programme et de vos défis, n'hésitez pas à en parler !
