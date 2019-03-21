@@ -37,7 +37,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session Mentors | 18 avril |
 
-### Session EIG (+ mentors l’après-midi) | 11 avril |
+### Session EIG | 11 avril |
 
 * Lieu : Liberté Living Lab, Atelier C . 
 * Qui va animer ? L'équipe EIG Core + des EIG 3 .  
