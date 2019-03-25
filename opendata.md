@@ -34,3 +34,4 @@ Dans le cas des données financières de la liasse fiscale :
 
 ## Présentations générales
 - [Historique et cadre juridique](https://speakerdeck.com/eig2018/open-data)
+- [Fiches pédagogiques](https://opendatafrance.gitbook.io/odl-ressources/)
