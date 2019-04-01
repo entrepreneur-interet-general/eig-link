@@ -2,6 +2,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-01 | Le Figaro | [Budget 2020: les députés pourront s’appuyer sur un outil de simulation](http://www.lefigaro.fr/conjoncture/budget-2020-les-deputes-pourront-s-appuyer-sur-un-outil-de-simulation-20190331) | Payant | LexImpact |
 | 2019-03-18 | Nouvel Obs | [Des « X-Men » pour doper les services publics au numérique](https://www.nouvelobs.com/economie/20190315.OBS10759/des-x-men-pour-doper-les-services-publics-au-numerique.html) | Payant | EIG 3 |
 | 2019-03-07 | Acteurs Publics | [De nouveaux moyens d’évaluation et de contrôle pour les députés](https://www.acteurspublics.com/2019/03/07/de-nouveaux-moyens-d-evaluation-et-de-controle-pour-les-deputes) | Payant | LexImpact |
 | 2019-3-06 | Acteurs Publics | [24 heures en immersion avec les entrepreneurs d’intérêt général](https://www.acteurspublics.com/2019/03/06/24-heures-en-immersion-avec-les-entrepreneurs-d-interet-general) | Payant | EIG 3 |
