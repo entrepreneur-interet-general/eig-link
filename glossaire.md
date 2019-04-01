@@ -10,7 +10,7 @@
 - **Benchmarking:** 
 - **Beta.gouv:** 
 - **Big Data:** 
-- **CGET:** 
+- **CGET:** Le Commissariat Général à l'Égalité des Territoires est un service de l’État placé sous l’autorité du ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales. Il appuie le Gouvernement dans la lutte contre les inégalités territoriales et le soutien aux dynamiques territoriales, en concevant et animant les politiques de la ville et d’aménagement du territoire avec les acteurs locaux et les citoyens. Ses champs d’intervention sont interministériels : accès à l’emploi, aux soins et aux services au public, cohésion sociale, inclusion numérique, aide aux mobilités, attractivité économique, transitions écologique et numérique, redynamisation des territoires fragiles et des centres-villes en déprise
 - **Cloud:** 
 - **Code source:** 
 - **Data.gouv:** 
@@ -19,7 +19,7 @@
 - **Défi:** 
 - **Designer:** 
 - **Développeur:** 
-- **DINSIC:** 
+- **DINSIC:** La Direction Interministérielle du Numérique et du système d'Information et de Communication de l'État. C'est l'administration qui gère le programme EIG. La DINSIC est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent, sous tous ses aspects : modernisation du système d’information de l’État, création de services publics innovants pour les citoyens, qualité des démarches en ligne, gouvernement ouvert…
 - **Doers / Makers:** 
 - **DREES:** 
 - **DSI:** 
@@ -28,7 +28,7 @@
 - **ETP:** 
 - **Evangélisation:** 
 - **Framwork:** 
-- **« Free software »:** Traduit par « logiciel libre ».  À noter que l'expression anglaise est ambiguë, « free » voulant dire à la fois « gratis » et « libre ».
+- **« Free software »:** Traduit par « logiciel libre ».  À noter que l'expression anglaise est ambiguë, « free » voulant dire à la fois « gratuits » et « libre ».
 - **Front-end:** 
 - **Frontend / backend:** 
 - **GitHub:** 
