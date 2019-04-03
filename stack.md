@@ -21,7 +21,9 @@ TODO
 - PostgreSQL et Postgis
 
 ## DataJust
-TODO
+- Python
+- Flask
+- Bootstrap
 
 ## DataReg
 - Pentaho (ETL)
