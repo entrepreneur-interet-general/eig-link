@@ -2,6 +2,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Gratuit | SignauxFaibles |
 | 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Gratuit | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Gratuit | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Jusqu'où l'intelligence artificielle peut-elle aider à gouverner ?](https://www.lesechos.fr/idees-debats/editos-analyses/jusquou-lintelligence-artificielle-peut-elle-aider-a-gouverner-1006466) | Payant | DataJust |
