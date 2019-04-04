@@ -2,6 +2,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Gratuit | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Gratuit | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Jusqu'où l'intelligence artificielle peut-elle aider à gouverner ?](https://www.lesechos.fr/idees-debats/editos-analyses/jusquou-lintelligence-artificielle-peut-elle-aider-a-gouverner-1006466) | Payant | DataJust |
 | 2019-04-01 | Le Figaro | [Budget 2020: les députés pourront s’appuyer sur un outil de simulation](http://www.lefigaro.fr/conjoncture/budget-2020-les-deputes-pourront-s-appuyer-sur-un-outil-de-simulation-20190331) | Payant | LexImpact |
