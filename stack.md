@@ -6,7 +6,9 @@ Ce document décrit les outils employés et déployés dans chacun des défis EI
 - Angular
 
 ## ADLER
-TODO
+- Python (spaCy, Kepler Mapper)
+- JanusGraph (base de données graphe)
+- ElasticSearch
 
 ## CartoBio
 - PostgreSQL et Postgis
@@ -56,7 +58,9 @@ TODO
 - i18Next
 
 ## LexImpact
-TODO
+- Python (Flask, Openfisca, pandas)
+- Dash by Plotly
+- React
 
 ## Open Chronic
 - Python
