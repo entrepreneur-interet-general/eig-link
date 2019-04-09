@@ -1,11 +1,13 @@
 # 2019
 
+## Presse
+
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-| 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Gratuit | Signaux Faibles |
-| 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Gratuit | Signaux Faibles |
-| 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Gratuit | Signaux Faibles |
-| 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Gratuit | Signaux Faibles |
+| 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Public | Signaux Faibles |
+| 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
+| 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Public | Signaux Faibles |
+| 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Public | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Jusqu'où l'intelligence artificielle peut-elle aider à gouverner ?](https://www.lesechos.fr/idees-debats/editos-analyses/jusquou-lintelligence-artificielle-peut-elle-aider-a-gouverner-1006466) | Payant | DataJust |
 | 2019-04-01 | Le Figaro | [Budget 2020: les députés pourront s’appuyer sur un outil de simulation](http://www.lefigaro.fr/conjoncture/budget-2020-les-deputes-pourront-s-appuyer-sur-un-outil-de-simulation-20190331) | Payant | LexImpact |
 | 2019-03-18 | Nouvel Obs | [Des « X-Men » pour doper les services publics au numérique](https://www.nouvelobs.com/economie/20190315.OBS10759/des-x-men-pour-doper-les-services-publics-au-numerique.html) | Payant | EIG 3 |
@@ -21,7 +23,17 @@
 |2019-01-17 | Maddyness | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.maddyness.com/2019/01/17/letat-accueille-sa-3eme-promotion-dentrepreneur%C2%B7es-dinteret-general/) | Public | EIG 3 |
 |2019-01-16 | Acteurs Publics | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.acteurspublics.com/2019/01/16/la-nouvelle-promotion-des-entrepreneurs-d-interet-general-fait-sa-rentree) | Payant | EIG 3 |
 
+## Blog Etalab
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2019-08-04 | Blog Etalab | [[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics) | Public | EIG 3 |
+| 2018-02-28 | Blog Etalab | [Le BootCamp #EIG3 : une semaine d’intégration à la découverte des communautés du numérique d’intérêt général](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general) | Public | EIG 3 |
+| 2018-12-06 | Blog Etalab |[Entrepreneur·e d’Intérêt Général vous présente sa 3ème promotion](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion) | Public | EIG 3 |
+
+
 # 2018
+
+## Presse 
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
@@ -31,13 +43,24 @@
 | 2018-01-18 | Hospimedia | [Trois entrepreneurs d'intérêt général travaillent à la valorisation du système des données de santé](http://www.hospimedia.fr/actualite/nominations/20180118-trois-entrepreneurs-d-interet-general-travaillent-a-la) | Payant | Lab Santé |
 | 2018-01-17 | Next INpact | [Installation d’une seconde promotion d’entrepreneurs d’intérêt général](https://www.nextinpact.com/brief/installation-d-une-seconde-promotion-d-entrepreneurs-d-interet-general-2156.htm) | Public | EIG 2 |
 
+## Etalab
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2018-12-04 | Blog Etalab |[Entrepreneur·e d’Intérêt Général – promotion 2 : bilan et perspectives](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-promotion-2-bilan-et-perspectives) | Public | EIG 2 |
+| 2018-09-13 | Blog Etalab | [En 2019, l’Etat recrute 32 entrepreneur.e.s d’intérêt général – rejoignez la 3ème Promotion !](https://www.etalab.gouv.fr/en-2019-devenez-entrepreneur-dinteret-general) | Public | EIG 3 |
+| 2018-07-20 | Blog Etalab | [Entrepreneur.e d’intérêt général / 3ème promotion : découvrez les 15 défis lauréats](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats) | Public | EIG 3 |
+| 2018-06-20 | Blog Etalab | [Entrepreneur.e d’intérêt général / 3ème promotion : 42 défis déposés par les administrations, un jury mixte pour les sélectionner](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-42-defis-deposes-par-les-administrations-un-jury-mixte-pour-les-selectionner) | Public | EIG 3 |
+| 2018-04-05 | Blog Etalab | [Entrepreneur.e d’Intérêt Général : administrations, proposez vos défis à la future 3ème Promotion des EIG !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-lappel-a-projets-pour-la-promotion-3-est-ouvert) | Public | EIG 3 |
+| 2018-04-25 | Blog Etalab | [Entrepreneur.e d’Intérêt Général : Administrations, préparez vos défis pour l’appel à projets de la promotion 3 !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-administrations-preparez-vos-defis-pour-lappel-a-projets-de-la-promotion-3) | Public | EIG 3 |
+| 2018-03-07 | Blog Etalab | [[Vidéo] Entrepreneur.e d’Intérêt Général : à la rencontre de 28 innovateurs publics](https://www.etalab.gouv.fr/video-entrepreneur-e-dinteret-general-a-la-rencontre-de-28-innovateurs-publics) | Public | EIG 2 |
+| 2017-11-29 | Blog Etalab | [Entrepreneur.e d’Intérêt Général : découvrez la Promotion 2 !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2) | Public | EIG 2 |
+
 # 2017
 
 ## Etalab
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-| 2016-11-03 | Blog Etalab | [Le BootCamp #EIG3 : une semaine d’intégration à la découverte des communautés du numérique d’intérêt général](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general) | Public | EIG 3 |
 | 2016-11-03 | Blog Etalab | [Rejoignez la 1e promotion d’Entrepreneurs d’Intérêt Général !](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general) | Public | EIG 1 |
 | 2016-12-01 | Blog Etalab | [Le Compte Github de la première promotion](https://github.com/entrepreneur-interet-general) | Public | EIG 1 |
 | 2016-12-14 | Blog Etalab | [Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) | Public | EIG 1 |
