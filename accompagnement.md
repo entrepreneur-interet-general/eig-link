@@ -20,7 +20,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp | | |
 | Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Mini-bootcamp mentors | Rex mentors, présentation design / agile |
 | EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Open source / Open data | |
-| EIG seuls | 11 avril | 9h - 18h30 | Atelier C (rue du Caire) | Communication / Utilisateurs | |
+| EIG seuls | 11 avril | 9h - 18h30 | LLL, Grand Atelier (rue d'Alexandrie) | Communication / Utilisateurs | |
 | Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Pérennisation des défis | |
 | **Séminaire EIG** | 16 & 17 mai | Les 2 jours | TBC | "Sprint défis" | |
 | Mentors | 23 mai | 14h - 18h30 | LLL, Atelier C (rue du Caire) | TBC | |
