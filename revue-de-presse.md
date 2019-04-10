@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-10 | Ouest-France | [Lustres, tissages, pendules… Le Mobilier national dévoile ses trésors sur internet](https://www.ouest-france.fr/culture/patrimoine/lustres-tissages-pendules-le-mobilier-national-devoile-ses-tresors-sur-internet-6302814) | Public | Gobelins |
 | 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Public | Signaux Faibles |
 | 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Public | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Public | Signaux Faibles |
