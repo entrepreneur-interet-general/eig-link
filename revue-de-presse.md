@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-10 | Actualités du droit | [Stéphanie Schaer, pilote et initiatrice de la start-up d’État « Signaux Faibles » : « L’algorithme de Signaux Faibles peut réellement contribuer à la préservation d’emplois et à la pérennité d’entreprises »](https://www.actualitesdudroit.fr/browse/tech-droit/intelligence-artificielle/21044/stephanie-schaer-pilote-et-initiatrice-de-la-start-up-d-etat-signaux-faibles-l-algorithme-de-signaux-faibles-peut-reellement-contribuer-a-la-preservation-d-emplois-et-a-la-perennite-d-entreprises) | Public | Signaux Faibles |
 | 2019-04-10 | Ouest-France | [Lustres, tissages, pendules… Le Mobilier national dévoile ses trésors sur internet](https://www.ouest-france.fr/culture/patrimoine/lustres-tissages-pendules-le-mobilier-national-devoile-ses-tresors-sur-internet-6302814) | Public | Gobelins |
 | 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Public | Signaux Faibles |
 | 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Public | Signaux Faibles |
