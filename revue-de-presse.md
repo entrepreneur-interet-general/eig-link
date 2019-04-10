@@ -5,7 +5,6 @@
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
 | 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Public | Signaux Faibles |
-| 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
 | 2019-04-04 | Le Figaro | [Eviter les faillites d’entreprises grâce à l’intelligence artificielle](http://www.lefigaro.fr/societes/eviter-les-faillites-d-entreprises-grace-a-l-intelligence-artificielle-20190404) | Public | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Bercy lance une start-up pour anticiper les faillites](https://www.lesechos.fr/industrie-services/industrie-lourde/bercy-lance-une-start-up-pour-anticiper-les-faillites-1006421) | Public | Signaux Faibles |
 | 2019-04-04 | Les Échos | [Jusqu'où l'intelligence artificielle peut-elle aider à gouverner ?](https://www.lesechos.fr/idees-debats/editos-analyses/jusquou-lintelligence-artificielle-peut-elle-aider-a-gouverner-1006466) | Payant | DataJust |
@@ -17,7 +16,6 @@
 |2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.acteurspublics.com/2019/03/06/anciens-eig-pourquoi-ils-sont-restes-dans-l-administration) | Public | Open Justice |
 |2019-02-01 | Cour des comptes | [Le rapport public annuel 2019](https://www.ccomptes.fr/system/files/2019-01/RPA2019-Tome-3-integral.pdf) | Public | Plume |
 |2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassation](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
-|2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
 |2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
 |2019-01-17 | Next INpact | [Contre les usurpations de plaques d’immatriculation, l’État mise sur l’intelligence artificielle](https://www.nextinpact.com/news/107516-contre-usurpations-plaques-dimmatriculation-letat-mise-sur-lintelligence-artificielle.htm) | Payant | IA Flash |
 |2019-01-17 | Maddyness | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.maddyness.com/2019/01/17/letat-accueille-sa-3eme-promotion-dentrepreneur%C2%B7es-dinteret-general/) | Public | EIG 3 |
@@ -29,6 +27,14 @@
 | 2019-08-04 | Blog Etalab | [[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics) | Public | EIG 3 |
 | 2018-02-28 | Blog Etalab | [Le BootCamp #EIG3 : une semaine d’intégration à la découverte des communautés du numérique d’intérêt général](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general) | Public | EIG 3 |
 | 2018-12-06 | Blog Etalab |[Entrepreneur·e d’Intérêt Général vous présente sa 3ème promotion](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion) | Public | EIG 3 |
+
+## Relais administratifs
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2019-04-09 | Banque des Territoires | [ Les défaillances d'entreprises anticipées grâce au big data ](https://www.banquedesterritoires.fr/les-defaillances-dentreprises-anticipees-grace-au-big-data) | Public | Signaux Faibles |
+| 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
+|2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
 
 
 # 2018
