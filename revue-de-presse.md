@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-10 | Le Figaro | [Le Mobilier national rend accessible son patrimoine sur internet ](http://www.lefigaro.fr/culture/le-mobilier-national-rend-accessible-son-patrimoine-sur-internet-20190410) | Public | Gobelins |
 | 2019-04-10 | Actualités du droit | [Stéphanie Schaer, pilote et initiatrice de la start-up d’État « Signaux Faibles » : « L’algorithme de Signaux Faibles peut réellement contribuer à la préservation d’emplois et à la pérennité d’entreprises »](https://www.actualitesdudroit.fr/browse/tech-droit/intelligence-artificielle/21044/stephanie-schaer-pilote-et-initiatrice-de-la-start-up-d-etat-signaux-faibles-l-algorithme-de-signaux-faibles-peut-reellement-contribuer-a-la-preservation-d-emplois-et-a-la-perennite-d-entreprises) | Public | Signaux Faibles |
 | 2019-04-10 | Ouest-France | [Lustres, tissages, pendules… Le Mobilier national dévoile ses trésors sur internet](https://www.ouest-france.fr/culture/patrimoine/lustres-tissages-pendules-le-mobilier-national-devoile-ses-tresors-sur-internet-6302814) | Public | Gobelins |
 | 2019-04-09 | France Inter | [Et si l'intelligence artificielle pouvait sauver les entreprises ?](https://www.franceinter.fr/economie/et-si-l-intelligence-artificielle-pouvait-sauver-les-entreprises) | Public | Signaux Faibles |
