@@ -4,6 +4,8 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-04-12 | Le Monde Informatique | [Une start-up pour accompagner les entreprises en difficultés](https://www.lemondeinformatique.fr/actualites/lire-une-start-up-pour-accompagner-les-entreprises-en-difficultes-74971.html) | Public | Signaux Faibles |
+| 2019-04-03 | Le Monde | [Signaux faibles, la start-up d’Etat qui veut déjouer les défaillances d’entreprises](https://www.lemonde.fr/economie/article/2019/04/03/signaux-faibles-la-start-up-d-etat-qui-veut-dejouer-les-defaillances-d-entreprises_5445121_3234.html) | Payant | Signaux Faibles |
 | 2019-04-10 | Acteurs Publics | [Les sénateurs réclament un meilleur accès aux données budgétaires et fiscales](https://www.acteurspublics.com/2019/04/10/les-senateurs-reclament-un-meilleur-acces-aux-donnees-budgetaires-et-fiscales) | Payant | LexImpact |
 | 2019-04-10 | Le Figaro | [Le Mobilier national rend accessible son patrimoine sur internet ](http://www.lefigaro.fr/culture/le-mobilier-national-rend-accessible-son-patrimoine-sur-internet-20190410) | Public | Gobelins |
 | 2019-04-10 | Actualités du droit | [Stéphanie Schaer, pilote et initiatrice de la start-up d’État « Signaux Faibles » : « L’algorithme de Signaux Faibles peut réellement contribuer à la préservation d’emplois et à la pérennité d’entreprises »](https://www.actualitesdudroit.fr/browse/tech-droit/intelligence-artificielle/21044/stephanie-schaer-pilote-et-initiatrice-de-la-start-up-d-etat-signaux-faibles-l-algorithme-de-signaux-faibles-peut-reellement-contribuer-a-la-preservation-d-emplois-et-a-la-perennite-d-entreprises) | Public | Signaux Faibles |
@@ -37,7 +39,8 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-| 2019-04-09 | Banque des Territoires | [ Les défaillances d'entreprises anticipées grâce au big data ](https://www.banquedesterritoires.fr/les-defaillances-dentreprises-anticipees-grace-au-big-data) | Public | Signaux Faibles |
+| 2019-04-09 | Banque des Territoires | [ Les défaillances d'entreprises anticipées grâce au big data](https://www.banquedesterritoires.fr/les-defaillances-dentreprises-anticipees-grace-au-big-data) | Public | Signaux Faibles |
+| 2019-04-03 | Direction Générale des Entreprises | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
 | 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
 |2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
 
