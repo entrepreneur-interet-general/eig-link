@@ -101,6 +101,11 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2016-11-04 | L'informaticien | [Administration 2.0 : le gouvernement recherche 10 «entrepreneurs d’intérêt général» experts du numérique](https://www.linformaticien.com/actualites/id/42257/administration-2-0-le-gouvernement-recherche-10-entrepreneurs-d-interet-general-experts-du-numerique.aspx) | Public | EIG |
+| 2016-10-29 | Silicon.fr | [Les entrepreneurs d’intérêt général vont-ils hacker l’État ?](https://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html) | Public | EIG |
+| 2016-11-07 | Next Impact | [L’État recherche dix « entrepreneurs d’intérêt général »](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm) | Public | EIG |
+| 2017-03-07 | Acteurs Publics | [Les “entrepreneurs d’intérêt général”, trousse de secours des administrations](https://www.acteurspublics.com/2017/03/07/les-entrepreneurs-d-interet-general-trousse-de-secours-des-administrations) | Public | EIG |
+| 2016-11-23 | Forbes | [Henri Verdier: “L’Etat N’Est Pas Bien Armé Pour Recruter Des Développeurs Au Profil Atypique”](https://www.forbes.fr/management/henri-verdier-letat-nest-pas-bien-arme-pour-recruter-des-developpeurs-au-profil-atypique/?cn-reloaded=1) | Public | EIG |
 | 2016-10-09 | Tremplin UTC | [Tremplin UTC, « Devenez Entrepreneur d’Intérêt Général ! »](http://www.tremplin-utc.asso.fr/index.php/article/devenez-entrepreneur-e-d-interet-general/09/10/2017/913) | Public | EIG 1 |
 | 2016-10-29 | Silicon | [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0) | Public | EIG 1 |
 | 2016-11-07 | Next Impact | [NextINpact : l’Etat recherche dix entrepreneurs d’intérêt général](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm) | Public | EIG 1 |
