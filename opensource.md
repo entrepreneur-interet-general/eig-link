@@ -24,7 +24,7 @@ Si vous avez des questions sur les licences de vos données publiques, contactez
 Si vous avez des questions sur les licences de votre projet logiciel, contactez [Bastien Guerry](mailto:opensource@data.gouv.fr), référent logiciels libres à Etalab.
 
 # Où publier son code ?
-Certaines administrations publiques possèdent déjà des comptes d'organisation sur des plateformes comme GitHub ou Gitlab. Vous pouvez retrouver [cette liste sur un répertoire de la DINSIC](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/OrgAccounts). Vous pouvez vous rapprocher de la personne responsable de l'organisation de votre administration pour être ajouté à cette organisation.
+Certaines administrations publiques possèdent déjà des comptes d'organisation sur des plateformes comme GitHub ou Gitlab. Vous pouvez retrouver [cette liste sur un répertoire de la DINSIC](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics). Vous pouvez vous rapprocher de la personne responsable de l'organisation de votre administration pour être ajouté à cette organisation.
 
 Si votre administration possède déjà une organisation, publiez en priorité vos codes sources sur cette organisation. Sinon, entamez la discussion au sein de votre administration pour créer une organisation au nom de votre administration. Enfin, le programme EIG possède l'organisation [entrepreneur-interet-general sur GitHub](https://github.com/entrepreneur-interet-general) où vous pouvez publier vos codes sources.
 
