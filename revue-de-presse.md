@@ -16,17 +16,20 @@
 | 2019-04-04 | Les Échos | [Jusqu'où l'intelligence artificielle peut-elle aider à gouverner ?](https://www.lesechos.fr/idees-debats/editos-analyses/jusquou-lintelligence-artificielle-peut-elle-aider-a-gouverner-1006466) | Payant | DataJust |
 | 2019-04-01 | Le Figaro | [Budget 2020: les députés pourront s’appuyer sur un outil de simulation](http://www.lefigaro.fr/conjoncture/budget-2020-les-deputes-pourront-s-appuyer-sur-un-outil-de-simulation-20190331) | Payant | LexImpact |
 | 2019-03-27 | Acteurs Publics | [Les propositions de l’Institut Montaigne pour mettre le citoyen au cœur de la transformation numérique](https://www.acteurspublics.com/2019/03/27/les-propositions-de-l-institut-montaigne-pour-mettre-le-citoyen-au-coeur-de-la-transformation-numerique) | Payant | EIG |
+| 2019-03-27 | Acteurs Publics | [Une plate-forme pour recenser les innovations RH dans le secteur public](https://www.acteurspublics.com/2019/03/26/une-plate-forme-pour-recenser-les-innovations-rh-dans-le-secteur-public) | Payant | EIG |
 | 2019-03-18 | Nouvel Obs | [Des « X-Men » pour doper les services publics au numérique](https://www.nouvelobs.com/economie/20190315.OBS10759/des-x-men-pour-doper-les-services-publics-au-numerique.html) | Payant | EIG 3 |
 | 2019-03-07 | Acteurs Publics | [De nouveaux moyens d’évaluation et de contrôle pour les députés](https://www.acteurspublics.com/2019/03/07/de-nouveaux-moyens-d-evaluation-et-de-controle-pour-les-deputes) | Payant | LexImpact |
-| 2019-3-06 | Acteurs Publics | [24 heures en immersion avec les entrepreneurs d’intérêt général](https://www.acteurspublics.com/2019/03/06/24-heures-en-immersion-avec-les-entrepreneurs-d-interet-general) | Payant | EIG 3 |
-| 2019-3-06 | Acteurs Publics | [Anciens EIG : pourquoi ils sont restés dans l’administration](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Payant | EIG 1-2 |
-|2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.acteurspublics.com/2019/03/06/anciens-eig-pourquoi-ils-sont-restes-dans-l-administration) | Public | Open Justice |
-|2019-02-01 | Cour des comptes | [Le rapport public annuel 2019](https://www.ccomptes.fr/system/files/2019-01/RPA2019-Tome-3-integral.pdf) | Public | Plume |
-|2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassation](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
-|2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
-|2019-01-17 | Next INpact | [Contre les usurpations de plaques d’immatriculation, l’État mise sur l’intelligence artificielle](https://www.nextinpact.com/news/107516-contre-usurpations-plaques-dimmatriculation-letat-mise-sur-lintelligence-artificielle.htm) | Payant | IA Flash |
-|2019-01-17 | Maddyness | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.maddyness.com/2019/01/17/letat-accueille-sa-3eme-promotion-dentrepreneur%C2%B7es-dinteret-general/) | Public | EIG 3 |
-|2019-01-16 | Acteurs Publics | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.acteurspublics.com/2019/01/16/la-nouvelle-promotion-des-entrepreneurs-d-interet-general-fait-sa-rentree) | Payant | EIG 3 |
+| 2019-03-06 | Acteurs Publics | [24 heures en immersion avec les entrepreneurs d’intérêt général](https://www.acteurspublics.com/2019/03/06/24-heures-en-immersion-avec-les-entrepreneurs-d-interet-general) | Payant | EIG 3 |
+| 2019-03-06 | Acteurs Publics | [Anciens EIG : pourquoi ils sont restés dans l’administration](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Payant | EIG 1-2 |
+| 2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.acteurspublics.com/2019/03/06/anciens-eig-pourquoi-ils-sont-restes-dans-l-administration) | Public | Open Justice |
+| 2019-02-01 | Cour des comptes | [Le rapport public annuel 2019](https://www.ccomptes.fr/system/files/2019-01/RPA2019-Tome-3-integral.pdf) | Public | Plume |
+| 2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassation](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
+| 2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
+| 2019-01-17 | Next INpact | [Contre les usurpations de plaques d’immatriculation, l’État mise sur l’intelligence artificielle](https://www.nextinpact.com/news/107516-contre-usurpations-plaques-dimmatriculation-letat-mise-sur-lintelligence-artificielle.htm) | Payant | IA Flash |
+| 2019-01-17 | Maddyness | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.maddyness.com/2019/01/17/letat-accueille-sa-3eme-promotion-dentrepreneur%C2%B7es-dinteret-general/) | Public | EIG 3 |
+| 2019-01-17 | IgnitionProgram | [ Après l’entrepreneuriat social, l’entrepreneuriat public : Entrepreneurs d’Intérêt Général](https://ignition-program.com/blog/entrepreneuriat-public-entrepreneurs-dinteret-general/) | Public | EIG |
+| 2019-01-16 | Acteurs Publics | [Le programme des entrepreneurs d’intérêt général séduit toujours plus les administrations](https://www.acteurspublics.com/2019/01/16/la-nouvelle-promotion-des-entrepreneurs-d-interet-general-fait-sa-rentree) | Payant | EIG 3 |
+
 
 ## Blog Etalab
 | Date | Site | URL | Accès | Défis mentionnés |
@@ -42,8 +45,10 @@
 | 2019-04-09 | Banque des Territoires | [ Les défaillances d'entreprises anticipées grâce au big data](https://www.banquedesterritoires.fr/les-defaillances-dentreprises-anticipees-grace-au-big-data) | Public | Signaux Faibles |
 | 2019-04-03 | Direction Générale des Entreprises | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
 | 2019-04-04 | entreprises.gouv.fr | [Signature de la convention de déploiement de Signaux faibles : vers une meilleure anticipation des fragilités des entreprises ](https://www.entreprises.gouv.fr/politique-et-enjeux/signature-de-la-convention-de-deploiement-de-signaux-faibles-vers-meilleure) | Public | Signaux Faibles |
-|2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
-
+| 2019-04-02 | Mobilier National | [MN/LAB : nouvelle plateforme numérique des collections du Mobilier national](http://www.mobiliernational.culture.gouv.fr/fr/actualites/mnlab-nouvelle-plateforme-numerique-des-collections-du-mobilier-national) | Public | Gobelins |
+| 2019-01-22 | Banque des Territoires | [Des data scientists pour mieux exploiter les données de l’Etat](https://www.banquedesterritoires.fr/des-data-scientists-pour-mieux-exploiter-les-donnees-de-letat) | Public | DataReg, Open Justice, IA Flash |
+| 2019-01-16 | Numérique.gouv | [Une 3ème promotion d’entrepreneurs d’intérêt général pousse les portes de l’administration](https://www.numerique.gouv.fr/espace-presse/une-3eme-promotion-dentrepreneurs-dinteret-general-pousse-les-portes-de-ladministration/) | Public | EIG |
+| 2019-01-15 | Cour de Cassation | [La Cour de cassation, en partenariat avec le ministère de la justice, accueille au sein de son Service de documentation, des études et du rapport (SDER), pour dix mois, deux spécialistes de l’intelligence artificielle qui développeront des outils toujours plus performants d’anonymisation des décisions de justice](https://www.courdecassation.fr/institution_1/revolution_numerique_7985/open_data_7821/innovation_technologique_9130/partenariat_ministere_41125.html) | Public | Open Justice |
 
 # 2018
 
@@ -51,7 +56,15 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
-|2018-09-27 | Next INpact | [Avec son « entrepôt à données », l’Arcep veut passer à l’ère industrielle](https://www.nextinpact.com/news/107079-avec-son-entrepot-a-donnees-larcep-veut-passer-a-lere-industrielle.htm) | Public | DataReg |
+| 2018-11-23 | Acteurs Publics | [Les députés précisent enfin les contours de l’“open data” des décisions de justice](https://www.acteurspublics.com/2018/11/23/les-deputes-precisent-enfin-les-contours-de-l-open-data-des-decisions-de-justice) | Payant | Open Justice |
+| 2018-11-12 | Acteurs Publics TV | [ Henri Verdier : “Il faudra durablement des activistes et des « serial entrepreneurs » pour faire partie de l’armée des numériciens de l’État” ](https://www.acteurspublics.com/webtv/2018/11/15/henri-verdier-il-faudra-durablement-des-activistes-et-des-serial-entrepreneurs-pour-faire-partie-de-larmee-des-numericiens-de-letat) | Public | EIG |
+| 2018-11-12 | Acteurs Publics TV | [ “Le programme des entrepreneurs d'intérêt général m'a donné envie de rester dans le public” ](https://www.acteurspublics.com/webtv/2018/11/12/le-programme-des-entrepreneurs-d-039-interet-general-m-039-a-donne-envie-de-rester-dans-le-public) | Public | EIG |
+| 2018-10-02 | AE Info | [L’administration cherche des data scientists pour rendre lisible le code du travail grâce à l’intelligence artificielle](https://www.aefinfo.fr/depeche/593010) | Public | Explocode |
+| 2018-09-14 | Silicon | [Emploi IT : l’État recrute des data scientists et des développeurs](https://www.silicon.fr/emploi-etat-geeks-datascientists-218929.html) | Public | EIG |
+| 2018-08-31 | Acteurs Publics | [Le ministère de l’Intérieur dématérialise les signalements](https://www.acteurspublics.com/2018/08/31/le-ministere-de-l-interieur-dematerialise-les-signalements) | Payant | Brigade Numérique |
+| 2018-05-15 | Horizons Publics | [Les premiers pas de l'administration dans l'intelligence artificielle](https://www.horizonspublics.fr/numerique/les-premiers-pas-de-ladministration-dans-lintelligence-artificielle) | Public | EIG |
+| 2018-04-04 | NextImpact | [La France dévoile son plan d’action 2018-2020 en matière d’Open Government](https://www.nextinpact.com/news/106406-la-france-devoile-son-plan-daction-2018-2020-en-matiere-dopen-government.htm) | Public | EIG |
+| 2018-09-27 | Next INpact | [Avec son « entrepôt à données », l’Arcep veut passer à l’ère industrielle](https://www.nextinpact.com/news/107079-avec-son-entrepot-a-donnees-larcep-veut-passer-a-lere-industrielle.htm) | Public | DataReg |
 | 2018-02-19 | Acteurs Publics | [L'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec) | Payant | |
 | 2018-01-18 | C'est Données | [Quand la techno part à l’assaut de la démocratie. Partie 3 : la Civictech](https://cdonnees.com/2018/01/18/quand-la-techno-part-a-lassaut-de-la-democratie-partie-3-la-civictech/) | Public | Défis EIG 1|
 | 2018-01-18 | Hospimedia | [Trois entrepreneurs d'intérêt général travaillent à la valorisation du système des données de santé](http://www.hospimedia.fr/actualite/nominations/20180118-trois-entrepreneurs-d-interet-general-travaillent-a-la) | Payant | Lab Santé |
@@ -68,6 +81,12 @@
 | 2018-04-25 | Blog Etalab | [Entrepreneur.e d’Intérêt Général : Administrations, préparez vos défis pour l’appel à projets de la promotion 3 !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-administrations-preparez-vos-defis-pour-lappel-a-projets-de-la-promotion-3) | Public | EIG 3 |
 | 2018-03-07 | Blog Etalab | [[Vidéo] Entrepreneur.e d’Intérêt Général : à la rencontre de 28 innovateurs publics](https://www.etalab.gouv.fr/video-entrepreneur-e-dinteret-general-a-la-rencontre-de-28-innovateurs-publics) | Public | EIG 2 |
 | 2017-11-29 | Blog Etalab | [Entrepreneur.e d’Intérêt Général : découvrez la Promotion 2 !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2) | Public | EIG 2 |
+
+## Relais administratifs
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2018-09-04 | Mission Société Numérique | [Indexation collaborative : quand les institutions culturelles font appel au public pour annoter les œuvres, les documents et les archives](https://labo.societenumerique.gouv.fr/2018/09/03/indexation-collaborative-insitutitions-culturelles-appel-public-annoter-oeuvres-documents-archives/) | Public | MCC - Inventaire des Orgues |
 
 # 2017
 
