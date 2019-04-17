@@ -37,9 +37,26 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session Mentors | 18 avril |
 
+* Lieu : Liberté Living Lab, Atelier C
+* Qui va animer ? L'équipe EIG Core
+* **Objectifs** : 
+	* Comprendre les facteurs d'une pérennisation réussie
+	* Elaborer des scénarios de pérennisation et identifier les actions à mettre en oeuvre pour les atteindre
+	
+**Programme de la journée**  
+
+14h : accueil / standup   
+14h30 : présentation "Pérenniser un défi EIG"  
+14h50 : tour de table des attentes et craintes  
+15h20 : atelier duo "scénarios de pérennisation"  
+16h50 : pause  
+17h15 : mise en commun  
+17h45 : brainstorm "projet mentors EIG"  
+18h15 : fin de la session  
+
 ### Session EIG | 11 avril |
 
-* Lieu : Liberté Living Lab, Atelier C  
+* Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
 * **Livrables** : TBC
 * **Objectifs** : 
