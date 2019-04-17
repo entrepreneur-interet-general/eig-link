@@ -39,21 +39,21 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG | 11 avril |
 
-* Lieu : Liberté Living Lab, Atelier C . 
-* Qui va animer ? L'équipe EIG Core + des EIG 3 .  
+* Lieu : Liberté Living Lab, Atelier C  
+* Qui va animer ? L'équipe EIG Core + des EIG 3   
 * **Livrables** : TBC
 * **Objectifs** : 
-	* Comprendre le métier de designer . 
-	* Savoir utiliser les outils du design dans son défi . 
+	* Comprendre le métier de designer 
+	* Savoir utiliser les outils du design dans son défi  
 	* Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
 	* Savoir pourquoi et comment communiquer autour de son défi
 
-**Programme de la journée**
+[**Programme de la journée**](https://speakerdeck.com/eig2018/pleniere-design-and-com)
 
-9h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
-10h : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes 
+09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
+10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#)) 
 10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
-11h : Pause  
+11h00 : Pause  
 11h15 : Troisième séquence : User stories / Interfaces (Jean-Baptiste)  
 11h45 : Quatrième séquence : Communication (Sophie)  
 12h15 : Conclusion  
@@ -63,11 +63,10 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 12h30 : Déjeuner    
 14h30 : Ateliers de l'après-midi, en auto-organisation (à définir) :  
 * Clinique défis générale (Soizic) 
-* Recherche utilisateur  
-* Interfaces  
-* Communiquer avec ses parties prenantes  
-* Atelier documentation (Antoine ?)  
-* ... 
+* Design Review (JB)
+* [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
+* Atelier documentation (Antoine)  
+* Atelier communication (Sophie) 
 
 18h - 18h30 : Conclusion de la journée
 
