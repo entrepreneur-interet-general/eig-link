@@ -52,6 +52,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
 10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#)) 
+
 10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
 11h00 : Pause  
 11h15 : Troisième séquence : User stories / Interfaces (Jean-Baptiste)  
@@ -66,6 +67,7 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 * Design Review (JB)
 * [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
 * Atelier publications sur les réseaux sociaux (Antoine)  
+
 16H30 : 2nd session d'ateliers en auto-organisation  
 * Clinique défis stratégique (Soizic) 
 * Design Review (JB)
