@@ -61,14 +61,18 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 _Note : les séquences du matin sont composées d'une présentation de 5 à 10 minutes, puis d'un temps en petits groupes de 20 minutes facilité par les designers de la promotion 3 et par certains EIG Node si besoin._  
 
 12h30 : Déjeuner    
-14h30 : Ateliers de l'après-midi, en auto-organisation (à définir) :  
-* Clinique défis générale (Soizic) 
+14h00 : 1ère session d'ateliers de l'après-midi
+* Clinique défis stratégique (Soizic) 
 * Design Review (JB)
 * [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
+* Atelier publications sur les réseaux sociaux (Antoine)  
+16H30 : 2nd session d'ateliers en auto-organisation  
+* Clinique défis stratégique (Soizic) 
+* Design Review (JB)
 * Atelier documentation (Antoine)  
 * Atelier communication (Sophie) 
 
-18h - 18h30 : Conclusion de la journée
+18h00 - 18h30 : Conclusion de la journée
 
 ### Session EIG | 14 mars | 
 
