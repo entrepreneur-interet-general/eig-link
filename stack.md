@@ -73,12 +73,14 @@ Ce document décrit les outils employés et déployés dans chacun des défis EI
 - Python
 
 ## Plume
+
+### Edition 
 - Python
 - Django
 - NodeJS
 - React
 
-## Plume
+### Exploration
 - NodeJS
 - React
 - ElasticSearch
