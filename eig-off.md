@@ -17,7 +17,7 @@ Pour rappel, les EIG participent à trois types d’événements :
     -   « Fermé » = réservés aux EIG1 + EIG2 + Mentors 1 et 2.
     -   « Ouvert » = tous publics sans restriction.
 -   Ouverts, les événements vont dans notre agenda open, fermés, les événements vont dans notre agenda EIG.
--   Les événements ont lieu de préférence les mercredis après-midis ou soirs.
+-   Les événements ont lieu de préférence les mercredis, jeudis, après-midis ou soirs.
 -   Un format « conférence » ou « atelier » (ou les deux !)
 -   De préférence au LLL pour les événements fermés.
 -   Ça a lieu par défaut ailleurs quand c’est ouvert : si vous voulez le faire avec le LLL vous pouvez voir avec eux, mais indépendamment des créneaux de réservation qui nous sont attribués.
@@ -29,6 +29,12 @@ Pour rappel, les EIG participent à trois types d’événements :
 
 ## Liste des "EIG off"
 *(par ordre anti-chronologique)*
+
+> [**Communication et parties prenantes**](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)<br/>
+> par Nikos Peteinatos le 11 Avril 2019 à 14h30 au LLL
+
+> [**Anonymisation**](https://speakerdeck.com/eig2018/anonymisation)<br/>
+> par Pierre-Alain Jachiet le 4 Avril 2019 à 12h30 au 20, avenue de Segur
 
 > [**Introduction au Traitement Automatique du Langage Naturel**](https://speakerdeck.com/eig2018/introduction-au-traitement-automatique-du-langage-naturel)<br/>
 > par Valentin Barriere le 13 Mars 2019 à 10h30 au LLL
