@@ -98,6 +98,14 @@ Monter le répertoire distant :
 
     ~$ sshfs eig101:/home/ serveur_eig101/
 
+# Faire tourner Docker dans le container
+Il faut modifier quelques lignes de configuration pour le container dans le fichier `/etc/pve/lxc/<ctid>.conf`.
+
+```
+lxc.apparmor.profile: unconfined
+lxc.cgroup.devices.allow: a
+lxc.cap.drop:
+```
 
 # Sauvegardes
 
