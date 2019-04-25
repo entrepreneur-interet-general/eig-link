@@ -35,6 +35,47 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 ## Présentation détaillée des sessions
 > Work in progress
 
+### Séminaire Hors-les-murs | 16/17 mai 
+
+#### Objectifs
+
+- Souder la promotion en passant un bon moment ensemble
+- Offrir des temps de travail entre défis / métiers
+- Préparer le démo day du 6 juin
+
+#### Planning
+
+Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eDwT2uSoDK9Q?both
+
+
+##### Jeudi
+
+| Heure  début | Heure fin | Durée | Description |
+|--------------|-----------|-------|-------------------------------------------|
+| 09:30 | 10:00 | 30mn | Accueil & Petit Dej |
+| 10:00 | 10:30 | 30mn | Présentation du programme |
+| 10:30 | 11:30 | 1h | Micro gamejam |
+| 11:30 | 12:30 | 1h | Atelier |
+| 12:30 | 14:00 | 1h30 | Déjeuner |
+| 14:00 | 14:30 | 30mn | Intervention EIG Next Mathilde / Soizic |
+| 14:30 | 16:00 | 1h30 | Atelier |
+| 16:00 | 16:30 | 30mn | Pause |
+| 16:30 | 18:00 | 1h30 | Atelier |
+
+##### Vendredi
+
+| Heure  début | Heure fin | Durée | Description |
+|--------------|-----------|-------|-------------------------------------------|
+| 09:00 | 09:30 | 30mn | Petit Dej |
+| 09:30 | 10:45 | 1h15 | Atelier |
+| 10:45 | 11:00 | 15mn | Pause roulement |
+| 11:00 | 12:30 | 1h30 | Atelier |
+| 12:30 | 14:00 | 1h30 | Déjeuner |
+| 14:00 | 15:00 | 1h | Atelier |
+| 15:00 | 16:00 | 1h | Atelier |
+| 16:00 | 16:30 | 30mn | Cloture |
+
+
 ### Session Mentors | 18 avril |
 
 * Lieu : Liberté Living Lab, Atelier C
