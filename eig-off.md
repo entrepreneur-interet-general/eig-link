@@ -29,6 +29,8 @@ Pour rappel, les EIG participent à trois types d’événements :
 
 ## Liste des "EIG off"
 *(par ordre anti-chronologique)*
+> [**Implementing an autosuggest module**](https://speakerdeck.com/eig2018/implementing-an-autosuggest-module)<br/>
+> par Armand Giraud le 2 Mai 2019 à 15h au LLL
 
 > [**Communication et parties prenantes**](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)<br/>
 > par Nikos Peteinatos le 11 Avril 2019 à 14h30 au LLL
