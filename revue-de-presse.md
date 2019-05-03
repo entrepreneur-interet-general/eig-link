@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-05-03 | Horizons Publics | [ Le Code du travail numérique en bonne voie ](https://www.horizonspublics.fr/juridique/le-code-du-travail-numerique-en-bonne-voie) | Public | Explocode |
 | 2019-04-30 | Acteurs Publics | [Etalab s’offre les algorithmes d’une entreprise privée pour anonymiser les décisions de justice](https://www.acteurspublics.com/2019/04/30/etalab-lefebvre-sarrut-algorithmes-open-data-decision-de-justice) | Payant | Open Justice |
 | 2019-04-12 | Le Monde Informatique | [Une start-up pour accompagner les entreprises en difficultés](https://www.lemondeinformatique.fr/actualites/lire-une-start-up-pour-accompagner-les-entreprises-en-difficultes-74971.html) | Public | Signaux Faibles |
 | 2019-04-03 | Le Monde | [Signaux faibles, la start-up d’Etat qui veut déjouer les défaillances d’entreprises](https://www.lemonde.fr/economie/article/2019/04/03/signaux-faibles-la-start-up-d-etat-qui-veut-dejouer-les-defaillances-d-entreprises_5445121_3234.html) | Payant | Signaux Faibles |
