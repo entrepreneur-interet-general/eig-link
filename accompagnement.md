@@ -37,44 +37,54 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Séminaire Hors-les-murs | 16/17 mai 
 
+Notre séminaire sera un moment de sprint collectif pour avancé ensemble sur nos défis respectifs. Nous nous organiserons comme à son habitude en "Forum ouvert" où l'on pourra proposer des ateliers et partager nos compétences selon nos besoins du moment.
+- Jeudi sera sous l'axe de la **Production** 
+- Vendredi sera la journée de la **Transmission** 
+
 #### Objectifs
 
 - Souder la promotion en passant un bon moment ensemble
-- Offrir des temps de travail entre défis / métiers
+- Accelerer son défis 
 - Préparer le démo day du 6 juin
-
-#### Planning
+  
+#### Propositions
 
 Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eDwT2uSoDK9Q?both
 
-
-##### Jeudi
+#### Jeudi - **Production**
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
+\ 07:50 | 08:25 | 35mn | [Trajet RER D (Gare de Lyon à Combs-la-Ville Quincy)](https://www.google.com/maps/dir/Gare+de+Lyon,+Place+Louis-Armand,+Paris/Combs+la+Ville+Quincy,+77380+Combs-la-Ville/@48.7560332,2.3208803,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47e6721b2000bf4b:0x3ca1c23108bb64!2m2!1d2.3743773!2d48.8443038!1m5!1m1!1s0x47e5e23e835f1877:0x881eca335bc9bb45!2m2!1d2.547711!2d48.667198!2m3!6e1!7e2!8j1557995400!3e3)|
+| 08:30 | 09:30 | 1h00 | Trajet Navette |
 | 09:30 | 10:00 | 30mn | Accueil & Petit Dej |
-| 10:00 | 10:30 | 30mn | Présentation du programme |
-| 10:30 | 11:30 | 1h | Micro gamejam |
-| 11:30 | 12:30 | 1h | Atelier |
+| 10:00 | 10:30 | 30mn | StandUp |
+| 10:30 | 11:00 | 30mn | Présentation du programme / Répartition atelier (sujets qui souhaite faire avancé) |
+| 11:00 | 12:30 | 1h30 | Atelier (dont Intégration continue / déploiement continu (CI/CD) avec CircleCI : animé par Antoine)|
 | 12:30 | 14:00 | 1h30 | Déjeuner |
-| 14:00 | 14:30 | 30mn | Intervention EIG Next Mathilde / Soizic |
-| 14:30 | 16:00 | 1h30 | Atelier |
-| 16:00 | 16:30 | 30mn | Pause |
-| 16:30 | 18:00 | 1h30 | Atelier |
+| 14:00 | 14:15 | 15mn | Icebreaking/Café "J'ai déjà fait..." (à lire à l'apéro)|
+| 14:15 | 15:45 | 1h30 | Atelier |
+| 15:45 | 16:00 | 15mn | Pause |
+| 16:00 | 17:00 | 1h00 | Atelier |
+| 17:00 | 18:00 | 1h00 | **Plénière de fin de journée** dont Intervention EIG Next (Mathilde & Soizic) // Focus group : retours sur le programme EIG (animé par l'équipe EIG Node) |
+| 18:00 | 20:00 | 2h00 | Apréo/Baignade |
+| 20:00 | 21:00 | 1h30 | Diner |
+| 21:30 | ... | ... |Soirée |
 
-##### Vendredi
+#### Vendredi - **Transmission**
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
 | 09:00 | 09:30 | 30mn | Petit Dej |
-| 09:30 | 10:45 | 1h15 | Atelier |
-| 10:45 | 11:00 | 15mn | Pause roulement |
-| 11:00 | 12:30 | 1h30 | Atelier |
-| 12:30 | 14:00 | 1h30 | Déjeuner |
-| 14:00 | 15:00 | 1h | Atelier |
-| 15:00 | 16:00 | 1h | Atelier |
-| 16:00 | 16:30 | 30mn | Cloture |
-
+| 09:30 | 09:45 | 15mn | Présentation de la journée (présentation du démo day 6 Juin) |
+| 09:45 | 11:15 | 1h30 | Atelier (Pérennisation du défi (JB) |
+| 11:15 | 11:30 | 15mn | Pause |
+| 11:30 | 12:30 | 1h00 | Atelier (dont Documentation animé par Antoine et Bastien) |
+| 12:30 | 14:00 | 1h30 | Déjeuner + Prévoir ses affaires pour partir des la fin de la planière de cloture) |
+| 14:00 | 15:00 | 1h00 | Atelier (dont Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible) Objectif : savoir présenter son défi de manière à intéresser les gens) |
+| 15:00 | 16:00 | 1h00 | Atelier (dont Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc.) |
+| 16:00 | 16:30 | 30mn | **Plénière de fin** |
+| 16:00 | 17:30 | 1h00 | Navette de retour |
 
 ### Session Mentors | 18 avril |
 
