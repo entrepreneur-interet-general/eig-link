@@ -22,13 +22,12 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Open source / Open data | |
 | EIG seuls | 11 avril | 9h - 18h30 | LLL, Grand Atelier (rue d'Alexandrie) | Communication / Utilisateurs | |
 | Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Pérennisation des défis | |
-| **Séminaire EIG** | 16 & 17 mai | Les 2 jours | TBC | "Sprint défis" | |
-| Mentors | 23 mai | 14h - 18h30 | LLL, Atelier C (rue du Caire) | TBC | |
-| EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Bilan à mi-parcours | |
-| EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | Démo day interne | |
-| Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) |
+| **Séminaire EIG** | 16 & 17 mai | Les 2 jours | Hostellerie de Vrennes | "Sprint défis" | |
+| EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Démo day interne + Bilan à mi-parcours | |
+| EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | A déterminer | |
+| Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) | A déterminer | |
 | **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC
-| Mentors | 19 septembre | 14h - 18h30 | Atelier C
+| Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) |
 | EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | TBC
 | **Restitution** (EIG + mentors) | 7 ou 14 novembre | TBC | TBC
 
