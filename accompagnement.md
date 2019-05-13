@@ -36,14 +36,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Séminaire Hors-les-murs | 16/17 mai 
 
-Notre séminaire sera un moment de sprint collectif pour avancé ensemble sur nos défis respectifs. Nous nous organiserons comme à son habitude en "Forum ouvert" où l'on pourra proposer des ateliers et partager nos compétences selon nos besoins du moment.
+Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur nos défis respectifs. Nous nous organiserons comme à son habitude en "Forum ouvert" où l'on pourra proposer des ateliers et partager nos compétences selon nos besoins du moment.
 - Jeudi sera sous l'axe de la **Production** 
 - Vendredi sera la journée de la **Transmission** 
 
 #### Objectifs
 
 - Souder la promotion en passant un bon moment ensemble
-- Accelerer son défis 
+- Accelerer son défi 
 - Préparer le démo day du 6 juin
   
 #### Propositions
@@ -76,14 +76,25 @@ Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eD
 |--------------|-----------|-------|-------------------------------------------|
 | 09:00 | 09:30 | 30mn | Petit Dej |
 | 09:30 | 09:45 | 15mn | Présentation de la journée (présentation du démo day 6 Juin) |
-| 09:45 | 11:15 | 1h30 | Atelier (Pérennisation du défi (JB) |
+| 09:45 | 11:15 | 1h30 | Atelier (Pérennisation du défi) |
 | 11:15 | 11:30 | 15mn | Pause |
 | 11:30 | 12:30 | 1h00 | Atelier (dont Documentation animé par Antoine et Bastien) |
 | 12:30 | 14:00 | 1h30 | Déjeuner + Prévoir ses affaires pour partir des la fin de la planière de cloture) |
-| 14:00 | 15:00 | 1h00 | Atelier (dont Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible) Objectif : savoir présenter son défi de manière à intéresser les gens) |
+| 14:00 | 15:00 | 1h00 | Atelier (dont Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible)) |
 | 15:00 | 16:00 | 1h00 | Atelier (dont Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc.) |
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
+
+#### Détails des ateliers
+
+| Créneau Atelier | Durée | Grande Salle |  Salle CORUM | Salle ATRIUM | Salle ALCOVE |
+| J1 11:00-12:30 | 1h30 | Intégration continue / déploiement continu (CI/CD) avec CircleCI : animé par Antoine | | | |
+| J1 14:15-15:45 | 1h30 |  | | | |
+| J1 16:00-17:00 | 1h00 |  | | | |
+| J2 09:45-11:15 | 1h30 | Pérénisation du défis | | | |
+| J2 11:30-12:30 | 1h00 | Documentation animé par Antoine et Bastien | | | |
+| J2 14:00-15:00 | 1h00 | Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible) - Objectif : savoir présenter son défi de manière à intéresser les gens | | | |
+| J2 15:00-16:00 | 1h00 |  | Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc. | | |
 
 ### Session Mentors | 18 avril |
 
