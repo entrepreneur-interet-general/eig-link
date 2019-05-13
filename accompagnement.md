@@ -54,7 +54,7 @@ Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eD
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
-\ 07:50 | 08:25 | 35mn | [Trajet RER D (Gare de Lyon à Combs-la-Ville Quincy)](https://www.google.com/maps/dir/Gare+de+Lyon,+Place+Louis-Armand,+Paris/Combs+la+Ville+Quincy,+77380+Combs-la-Ville/@48.7560332,2.3208803,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47e6721b2000bf4b:0x3ca1c23108bb64!2m2!1d2.3743773!2d48.8443038!1m5!1m1!1s0x47e5e23e835f1877:0x881eca335bc9bb45!2m2!1d2.547711!2d48.667198!2m3!6e1!7e2!8j1557995400!3e3)|
+| 07:50 | 08:25 | 35mn | [Trajet RER D (Gare de Lyon à Combs-la-Ville Quincy)](https://www.google.com/maps/dir/Gare+de+Lyon,+Place+Louis-Armand,+Paris/Combs+la+Ville+Quincy,+77380+Combs-la-Ville/@48.7560332,2.3208803,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47e6721b2000bf4b:0x3ca1c23108bb64!2m2!1d2.3743773!2d48.8443038!1m5!1m1!1s0x47e5e23e835f1877:0x881eca335bc9bb45!2m2!1d2.547711!2d48.667198!2m3!6e1!7e2!8j1557995400!3e3)|
 | 08:30 | 09:30 | 1h00 | Trajet Navette |
 | 09:30 | 10:00 | 30mn | Accueil & Petit Dej |
 | 10:00 | 10:30 | 30mn | StandUp |
@@ -88,6 +88,7 @@ Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eD
 #### Détails des ateliers
 
 | Créneau Atelier | Durée | Grande Salle |  Salle CORUM | Salle ATRIUM | Salle ALCOVE |
+|--------------|-----------|-----------|-----------|-----------|-----------|
 | J1 11:00-12:30 | 1h30 | Intégration continue / déploiement continu (CI/CD) avec CircleCI : animé par Antoine | | | |
 | J1 14:15-15:45 | 1h30 |  | | | |
 | J1 16:00-17:00 | 1h00 |  | | | |
