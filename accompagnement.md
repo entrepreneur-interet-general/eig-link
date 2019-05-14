@@ -71,6 +71,10 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eDwT2uSoDK9Q?both
 
+#### Détails des ateliers
+
+**[Tableau de répartitions des ateliers](https://docs.google.com/spreadsheets/d/17wwGk2AVsNVtDH3uMKZHH9KG-xw3tCF8d2EcZNFi_r8/edit#gid=0)**
+
 #### Jeudi - **Production**
 
 | Heure  début | Heure fin | Durée | Description |
@@ -105,20 +109,6 @@ Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eD
 | 15:00 | 16:00 | 1h00 | Atelier (dont Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc.) |
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
-
-#### Détails des ateliers
-
-| Créneau Atelier | Durée | Grande Salle |  Salle CORUM | Salle ATRIUM | Salle ALCOVE |
-|--------------|-----------|-----------|-----------|-----------|-----------|
-| J1 11:00-12:30 | 1h30 | Intégration continue / déploiement continu (CI/CD) avec CircleCI : animé par Antoine | | | |
-| J1 14:15-15:45 | 1h30 |  | | | |
-| J1 16:00-17:00 | 1h00 |  | | | |
-| J1 17:00-18:00 | 1h00 |  **Plénière de fin de journée** : Intervention EIG Next (Mathilde & Soizic) // Focus group : retours sur le programme EIG (animé par l'équipe EIG Node)| / | / | / |
-| J2 09:45-11:15 | 1h30 | Pérennisation du défis | | | |
-| J2 11:30-12:30 | 1h00 | Documentation animé par Antoine et Bastien | | | |
-| J2 14:00-15:00 | 1h00 | Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible) - Objectif : savoir présenter son défi de manière à intéresser les gens | | | |
-| J2 15:00-16:00 | 1h00 |  | Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc. | | |
-| J2 16:00-16:30 | 30mn | **Plénière de fin** | / | / | / |
 
 ### Session Mentors | 18 avril |
 
