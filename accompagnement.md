@@ -22,7 +22,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Open source / Open data | |
 | EIG seuls | 11 avril | 9h - 18h30 | LLL, Grand Atelier (rue d'Alexandrie) | Communication / Utilisateurs | |
 | Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Pérennisation des défis | |
-| **Séminaire EIG** | 16 & 17 mai | Les 2 jours | Hostellerie de Vrennes | "Sprint défis" | |
+| **Séminaire EIG** | 16 & 17 mai | Les 2 jours | Hostellerie de Varennes | "Sprint défis" | |
 | EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Démo day interne + Bilan à mi-parcours | |
 | EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | A déterminer | |
 | Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) | A déterminer | |
@@ -33,6 +33,27 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 > Work in progress
+
+### Session EIG & mentors | 6 juin
+
+* Lieu : Liberté Living Lab, Grand Atelier
+* Qui va animer ? L'équipe EIG Core    
+* **Livrables** : des démos et des feuilles de route pour les défis
+* **Objectifs** : 
+	* Partager les avancées de son défi 
+	* Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
+
+#### Programme de la journée
+
+**MATIN - EIG SEULS**   
+09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
+10h00 - 12h30 : stands EIG (détails à venir)  
+12h30 - 14h : repas tous ensemble -les mentors peuvent se joindre au groupe
+
+**APRES-MIDI - MENTORS + EIG + invités d'Etalab, beta.gouv.fr...**   
+14h - 15h30 : accueil & démos (3 minutes par défi)    
+15h30 - 16h : pause  
+16h - 18h : atelier "point à mi-parcours" (détails à venir)    
 
 ### Séminaire Hors-les-murs | 16/17 mai 
 
