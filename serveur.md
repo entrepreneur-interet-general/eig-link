@@ -53,7 +53,7 @@ Les étapes à ne pas manquer sont :
 
 # Associer un sous-domaine de eig-forever.org à un CT/VM
 
-Demander à Bastien en indiquant :
+Demander à Antoine en indiquant :
 
 - le sous-domaine que vous voulez utiliser
 - l’adresse IP du CT ou de la VM que vous voulez utiliser
@@ -61,14 +61,14 @@ Demander à Bastien en indiquant :
 
 Par exemple :
 
-    Hello Bastien,
+    Hello Antoine,
     
     je voudrais que le sous-domaine blabla[.eig-forever.org] renvoie
     vers le port 8080 de ma VM 192.168.0.107.
 
 Voici un [exemple de configuration nginx](https://gist.github.com/bzg/b607e2e3cad5d722c9d496aca9aa4acf) pour que le serveur de calcul redirige vers un service web hébergé sur un container ou une VM.
 
-Si vous avez besoin qu’un port du serveur de calcul (disons le port `10222`) redirige vers un port du container ou de la VM (disons le port `22`), demander à Bastien qu’il fasse cette redirection en indiquant l’adresse IP de votre container/VM.
+Si vous avez besoin qu’un port du serveur de calcul (disons le port `10222`) redirige vers un port du container ou de la VM (disons le port `22`), demander à Antoine qu’il fasse cette redirection en indiquant l’adresse IP de votre container/VM.
 
 Voici un exemple de règle `iptables` pour la redirection:
 
@@ -77,7 +77,7 @@ Voici un exemple de règle `iptables` pour la redirection:
 
 # Vous connecter à votre CT/VM
 
-1. Demandez à Bastien de vous créer un utilisateur sur la machine `eig.etalab.gouv.fr` et dans l’interface de Proxmox (ex: "robert")
+1. Demandez à Antoine de vous créer un utilisateur sur la machine `eig.etalab.gouv.fr` et dans l’interface de Proxmox (ex: "robert")
 2. Créez votre container ou votre VM (ex: CT identifié par "101")
 3. Sur votre machine locale, éditez le fichier ~/.ssh/config :
     ```bash
