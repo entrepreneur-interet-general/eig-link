@@ -1,8 +1,8 @@
 # Usage du serveur
 
-Le serveur EIG a été installé par Étalab.
+Le serveur EIG a été installé par Etalab.
 
-C’est un serveur de 32GO de RAM acheté auprès d’OVH avec Proxmox VE.
+C’est un serveur de 32 Go de RAM acheté auprès d’OVH avec Proxmox VE.
 
 Il sert à :
 
@@ -12,10 +12,7 @@ Il sert à :
 Il n’a **pas** vocation à :
 
 - héberger des applications des défis sur le long terme ;
-- faire d’énorme calculs (nous n’avons que 32GO à partager).
-
-Un deuxième serveur du même calibre est en cours d’achat pour EIG.
-
+- faire d’énorme calculs (nous n’avons que 32 Go à partager).
 
 # Systèmes d’exploitation disponibles
 
@@ -23,6 +20,7 @@ Pour les containers :
 
 - debian-9.0-standard\_9.3.1\_amd64.tar.gz
 - ubuntu-16.04-standard\_16.04-1\_amd64.tar.gz
+- ubuntu-18.04-standard\_18.04-2\_amd64.tar.gz
 
 Pour les VM :
 
@@ -55,9 +53,9 @@ Les étapes à ne pas manquer sont :
 
 Demander à Antoine en indiquant :
 
-- le sous-domaine que vous voulez utiliser
-- l’adresse IP du CT ou de la VM que vous voulez utiliser
-- le port de ce CT ou de cette VM que vous voulez atteindre
+- le sous-domaine que vous voulez utiliser ;
+- l’adresse IP du CT ou de la VM que vous voulez utiliser ;
+- le port de ce CT ou de cette VM que vous voulez atteindre.
 
 Par exemple :
 
@@ -85,7 +83,7 @@ Voici un exemple de règle `iptables` pour la redirection:
        user root
        ProxyCommand ssh robert@eig.etalab.gouv.fr nc -w 1 192.168.0.101 22
     ```
-   Cette configuration vous permettra de taper `~$ ssh eig101` dans un Terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
+   Cette configuration vous permettra de taper `~$ ssh eig101` dans un terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
 4. Vous pouvez aussi ajouter une clef publique de votre machine locale à l’utilisateur `root` du container et à l’utilisateur `robert` de la machine `eig.etalab.gouv.fr` pour ne pas avoir à taper deux mots de passe à chaque fois.
 
 # Utiliser `sshfs` pour monter un répertoire distant
