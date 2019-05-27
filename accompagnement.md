@@ -112,7 +112,7 @@ Rappel :
 
 **11h : inversion des rôles des groupes A et B**
 
-**Planning des rotations de 10h à 11h :**
+**Planning des rotations de 11h à 12h :**
 
 | Stand Pitch | 11h | 11h15 | 11h30 | 11h45 | 
 | -------- | -------- | -------- | -------- | -------- |
