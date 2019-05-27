@@ -2,6 +2,7 @@
 
 > Triées anti-chronologiquement
 
+- 1 Juillet - Forum parlementaire Sénat avec démonstration de l'outil **Open Justice**
 - (Semaine 27 Juin) Présentation devant cabinets Elysée, PM (à vous de voir) et SENUM de plusieurs défis (**OpenJustice**, **Explocode**, **DataJust**...)
 - 12/06/2019 - **OpenChronic** - Second Meetup 
 - 10/06/2019 - **LexImpact** - OpenLab avec les collaborateurs / collaboratrices parlementaires
