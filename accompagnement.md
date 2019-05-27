@@ -36,38 +36,55 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG & mentors | 6 juin
 
-* Lieu : Liberté Living Lab, Grand Atelier
-* Qui va animer ? L'équipe EIG Core    
+* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* Qui va animer ? L'équipe EIG Core et Hugo (défi Karfu'R)   
 * **Livrables** : des démos et des feuilles de route pour les défis
 * **Objectifs** : 
-	* Partager les avancées de son défi 
+	* Partager les avancées de son défi et recevoir des retours de la promotion
 	* Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
 
-#### Programme de la journée
-
-**MATIN - EIG SEULS**   
-
+#### PROGRAMME DE LA MATINEE - EIG SEULS 
 
 **9h30-10h** : Accueil, standup
 
 **10h00-12h** : Speed-dating défis
+* 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois. 
+* 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois. 
 
-Le format speed-dating défis est un nouveau format de présentation et de partage entre défis. Sur un stand, un défi pitch son projet à un premier défi, puis à un second défi... Exemple : Accoss-Plateforme présente son défi à IA Flash, puis 15min après il le (re)présente à Karfu'r...
+**12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
 
-- Le cycle de ce speed-dating défis est de **15min** 
-    - Un défi pitch **5min** à un autre défi
-    - Ensuite les 2 défis peuvent échanger pendant **10min** 
+- Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
+
+**12h30 - 14h** : Déjeuner
+
+#### Format du speed-dating 
+
+Le format speed-dating défis est un nouveau format de présentation et de partage entre défis. 
+
+Sur un stand, chaque défi présente son projet à une autre équipe défi. 
+- Le cycle de ce speed-dating défis est de **15min** :
+    - Le défi pitche **5min** devant un autre défi.
+    - Les 2 défis peuvent échanger pendant **10min**.
+
+**Important** au bout de 15min :
+- Le défi qui écoute passe à un autre défi 
+- Le défi qui présent reste sur place et voit un nouveau défi arriver   
+_Exemple : ACOSS Plateforme présente son défi à IA Flash. 15 minutes après, IA Flash part écouter Adler, et l'équipe ACOSS Plateforme présente à nouveau son défi, à Karfu'R cette fois._
+
+8 défis pitchent à la fois. 
+Les défis sont répartis en 2 groupes de 8 (A et B). 
+Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, les rôles s'inversent.
 
 **De 10h à 11h** :
-- Le **groupe A** est le groupe de défis qui *pitch*. Ils pourront présenter leur défis 4 fois.
-- Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcherons.
+- Le **groupe A** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
 **De 11h à 12h** : Nous inversons les rôles du groupe A et B 
-- Le **groupe B** est le groupe de défis qui *pitch*. Ils pourront présenter leur défis 4 fois.
-- Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcherons.
+- Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-Dans le **Groupe A** nous avons : 
-1. Accos
+**Groupe A** : 
+1. ACOSS Plateforme
 2. Adler
 3. CartoBio
 4. CibNav
@@ -76,32 +93,21 @@ Dans le **Groupe A** nous avons :
 7. EIGLink
 8. ExploCode
 
-Dans le **Groupe B** nous avons : 
+**Groupe B** : 
 1. IA Flash
 2. Karfu'R
 3. LexImpact
 4. OpenChronic
 5. OpenJustice
-6. Plume (Redac)
-7. Plume (Explo)
+6. Plume (Rédaction)
+7. Plume (Exploration)
 8. Polygraphe
-
-Nous avons 8 stands. Le groupe A se repartira chacun à un stand pour présenter son défi. Il restera a son stand pendant 1h. 
-
-Rappel :
-- Le cycle de ce speed-dating défis est de **15min** 
-    - Un défis pitch **5min** à un autre défi
-    - Ensuite les 2 défis peuvent échanger pendant **10min** 
-
-**Important** au bout de 15min :
-- Le défi qui écoute passe à un autre défi 
-- Le défi qui présent reste sur place et voit un nouveau défi arriver
 
 **Planning des rotations de 10h à 11h :**
 
 | Stand Pitch | 10h | 10h15 | 10h30 | 10h45 | 
 | -------- | -------- | -------- | -------- | -------- |
-| 1. Accos | IA Flash | Karfu'R| LexImpact | OpenChronic|
+| 1. ACOSS Plateforme | IA Flash | Karfu'R| LexImpact | OpenChronic|
 | 2. Adler | Karfu'R | LexImpact | OpenChronic |OpenJustice|
 | 3. CartoBio | LexImpact | OpenChronic |OpenJustice|Plume (Redac) | 
 | 4. CibNav | OpenChronic | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
@@ -120,26 +126,18 @@ Rappel :
 | 2. Karfu'R | EIGLink| DataReg| DataJust|CibNav|
 | 3. LexImpact | DataReg| DataJust|CibNav| CartoBio|
 | 4. OpenChronic | DataJust|CibNav| CartoBio| Adler|
-| 5. OpenJustice | CibNav| CartoBio| Adler| Accos|
+| 5. OpenJustice | CibNav| CartoBio| Adler| ACOSS Plateforme|
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
 
-
-**12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
-
-- Pour les défis qui souhaite refaire l'exercice avec un autre défi qu'il n'a pas vu.
-
-**12h30 - 14h** : Déjeuner
-
-
-**APRES-MIDI - MENTORS + EIG + invités d'Etalab, beta.gouv.fr...**   
+### PROGRAMME DE L'APRES-MIDI - MENTORS + EIG + INVITES (ETALAB, BETA.GOUV.FR...)   
 
 **14h - 15h45** : Accueil + démos
 
-16 projets, 4 minutes par défi + 30 minutes de questions à la fin.   
+16 projets, 3 minutes par défi + 30 minutes de questions à la fin.   
 
-1. Accos
+1. ACOSS Plateforme
 2. Adler
 3. CartoBio
 4. CibNav
@@ -152,8 +150,8 @@ Rappel :
 11. LexImpact
 12. OpenChronic
 13. OpenJustice
-14. Plume (Redac)
-15. Plume (Explo)
+14. Plume (Rédaction)
+15. Plume (Exploration)
 16. Polygraphe
 
 **15h45 - 16h** : Pause
