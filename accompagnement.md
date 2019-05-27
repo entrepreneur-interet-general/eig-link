@@ -46,14 +46,121 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 #### Programme de la journée
 
 **MATIN - EIG SEULS**   
-09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
-10h00 - 12h30 : stands EIG (détails à venir)  
-12h30 - 14h : repas tous ensemble -les mentors peuvent se joindre au groupe
+
+
+**9h30-10h** : Accueil, standup
+
+**10h00-12h** : Speed-dating défis
+
+Le format speed-dating défis est un nouveau format de présentation et de partage entre défis. Sur un stand, un défi pitch son projet à un premier défi, puis à un second défi... Exemple : Accoss-Plateforme présente son défi à IA Flash, puis 15min après il le (re)présente à Karfu'r...
+
+- Le cycle de ce speed-dating défis est de **15min** 
+    - Un défi pitch **5min** à un autre défi
+    - Ensuite les 2 défis peuvent échanger pendant **10min** 
+
+**De 10h à 11h** :
+- Le **groupe A** est le groupe de défis qui *pitch*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcherons.
+
+**De 11h à 12h** : Nous inversons les rôles du groupe A et B 
+- Le **groupe B** est le groupe de défis qui *pitch*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcherons.
+
+Dans le **Groupe A** nous avons : 
+1. Accos
+2. Adler
+3. CartoBio
+4. CibNav
+5. DataJust
+6. DataReg
+7. EIGLink
+8. ExploCode
+
+Dans le **Groupe B** nous avons : 
+1. IA Flash
+2. Karfu'R
+3. LexImpact
+4. OpenChronic
+5. OpenJustice
+6. Plume (Redac)
+7. Plume (Explo)
+8. Polygraphe
+
+Nous avons 8 stands. Le groupe A se repartira chacun à un stand pour présenter son défi. Il restera a son stand pendant 1h. 
+
+Rappel :
+- Le cycle de ce speed-dating défis est de **15min** 
+    - Un défis pitch **5min** à un autre défi
+    - Ensuite les 2 défis peuvent échanger pendant **10min** 
+
+**Important** au bout de 15min :
+- Le défi qui écoute passe à un autre défi 
+- Le défi qui présent reste sur place et voit un nouveau défi arriver
+
+**Planning des rotations de 10h à 11h :**
+
+| Stand Pitch | 10h | 10h15 | 10h30 | 10h45 | 
+| -------- | -------- | -------- | -------- | -------- |
+| 1. Accos | IA Flash | Karfu'R| LexImpact | OpenChronic|
+| 2. Adler | Karfu'R | LexImpact | OpenChronic |OpenJustice|
+| 3. CartoBio | LexImpact | OpenChronic |OpenJustice|Plume (Redac) | 
+| 4. CibNav | OpenChronic | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
+| 5. DataJust | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
+| 6. DataReg | Plume (Redac) | Plume (Explo)| Polygraphe |IA Flash |
+| 7. EIGLink | Plume (Explo) |Polygraphe |IA Flash | Karfu'R|
+| 8. ExploCode | Polygraphe |IA Flash | Karfu'R| LexImpact |
+
+**11h : inversion des rôles des groupes A et B**
+
+**Planning des rotations de 10h à 11h :**
+
+| Stand Pitch | 11h | 11h15 | 11h30 | 11h45 | 
+| -------- | -------- | -------- | -------- | -------- |
+| 1. IA Flash | ExploCode | EIGLink | DataReg | DataJust |
+| 2. Karfu'R | EIGLink| DataReg| DataJust|CibNav|
+| 3. LexImpact | DataReg| DataJust|CibNav| CartoBio|
+| 4. OpenChronic | DataJust|CibNav| CartoBio| Adler|
+| 5. OpenJustice | CibNav| CartoBio| Adler| Accos|
+| 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
+| 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
+| 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
+
+
+**12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
+
+- Pour les défis qui souhaite refaire l'exercice avec un autre défi qu'il n'a pas vu.
+
+**12h30 - 14h** : Déjeuner
+
 
 **APRES-MIDI - MENTORS + EIG + invités d'Etalab, beta.gouv.fr...**   
-14h - 15h30 : accueil & démos (3 minutes par défi)    
-15h30 - 16h : pause  
-16h - 18h : atelier "point à mi-parcours" (détails à venir)    
+
+**14h - 15h45** : Accueil + démos
+
+16 projets, 4 minutes par défi + 30 minutes de questions à la fin.   
+
+1. Accos
+2. Adler
+3. CartoBio
+4. CibNav
+5. DataJust
+6. DataReg
+7. EIGLink
+8. ExploCode
+9. IA Flash
+10. Karfu'R
+11. LexImpact
+12. OpenChronic
+13. OpenJustice
+14. Plume (Redac)
+15. Plume (Explo)
+16. Polygraphe
+
+**15h45 - 16h** : Pause
+
+**16h - 17h30** : Atelier "Feuille de route" avec les mentors
+
+**17h30 - 18h** : Restitution   
 
 ### Séminaire Hors-les-murs | 16/17 mai 
 
