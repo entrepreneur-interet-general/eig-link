@@ -174,15 +174,11 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 - Accelerer son défi 
 - Préparer le démo day du 6 juin
   
-#### Propositions
+#### Planning des 2 jours 
 
-Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eDwT2uSoDK9Q?both
+> Retours détaillés du séminaire voir : [Séminaire mai 2019](./seminaire-2019-05.md)
 
-#### Détails des ateliers
-
-**[Tableau de répartitions des ateliers](https://docs.google.com/spreadsheets/d/17wwGk2AVsNVtDH3uMKZHH9KG-xw3tCF8d2EcZNFi_r8/edit#gid=0)**
-
-#### Jeudi - **Production**
+##### Jeudi - **Production**
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
@@ -193,16 +189,15 @@ Lien des ateliers proposés par les EIG : https://pad.etalab.studio/-9qdRIfzR8eD
 | 10:30 | 11:00 | 30mn | Présentation du programme / Répartition atelier (sujets qui souhaite faire avancé) |
 | 11:00 | 12:30 | 1h30 | Atelier (dont Intégration continue / déploiement continu (CI/CD) avec CircleCI : animé par Antoine)|
 | 12:30 | 14:00 | 1h30 | Déjeuner |
-| 14:00 | 14:15 | 15mn | Icebreaker/Café "J'ai déjà fait..." (à lire à l'apéro)|
+| 14:00 | 14:15 | 15mn | Off |
 | 14:15 | 15:45 | 1h30 | Atelier |
 | 15:45 | 16:00 | 15mn | Pause |
 | 16:00 | 17:00 | 1h00 | Atelier |
 | 17:00 | 18:00 | 1h00 | **Plénière de fin de journée** dont Intervention EIG Next (Mathilde & Soizic) // Focus group : retours sur le programme EIG (animé par l'équipe EIG Node) |
-| 18:00 | 20:00 | 2h00 | Apéro/Baignade |
+| 18:00 | 20:00 | 2h00 | Off |
 | 20:00 | 21:00 | 1h30 | Dîner |
-| 21:30 | ... | ... |Soirée |
 
-#### Vendredi - **Transmission**
+##### Vendredi - **Transmission**
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
