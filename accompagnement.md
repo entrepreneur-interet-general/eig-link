@@ -134,10 +134,36 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 ### PROGRAMME DE L'APRES-MIDI - MENTORS + EIG + INVITES (ETALAB, BETA.GOUV.FR...)   
 
-**14h - 15h45** : Accueil + démos
+**13h45 - 14h00** : Accueil
 
-16 projets, 3 minutes par défi + 30 minutes de questions à la fin.   
+**14h - 17h30** : Démos + Atelier "Feuille de route" avec les mentors
 
+Nous avons 15 défis. Chauque défi doit pitcher devant 10/20 personnes. Le format de pitch est de 20 minutes par défi : 
+- 8 minutes de pitch 
+- 12 minutes de Q/R 
+
+Proposition du format pitch :
+1. Rappel de la problématique de départ (1min)
+2. Détails les utilisateurs et de leurs besoins + modification de la problématique suite à l’immersion (2min)
+3. Démonstration du prototype/solution en cours de développement (2min)
+4. Énonciation des challenges, blocages, problématiques en cours (2min)
+5. Présentation de la Roadmap et ambitions fonctionnelles et stratégiques (1min)
+
+Nous avons 2 salles et une repartition des défis par salle
+
+| Horraire | Grand Atelier | Atelier B |
+| -------- | -------- | -------- |
+| 14h - 15h     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     |
+| 15h - 15h10     | Possible changement de salle | Possible changement de salle |
+| 15h10 - 16h10     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     |
+| 16h10 - 16h20     | Possible changement de salle | Possible changement de salle |
+| 16h20 - 17h30     | **Atelier "Feuille de route"** | **3 défis pitchent 20min chacun**     |
+
+Selon le tableau ci-dessous nous avons 3 défi par heures sur 2 scènes soit 6 défis par heures, soit 15 défis en 3 heures à répartir sur l’après-midi. Chaque observateur aura une fiche à remplir en quelques points positifs, négatifs, interrogations qu’il peut rendre aux défis à la fin de la journée s’il n’a pas eu l’occasion de l’évoquer lors du tour de clarification et de réaction. Une facilitation est omniprésente pour maintenir un rythme et tenir le timing.
+
+**Important** : Le dernier créneau sera sera un atelier "Feuille de route" pour les défis/mentor qui le souhaite.
+
+Liste des défis :
 1. ACOSS Plateforme
 2. Adler
 3. CartoBio
@@ -151,13 +177,8 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 11. LexImpact
 12. OpenChronic
 13. OpenJustice
-14. Plume (Rédaction)
-15. Plume (Exploration)
-16. Polygraphe
-
-**15h45 - 16h** : Pause
-
-**16h - 17h30** : Atelier "Feuille de route" avec les mentors
+14. Plume
+15. Polygraphe
 
 **17h30 - 18h** : Restitution   
 
