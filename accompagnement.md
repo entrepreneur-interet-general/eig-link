@@ -154,7 +154,7 @@ Nous avons 2 salles et une repartition des défis par salle
 **14h- 14h30** Arrivée
 
 | Horraire | Grand Atelier - Partie 1 | Grand Atelier - Partie 2 | Atelier B |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- |-------- |
 | 14h30 - 15h30     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     | (vide) |
 | 15h30 - 16h00     | Pause et possible changement de salle | Pause et possible changement de salle | (vide) |
 | 16h00 - 17h30     | Activité libre | **3 défis pitchent 20min chacun** | **Atelier "Feuille de route"** |
