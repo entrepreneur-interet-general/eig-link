@@ -151,13 +151,13 @@ Proposition du format pitch :
 
 Nous avons 2 salles et une repartition des défis par salle
 
+**14h- 14h30** Arrivée
+
 | Horraire | Grand Atelier | Atelier B |
 | -------- | -------- | -------- |
-| 14h - 15h     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     |
-| 15h - 15h10     | Possible changement de salle | Possible changement de salle |
-| 15h10 - 16h10     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     |
-| 16h10 - 16h20     | Possible changement de salle | Possible changement de salle |
-| 16h20 - 17h30     | **Atelier "Feuille de route"** | **3 défis pitchent 20min chacun**     |
+| 14h30 - 15h30     | **3 défis pitchent 20min chacun** | **3 défis pitchent 20min chacun**     |
+| 15h30 - 16h00     | Pause et possible changement de salle | Pause et possible changement de salle |
+| 16h00 - 17h30     | **Atelier "Feuille de route"** | **3 défis pitchent 20min chacun**     |
 
 Selon le tableau ci-dessous nous avons 3 défi par heures sur 2 scènes soit 6 défis par heures, soit 15 défis en 3 heures à répartir sur l’après-midi. Chaque observateur aura une fiche à remplir en quelques points positifs, négatifs, interrogations qu’il peut rendre aux défis à la fin de la journée s’il n’a pas eu l’occasion de l’évoquer lors du tour de clarification et de réaction. Une facilitation est omniprésente pour maintenir un rythme et tenir le timing.
 
