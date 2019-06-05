@@ -1,5 +1,7 @@
 # Programme d'accompagnement EIG 2019
 
+[[toc]]
+
 Dans l'[animation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/animation.md), le **programme d'accompagnement** comprend des sessions avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors. Au commencement du programme un bootcamp est organisé et 2 séminaires collectifs de 2 jours (aussi nommé EIG "hors-les-murs") sont prévue. Ce programme permet ainsi :
 * d'apporter de la valeur à la réalisation des défis
 * d'assurer des synergies techniques et méthodologiques (entre défis et compétences)
