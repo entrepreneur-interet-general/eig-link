@@ -29,6 +29,9 @@ module.exports = {
     repo: 'entrepreneur-interet-general/eig-link',
     repoLabel: 'Dépôt Git',
     editLinks: true,
-    editLinkText: 'Modifier cette page'
+    editLinkText: 'Modifier cette page',
+    nav: [
+      { text: 'Site web', link: 'https://entrepreneur-interet-general.etalab.gouv.fr' },
+    ]
   }
 }
