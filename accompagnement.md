@@ -1,11 +1,8 @@
-# Programme d'accompagnement EIG 2019
+# Sessions plénières d'accompagnement
 
 [[toc]]
 
-Dans l'[animation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/animation.md), le **programme d'accompagnement** comprend des sessions avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors. Au commencement du programme un bootcamp est organisé et 2 séminaires collectifs de 2 jours (aussi nommé EIG "hors-les-murs") sont prévue. Ce programme permet ainsi :
-* d'apporter de la valeur à la réalisation des défis
-* d'assurer des synergies techniques et méthodologiques (entre défis et compétences)
-* de souder la promotion des EIG et des mentors, et s’ancrer dans la communauté “numérique et Etat”
+Dans l'[animation du programme EIG](animation.md), le **programme d'accompagnement** comprend des sessions plénières avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors.
 
 
 ## Planning des sessions d'accompagnement 
@@ -35,7 +32,6 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | **Restitution** (EIG + mentors) | 7 ou 14 novembre | TBC | TBC
 
 ## Présentation détaillée des sessions
-> Work in progress
 
 ### Session EIG & mentors | 6 juin
 
@@ -46,7 +42,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 	* Partager les avancées de son défi et recevoir des retours de la promotion
 	* Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
 
-#### PROGRAMME DE LA MATINEE - EIG SEULS 
+#### Programme de la matinee - EIG seuls
 
 **9h30-10h** : Accueil, standup
 
@@ -134,7 +130,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
 
-### PROGRAMME DE L'APRES-MIDI - MENTORS + EIG + INVITES (ETALAB, BETA.GOUV.FR...)   
+#### Programme de l'apres-midi - mentors + EIG + invités (Etalab, beta.gouv.fr)
 
 **13h45 - 14h00** : Accueil
 
@@ -184,7 +180,7 @@ Liste des défis :
 
 **17h30 - 18h** : Restitution   
 
-### Séminaire Hors-les-murs | 16/17 mai 
+### Séminaire hors-les-murs | 16 et 17 mai
 
 Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur nos défis respectifs. Nous nous organiserons comme à son habitude en "Forum ouvert" où l'on pourra proposer des ateliers et partager nos compétences selon nos besoins du moment.
 - Jeudi sera sous l'axe de la **Production** 
@@ -234,7 +230,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
-### Session Mentors | 18 avril |
+### Session Mentors | 18 avril
 
 * Lieu : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core
@@ -253,7 +249,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 17h45 : brainstorm "projet mentors EIG"  
 18h15 : fin de la session  
 
-### Session EIG | 11 avril |
+### Session EIG | 11 avril
 
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
@@ -292,7 +288,7 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 
 18h00 - 18h30 : Conclusion de la journée
 
-### Session EIG | 14 mars | 
+### Session EIG | 14 mars
 
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des personnes d'Etalab
@@ -327,7 +323,7 @@ Intervenants/facilitateurs de l'après-midi (pressentis) :
 * Romain Talès : open data, spécialité stratégie
 * Tamkien Duong : open source, open data, spécialité tech / data.gouv.fr
 
-### Session Mentors | 21 février | 
+### Session Mentors | 21 février
 
 **Quels sont les objectifs de la session ?**  
 Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG   
@@ -342,7 +338,7 @@ Découvrir les bases du design et de la gestion de projet agile et mieux compren
 17h30 - 18h: Discussion "EIG Next"  
 18h: fin de la session  
 
-### Bootcamp (EIG + mentors à certain moment) | 11 au 15 février | 
+### Bootcamp (EIG + mentors à certain moment) | 11 au 15 février
 Voir la [page descriptive du bootcamp EIG 2019](./bootcamp.md)
 > Lien vers le [Bootcamp EIG 2018](./archives/2018/bootcamp_2018.org)
 
