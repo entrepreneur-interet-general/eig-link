@@ -18,7 +18,7 @@ sidebar = [
 
 module.exports = {
   theme: 'gouv-fr',
-  title: 'Documentation du programme EIG',
+  title: 'Documentation EIG',
   description: "La documentation interne du programme Entrepreneurs d'Intérêt Général.",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
