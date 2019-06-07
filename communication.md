@@ -1,6 +1,8 @@
-# Les moyens de communication interne et externe
+# Moyens de communication
 
-## Slack (communication interne)
+[[toc]]
+
+## Messagerie instantanée
 
 Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
 
@@ -26,30 +28,30 @@ En plus des précédents canaux, on peut trouver ces différents canaux :
 - `help` : besoin d'aide à adresser à la communauté ;
 - `offres-emploi` : partager des offres au sein de la communauté EIG.
 
-## Listes de diffusion (communication interne)
+## Listes de diffusion
 
 Les EIG et mentors sont inscrits sur des listes de diffusion :
 
 * Les EIG 2019 sont inscrits sur la liste [eig2019@framalistes.org](mailto:eig2019-mentors@framalistes.org)
 * Les mentors 2019 sont inscrits sur la liste [eig2019-mentors@framalistes.org](mailto:eig2019-mentors@framalistes.org)
 
-## Site web (communication externe)
+## Site web
 
 Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link. Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
 
 Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/)
 
-## Réseaux sociaux (communication externe)
+## Réseaux sociaux
 
 Le programme possède un compte Twitter EIG : [@eigforever](https://twitter.com/eigforever). Nous vous encourageons à utiliser le hashtag `#EIG2019` lorsque vous parlez sur les réseaux sociaux du programme EIG.
 
-## Les présentations des EIG et mentors
+## Présentations des EIG et mentors
 
 Les présentations sont archivées sur [SpeakerDeck](https://speakerdeck.com/eig2018).
 
-# Présenter le programme EIG
+## Présenter le programme EIG
 
-## Parler du programme EIG
+### Parler du programme EIG
 Lorsque vous parlez du programme, écrivez en majuscules, sans point médian et écrivez le nom du programme en entier avant d'utiliser l'acronyme EIG.
 
 > Le programme Entrepreneurs d'Intérêt Général (EIG) accueille des data scientists, des développeurs et des designers.
@@ -58,8 +60,8 @@ Lorsque vous parlez d'un ou de plusieurs EIG, écrivez tout en minuscules.
 
 > Les entrepreneurs d'intérêt général ont des compétences variées et complémentaires.
 
-## Définir le programme
-Le programme n'a pas encore choisi sa baseline. Pour présenter le programme en une phrase, vous pouvez utiliser :
+### Définir le programme
+Le programme n'a pas encore choisi sa phrase d'accroche. Pour présenter le programme en une phrase, vous pouvez utiliser :
 
 > Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis numériques en 10 mois.
 
@@ -67,7 +69,7 @@ Pour présenter le programme en un paragraphe, vous pouvez utiliser :
 
 > Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
 
-## Supports de communication
+### Supports de communication
 
 Pour présenter le programme, vous pouvez vous appuyer sur différents supports de communication - en choisissant toujours le plus adapté à chaque situation. 
 
@@ -76,7 +78,7 @@ Pour présenter le programme, vous pouvez vous appuyer sur différents supports 
 Ce livret présente à la fois le fonctionnement du programme, la troisième promotion du programme et les réalisations des promotions précédentes. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à un supérieur hiérarchique, à un potentiel partenaire, à de potentiels contributeurs au défi. Il présente l'avantage d'être tangible et polyvalent.
 
-> [Le livret de présentation](/guides/livret-presentation-programme-2019.pdf)
+> [Le livret de présentation](https://github.com/entrepreneur-interet-general/eig-link/raw/master/guides/livret-presentation-programme-2019.pdf)
 
 ### Présentation PowerPoint
 
@@ -90,20 +92,20 @@ Il est destiné à un public plutôt administratif. Il peut servir pour présent
 Ces vidéos présentent le principe du programme en présentant la promotion 2 (première vidéo) et la promotion 3 (deuxième vidéo).
 Elles sont destinées à un public large. Elles peuvent servir pour présenter le programme de façon ludique et peuvent être intégrées à un site web, une présentation orale, l'habillage d'un stand de salon... Elles ont l'avantage d'incarner le collectif EIG. 
 
->[La vidéo de présentation des EIG 2](https://www.dailymotion.com/video/x6fp47d)
+>[Vidéo de présentation EIG 2](https://www.dailymotion.com/video/x6fp47d)
 
->Lien vers la vidéo de présentation EIG 3
+>[Vidéo de présentation EIG 3](https://www.dailymotion.com/video/x75h2pz)
 
 ### Mémo en anglais
 
 Ce texte de huit pages (avec beaucoup de photos) présente l'ambition du programme et son fonctionnement. 
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à des étrangers. Il peut également servir pour piocher des éléments de langage en anglais. Il présente l'avantage d'être en anglais, donc.
 
-> [lien vers le mémo en anglais](/guides/Public-Interest-Entrepreneurs-EN-memo-V2.pdf)
+> [Mémo en anglais](https://entrepreneur-interet-general.etalab.gouv.fr/docs/Public-Interest-Entrepreneurs-EN-memo.pdf)
 
-# Les bonnes pratiques de communication
+## Bonnes pratiques de communication
 
-## Si vous êtes sollicités par la presse
+### Si vous êtes sollicités par la presse
 
 Dans le cadre de votre mission, vous serez peut-être sollicités par la presse pour répondre à des questions, intervenir à un événement ou écrire un article.
 
@@ -114,7 +116,7 @@ Quel que soit le média, quel que soit le format et même si l'on vous promet la
 
 Cela vous permettra de vous assurer que vous êtes alignés avec la communication de votre administration d'accueil et celle du programme. Cela permettra aussi à l'équipe de coordination d'avoir une vision globale des actions de communication menées par les différents défis.
 
-## Si vous communiquez sur les réseaux sociaux
+### Si vous communiquez sur les réseaux sociaux
 
 Vous êtes les principaux ambassadeurs du programme et de vos défis, n'hésitez pas à en parler !
 
@@ -137,5 +139,3 @@ Pour parler de vos défis, utilisez les hashtags suivants :
 | CartoBio | #CartoBio | Explocode | #ExploCode | Open Justice | #OpenJustice |
 | CibNav | #CibNav | IA Flash | #IAflash | Plume | #Plume |
 | DataJust | #DataJust | Karfu'R | #KarfuR | PolyGraphe | #PolyGraphe |
-
-# Les éléments graphiques que vous pouvez utiliser pour vos supports de communication
