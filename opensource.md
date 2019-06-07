@@ -32,8 +32,8 @@ Si votre administration possède déjà une organisation, publiez en priorité v
 
 ## Soyez clair sur la maintenance
 
-- [ ] Qui est mainteneur (le nom d'une personne et une adresse e-mail).
-- [ ] Si la maintenance est *passive* (vous répondez aux questions et aux demandes d'amélioration mais vous ne travaillez pas activement sur le code) ou *active* (vous travaillez activement sur le code).
+- Qui est mainteneur (le nom d'une personne et une adresse e-mail).
+- Si la maintenance est *passive* (vous répondez aux questions et aux demandes d'amélioration mais vous ne travaillez pas activement sur le code) ou *active* (vous travaillez activement sur le code).
 
 ## Trouvez un nom adéquat pour votre logiciel
 
@@ -41,21 +41,21 @@ Si votre administration possède déjà une organisation, publiez en priorité v
 
 ## Ajoutez les informations essentielles à vos dépôts de code
 
-- [ ] Une description claire en anglais ou en français
-- [ ] Des tags (au moins #entrepreneur-interet-general #eig-2019 #votre-defi)
-- [ ] Un lien vers un site web s'il y en a un
-- [ ] Un fichier README en anglais si votre logiciel a vocation à pouvoir être utilisés par des personnes ne parlant pas le français (comme une bibliothèque générique par exemple), en français sinon
-- [ ] Un fichier LICENSE avec le texte de la licence
-- [ ] Un fichier CONTRIBUTING en anglais qui explique comment contribuer
+- Une description claire en anglais ou en français
+- Des tags (au moins #entrepreneur-interet-general #eig-2019 #votre-defi)
+- Un lien vers un site web s'il y en a un
+- Un fichier README en anglais si votre logiciel a vocation à pouvoir être utilisés par des personnes ne parlant pas le français (comme une bibliothèque générique par exemple), en français sinon
+- Un fichier LICENSE avec le texte de la licence
+- Un fichier CONTRIBUTING en anglais qui explique comment contribuer
 
 ## Allez droit au but dans votre fichier README
 
-- [ ] L'auteur `© [Votre administration], [Vous]`
-- [ ] Une façon de tester le logiciel
-- [ ] Un point de contact avec le mainteneur
-- [ ] Une indication des contributions acceptées
-- [ ] La licence libre utilisée
-- [ ] Pour EIG : une mention finale "Projet développé dans le cadre du programme « Entrepreneurs d'intérêt général »" avec un lien vers le [site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/).
+- L'auteur `© [Votre administration], [Vous]`
+- Une façon de tester le logiciel
+- Un point de contact avec le mainteneur
+- Une indication des contributions acceptées
+- La licence libre utilisée
+- Pour EIG : une mention finale "Projet développé dans le cadre du programme « Entrepreneurs d'intérêt général »" avec un lien vers le [site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/).
 
 ## Guider les contributeurs sur GitHub
 
@@ -65,25 +65,25 @@ Vous trouverez de la documentation [ici](https://help.github.com/articles/helpin
 
 ## Rédigez une documentation utile
 
-- [ ] Avez-vous une documentation ?
-- [ ] Votre documentation est-elle rédigée en anglais ?
-- [ ] Avez-vous des spécifications ou un cahier des charges ?
-- [ ] Avez-vous une documentation orientée utilisateur ?
-- [ ] Avez-vous une documentation orientée développeur ?
-- [ ] Votre documentation explique-t-elle comment contribuer ?
-- [ ] Votre documentation est-elle accessible sous des formats ouverts ?
-- [ ] Analysez-vous les visites du site web de votre documentation ?
-- [ ] Votre documentation est-elle publiée sur un site web ?
-- [ ] Les noms de vos variables/fonctions sont-ils parlants ?
-- [ ] Avez-vous des docstrings dans vos fonctions/variables ?
-- [ ] Avez-vous des commentaires dans votre code ?
-- [ ] Générez-vous de la documentation à partir des commentaires et/ou des docstrings de votre code ?
-- [ ] Votre documentation est-elle éditée sous un système de gestion de versions ?
-- [ ] Votre documentation indique-t-elle comment signaler une erreur ?
-- [ ] Avez-vous testé votre documentation auprès des utilisateurs ?
-- [ ] Votre documentation est-elle publiée sous licence libre ?
-- [ ] Votre documentation contient-elle une section de remerciements ?
-- [ ] Votre documentation contient-elle une section sur l'historique du projet ?
+- Avez-vous une documentation ?
+- Votre documentation est-elle rédigée en anglais ?
+- Avez-vous des spécifications ou un cahier des charges ?
+- Avez-vous une documentation orientée utilisateur ?
+- Avez-vous une documentation orientée développeur ?
+- Votre documentation explique-t-elle comment contribuer ?
+- Votre documentation est-elle accessible sous des formats ouverts ?
+- Analysez-vous les visites du site web de votre documentation ?
+- Votre documentation est-elle publiée sur un site web ?
+- Les noms de vos variables/fonctions sont-ils parlants ?
+- Avez-vous des docstrings dans vos fonctions/variables ?
+- Avez-vous des commentaires dans votre code ?
+- Générez-vous de la documentation à partir des commentaires et/ou des docstrings de votre code ?
+- Votre documentation est-elle éditée sous un système de gestion de versions ?
+- Votre documentation indique-t-elle comment signaler une erreur ?
+- Avez-vous testé votre documentation auprès des utilisateurs ?
+- Votre documentation est-elle publiée sous licence libre ?
+- Votre documentation contient-elle une section de remerciements ?
+- Votre documentation contient-elle une section sur l'historique du projet ?
 
 # Impliquer des utilisateurs et contributeurs
 
