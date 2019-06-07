@@ -9,7 +9,13 @@ Le programme EIG s'organise suivants plusieurs axes d'animations et d’événem
 1 fois en début de promotion, durée d'une semaine.
 :::
 
-En début d'année, lorsque les entrepreneurs rejoignent le programme et après quelques jours dans leur organisme d'accueil, nous organisons une semaine d'intégration. C'est l'occasion que chacun fasse connaissance avec ses collègues, découvre l'accompagnement proposé par le programme, présente les premières problématiques auxquelles ils vont s'attaque
+En début d'année, lorsque les entrepreneurs rejoignent le programme et après quelques jours dans leur organisme d'accueil, nous organisons une semaine d'intégration. C'est l'occasion que chacun fasse connaissance avec ses collègues, découvre l'accompagnement proposé par le programme, présente les premières problématiques auxquelles ils vont s'attaquer.
+
+## Séminaires hors-les-murs
+::: tip Fréquence
+2 fois lors d'une promotion, 2 jours.
+:::
+Deux séminaires « hors-les-murs » sont organisés au cours d'une promotion : le premier à mi-parcours et le deuxième quelques semaines avant la fin de la promotion. D'une durée de 2 jours, nous nous retrouvons dans un lieu en dehors de Paris pour accélérer les défis, collaborer, parler stratégie et souder la promotion.
 
 ## Sessions plénières
 ::: tip Fréquence
