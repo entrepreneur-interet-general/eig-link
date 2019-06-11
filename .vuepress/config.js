@@ -3,7 +3,7 @@ sidebar = [
   'accompagnement',
   'communication',
   'liberte-living-lab',
-  ['serveur', "Machines virtuelles"],
+  'serveur',
   {
     title: 'Bonnes pratiques',
     collapsable: true,

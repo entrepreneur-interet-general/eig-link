@@ -1,20 +1,20 @@
-# Usage du serveur
+# Machines virtuelles
 
-Le serveur EIG a été installé par Etalab.
+[[toc]]
 
-C’est un serveur de 32 Go de RAM acheté auprès d’OVH avec Proxmox VE.
+Le serveur EIG a été installé par Etalab. C’est un serveur de 32 Go de RAM acheté auprès d’OVH avec Proxmox VE.
 
 Il sert à :
 
 - héberger des prototypes d’application ;
 - avoir un peu de puissance de calcul à sa disposition.
 
-Il n’a **pas** vocation à :
+Il **n’a pas** vocation à :
 
 - héberger des applications des défis sur le long terme ;
 - faire d’énorme calculs (nous n’avons que 32 Go à partager).
 
-# Systèmes d’exploitation disponibles
+## Systèmes d’exploitation disponibles
 
 Pour les containers :
 
@@ -27,8 +27,9 @@ Pour les VM :
 - debian-9.3.0-amd64-netinst.iso
 - ubuntu-16.04.3-server-amd64.iso
 
+## Création de ressources
 
-# Créer un container (CT)
+### Créer un container (CT)
 
 Voir [cette vidéo](https://vimeo.com/256433385).
 
@@ -39,7 +40,7 @@ Les étapes à ne pas manquer sont :
 - l’utilisation du bridge `vmbr1`
 
 
-# Créer une machine virtuelle (VM)
+### Créer une machine virtuelle (VM)
 
 Laissez-vous guider par Proxmox.
 
@@ -49,7 +50,7 @@ Les étapes à ne pas manquer sont :
 - la configuration de l’adresse IP: 192.168.0.XXX/24 au moment de la configuration de votre système
 - l’utilisation de 9.9.9.9 comme serveur de nom DNS
 
-# Associer un sous-domaine de eig-forever.org à un CT/VM
+### Associer un sous-domaine à un CT/VM
 
 Demander à Antoine en indiquant :
 
@@ -72,10 +73,18 @@ Voici un exemple de règle `iptables` pour la redirection:
 
     iptables -t nat -A PREROUTING -p tcp -d 37.187.137.47 --dport 10222 -i vmbr0 -j DNAT --to-destination 192.168.0.102:22
 
+### Faire tourner Docker dans le container
+Il faut modifier quelques lignes de configuration pour le container dans le fichier `/etc/pve/lxc/<ctid>.conf`.
 
-# Vous connecter à votre CT/VM
+```
+lxc.apparmor.profile: unconfined
+lxc.cgroup.devices.allow: a
+lxc.cap.drop:
+```
 
-1. Demandez à Antoine de vous créer un utilisateur sur la machine `eig.etalab.gouv.fr` et dans l’interface de Proxmox (ex: "robert")
+## Connexion à un CT/VM
+
+1. Demandez à Antoine de vous créer un utilisateur sur la machine `eig.etalab.gouv.fr`
 2. Créez votre container ou votre VM (ex: CT identifié par "101")
 3. Sur votre machine locale, éditez le fichier ~/.ssh/config :
     ```bash
@@ -86,7 +95,7 @@ Voici un exemple de règle `iptables` pour la redirection:
    Cette configuration vous permettra de taper `~$ ssh eig101` dans un terminal et d’être connecté en tant que `root` à votre container, depuis votre connexion sur la machine `eig.etalab.gouv.fr` sous l’identifiant `robert`.
 4. Vous pouvez aussi ajouter une clef publique de votre machine locale à l’utilisateur `root` du container et à l’utilisateur `robert` de la machine `eig.etalab.gouv.fr` pour ne pas avoir à taper deux mots de passe à chaque fois.
 
-# Utiliser `sshfs` pour monter un répertoire distant
+### Utiliser `sshfs` pour monter un répertoire distant
 
 Créer un dossier sur sa machine :
 
@@ -96,24 +105,15 @@ Monter le répertoire distant :
 
     ~$ sshfs eig101:/home/ serveur_eig101/
 
-# Faire tourner Docker dans le container
-Il faut modifier quelques lignes de configuration pour le container dans le fichier `/etc/pve/lxc/<ctid>.conf`.
 
-```
-lxc.apparmor.profile: unconfined
-lxc.cgroup.devices.allow: a
-lxc.cap.drop:
-```
+## Sauvegardes
 
-# Sauvegardes
-
-
-## Sauvegarde de Nextcloud
+### Sauvegarde de Nextcloud
 
 Le fichier `/root/install/src/nextcloud/mariadb_docker_backup.sh` contient le script de sauvegarde de l'instance Nextcloud dans le répertoire `/root/install/src/nextcloud/backups/` et copie les fichiers dans la machine externe `root@eig-apps.org:/root/backups/`.
 
 
-## Sauvegardes des VM
+### Sauvegardes des VM
 
 Les VM sont sauvegardées sur ce serveur via Proxmox.
 
@@ -121,4 +121,5 @@ Il n'y a pas de copie des sauvegardes des VMs sur une autre machine.
 
 Chaque utilisateur d'une VM est responsable de sauvegarder ses données sensibles sur d'autres machines.
 
-## `etckeeper` est utilisé pour la sauvegarde de /etc
+### Fichiers /etc
+ `etckeeper` est utilisé pour la sauvegarde de /etc
