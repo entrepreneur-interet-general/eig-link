@@ -1,4 +1,6 @@
-# Préambule
+# Open source
+
+[[toc]]
 
 La [Loi pour une République Numérique de 2015](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. Le code source d'un logiciel est assimilé à un document administratif, donc il doit lui aussi être publié sous licence libre.
 
@@ -6,16 +8,17 @@ Ce document a pour vocation de guider les EIG dans la publication et la gestion 
 
 Il propose quelques outils pour avancer pragmatiquement : il ne prétend pas couvrir ces problématiques de façon exhaustive et n'a pas vocation à être un référentiel juridique.
 
-# Dans quels cas ne pas publier
+## Dans quels cas ne pas publier
 Tous les codes sources, documents ou données ne peuvent être publiés ou communiqués. Par exemple, on ne peut pas communiquer ou publier des éléments qui pourraient porter atteinte à la sûreté de l'Etat, à la sécurité publique, à la sécurité des personnes ou à la sécurité des systèmes d'information des administrations.
 
 La liste des exceptions est listée dans l'[article L311-5 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708).
 
 **Si vous avez le moindre doute, prenez contact avec votre hiérarchie et Etalab, ne communiquez ou ne publiez rien !**
 
-# Choisir une licence libre pour vos codes sources
+## Choisir une licence libre pour vos codes sources
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).
-## Les licences autorisées pour l'administration publique et les points de contact
+
+### Les licences autorisées pour l'administration publique et les points de contact
 
 Etalab publie [la liste des licences autorisées](https://www.data.gouv.fr/fr/licences) pour les données publiques et les codes sources produits et publiés par les administrations publiques.
 
@@ -23,23 +26,23 @@ Si vous avez des questions sur les licences de vos données publiques, contactez
 
 Si vous avez des questions sur les licences de votre projet logiciel, contactez [Bastien Guerry](mailto:opensource@data.gouv.fr), référent logiciels libres à Etalab.
 
-# Où publier son code ?
+## Où publier son code ?
 Certaines administrations publiques possèdent déjà des comptes d'organisation sur des plateformes comme GitHub ou Gitlab. Vous pouvez retrouver [cette liste sur un répertoire de la DINSIC](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics). Vous pouvez vous rapprocher de la personne responsable de l'organisation de votre administration pour être ajouté à cette organisation.
 
 Si votre administration possède déjà une organisation, publiez en priorité vos codes sources sur cette organisation. Sinon, entamez la discussion au sein de votre administration pour créer une organisation au nom de votre administration. Enfin, le programme EIG possède l'organisation [entrepreneur-interet-general sur GitHub](https://github.com/entrepreneur-interet-general) où vous pouvez publier vos codes sources.
 
-# Bien communiquer autour de votre code
+## Bien communiquer autour de votre code
 
-## Soyez clair sur la maintenance
+### Soyez clair sur la maintenance
 
 - Qui est mainteneur (le nom d'une personne et une adresse e-mail).
 - Si la maintenance est *passive* (vous répondez aux questions et aux demandes d'amélioration mais vous ne travaillez pas activement sur le code) ou *active* (vous travaillez activement sur le code).
 
-## Trouvez un nom adéquat pour votre logiciel
+### Trouvez un nom adéquat pour votre logiciel
 
 Éviter les noms génériques: "app", "donnees", etc.
 
-## Ajoutez les informations essentielles à vos dépôts de code
+### Ajoutez les informations essentielles à vos dépôts de code
 
 - Une description claire en anglais ou en français
 - Des tags (au moins #entrepreneur-interet-general #eig-2019 #votre-defi)
@@ -48,7 +51,7 @@ Si votre administration possède déjà une organisation, publiez en priorité v
 - Un fichier LICENSE avec le texte de la licence
 - Un fichier CONTRIBUTING en anglais qui explique comment contribuer
 
-## Allez droit au but dans votre fichier README
+### Allez droit au but dans votre fichier README
 
 - L'auteur `© [Votre administration], [Vous]`
 - Une façon de tester le logiciel
@@ -57,13 +60,13 @@ Si votre administration possède déjà une organisation, publiez en priorité v
 - La licence libre utilisée
 - Pour EIG : une mention finale "Projet développé dans le cadre du programme « Entrepreneurs d'intérêt général »" avec un lien vers le [site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/).
 
-## Guider les contributeurs sur GitHub
+### Guider les contributeurs sur GitHub
 
 Sur GitHub, vous pouvez ajouter un fichier `ISSUE_TEMPLATE` dont le contenu sera inséré dans les nouveaux tickets ("issues") ouverts, et `PULL_REQUEST_TEMPLATE` pour les *pull requests*.
 
 Vous trouverez de la documentation [ici](https://help.github.com/articles/helping-people-contribute-to-your-project/).
 
-## Rédigez une documentation utile
+### Rédigez une documentation utile
 
 - Avez-vous une documentation ?
 - Votre documentation est-elle rédigée en anglais ?
@@ -85,11 +88,11 @@ Vous trouverez de la documentation [ici](https://help.github.com/articles/helpin
 - Votre documentation contient-elle une section de remerciements ?
 - Votre documentation contient-elle une section sur l'historique du projet ?
 
-# Impliquer des utilisateurs et contributeurs
+## Impliquer des utilisateurs et contributeurs
 
 Il ne suffit pas de publier un logiciel sous licence libre pour en faire un « bien commun » : il faut aussi animer son développement et mobiliser une communauté de contributeurs.
 
-## Des degrés d'ouverture des projets libres
+### Des degrés d'ouverture des projets libres
 
 Ci-dessous un tableau pour présenter différents « degrés » d'ouverture
 de projets libres :
@@ -256,13 +259,13 @@ de projets libres :
 - **Documentation :** vous maintenez la documentation de votre logiciel
 
 
-## Des règles de bonne conduite au sein d'un projet libre
+### Des règles de bonne conduite au sein d'un projet libre
 
 Des règles simples, claires et explicites vous aident à maintenir une collaboration respectueuse et constructive au sein de votre projet.
 
 Voir le <https://www.contributor-covenant.org> pour un exemple.
 
-# Pourquoi ouvrir son code ?
+## Pourquoi ouvrir son code ?
 
 - Pour **respecter la loi** pour une République Numérique.
 
@@ -276,7 +279,7 @@ Voir le <https://www.contributor-covenant.org> pour un exemple.
 
 - Pour **améliorer votre code** : coder « *in the open* » est une façon de se contraindre à adopter des bonnes pratiques qui touchent à la fois la technique (structurer son code, le tester) et la communication (écrire une documentation, répondre aux questions des utilisateurs, etc.)
 
-# Les réticences à surmonter pour l'ouverture
+## Les réticences à surmonter pour l'ouverture
 
 - **« Nous allons nous faire pirater notre serveur »** Publier le code source d'une application web va permettre à d'autres de la tester et de faire remonter les éventuels problèmes de sécurité.
 - **« Nous allons montrer du code sale »** Oui. Cela vous incitera à le nettoyer.
@@ -289,7 +292,7 @@ Voir le <https://www.contributor-covenant.org> pour un exemple.
 
 Les réticences les plus fréquentes portent sur les problèmes de sécurité et les problèmes d'exploitation commerciale.
 
-# Foire aux questions
+## Foire aux questions
 
 - **Suis-je obligé de publier mon code source ?** Si vous êtes une administration, que votre code source ne rentre pas dans [la liste des exceptions](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708) et que vous détenez les droits d’auteur d’une application que vous développez ou faites développer, oui.
 - **Je travaille dans une structure avec des habilitations de défense ou avec des missions sensibles, je ne peux rien publier ?** Non, vous pouvez communiquer ou publier tout ce qui est autorisé par la loi. Ainsi, si vous développez par exemple une bibliothèque générique d'un langage de programmation, il n'y a vraisemblablement pas de problème à la publier en ligne. Toutefois, il est nécessaire d'avoir l'accord de votre hiérarchie. Etalab peut vous conseiller sur la possibilité de publier des documents.
@@ -309,16 +312,16 @@ Les réticences les plus fréquentes portent sur les problèmes de sécurité et
 - **Peut-on donner le choix aux utilisateurs de la licence ?** Oui.  Certains logiciels sont publiés sous deux licences (pratique nommée *dual licensing*).  Cela signifie que l’auteur du logiciel autorise les réutilisations sous l’une ou l’autre des licences. Par exemple, vous publiez votre logiciel en licence GPLv3+.  Cette licence impose des restrictions sur la redistribution de tout logiciel intégrant le vôtre.  Une entreprise pourrait vouloir intégrer votre logiciel dans un produit commercial, mais la GPLv3+ l’en empêche.  Vous publiez donc votre logiciel sous une licence GPLv3+ **et** une licence Apache 2.0, que vous vendez à l’entreprise, qui achète ainsi le droit de redistribuer votre logiciel dans son logiciel propriétaire.
 - **Qu’est-ce que le « copyleft de compromis » ?** La Free Software Foundation a publié une licence nommée Lesser GNU Public License.  C’est une licence qui permet de redistribuer une bibliothèque logicielle dans un logiciel propriétaire.  Elle lève certaines restrictions imposées par la GPL classique, qui ne permet pas cela.  On appelle parfois cela le « copyleft faible » (vs le copyleft « fort » de la GPL.)
 
-# Quelques ressources utiles
+## Quelques ressources utiles
 
 
-## Du côté de la mission Etalab
+### Du côté de la mission Etalab
 
 - La liste des licences libres pour l'administration : <https://www.data.gouv.fr/fr/licences>
 - Un guide d'ouverture des codes sources publics : <https://github.com/etalab/ouverture-des-codes-sources-publics>
 - La politique de contribution Open Source : <https://www.numerique.gouv.fr/publications/politique-logiciel-libre/>
 
-## Ressources extérieures
+### Ressources extérieures
 
 - Des guides sur l'open source en général : <https://opensource.guide>
 - [Open source Guidance](https://www.gov.uk/government/publications/open-source-guidance) : par le gouvernement britannique

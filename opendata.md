@@ -9,7 +9,7 @@ L'obligation de publication des documents administratifs par les organismes en c
 
 Le [site web de la Cada](https://www.cada.fr) regroupe plusieurs pages donnant des conseils sur l'interprétation de la loi, des fiches pratiques et des détails sur la procédure à suivre pour obtenir un avis sur la communicabilité d'un document. De plus, le site [cada.data.gouv.fr](https://cada.data.gouv.fr) regroupe l'ensemble des avis rendus par la Cada et permet de trouver des cas similaires.
 
-# Arguments juridiques à mobiliser pour demander l’accès à des données
+## Arguments juridiques à mobiliser pour demander l’accès à des données
 
 -   Référence à la loi Lemaire 2016-1321 du 7/10/2016 pour une République numérique.
 -   Article 1er qui prévoit l’obligation de transmission de données entre administrations, si celles-ci ne font pas l’objet d’un secret.
@@ -18,20 +18,20 @@ Dans le cas des données financières de la liasse fiscale :
 
 -   Le secret fiscal a été introduit pour protéger l’entreprise de l’utilisation de ses données transmises aux services fiscaux. Les données financières transmises dans la liasse fiscale font par ailleurs l’objet d’une obligation de publication au greffe : ces données ont vocation à être publiées et il est donc difficile de justifier qu’elles sont dans le même temps couvertes par le secret fiscal.
 
-# Procédure à mettre en œuvre pour accéder aux données
+## Procédure à mettre en œuvre pour accéder aux données
 
 [Une page sur le site web](https://www.cada.fr/particulier/quand-et-comment-saisir-la-cada) de la Cada explique la procédure à suivre pour demander la publication d'un document administratif et préparer une éventuelle saisine de la Cada.
 
-# Ressources externes
-## Avis Cada
+## Ressources externes
+### Avis Cada
 - [L'ensemble des avis de la Cada](https://cada.data.gouv.fr)
 - [Le site web de la Cada](https://www.cada.fr)
 
-## Anonymisation
+### Anonymisation
 - [CNIL : Le G29 publie un avis sur les techniques d’anonymisation
 ](https://www.cnil.fr/fr/le-g29-publie-un-avis-sur-les-techniques-danonymisation)
 - [SNDS : guide d'accompagnement](https://www.snds.gouv.fr/download/Guide_accompagnement.pdf)
 
-## Présentations générales
+### Présentations générales
 - [Historique et cadre juridique](https://speakerdeck.com/eig2018/open-data)
 - [Fiches pédagogiques](https://opendatafrance.gitbook.io/odl-ressources/)

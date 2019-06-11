@@ -44,7 +44,7 @@ Les deux institutions de référence pour l’évaluation des licences libres so
 - Les logiciels du projet [GNU](https://www.gnu.org/) sont généralement publiés sous GPLv3+.
 
 
-# Choisir une licence libre pour vos codes sources
+## Choisir une licence libre pour vos codes sources
 
 Vous êtes dans l’un de ces trois cas :
 

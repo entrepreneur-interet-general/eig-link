@@ -1,8 +1,12 @@
+# Accueillir des EIG
+
+[[toc]]
+
 Vous êtes mentor opérationnel d'un défi EIG et vous apprêtez à accueillir des EIG dans votre administration ? Ce guide vous propose quelques bonnes pratiques et actions à anticiper avant, pendant et après la venue des EIG.
 
-# Avant l'arrivée des EIG
+## Avant l'arrivée des EIG
 
-## Assurer aux EIG un accès aux données
+### Assurer aux EIG un accès aux données
 
 *Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en travers de l'accès aux données.*
 
@@ -22,7 +26,7 @@ Pour cela, vous pouvez vous appuyer sur plusieurs alliés (voir section "Aider l
 
 Vous pouvez profiter de la période précédant l'arrivée des EIG pour classer cette documentation et repérer les "trous dans la raquette".
 
-## Préparer le poste de travail des EIG
+### Préparer le poste de travail des EIG
 
 *Consultez les EIG en amont sur leurs postes de travail.*
 
@@ -38,7 +42,7 @@ Si les EIG travaillent depuis un poste fourni par l'administration, prévoyez ce
 Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (notamment pour acheter des serveurs, de l'hébergement, etc.). Bien que cela soit très difficile dans l'administration, vous pouvez commencer par réfléchir à des moyens pour leur faciliter la tâche sur l'achat de petit matériel.  
 
 
-## Assurer aux EIG un accès ouvert à Internet
+### Assurer aux EIG un accès ouvert à Internet
 
 *Les EIG ont besoin d'un accès non bridé à Internet.* « Non bridé » signifie :
 
@@ -48,7 +52,7 @@ Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (nota
 Si les données sur lesquelles les EIG travaillent ne sont accessibles que sur un réseau interne à l'administration et inaccessible depuis l'extérieur, prenez soin d'assurer par ailleurs un accès ouvert à Internet depuis au moins une autre connexion.
 
 
-## Communiquer sur le programme EIG avant son démarrage
+### Communiquer sur le programme EIG avant son démarrage
 
 Plusieurs mentors des deux éditions précédentes ont insisté sur l'importance de bien communiquer sur le programme EIG avant même l'arrivée des EIG dans les services.
 
@@ -57,7 +61,7 @@ Le site web EIG et les guides EIG pourront servir de ressources à diffuser dans
 N'hésitez pas à mobiliser le mentor de haut niveau pour que les annonces circulent à tous les niveaux.
 
 
-## Aider les EIG à anticiper la pérennisation de leur défi
+### Aider les EIG à anticiper la pérennisation de leur défi
 
 *Avant même l'arrivé des EIG, il est important de synchroniser le défi avec la DSI.*
 
@@ -71,10 +75,10 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la [pérennisat
     et les EIG.
 
 
-# Dès l'arrivée des EIG
+## Dès l'arrivée des EIG
 
 
-## Aider les EIG à identifier les bonnes personnes
+### Aider les EIG à identifier les bonnes personnes
 
 *Aidez les EIG à faire connaissance en personne avec leurs futurs alliés.*
 
@@ -89,7 +93,7 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la [pérennisat
 Une fois que vous avez identifié ces personnes, n'hésitez pas à leur présenter les EIG en personne (même de manière informelle).
 
 
-## Aider les EIG à se familiariser avec le métier et à se faire connaître dans leur administration d'accueil
+### Aider les EIG à se familiariser avec le métier et à se faire connaître dans leur administration d'accueil
 
 *Aidez les EIG à mesurer tôt l'impact de leur projet et à trouver rapidement leurs futurs utilisateurs.*
 
@@ -101,7 +105,7 @@ Quelques idées :
 -   Mettre une petite affiche d'information sur le programme / leurs profils à proximité de leur bureau, comme cela a été fait pour les défis [« Gobelins »](file:///images/gobelins_signa.png) ou « Social Connect ».
 
 
-## Aider les EIG et mentors à se projeter dans le programme d'accompagnement
+### Aider les EIG et mentors à se projeter dans le programme d'accompagnement
 
 *Le programme d'accompagnement permet aux EIG et aux mentors de se rencontrer régulièrement pour construire un collectif d'entre-aide.*
 
@@ -112,7 +116,7 @@ Pour plus d'informations, vous pouvez consulter [la page de présentation de l'a
 -   Communiquer à l'équipe EIG d'Etalab vos besoins et idées pour enrichir ce programme d'accompagnement.
 
 
-## Aider les EIG à se positionner dans le défi et instaurer des rituels
+### Aider les EIG à se positionner dans le défi et instaurer des rituels
 
 /Les EIG ne sont ni prestataires ni en complète autonomie pour décider de leur feuille de route. Ils ont également besoin de l'expertise métier des agents publics./
 
@@ -127,12 +131,12 @@ Quelques bonnes pratiques :
 -   Des formations en pair à pair.
 
 
-## Trouver des soutiens dans les précédentes promotions EIG
+### Trouver des soutiens dans les précédentes promotions EIG
 
 Il est rare qu'une administration ou un défi ne présente aucun rapport avec une administration ou un défi ayant précédemment participé au programme EIG.  N'hésitez pas à contacter les EIG et mentors des promotions précédentes pour vous guider dans le bon démarrage du défi (vous pouvez trouver leurs profils sur [le site EIG](https://entrepreneur-interet-general.etalab.gouv.fr/)).
 
 
-## Partager des ressources administratives entre mentors
+### Partager des ressources administratives entre mentors
 
 -   Modèle de notes de frais pour les EIG.
 -   Formulaire d'autorisation au télétravail.

@@ -8,10 +8,10 @@ sidebar = [
     title: 'Bonnes pratiques',
     collapsable: true,
     children: [
-      ['opensource', "Open source"],
+      'opensource',
       'opensource-licences',
       'opendata',
-      ['accueil-eig', "Accueillir des EIG"]
+      'accueil-eig'
     ]
   },
 ]
