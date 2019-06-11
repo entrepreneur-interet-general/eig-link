@@ -1,4 +1,4 @@
-# Sessions plénières d'accompagnement
+# Sessions plénières
 
 [[toc]]
 
