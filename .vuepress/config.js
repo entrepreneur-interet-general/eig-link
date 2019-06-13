@@ -1,9 +1,21 @@
 sidebar = [
-  'animation',
-  'accompagnement',
-  'communication',
-  'liberte-living-lab',
-  'serveur',
+{
+    title: 'Programme EIG',
+    collapsable: true,
+    children: [
+      'accompagnement',
+      'animation',
+    ]
+},
+{
+    title: 'Ressources',
+    collapsable: true,
+    children: [
+      'communication',
+      'liberte-living-lab',
+      'serveur',
+    ]
+},
   {
     title: 'Bonnes pratiques',
     collapsable: true,
