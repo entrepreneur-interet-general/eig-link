@@ -9,7 +9,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 ## L’essentiel
 
 - [Programme d'accompagnement et d'animation 2019](./animation.md)
-- [Travailler au Liberté Living Lab](./liberte-living-lab.md)
+- [Travailler au Liberté Living Lab](./tiers-lieu.md)
 - [Les contributions des EIG](./contributions.md)
 - [Les moyens de communication EIG](./communication.md)
   - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
@@ -23,7 +23,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [*Designer* son produit/service](https://github.com/entrepreneur-interet-general/design-system)
 - [Serveur](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
 - [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
-- [Ressources du Bootcamp EIG 3](./ressources-bootcamp.md) : Liste de toutes les ressources présentées lors du bootcamp EIG3
+- [Ressources du Bootcamp EIG 3](./ecosysteme.md) : Liste de toutes les ressources présentées lors du bootcamp EIG3
 
 # Outils et tutoriels
 

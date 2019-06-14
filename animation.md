@@ -48,7 +48,7 @@ L'équipe du programme EIG est en capacité de suivre l'avancement de chaque dé
 Pour accompagner les défis, partager les nouvelles du programme et dialoguer entre collègues, nous utilisons plusieurs outils de communication décrits [dans une page dédiée](communication.md).
 
 ## Tiers lieu
-Le programme EIG dispose d'un tiers lieu. Plus d'information sur [la page tiers lieu](liberte-living-lab.md).
+Le programme EIG dispose d'un tiers lieu. Plus d'information sur [la page tiers lieu](tiers-lieu.md).
 
 
 *Pour plus d'informations voir le [document de présentation du programme EIG](https://speakerdeck.com/eig2018/programme-daccompagnement-eig-2019)*
