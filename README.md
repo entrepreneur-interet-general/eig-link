@@ -31,7 +31,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 * [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
 * [La boîte à outils](./outils.md)
 * [Une revue de presse](./revue-de-presse.md)
-* [Une liste d'acronymes utiles](./acronymes.md)
 
 ## Maintenance de ce dépôt
 
