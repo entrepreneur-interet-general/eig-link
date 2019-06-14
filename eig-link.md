@@ -4,11 +4,11 @@
 
 ## Les différents rôles
 
--   **Technique:** Gestion des outils EIG et de l'accompagnement technique.
--   **Animation EIG:** Aider à construire le collectif EIG.
--   **Médiation EIG:** Prévenir les risques dans quelques défis.
--   **Production:** Développer des contenus et outils spécifiques.
--   **Participation Etalab:** Contribuer à l'administration d'accueil.
+-   **Technique :** Gestion des outils EIG et de l'accompagnement technique.
+-   **Animation EIG :** Aider à construire le collectif EIG.
+-   **Médiation EIG :** Prévenir les risques dans quelques défis.
+-   **Production :** Développer des contenus et outils spécifiques.
+-   **Participation Etalab :** Contribuer à l'administration d'accueil.
 
 
 ## Détail des rôles
