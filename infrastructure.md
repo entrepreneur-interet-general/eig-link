@@ -1,3 +1,7 @@
+# Infrastructure
+
+[[toc]]
+
 Le programme EIG propose des ressources pour que les EIG, quel que soit leur environnement de travail, accède aux outils dont ils ont besoin. Ils disposent notamment :
 
 - d'un serveur pour déployer des containers et des machines virtuelles
@@ -5,11 +9,11 @@ Le programme EIG propose des ressources pour que les EIG, quel que soit leur env
 - d'un serveur d'applications R Shiny
 - d'un accès à des comptes AWS
 
-# Serveur Proxmox VE
+## Serveur Proxmox VE
 
 Voir la [documentation détaillée](serveur.md).
 
-# Serveur d'applications web via Cloudron
+## Serveur d'applications web via Cloudron
 
 [Cloudron](https://cloudron.io) est un logiciel libre permettant de transformer un serveur GNU/Linux en service de déploiement d'applications web à la volée.
 
@@ -19,7 +23,7 @@ Si vous souhaitez déployer une application via Cloudron, contactez les EIG Link
 
 Le serveur cloudron est sauvegardé tous les jours par un envoi de l'archive sur une instance AWS S3.
 
-# Applications R sur `shiny.eig-forever.org`
+## Applications R sur `shiny.eig-forever.org`
 
 `shiny.eig-forever.org` est un serveur dédié aux applications développées en `R`.
 
@@ -27,12 +31,12 @@ Si vous souhaitez déployer une application R, contactez les EIG Link.
 
 Cette instance de 2 Go est sauvegardée par *snapshot* une fois par jour.
 
-# Amazon Web Services (AWS)
+## Amazon Web Services (AWS)
 
 Amazon Web Service (AWS) propose toute une gamme d'outils pour les développeurs. Le programme EIG dispose de crédits limités. Si vous avez besoin d'un service AWS, contactez les EIG Link qui vous créeront une instance `IAM`.
 
 
-# Synthèse des services
+## Synthèse des services
 
 | Fournisseur | URL | RAM | Service | Statut | Description | Backup |
 |---|---|---|---|---|---|---|

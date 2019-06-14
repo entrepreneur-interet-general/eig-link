@@ -16,6 +16,7 @@ sidebar = [
       'communication',
       'tiers-lieu',
       'serveur',
+      'infrastructure'
       'eig-link',
     ]
   },
