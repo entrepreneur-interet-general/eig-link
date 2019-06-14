@@ -22,6 +22,10 @@ jobs:
           name: Lint Markdown files
           command: |
             yarn run lint-md
+      - run:
+          name: Try to build site
+          command: |
+            yarn run vuepress build
   extended-lint-md:
     <<: *default
     steps:
