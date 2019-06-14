@@ -1,4 +1,4 @@
-# Programme d'accompagnement et rituels
+# Rituels d'accompagnement
 
 Le programme EIG s'organise suivants plusieurs axes d'animations et d’événements. Cette page décrit les différents rituels et leurs fréquences.
 

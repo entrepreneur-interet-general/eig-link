@@ -1,4 +1,9 @@
 # Publier et réutiliser des données
+
+[[toc]]
+
+## Obligation de publication
+
 L'obligation de publication des documents administratifs par les organismes en charge d'une mission de service public est précisée dans le [livre III du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190225).
 
 [Un document élaboré par la CNIL et la Cada](https://www.cnil.fr/sites/default/files/atoms/files/guide_open_data.pdf) (Commission d'accès aux documents administratifs) traite des points suivants :

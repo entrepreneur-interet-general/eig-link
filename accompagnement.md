@@ -1,13 +1,14 @@
-# Sessions plénières
+# Planning du programme
 
 [[toc]]
 
 Dans l'[animation du programme EIG](animation.md), le **programme d'accompagnement** comprend des sessions plénières avec les EIG seuls, les mentors seuls ou avec les EIG et les mentors.
 
 
-## Planning des sessions d'accompagnement 
+## Planning des sessions
 
 ### Agenda partagé
+
 Visible et mis à jour sur l'agenda public suivant : [https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Bootcamp-et-Sessions-daccompagnement](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Bootcamp-et-Sessions-daccompagnement)
 
 Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajouter à partir de l'URL suivante : [webcal://owncloud.data.gouv.fr/remote.php/dav/public-calendars/3DAPQwCmengcPLdm?export](webcal://owncloud.data.gouv.fr/remote.php/dav/public-calendars/3DAPQwCmengcPLdm?export)
@@ -344,5 +345,5 @@ Voir la [page descriptive du bootcamp EIG 2019](./bootcamp.md)
 
 [Accéder aux diapositives de présentation.](https://speakerdeck.com/eig2018/2019)
 
-## Programme d'accompagnement EIG 2018
+## Programme 2018
 > Lien vers le [programme d'accompagnement 2018](./archives/2018/accompagnement_2018.org)

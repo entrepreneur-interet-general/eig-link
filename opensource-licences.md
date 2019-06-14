@@ -1,5 +1,7 @@
 # Comprendre les licences libres
 
+[[toc]]
+
 ## Des licences pour les logiciels et les contenus
 
 La « culture libre » mobilise deux types de ressources : le *code source* de logiciels et des *contenus autres* (textes, images, etc.)

@@ -5,15 +5,18 @@ sidebar = [
     children: [
       'accompagnement',
       'animation',
+      'contributions',
     ]
 },
 {
     title: 'Ressources',
     collapsable: true,
     children: [
+      'ecosysteme',
       'communication',
-      'liberte-living-lab',
+      'tiers-lieu',
       'serveur',
+      'eig-link',
     ]
 },
   {
@@ -23,7 +26,7 @@ sidebar = [
       'opensource',
       'opensource-licences',
       'opendata',
-      'accueil-eig'
+      'accueil-eig',
     ]
   },
 ]

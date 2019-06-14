@@ -1,4 +1,8 @@
-# Les Différents rôles
+# EIG Link
+
+[[toc]]
+
+## Les différents rôles
 
 -   **Technique:** Gestion des outils EIG et de l'accompagnement technique.
 -   **Animation EIG:** Aider à construire le collectif EIG.
@@ -7,10 +11,10 @@
 -   **Participation Etalab:** Contribuer à l'administration d'accueil.
 
 
-# Détail des rôles
+## Détail des rôles
 
 
-## Technique
+### Technique
 
 -   Mise en place d'outils
 -   Maintenance de l'[infrastructure](infrastructure.md)
@@ -19,7 +23,7 @@
     implication
 
 
-## Animation EIG
+### Animation EIG
 
 -   Organisation et participation au bootcamp et rebootcamp
 -   Organisation du suivi hebdomadaire
@@ -33,20 +37,20 @@
 -   Valoriser les réalisations des défis (notamment via Twitter)
 
 
-## Médiation EIG
+### Médiation EIG
 
 -   Suivi de 4 défis en particulier
 -   Intervention en médiation pour ces défis
 
 
-## Production
+### Production
 
 -   Accompagnement d'Etalab (EIG Node) pour le site EIG
 -   Maintenance des contenus sur le dépôt [eig-link](https://github.com/entrepreneur-interet-general/eig-link/)
 -   Création de guides : [open source](opensource.md), [accueil EIG](accueil-eig.md)
 
 
-## Participation à Etalab
+### Participation à Etalab
 
 -   Organisation d'Etalab talks
 -   Participation au stand-up hebdomadaire d'Etalab
