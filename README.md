@@ -1,6 +1,6 @@
 # EIG Link - Ressources EIG
 
-Le [dépôt GitHub EIG Link](http://github.com/entrepreneur-interet-general/) permet d'agréger les ressources du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
+Le [dépôt GitHub EIG Link](https://github.com/entrepreneur-interet-general/eig-link) permet d'agréger les ressources du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
 
 La mission principale EIG Link est d'accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat ([en savoir plus.](https://github.com/entrepreneur-interet-general/eig-link/blob/master/eig-link.md)).
 
@@ -16,7 +16,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
   - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 - [La cartographie (géo) des EIG 2019](http://u.osmfr.org/m/277159/)
 
-# Documentation autour des ressources
+## Documentation autour des ressources
 
 - [Ouvrir son code source](./opensource.md)
 - [Publier et accéder à des données](./opendata.md)
@@ -25,7 +25,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
 - [Ressources du Bootcamp EIG 3](./ecosysteme.md) : Liste de toutes les ressources présentées lors du bootcamp EIG3
 
-# Outils et tutoriels
+## Outils et tutoriels
 
 * [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
 * [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
@@ -33,30 +33,25 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 * [Une revue de presse](./revue-de-presse.md)
 * [Une liste d'acronymes utiles](./acronymes.md)
 
-# Maintenance de ce dépôt
+## Maintenance de ce dépôt
 
 Ce projet est maintenu par Antoine Augusti et Jean-Baptiste Le Dévéhat, EIG Link 2019.
 
 Pour toute question : 
 
-- `antoine.augusti@data.gouv.fr`
-- `jean-baptiste.le-devehat@data.gouv.fr`
+- [antoine.augusti@data.gouv.fr](mailto:antoine.augusti@data.gouv.fr)
+- [jean-baptiste.le-devehat@data.gouv.fr](mailto:jean-baptiste.le-devehat@data.gouv.fr)
 
-# Contributions sur ce dépôt
+## Contributions sur ce dépôt
 
 Ce dépôt est ouvert aux contributions - vous pouvez :
 
 - poser une question sur le contenu en ouvrant une issue ;
-- *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration ;
-- si vous êtes EIG, demander à être ajouté comme collaborateur pour pouvoir contribuer directement au dépôt.
+- *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration.
 
 Merci !
 
-# Aidez-nous !
-
-Nous tenons une [liste d'idées](./aidez-nous.md) pour des contributions citoyennes.
-
-# Licence
+## Licence
 
 © 2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
 
