@@ -1,5 +1,5 @@
 sidebar = [
-{
+  {
     title: 'Programme EIG',
     collapsable: true,
     children: [
@@ -7,8 +7,8 @@ sidebar = [
       'animation',
       'contributions',
     ]
-},
-{
+  },
+  {
     title: 'Ressources',
     collapsable: true,
     children: [
@@ -18,7 +18,7 @@ sidebar = [
       'serveur',
       'eig-link',
     ]
-},
+  },
   {
     title: 'Bonnes pratiques',
     collapsable: true,
