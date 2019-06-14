@@ -132,8 +132,8 @@ Le service Qualité des services en ligne de la DINSIC propose différents outil
 
 **Contact :** benedicte.roullier@modernisation.gouv.fr
 
-## Open source / Logiciel libre
-Pour toutes les questions liées aux logiciels libres et à l'open source, vous pouvez contacter le référent logiciel libre au d’Etalab.
+## Open source / logiciel libre
+Pour toutes les questions liées aux logiciels libres et à l'open source, vous pouvez contacter le référent logiciel libre d’Etalab.
 
 Retrouvez sa présentation lors du bootcamp [ici](https://speakerdeck.com/bluehats/les-logiciels-libres-dans-le-cadre-du-programme-entrepreneur-dinteret-general).
 
