@@ -23,7 +23,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
   - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 - [Le tiers-lieu - Liberté Living Lab](./tiers-lieu.md)
 - [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
-- [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
 - [Les EIG Link](./eig-link.md)
 - [La cartographie (géographique) des EIG 2019](http://u.osmfr.org/m/277159/)
 

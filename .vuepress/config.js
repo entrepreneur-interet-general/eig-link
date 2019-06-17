@@ -16,7 +16,6 @@ sidebar = [
       'communication',
       'tiers-lieu',
       'serveur',
-      'infrastructure',
       'stack',
       'eig-link',
     ]

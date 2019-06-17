@@ -17,7 +17,7 @@
 ### Technique
 
 - Mise en place d'outils
-- Maintenance de l'[infrastructure](infrastructure.md)
+- Maintenance de l'[infrastructure](serveur.md)
 - Assistance pour l'utilisation des outils
 - Formations
 
