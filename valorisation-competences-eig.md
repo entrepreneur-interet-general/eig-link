@@ -15,7 +15,7 @@
 * Compagnon / compagnonne
 
 ### 2.Analogies pour décrire le programme EIG
-* « Le programme de compagnonnage numérique de l’Etat »
+* « Le programme de compagnonnage numérique de l’État »
 * « Les forces spéciales de l’innovation »
 
 ## 3.Ce que les EIG savent faire
