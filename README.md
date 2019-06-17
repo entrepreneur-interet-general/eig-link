@@ -40,6 +40,17 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 * [La boîte à outils](./outils.md)
 * [Une revue de presse](./revue-de-presse.md)
 
+## Publication web
+Ce dépôt est publié en ligne à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org). Il utilise [VuePress](https://vuepress.vuejs.org) et le [thème Gouv Fr](https://vuepress-gouv-fr-demo.eig-forever.org/).
+
+L'unique fichier de configuration se trouve à l'emplacement [`.vuepress/config.js`](.vuepress/config.js) et permet de modifier entre autres le menu.
+
+Développement en local :
+```bash
+yarn install
+yarn run vuepress dev
+```
+
 ## Maintenance de ce dépôt
 
 Ce projet est maintenu par Antoine Augusti et Jean-Baptiste Le Dévéhat, EIG Link 2019.
