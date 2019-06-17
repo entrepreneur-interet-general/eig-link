@@ -1,4 +1,4 @@
-# Stack
+# Stacks techniques
 Ce document décrit les outils employés et déployés dans chacun des défis EIG de la promotion 3.
 
 ## ACOSS Plateforme
@@ -74,7 +74,7 @@ Ce document décrit les outils employés et déployés dans chacun des défis EI
 
 ## Plume
 
-### Edition 
+### Édition
 - Python
 - Django
 - NodeJS
