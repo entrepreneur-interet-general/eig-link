@@ -1,8 +1,8 @@
 # À propos du programme EIG 
 
-Le programme Entrepreneurs d'Intérêt Général est documenté à travers le [dépôt GitHub EIG Link](https://github.com/entrepreneur-interet-general/eig-link). Cette documentation agrège, les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
+Le programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) est documenté à travers le [dépôt EIG Link](https://github.com/entrepreneur-interet-general/eig-link). Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme Entrepreneurs d'Intérêt Général à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
 
-Cette documentation est maintenu par leS EIG Link. La mission des EIG Link est d'accompagner le développement d’un collectif numérique d’intérêt général au sein de l’État ([en savoir plus.](https://github.com/entrepreneur-interet-general/eig-link/blob/master/eig-link.md)).
+Cette documentation est maintenue par les EIG Link. La mission des EIG Link est d'accompagner le développement d’un collectif numérique au sein de l’État ([en savoir plus.](eig-link.md)).
 
 Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https://github.com/etalab) au sein de la [DINSIC](https://numerique.gouv.fr/).
 
@@ -25,14 +25,14 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
 - [Infrastructure](./infrastructure.md) : présentation de Proxmox, AWS, Cloudron, Shiny
 - [Les EIG Link](./eig-link.md)
-- [La cartographie (géo) des EIG 2019](http://u.osmfr.org/m/277159/)
+- [La cartographie (géographique) des EIG 2019](http://u.osmfr.org/m/277159/)
 
 ## Bonnes pratiques
 
 - [Ouvrir son code source](./opensource.md)
 - [Publier et accéder à des données](./opendata.md)
 - [*Designer* son produit/service](https://github.com/entrepreneur-interet-general/design-system)
-- * [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
+- [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
 
 ## Outils et tutoriels
 
