@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-06-26 | Le Figaro | [Le rôle de contrôle du Parlement freiné par le gouvernement et l’administration](http://www.lefigaro.fr/conjoncture/le-role-de-controle-du-parlement-freine-par-le-gouvernement-et-l-administration-20190626) | Public | LexImpact |
 | 2019-05-17 | Acteurs Publics | [Etalab revient sur trois ans de programme “Entrepreneurs d’intérêt général”](https://www.acteurspublics.com/2019/05/15/etalab-revient-en-donnees-sur-les-trois-annees-du-programme-entrepreneurs-d-interet-general) | Payant | EIG |
 | 2019-05-07 | Actualités du droit | [Gouvernance des données et algorithmes publics : quelle stratégie pour l’État ?](https://www.actualitesdudroit.fr/browse/tech-droit/intelligence-artificielle/21517/gouvernance-des-donnees-et-algorithmes-publics-quelle-strategie-pour-l-etat) | Public | Signaux Faibles |
 | 2019-05-03 | Horizons Publics | [ Le Code du travail numérique en bonne voie ](https://www.horizonspublics.fr/juridique/le-code-du-travail-numerique-en-bonne-voie) | Public | Explocode |
