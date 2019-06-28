@@ -34,6 +34,38 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+### Session EIG & mentors | 11 juillet
+
+* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* Qui va animer ? L'équipe EIG Core   
+* **Livrables** : fin des démos et ateliers collaboratifs sur les publications à mi-parcours
+* **Objectifs** : 
+	* Intégrer les DIG
+	* Partager les avancées de son défi et recevoir des retours de la promotion
+	* Faire un tour d'horizon des **publications** produites aux regards des objectifs fixés par le programme (open source, open data, com, accessibilité...)
+
+ - 9:15 - 9:45 - Accueil	
+ - 9:45 - 10:00 - Présentation de la journée / Présentation des DIG
+ - 10:00 - 10:30 - Standup
+ - 10:30 - 11:00 - Intégration pour les DIG (Atelier B) // Rapport EIG (Guéno) pour les EIG (Grand Atelier)
+ - 11:00 - 11:30 - Echanges entre DIG et les deisgner EIG 3 (Atelier B) // Temps libre pour les EIG3 (Grand Atelier)
+ - 11:30 - 12:30 - Pitchs démo day (1h) (Grand Atelier divisé) avec les **mentors** et DIG
+ 	- Rappel du format de pitch, 20 minutes par défi soit : 
+		- 8 minutes de pitch
+		- 12 minutes de Q/R
+	- Défis (à repartir en 2 salles)
+		- CartoBio
+		- EIG Link
+		- Plume (Redaction/Exploration)
+		- Polygraphe
+		- OpenChronic
+ - 12:30 - 14:00 - Déjeuner
+ - 14:00 - 14:30 - Répartition ateliers (**publications**) pour les EIG3 (Grand Atelier) // Thémoignage Bastien pour les DIG (Atelier B)
+ - 14:30 - 16:00 - Atelier (Grand Atelier divisé) 
+ 	- Open source / Open data
+ - 16:00 - 16:30 - Pause
+ - 16:30 - 17:30 - Atelier (Grand Atelier divisé) 
+
 ### Session EIG & mentors | 6 juin
 
 * Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
