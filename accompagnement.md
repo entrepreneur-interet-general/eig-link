@@ -44,6 +44,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 	* Partager les avancées de son défi et recevoir des retours de la promotion
 	* Faire un tour d'horizon des **publications** produites aux regards des objectifs fixés par le programme (open source, open data, com, accessibilité...)
 
+#### Programme de la journée 
+
  - 9:15 - 9:45 - Accueil	
  - 9:45 - 10:00 - Présentation de la journée / Présentation des DIG
  - 10:00 - 10:30 - Standup
