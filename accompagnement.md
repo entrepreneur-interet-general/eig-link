@@ -34,7 +34,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
-### Session EIG & mentors | 11 juillet
+### Session EIG & mentors | 4 juillet
 
 * Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
 * Qui va animer ? L'équipe EIG Core   
