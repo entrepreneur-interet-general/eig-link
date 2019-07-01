@@ -61,6 +61,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 		- Plume (Redaction/Exploration)
 		- Polygraphe
 		- OpenChronic
+                - Karfu'R
  - 12:30 - 14:00 - Déjeuner
  - 14:00 - 14:30 - Répartition ateliers (**publications**) pour les EIG3 (Grand Atelier) // Témoignage Bastien pour les DIG (Atelier B)
  - 14:30 - 16:00 - Atelier (Grand Atelier divisé) 
