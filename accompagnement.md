@@ -40,32 +40,32 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 * Qui va animer ? L'équipe EIG Core   
 * **Livrables** : fin des démos et ateliers collaboratifs sur les publications à mi-parcours
 * **Objectifs** : 
-	* Intégrer les DIG
-	* Partager les avancées de son défi et recevoir des retours de la promotion
-	* Faire un tour d'horizon des **publications** produites aux regards des objectifs fixés par le programme (open source, open data, com, accessibilité...)
+    * Intégrer les DIG
+    * Partager les avancées de son défi et recevoir des retours de la promotion
+    * Faire un tour d'horizon des **publications** produites aux regards des objectifs fixés par le programme (open source, open data, com, accessibilité...)
 
 #### Programme de la journée 
 
- - 9:15 - 9:45 - Accueil	
+ - 9:15 - 9:45 - Accueil
  - 9:45 - 10:00 - Présentation de la journée / Présentation des DIG
  - 10:00 - 10:30 - Standup
  - 10:30 - 11:00 - Intégration pour les DIG (Atelier B) // Rapport EIG (Guéno) pour les EIG (Grand Atelier)
  - 11:00 - 11:30 - Echanges entre DIG et les deisgner EIG 3 (Atelier B) // Temps libre pour les EIG3 (Grand Atelier)
  - 11:30 - 12:30 - Pitchs démo day (1h) (Grand Atelier divisé) avec les **mentors** et DIG
- 	- Rappel du format de pitch, 20 minutes par défi soit : 
-		- 8 minutes de pitch
-		- 12 minutes de Q/R
-	- Défis (à repartir en 2 salles)
-		- CartoBio
-		- EIG Link
-		- Plume (Redaction/Exploration)
-		- Polygraphe
-		- OpenChronic
-                - Karfu'R
+    - Rappel du format de pitch, 20 minutes par défi soit :
+        - 8 minutes de pitch
+        - 12 minutes de Q/R
+    - Défis (à repartir en 2 salles)
+        - CartoBio
+        - EIG Link
+        - Plume (Redaction/Exploration)
+        - Polygraphe
+        - OpenChronic
+        - Karfu'R
  - 12:30 - 14:00 - Déjeuner
  - 14:00 - 14:30 - Répartition ateliers (**publications**) pour les EIG3 (Grand Atelier) // Témoignage Bastien pour les DIG (Atelier B)
  - 14:30 - 16:00 - Atelier (Grand Atelier divisé) 
- 	- Open source / Open data
+    - Open source / Open data
  - 16:00 - 16:30 - Pause
  - 16:30 - 17:30 - Atelier (Grand Atelier divisé) 
 
@@ -75,8 +75,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 * Qui va animer ? L'équipe EIG Core et Hugo (défi Karfu'R)   
 * **Livrables** : des démos et des feuilles de route pour les défis
 * **Objectifs** : 
-	* Partager les avancées de son défi et recevoir des retours de la promotion
-	* Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
+    * Partager les avancées de son défi et recevoir des retours de la promotion
+    * Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
 
 #### Programme de la matinee - EIG seuls
 
@@ -271,9 +271,9 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 * Lieu : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core
 * **Objectifs** : 
-	* Comprendre les facteurs d'une pérennisation réussie
-	* Elaborer des scénarios de pérennisation et identifier les actions à mettre en oeuvre pour les atteindre
-	
+    * Comprendre les facteurs d'une pérennisation réussie
+    * Elaborer des scénarios de pérennisation et identifier les actions à mettre en oeuvre pour les atteindre
+
 **Programme de la journée**  
 
 14h : accueil / standup   
@@ -291,10 +291,10 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
 * **Livrables** : TBC
 * **Objectifs** : 
-	* Comprendre le métier de designer 
-	* Savoir utiliser les outils du design dans son défi  
-	* Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
-	* Savoir pourquoi et comment communiquer autour de son défi
+    * Comprendre le métier de designer
+    * Savoir utiliser les outils du design dans son défi
+    * Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
+    * Savoir pourquoi et comment communiquer autour de son défi
 
 [**Programme de la journée**](https://speakerdeck.com/eig2018/pleniere-design-and-com)
 
@@ -330,7 +330,7 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 * Qui va animer ? L'équipe EIG Core + des personnes d'Etalab
 * **Livrables** : TBC
 * **Objectifs** : 
-	* Avoir un aperçu du cadre légal de l'"open"
+  * Avoir un aperçu du cadre légal de l'"open"
   * Identifier ce qui peut être mis en open source et open data dans les différents défis (et comment)
 
 **Programme de la journée**
