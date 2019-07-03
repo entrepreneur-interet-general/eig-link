@@ -18,7 +18,7 @@ Les données peuvent être accessible sous plusieurs formes :
 
 Dans tous les cas, assurez-vous que les EIG ont accès au plus tôt aux données elles-mêmes et à toute la documentation relative à ces données (schémas de données, procédures d'utilisation des données, etc.) et toute la documentation non technique qui peut retracer l'histoire du défi (entretiens utilisateurs, maquettes, etc.)
 
-Pour cela, vous pouvez vous appuyer [sur plusieurs alliés](#aider-les-eig-a-identifier-les-bonnes-personnes) :
+Pour cela, vous pouvez vous appuyer [sur plusieurs alliés](#aider-les-eig-à-identifier-les-bonnes-personnes) :
 
 - l'équipe d'Etalab pour réaliser une expertise juridique et technique si vous rencontrez des difficultés d'accès aux données, notamment s'il s'agit de données d'une autre administration ;
 
