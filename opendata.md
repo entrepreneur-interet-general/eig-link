@@ -40,3 +40,5 @@ Dans le cas des données financières de la liasse fiscale :
 ### Présentations générales
 - [Historique et cadre juridique](https://speakerdeck.com/eig2018/open-data)
 - [Fiches pédagogiques](https://opendatafrance.gitbook.io/odl-ressources/)
+- [Bonnes pratiques de circulation des données](https://speakerdeck.com/eig2018/preparer-un-jeu-de-donnees-a-la-circulation)
+- [Retour d'expérience sur la documentation associée aux données SECMAR, d'accidentologie maritime](https://speakerdeck.com/eig2018/journee-open-data-arcep)
