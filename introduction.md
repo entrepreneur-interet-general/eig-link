@@ -16,6 +16,24 @@ L'équipe du programme est en charge de l'accompagnement des promotions EIG et D
 
 La liste des autres défis, des promotions en cours ainsi que des promotions précédentes, est [disponible sur le site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html).
 
+Les défis DIG : 
+* Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS). Agence de la Sécurité Civile 
+* Faciliter le regroupement familial des étrangers en France grâce à un service en ligne. Direction de l'Information Légale et Administrative (DILA)
+* Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible. Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication de l'État (DINSIC)
+* Bâtir une identité numérique de l’État simple, ergonomique et sécurisée. Mission Identité Numérique 
+* Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli. Caisse Nationale d'Assurance Maladie
+* Mieux informer les citoyens sur les risques de crues via le site vigicrues.gouv.fr (VigicrUX). Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)
+* Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX).	Service hydrographique et océanographique de la marine (Shom)
+* Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif. Commissariat Général au Développement Durable
+* Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne.	Ministère des Armées
+* Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques.	Ministère de l'Éducation Nationale
+* Faire découvrir les espaces naturels grâce à une application de géolocalisation.	Muséum Histoire Naturelle
+* Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles). Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL)
+* Parcours candidat optimisé.	Direction Générale de la Gendarmerie Nationale (DGGN)
+* Apporter des réponses en ligne aux agents de l’Éducation nationale (Proxi RH). Académie de Lyon
+* Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne. Ministère de l'Intérieur
+* Simplifier le parcours des familles dont les enfants sont en situation de handicap. Académie de Clermont-Ferrand
+
 *Insérer une carte pour localiser les défis*
 
 ### Quel accompagnement ? 
