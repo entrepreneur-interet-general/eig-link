@@ -9,9 +9,19 @@ Vous venez d’arriver dans votre administration d’accueil dans le cadre de vo
 
 ### Tout d’abord, qui sommes-nous ?
 
-L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation se trouve dans l'image ci-dessous afin de vous familiariser avec les membres de l'équipe.
+L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation :
 
-![Equipe EIG](./images/equipe-eig.png)
+* Mathilde Bras, cheffe de projet, en charge de la stratégie : mathilde.bras@modernisation.gouv.fr
+
+* Soizic Pénicaud, chargée de coordination de la promotion 3 : soizic.penicaud@modernisation.gouv.fr
+
+* Sophie Miljkovic, chargée de communication du programme : sophie.miljovic@data.gouv.fr
+
+* Guénolé Carré, chargé de mission : guenole.carre@data.gouv.fr
+
+**Vous souhaitez nous contacter ?**
+
+N'hésitez pas à nous adresser des mails pour que nous puissions tous y répondre à l'alias entrepreneur-interet-general@data.gouv.fr.
 
 ### Quels sont les autres défis ? 
 
@@ -52,24 +62,31 @@ Pour vous suivre tout au long de vos défis, l'équipe du programme a mis en pla
 | Session DIG + Mentors | 28 novembre | 9h30-18h30 | LapTop | ------ | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | LapTop | ------ | ----- |
 
-### Vous souhaitez nous contacter ? Comment communiquer dans la promotion ?
+### D'autres évènements :
 
-Un [guide de bonnes pratiques](https://doc.eig-forever.org/communication.html) est disponible sur le site de documentation.
+Tous les rituels d'accompagnement sont détaillées sur le [site de la documentation](https://doc.eig-forever.org/animation.html).
 
-N'hésitez pas à nous adresser des mails pour que nous puissions répondre à vos questions à l'adresse entrepreneur-interet-general@data.gouv.fr.
+### Un tiers-lieu pour travailler hors de son administration
+
+Un tiers-lieu, le [LapTop](https://www.lelaptop.com/), accueille les différentes sessions d'accompagnements ainsi que des postes nomades pour les différents défis.
+Une adresse : 7 Rue Geoffroy l'Angevin, 75004 Paris
+
+### Comment communiquer dans la promotion ?
+
+Un [guide de bonnes pratiques ainsi que tous les outils utilisés pour communiquer dans la promotion](https://doc.eig-forever.org/communication.html) sont disponibles sur le site de documentation.
 
 ### Ressources et articles
 
 Afin de faciliter votre immersion dans vos administrations et au sein du programme, nous vous proposons la lecture de [certains articles de blog que nous avons publié sur notre site](https://entrepreneur-interet-general.etalab.gouv.fr/blog/).
 
 **Sur les question de design au sein du programme :**
-- [Sur la création d’outils en partant des besoins des utilisateurs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/12/atelier-product-research.html)
 - [Une présentation de l’UX et des méthodes du design](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/25/atelier-product-design.html)
+- [Sur la création d’outils en partant des besoins des utilisateurs](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/12/atelier-product-research.html)
 - [Un récit de l'apport du design dans l'administration : Coline à l’ACOSS](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/le-design-de-services-dans-une-administration.html)
 - [Qu’est ce qu’un bon designer ?](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/04/26/un-bon-designer-selon-Hugo-Stephan.html)
 
 **Sur la méthode que nous employons pour nos défis :**
 - [Construire une feuille de route et la faire évoluer :](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/04/04/construire-une-feuille-de-route-partagee.html)
-- [Quels suites pour les défis EIG ?](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html)
 - [Quelles ressources à Etalab ou à la DINSIC est-il possible de mobiliser pour avancer dans son défi ?](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/03/12/bootcamp-eig3.html)
 - [Les apprentissages des mentors et des EIG en pair à pair](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/25/apprendre-et-progresser.html)
+- [Quels suites pour les défis EIG ?](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html)
