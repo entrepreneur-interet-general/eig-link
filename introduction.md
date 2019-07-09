@@ -26,12 +26,12 @@ Pour vous suivre tout au long de vos défis, l'équipe du programme a mis en pla
 
 | SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
 | -------- | -------- | ------- | ------- | ------ | ----- |
-| Session DIG | 30 août | ------- | LapTop | ------ | ----- |
-| Session DIG + Mentors l'après-midi | 26 septembre | ------- | LapTop | ------ | ----- |
-| Session Mentors seuls | 11 octobre | ------- | LapTop | ------ | ----- |
-| Session DIG | 24 octobre | ------- | LapTop | ------ | ----- |
-| Session DIG + Mentors | 28 novembre | ------- | LapTop | ------ | ----- |
-| Session DIG | 12 décembre | ------- | LapTop | ------ | ----- |
+| Session DIG | 30 août | 9h30-18h30 | LapTop | ------ | ----- |
+| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | LapTop | ------ | ----- |
+| Session Mentors seuls | 11 octobre | 14h-18h30 | LapTop | ------ | ----- |
+| Session DIG | 24 octobre | 9h30-18h30 | LapTop | ------ | ----- |
+| Session DIG + Mentors | 28 novembre | 9h30-18h30 | LapTop | ------ | ----- |
+| Session DIG | 12 décembre | 9h30-18h30 | LapTop | ------ | ----- |
 
 ### Vous souhaitez nous contacter ? Comment communiquer dans la promotion ?
 
