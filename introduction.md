@@ -7,7 +7,8 @@ Ce document a pour objectif de donner quelques éléments de contexte et de faci
 Bonjour,
 Vous venez d’arriver dans votre administration d’accueil dans le cadre de votre défi. Pour vous aider dans cette phase d’intégration, laissez nous vous présenter quelques ressources pour vous aider.
 
-Tout d’abord, qui sommes-nous ? 
+### Tout d’abord, qui sommes-nous ?
+
 L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation se trouve dans l'image ci-dessous afin de vous familiariser avec les membres de l'équipe.
 
 ![Equipe EIG](./images/equipe-eig.png)
