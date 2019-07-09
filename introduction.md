@@ -10,7 +10,7 @@ Vous venez d’arriver dans votre administration d’accueil dans le cadre de vo
 Tout d’abord, qui sommes-nous ? 
 L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation se trouve dans l'image ci-dessous afin de vous familiariser avec les membres de l'équipe.
 
-![Equipe EIG](/images/equipe-eig.png)
+![Equipe EIG](./images/equipe-eig.png)
 
 ### Quels sont les autres défis ? 
 
