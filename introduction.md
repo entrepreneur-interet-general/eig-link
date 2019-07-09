@@ -8,15 +8,15 @@ Bonjour,
 Vous venez d’arriver dans votre administration d’accueil dans le cadre de votre défi. Pour vous aider dans cette phase d’intégration, laissez nous vous présenter quelques ressources pour vous aider.
 
 Tout d’abord, qui sommes-nous ? 
-L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation dans l'image ci-dessous afin de vous familiariser avec les membres de l'équipe.
+L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation se trouve dans l'image ci-dessous afin de vous familiariser avec les membres de l'équipe.
 
-![Equipe EIG](./images/equipe-eig.png)
+![Equipe EIG](/images/equipe-eig.png)
 
 ### Quels sont les autres défis ? 
 
 La liste des autres défis, des promotions en cours ainsi que des promotions précédentes, est [disponible sur le site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html).
 
-Insérer une carte pour localiser les défis
+*Insérer une carte pour localiser les défis*
 
 ### Quel accompagnement ? 
 
