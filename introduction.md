@@ -5,7 +5,8 @@ Ce document a pour objectif de donner quelques éléments de contexte et de faci
 [[toc]]
 
 Bonjour,
-Vous venez d’arriver dans votre administration d’accueil dans le cadre de votre défi. Pour vous aider dans cette phase d’intégration, laissez nous vous présenter quelques ressources pour vous aider.
+
+Vous venez d’arriver dans votre administration d’accueil dans le cadre de votre défi. Pour vous aider dans cette phase d’intégration, laissez-nous vous présenter quelques ressources pour vous aider.
 
 ### Tout d’abord, qui sommes-nous ?
 
@@ -21,7 +22,7 @@ L'équipe du programme est en charge de l'accompagnement des promotions EIG et D
 
 **Vous souhaitez nous contacter ?**
 
-N'hésitez pas à nous adresser des mails pour que nous puissions tous y répondre à l'alias entrepreneur-interet-general@data.gouv.fr.
+N'hésitez pas à nous adresser des e-mails pour que nous puissions tous y répondre à l'alias <entrepreneur-interet-general@data.gouv.fr>.
 
 ### Quels sont les autres défis ? 
 
@@ -63,7 +64,7 @@ Pour vous suivre tout au long de vos défis, l'équipe du programme a mis en pla
 | Session DIG + Mentors | 28 novembre | 9h30-18h30 | LapTop | ------ | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | LapTop | ------ | ----- |
 
-### D'autres évènements :
+### D'autres évènements
 
 Tous les rituels d'accompagnement sont détaillées sur le [site de la documentation](https://doc.eig-forever.org/animation.html).
 
