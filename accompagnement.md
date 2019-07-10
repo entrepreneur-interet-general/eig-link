@@ -34,6 +34,29 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+### Session mentors EIG 3 & DIG | 11 juillet
+
+* Lieu : Liberté Living Lab, Atelier C (rue du Caire)
+* Qui va animer ? L'équipe EIG Core   
+* **Objectifs** : 
+    * Accueillir les mentors DIG et faire se rencontrer la communauté des mentors
+    * Faire le point à mi-parcours sur les réussites, difficultés, prochaines étapes, pérennisation et mesure d'impact des défis
+    
+#### Programme de l'après-midi
+
+* 14h - 14h15 : accueil
+* 14h15 - 14h45 : standup et points transverses
+* 14h45 - 15h30 : retour d'expérience : bingo réflexif pour les mentors EIG 3 et témoignages auprès des mentors DIG
+* 15h30 - 15h45 : pause
+* 15h45 - 17h : temps différenciés
+
+|Session pour les mentors EIG 3|Session pour les mentors DIG|
+|-----|-----|
+|Mise en commun des bonnes pratiques de mesure d'impact / pérennisation|Checklist feuille de route et recueil des attentes, craintes et besoins|
+
+* 17h - 17h30 : restitution
+
+
 ### Session EIG & mentors | 4 juillet
 
 * Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
