@@ -45,7 +45,8 @@ Les défis DIG :
 * Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne. Ministère de l'Intérieur
 * Simplifier le parcours des familles dont les enfants sont en situation de handicap. Académie de Clermont-Ferrand
 
-*Insérer une carte pour localiser les défis*
+Retrouvez les autres défis sur la carte ci-dessous : 
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355">Voir en plein écran</a></p>
 
 ### Quel accompagnement ? 
 
