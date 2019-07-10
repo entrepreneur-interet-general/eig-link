@@ -47,7 +47,7 @@ Les défis DIG :
 * Simplifier le parcours des familles dont les enfants sont en situation de handicap. Académie de Clermont-Ferrand
 
 Retrouvez les autres défis sur la carte ci-dessous : 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355">Voir en plein écran</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355">Voir en plein écran</a></p>
 
 ### Quel accompagnement ? 
 
