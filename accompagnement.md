@@ -26,13 +26,36 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Démo day interne + Bilan à mi-parcours | |
 | EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | A déterminer | |
 | Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) | A déterminer | |
-| EIG | 29 août | 9h - 18h30 | LLL (lieu TBC) | Session de rentrée | |
+| EIG | 29 août | 9h - 18h30 | LLL, Grand atelier + Atelier B | Session de rentrée | |
 | **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC
 | Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) |
 | EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | TBC
 | **Restitution** (EIG + mentors) | 7 ou 14 novembre | TBC | TBC
 
 ## Présentation détaillée des sessions
+
+### Session mentors EIG 3 & DIG | 11 juillet
+
+* Lieu : Liberté Living Lab, Atelier C (rue du Caire)
+* Qui va animer ? L'équipe EIG Core   
+* **Objectifs** : 
+    * Accueillir les mentors DIG et faire se rencontrer la communauté des mentors
+    * Faire le point à mi-parcours sur les réussites, difficultés, prochaines étapes, pérennisation et mesure d'impact des défis
+    
+#### Programme de l'après-midi
+
+* 14h - 14h15 : accueil
+* 14h15 - 14h45 : standup et points transverses
+* 14h45 - 15h30 : retour d'expérience : bingo réflexif pour les mentors EIG 3 et témoignages auprès des mentors DIG
+* 15h30 - 15h45 : pause
+* 15h45 - 17h : temps différenciés
+
+|Session pour les mentors EIG 3|Session pour les mentors DIG|
+|-----|-----|
+|Mise en commun des bonnes pratiques de mesure d'impact / pérennisation|Checklist feuille de route et recueil des attentes, craintes et besoins|
+
+* 17h - 17h30 : restitution
+
 
 ### Session EIG & mentors | 4 juillet
 
