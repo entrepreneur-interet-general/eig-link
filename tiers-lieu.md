@@ -4,7 +4,7 @@
 
 ## Ce que c'est 
 
-Le tiers-lieu du programme EIG est actuellement le [Liberté Living Lab](https://www.liberte.paris/liberte-living-lab) aussi nommé **LLL**. C'est un lieu d'innovation qui accueille et accompagne des structures (startups, acteurs publics, chercheurs, grands groupes), notamment dans le domaine de la "Tech for good".
+Le tiers-lieu du programme EIG est actuellement le [Liberté Living Lab](https://www.liberte.paris) aussi nommé **LLL**. C'est un lieu d'innovation qui accueille et accompagne des structures (startups, acteurs publics, chercheurs, grands groupes), notamment dans le domaine de la "Tech for good".
 
 Ils disposent de locaux à Paris :
 * Un bâtiment principal, au 9 rue d'Alexandrie (75002)
