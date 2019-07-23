@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-07-19 | Dalloz actualité | https://www.dalloz-actualite.fr/flash/distinction-entre-l-open-data-et-l-acces-aux-decisions-de-justice#.XTXSJWPgrRY | Public | Open Justice |
 | 2019-07-12 | DataAnalyticsPost | [L’open data des données juridiques se fait attendre](https://dataanalyticspost.com/lopen-data-des-donnees-juridiques-se-fait-attendre) | Public | OpenJustice |
 | 2019-07-03 | Acteurs Publics | [Les entrepreneurs d’intérêt général, un programme qui doit encore infuser](https://www.acteurspublics.fr/articles/les-entrepreneurs-dinteret-general-un-programme-qui-doit-encore-infuser) | Public | EIG |
 | 2019-06-26 | Le Figaro | [Le rôle de contrôle du Parlement freiné par le gouvernement et l’administration](http://www.lefigaro.fr/conjoncture/le-role-de-controle-du-parlement-freine-par-le-gouvernement-et-l-administration-20190626) | Public | LexImpact |
