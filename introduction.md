@@ -1,32 +1,25 @@
-# Bienvenue 
+# Embarquement des designers d'intérêt général 
 
-Ce document a pour objectif de donner quelques éléments de contexte et de faciliter l'intégration des nouveaux membres du programme. 
+Vous êtes designer d'intérêt général - ou DIG - et vous venez d’arriver dans votre administration : bienvenu·e·s !
+Vous y êtes pour une durée de 6 à 12 mois pour relever des "défis". C'est ainsi que l'on désigne les projets, pour bien montrer la posture entrepreneuriale qui doit être la vôtre
+
 
 [[toc]]
 
-Bonjour,
 
-Vous venez d’arriver dans votre administration d’accueil dans le cadre de votre défi. Pour vous aider dans cette phase d’intégration, laissez-nous vous présenter quelques ressources pour vous aider.
+### Qui sommes-nous ?
 
-### Tout d’abord, qui sommes-nous ?
+Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à l'équipe de coordination du programme EIG - nous. 
+Pour en savoir plus sur le programme EIG : https://entrepreneur-interet-general.etalab.gouv.fr/index.html
+Pour en savoir plus sur les membres de l'équipe de coordination : https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html
 
-L'équipe du programme est en charge de l'accompagnement des promotions EIG et DIG. Une brève présentation :
+**Pour nous contacter, écrivez-nous à l'alias du programme EIG : <entrepreneur-interet-general@data.gouv.fr>.**
 
-* Mathilde Bras, cheffe de projet, en charge de la stratégie : mathilde.bras@modernisation.gouv.fr
+### Quels sont les défis DIG ? 
 
-* Soizic Pénicaud, chargée de coordination de la promotion 3 : soizic.penicaud@modernisation.gouv.fr
-
-* Sophie Miljkovic, chargée de communication du programme : sophie.miljovic@data.gouv.fr
-
-* Guénolé Carré, chargé de mission : guenole.carre@data.gouv.fr
-
-**Vous souhaitez nous contacter ?**
-
-N'hésitez pas à nous adresser des e-mails pour que nous puissions tous y répondre à l'alias <entrepreneur-interet-general@data.gouv.fr>.
-
-### Quels sont les autres défis ? 
-
-La liste des autres défis, des promotions en cours ainsi que des promotions précédentes, est [disponible sur le site du programme](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html).
+Vous faites partie d'une promotion : de nombreux autres DIG relèvent des défis dans diverses autres administrations. 
+La liste des défis DIG est disponible sur le site du programme : https://entrepreneur-interet-general.etalab.gouv.fr/defis.html.
+Vous y trouverez également les descriptions des défis EIG en cours et passés.
 
 Les défis DIG : 
 * Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS). Agence de la Sécurité Civile 
@@ -46,10 +39,14 @@ Les défis DIG :
 * Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne. Ministère de l'Intérieur
 * Simplifier le parcours des familles dont les enfants sont en situation de handicap. Académie de Clermont-Ferrand
 
-Retrouvez les autres défis sur la carte ci-dessous : 
+
+Pour savoir qui relève les défis DIG, rendez-vous sur la page communauté du site (activez le filtre DIG) : https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html
+
+Pour savoir où se déroulent les défis DIG, reportez-vous à la carte ci-dessous : 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/fr/map/localisation-defis-dig_345355">Voir en plein écran</a></p>
 
-### Quel accompagnement ? 
+
+### Comment accompagnons-nous les défis DIG ? 
 
 Pour vous suivre tout au long de vos défis, l'équipe du programme a mis en place un programme d'accompagnement.
 
