@@ -15,22 +15,23 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Programme 2019
 
-| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
+| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | IMPACT / EVALUATION 
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp | | |
-| Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Mini-bootcamp mentors | Rex mentors, présentation design / agile |
+| Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Mini-bootcamp mentors |  |
 | EIG  (+ mentors l’après-midi) | 14 mars | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Open source / Open data | |
 | EIG seuls | 11 avril | 9h - 18h30 | LLL, Grand Atelier (rue d'Alexandrie) | Communication / Utilisateurs | |
 | Mentors seuls | 18 avril | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Pérennisation des défis | |
 | **Séminaire EIG** | 16 & 17 mai | Les 2 jours | Hostellerie de Varennes | "Sprint défis" | |
 | EIG (+ mentors l’après-midi) | 6 juin | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | LLL, Grand atelier (rue d'Alexandrie) | Démo day interne + Bilan à mi-parcours | |
-| EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | A déterminer | |
-| Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) | A déterminer | |
-| EIG | 29 août | 9h - 18h30 | LLL, Grand atelier + Atelier B | Session de rentrée | |
-| **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC
-| Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) |
-| EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | TBC
-| **Restitution** (EIG + mentors) | 7 ou 14 novembre | TBC | TBC
+| EIG | 4 juillet | 9h - 18h30 | LLL, Grand atelier (rue d'Alexandrie) | Demo <br> Accueil des DIG | |
+| Mentors | 11 juillet | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Point à mi-parcours | |
+| EIG | 29 août | 9h - 18h30 | LLL, Grand atelier + Atelier B | Session de rentrée | Atelier "Mesurer son impact" |
+| **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC | TBC | Présentation du modèle des posters |
+| Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) | TBC | Suite de la réflexion "Mesurer son impact" |
+| EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | TBC | TBC | Challenge des réalisations et des indicateurs et intégration aux posters |
+| EIG + mentors | 7 novembre | TBC | TBC | TBC|  Remplissage du questionnaire de fin de promotion |
+| **Restitution** (EIG + mentors) | TBC |
 
 ## Présentation détaillée des sessions
 
