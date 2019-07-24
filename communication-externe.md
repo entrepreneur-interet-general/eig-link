@@ -1,53 +1,22 @@
-# Moyens de communication
+# Comment communiquer vers l'extérieur sur mon défi ou sur le programme ?
 
 [[toc]]
 
-## Messagerie instantanée
+## Les outils de communication externe du programme  
 
-Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
-
-### Threads
-Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas « cachés » par un flux de messages trop important.
-
-### Conventions de nommage des canaux
-
-#### Préfixes
-
-Pour faciliter la découverte des canaux, chaque canal est préfixé d'une catégorie.
-
-- `domaine-` : canaux de discussion liés à des pratiques / compétences ;
-- `eig<année>-<nom>` : un canal spécifique à une promotion EIG ;
-- `off-` : canaux de discussion sans but productif ;
-- `projet-<nom>` : canaux liés à des défis EIG ;
-- `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
-
-### Canaux spéciaux
-
-En plus des précédents canaux, on peut trouver ces différents canaux :
-- `eig<année>` : le canal général d'une promotion EIG (par exemple `#eig2019`) ;
-- `help` : besoin d'aide à adresser à la communauté ;
-- `offres-emploi` : partager des offres au sein de la communauté EIG.
-
-## Listes de diffusion
-
-Les EIG et mentors sont inscrits sur des listes de diffusion :
-
-* Les EIG 2019 sont inscrits sur la liste [eig2019@framalistes.org](mailto:eig2019-mentors@framalistes.org)
-* Les mentors 2019 sont inscrits sur la liste [eig2019-mentors@framalistes.org](mailto:eig2019-mentors@framalistes.org)
-
-## Site web
+### Site web
 
 Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link. Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
 
 Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/)
 
-## Réseaux sociaux
+### Réseaux sociaux
 
 Le programme possède un compte Twitter EIG : [@eigforever](https://twitter.com/eigforever). Nous vous encourageons à utiliser le hashtag `#EIG2019` lorsque vous parlez sur les réseaux sociaux du programme EIG.
 
-## Présentations des EIG et mentors
+### Speakerdeck
 
-Les présentations sont archivées sur [SpeakerDeck](https://speakerdeck.com/eig2018).
+Les présentations des EIG et des mentors sont archivées sur [SpeakerDeck](https://speakerdeck.com/eig2018).
 
 ## Présenter le programme EIG
 
@@ -68,40 +37,6 @@ Le programme n'a pas encore choisi sa phrase d'accroche. Pour présenter le prog
 Pour présenter le programme en un paragraphe, vous pouvez utiliser :
 
 > Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
-
-### Supports de communication
-
-Pour présenter le programme, vous pouvez vous appuyer sur différents supports de communication - en choisissant toujours le plus adapté à chaque situation. 
-
-### Livret de présentation
-
-Ce livret présente à la fois le fonctionnement du programme, la troisième promotion du programme et les réalisations des promotions précédentes. 
-Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à un supérieur hiérarchique, à un potentiel partenaire, à de potentiels contributeurs au défi. Il présente l'avantage d'être tangible et polyvalent.
-
-> [Le livret de présentation](https://github.com/entrepreneur-interet-general/eig-link/raw/master/guides/livret-presentation-programme-2019.pdf)
-
-### Présentation PowerPoint
-
-Ce PowerPoint présente la raison d'être du programme, son fonctionnement et quelques résultats.
-Il est destiné à un public plutôt administratif. Il peut servir pour présenter la mécanique du programme.
-
-> lien vers la présentation PowerPoint type
-
-### Vidéos de présentation
-
-Ces vidéos présentent le principe du programme en présentant la promotion 2 (première vidéo) et la promotion 3 (deuxième vidéo).
-Elles sont destinées à un public large. Elles peuvent servir pour présenter le programme de façon ludique et peuvent être intégrées à un site web, une présentation orale, l'habillage d'un stand de salon... Elles ont l'avantage d'incarner le collectif EIG. 
-
->[Vidéo de présentation EIG 2](https://www.dailymotion.com/video/x6fp47d)
-
->[Vidéo de présentation EIG 3](https://www.dailymotion.com/video/x75h2pz)
-
-### Mémo en anglais
-
-Ce texte de huit pages (avec beaucoup de photos) présente l'ambition du programme et son fonctionnement. 
-Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à des étrangers. Il peut également servir pour piocher des éléments de langage en anglais. Il présente l'avantage d'être en anglais, donc.
-
-> [Mémo en anglais](https://entrepreneur-interet-general.etalab.gouv.fr/docs/Public-Interest-Entrepreneurs-EN-memo.pdf)
 
 ## Bonnes pratiques de communication
 
