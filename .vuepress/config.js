@@ -13,7 +13,9 @@ sidebar = [
     collapsable: true,
     children: [
       'ecosysteme',
-      'communication',
+      'communication-interne',
+      'communication-externe',
+      'supports-communication',
       'tiers-lieu',
       'serveur',
       'stack',
