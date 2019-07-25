@@ -1,4 +1,4 @@
-# Comment communiquer au sein de la promotion ? 
+# Communiquer au sein de la promotion
 
 [[toc]]
 
