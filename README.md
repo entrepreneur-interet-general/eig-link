@@ -18,7 +18,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [L'écosystème du programme EIG](./ecosysteme.md)
 	- [L'équipe Etalab](./ecosysteme.md#équipes-etalab)
 	- [DINSIC](./ecosysteme.md#produits--méthodes-etalab---dinsic)
-- [Les moyens de communication EIG](./communication.md)
+- Les outils de communication [interne](./communication-interne.md), [externe](./communication-externe.md) et [les supports de communication](./supports-communication.md)
   - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
   - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 - [Le tiers-lieu - Liberté Living Lab](./tiers-lieu.md)
