@@ -1,4 +1,4 @@
-# Comment communiquer vers l'extérieur sur mon défi ou sur le programme ?
+# Communiquer vers l'extérieur sur son défi ou sur le programme
 
 [[toc]]
 
