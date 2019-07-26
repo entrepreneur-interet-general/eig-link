@@ -2,7 +2,7 @@
 
 [[toc]]
 
-::: tip
+::: tip Document en construction
 Ce document n'est pas encore finalisé. Vous pouvez faire vos retours à l'équipe de coordination.
 :::
 
