@@ -31,7 +31,6 @@ Essayez de décrire l'objectif de votre défi en une seule phrase.
 
 > GOV.UK Pay va permettre à l'administration de recevoir des paiements plus facilement et plus efficacement, permettant un gain de temps et d'efforts pour les différentes équipes.
 
-
 ## Définir les apports de votre défi
 Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent contribuer au fait que votre défi remplit ses objectifs. Utilisez les besoins utilisateurs pour définir ces apports.
 
@@ -58,8 +57,8 @@ Par exemple :
 > Nous allons mesurer combien de temps prend un utilisateur pour effectuer sa démarche en utilisant notre formulaire en ligne.
 > 
 
-## Trouver comment mesurer son indicateur
-Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comment réellement mesurer cet indicateur. Vous pouvez vous reposer sur :
+## Trouver comment mesurer ses indicateurs
+Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comment réellement mesurer vos indicateurs. Vous pouvez vous reposer sur :
 
 - des outils de mesure d'audience
 - des questionnaires de satisfaction
