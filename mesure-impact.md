@@ -20,7 +20,7 @@ Afin de définir vos indicateurs, nous vous recommandons de suivre un processus 
 4. Décider ce que vous allez mesurer à partir de ces hypothèses
 5. Trouver comment mesurer vos indicateurs
 
-## Déterminez vos indicateurs à partir d'une description claire de votre défi
+### Déterminez vos indicateurs à partir d'une description claire de votre défi
 Des indicateurs pertinents doivent refléter si votre défi est une réussite. Il est nécessaire de commencer par bien définir l'objectif de votre défi.
 
 Vous devez prendre en considération :
@@ -31,14 +31,14 @@ Essayez de décrire l'objectif de votre défi en une seule phrase.
 
 > GOV.UK Pay va permettre à l'administration de recevoir des paiements plus facilement et plus efficacement, permettant un gain de temps et d'efforts pour les différentes équipes.
 
-## Définir les apports de votre défi
+### Définir les apports de votre défi
 Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent contribuer au fait que votre défi remplit ses objectifs. Utilisez les besoins utilisateurs pour définir ces apports.
 
 Exemple :
 - Besoin : en tant que citoyen à l'étranger, j'ai besoin d'argent pour financer des soins médicaux rapidement.
 - Apport de la solution : rendre plus facile et rapide l'accès à des soins médicaux à l'étranger en accélérant la procédure pour obtenir des financements.
 
-## Imaginer des hypothèses à partir des apports
+### Imaginer des hypothèses à partir des apports
 Articuler comment ce que vous allez réaliser va permettre d'apporter quelque chose et pourquoi :
 
 > Faire / changer [quelque chose] ... va [bénéfice] ... parce que [hypothèse/logique/stratégie]
@@ -50,14 +50,14 @@ Par exemple :
 
 Ces hypothèses permettront de prendre de meilleures décisions car il est possible de mesurer les effets d'un choix que vous avez fait.
 
-## Décider ce que vous allez mesurer à partir des hypothèses
+### Décider ce que vous allez mesurer à partir des hypothèses
 Vos hypothèses devraient vous guider sur ce qu'il est possible et pertinent de mesurer. Au début de votre projet, il n'est pas nécessaire de savoir exactement comment vous allez mesurer vos indicateurs mais vous devez savoir ce que chaque indicateur signifie.
 
 Par exemple :
 > Nous allons mesurer combien de temps prend un utilisateur pour effectuer sa démarche en utilisant notre formulaire en ligne.
 > 
 
-## Trouver comment mesurer ses indicateurs
+### Trouver comment mesurer ses indicateurs
 Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comment réellement mesurer vos indicateurs. Vous pouvez vous reposer sur :
 
 - des outils de mesure d'audience
