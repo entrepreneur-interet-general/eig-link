@@ -54,5 +54,11 @@ module.exports = {
     nav: [
       { text: 'Site web', link: 'https://entrepreneur-interet-general.etalab.gouv.fr' },
     ]
+  },
+  markdown: {
+    config: md => {
+      // use more markdown-it plugins!
+      md.use(require('markdown-it-abbr'))
+    }
   }
 }
