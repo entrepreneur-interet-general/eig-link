@@ -1,4 +1,6 @@
-# EIG Link
+# Rôle d'un EIG Link
+
+Cette page décrit les différents rôles d'un EIG Link. Les objectifs poursuivis par un EIG Link sont les suivants : consolider le collectif EIG 3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser une dynamique entrepreneuriale au sein de la DINSIC.
 
 [[toc]]
 
@@ -12,7 +14,6 @@
 
 
 ## Détail des rôles
-
 
 ### Technique
 
