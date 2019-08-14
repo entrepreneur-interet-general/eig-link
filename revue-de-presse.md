@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-08-05 | La gazette des communes | [Comment l’intelligence artificielle va aider les pompiers à anticiper leurs besoins humains](https://www.lagazettedescommunes.com/632456/comment-lintelligence-artificielle-va-aider-les-pompiers-a-anticiper-leurs-besoins-humains/) | Payant | Prévisecours |
 | 2019-07-19 | Dalloz actualité | [La distinction entre l’open data et l’accès aux décisions de justice](https://www.dalloz-actualite.fr/flash/distinction-entre-l-open-data-et-l-acces-aux-decisions-de-justice#.XTXSJWPgrRY) | Public | Open Justice |
 | 2019-07-12 | DataAnalyticsPost | [L’open data des données juridiques se fait attendre](https://dataanalyticspost.com/lopen-data-des-donnees-juridiques-se-fait-attendre) | Public | OpenJustice |
 | 2019-07-03 | Acteurs Publics | [Les entrepreneurs d’intérêt général, un programme qui doit encore infuser](https://www.acteurspublics.fr/articles/les-entrepreneurs-dinteret-general-un-programme-qui-doit-encore-infuser) | Payant | EIG |
