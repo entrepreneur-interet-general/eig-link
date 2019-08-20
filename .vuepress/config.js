@@ -31,6 +31,7 @@ sidebar = [
       'opendata',
       'mesure-impact',
       'accueil-eig',
+      'design.md'
     ]
   },
 ]
