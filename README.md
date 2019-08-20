@@ -29,7 +29,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 ## Bonnes pratiques
 
 - [Ouvrir son code source](./opensource.md)
-- [Comprendre les licences libres](.opensource-licences.md)
+- [Comprendre les licences libres](./opensource-licences.md)
 - [Publier et réutiliser des données](./opendata.md)
 - [Définir des indicateurs et mesurer son impact](./mesure-impact.md)
 - [Accueillir des EIG **(à destination des mentors)**](./accueil-eig.md)
