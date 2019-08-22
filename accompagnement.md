@@ -35,6 +35,42 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+
+### Session EIG | 29 août
+
+- Heures : 9h - 18h
+- Lieu : LLL, Grand atelier + Atelier B
+- Thème : session de rentrée
+
+:warning: Antoine sera absent lors de cette session.
+
+## Idées d'ateliers pour l'aprem
+
+- Clinique défis
+- Collaboration entre défis
+- Recueil d'idées / suggestions pour le séminaire
+- Atelier écriture de notes / articles de blog
+
+## Programme
+
+- 9:15 - 9:45 - Accueil
+- 9:45 - 10:00 - Présentation de la journée 
+- 10:00 - 10:30 - Standup >> Info à transmettre en + : Partage de bonnes nouvelles de pérennisation des défis / personnes (ex : ouverture de poste, prolongation comme independant...)
+    - Actualité sur la pérennisation du programme et sur les DIG
+    - Appel à gestion de la logistique / voiture pour le séminaire
+    - Message **positive attitude** > Engagement de moyen/contractuel, "on vous demande pas d'ouvrir un service à compétence nationale", message de BZG, que vous soyez tous content de votre défis 
+- 10:30 - 12:00 - Atelier "Mesurer son impact"
+    - Présentation rapide ([slide de la doc](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact)) ?
+    - Exemple d'inspiration : Poster, pages réalisations
+    - Temps de production par défi
+- 12:30 - 14:00 - Dej
+- 14:00 - 14:30 - Repartition pour l'aprem
+- 14:30 - 16:00 - Atelier
+    - Proposition d'atelier pour le seminaire 
+- 16:00 - 16:15 - Pause
+- 16:15 - 17:30 - Atelier
+- 17:30 - 18:00 - Restitution
+
 ### Session mentors EIG 3 & DIG | 11 juillet
 
 * Lieu : Liberté Living Lab, Atelier C (rue du Caire)
