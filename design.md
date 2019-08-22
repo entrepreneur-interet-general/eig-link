@@ -26,15 +26,17 @@ En terme d'outils de conception d'interface utilisateur, les principaux outils u
 - [Figma](https://www.figma.com/) est une application web qui offre l'avantage d'être disponible en ligne, combine les fonctionnalités de Sketch ainsi que d'InVision et Zeplin (version gratuite à petite échelle).
 - [Adobe XD](https://www.adobe.com/fr/products/xd.html) est l'outil historique et complet du designer comportant également une version gratuite à périmètre fonctionnel réduit.
 
-## Open design
+## Ouverture du design de service public
 
 La [loi pour une République Numérique de 2016](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. La production d'un designer est assimilée à un document administratif. Cette production doit donc être publiée sous licence libre, comme le [code source d'un logiciel](./opensource.md).
+
+Il est donc conseillé de publier sur un dépôt [github.com](https://github.com/) ou une autre forge selon votre ministère vos produtions en licence ouverte. Exemple avec le dépôt : [Brigade Numérique](https://github.com/entrepreneur-interet-general/brigade-numerique)
 
 ### Format des données
 
 La loi pour une République Numérique de 2016 demande également l'utilisation des formats favorisant l'interopérabilité, c'est le droit à la portabilité. Il faut donc privilégier des formats ouverts et lisibles par des machines autant que possible.
 
-Concernant les productions des designers, il est donc préférable d'exporter son travail aux formats `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ia`.
+Concernant les productions des designers, il est donc préférable d'exporter son travail aux formats `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.
 
 ## Communautés 
 
