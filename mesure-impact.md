@@ -103,3 +103,4 @@ Nous détaillons les objectifs et indicateurs associés mis en place. Il existe 
 ](https://www.gov.uk/service-manual/measuring-success/measuring-the-success-of-your-service)
 - [beta.gouv.fr - Mesurer son impact dans le réel](https://beta.gouv.fr/alpha/mooc/sequence-3-mesurer-impact.html), un article de l'incubateur des Startups d'État
 - [Évaluer un projet de transformation](https://eformation.fonction-publique.gouv.fr/course/view.php?id=14), sur la plateforme de la formation interministérielle (plateforme ouverte aux agents publics sur inscription)
+- [Description du projet Camino](https://camino.beta.gouv.fr/a-propos) et [statistiques du projet Camino](https://camino.beta.gouv.fr/statistiques)
