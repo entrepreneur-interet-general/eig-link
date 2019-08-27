@@ -1,4 +1,4 @@
-# Planning du programme
+# Planning
 
 [[toc]]
 

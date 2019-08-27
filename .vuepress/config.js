@@ -1,6 +1,6 @@
 sidebar = [
   {
-    title: 'Programme EIG',
+    title: 'Déroulement du programme',
     collapsable: true,
     children: [
       'accompagnement',
@@ -31,7 +31,14 @@ sidebar = [
       'opendata',
       'mesure-impact',
       'accueil-eig',
-      'modele-note-perennisation',      
+      'modele-note-perennisation',
+    ]
+  },
+  {
+    title: 'Organisation du programme',
+    collapsable: true,
+    children: [
+      'parametrage-liste-diffusion',
     ]
   },
 ]
