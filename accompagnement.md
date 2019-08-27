@@ -59,7 +59,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
     - Actualité sur la pérennisation du programme et sur les DIG
     - Appel à gestion de la logistique / voiture pour le séminaire
     - Message **positive attitude** > Engagement de moyen/contractuel, "on vous demande pas d'ouvrir un service à compétence nationale", message de BZG, que vous soyez tous content de votre défis 
-- 10:30 - 12:00 - Atelier "Mesurer son impact"
+- 10:30 - 12:30 - Atelier "Mesurer son impact"
     - Présentation rapide ([slide de la doc](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact)) ?
     - Exemple d'inspiration : Poster, pages réalisations
     - Temps de production par défi
