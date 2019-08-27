@@ -20,7 +20,6 @@ sidebar = [
       'serveur',
       'stack',
       'eig-link',
-      'modele-note-perennisation'
     ]
   },
   {
@@ -32,6 +31,7 @@ sidebar = [
       'opendata',
       'mesure-impact',
       'accueil-eig',
+      'modele-note-perennisation',      
     ]
   },
 ]

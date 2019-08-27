@@ -44,14 +44,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 :warning: Antoine sera absent lors de cette session.
 
-## Idées d'ateliers pour l'aprem
+#### Idées d'ateliers pour l'aprem
 
 - Clinique défis
 - Collaboration entre défis
 - Recueil d'idées / suggestions pour le séminaire
 - Atelier écriture de notes / articles de blog
 
-## Programme
+#### Programme
 
 - 9:15 - 9:45 - Accueil
 - 9:45 - 10:00 - Présentation de la journée 
