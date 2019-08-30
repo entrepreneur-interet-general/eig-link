@@ -16,22 +16,24 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 
 ## Ressources du programme
 - [L'écosystème du programme EIG](./ecosysteme.md)
-	- [L'équipe Etalab](./ecosysteme.md#équipes-etalab)
-	- [DINSIC](./ecosysteme.md#produits--méthodes-etalab---dinsic)
-- Les outils de communication [interne](./communication-interne.md), [externe](./communication-externe.md) et [les supports de communication](./supports-communication.md)
+- Les outils de communication [au sein de la promotion](./communication-interne.md), [vers l'exterieur](./communication-externe.md) et [les supports de communication](./supports-communication.md)
   - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
   - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
 - [Le tiers-lieu - Liberté Living Lab](./tiers-lieu.md)
 - [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
-- [Les EIG Link](./eig-link.md)
-- [La cartographie (géographique) des EIG 2019](http://u.osmfr.org/m/277159/)
+- [Les stacks techniques des défis](./stack.md)
+- [Le rôle EIG Link](./eig-link.md)
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/eig-2019_277159?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 ## Bonnes pratiques
 
 - [Ouvrir son code source](./opensource.md)
-- [Publier et accéder à des données](./opendata.md)
-- [*Designer* son produit/service](https://github.com/entrepreneur-interet-general/design-system)
-- [Guide d'accueil à destination des mentors pour l'arrivée des EIG](accueil-eig.md)
+- [Comprendre les licences libres](./opensource-licences.md)
+- [Publier et réutiliser des données](./opendata.md)
+- [Définir des indicateurs et mesurer son impact](./mesure-impact.md)
+- [Accueillir des EIG **(à destination des mentors)**](./accueil-eig.md)
+- [Guider les designers](./design.md)
 
 ## Outils et tutoriels
 
