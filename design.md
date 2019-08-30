@@ -1,4 +1,4 @@
-# Design
+# Références, ressources et pratiques du design dans l'administration
 
 Ce document a pour vocation de guider les designers et les mentors ayant des designers dans leur défi dans la publication de leur production et la gestion de leur projet.
 
@@ -9,7 +9,7 @@ En tant que designer, deux documents de référence du SI de l'État concernent 
 - La **[Charte Internet de l'état](http://references.modernisation.gouv.fr/charte-internet-de-letat)**, publiée en Février 2012, définit les obligations auxquelles doivent se conformer les sites web et les services en ligne des administrations centrales et des services déconcentrés de l'État (voir la [circulaire](http://circulaire.legifrance.gouv.fr/pdf/2012/02/cir_34663.pdf)). Ce document a pour principes de garantir de la cohérence et de la lisibilité entre les services numérique de l'Etat. Malheureusement, ce document est devenu obsolète avec les années. Par exemple, il ne prend pas en considération la responsivité des écrans et impose la compatibilité avec IE6.
 - Le **[Référentiel général d’accessibilité pour les administrations](http://references.modernisation.gouv.fr/rgaa-accessibilite/)** aussi nommé **RGAA**, est mis à jour régulièrement, et découle de l'obligation d'accessibilité imposée par l'[article 47 de la loi du 11 février 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257) pour « l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ». Il est composé d'une introduction qui définit la problématique et les enjeux de l'accessibilité numérique, d'un « Guide d'accompagnement » et d'un « [Référentiel technique](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html) », découpé entre 6 parties.
 
-## Ressources
+## Ressources design de l'Etat
 
 Les ressources suivantes peuvent être utiles à la fois aux designers fraîchement arrivés dans l'administration ou les mentors cherchant à découvrir ou approfondir leur connaissance sur le design :
 
@@ -26,11 +26,13 @@ En terme d'outils de conception d'interface utilisateur, les principaux outils u
 - [Figma](https://www.figma.com/) est une application web qui offre l'avantage d'être disponible en ligne, combine les fonctionnalités de Sketch ainsi que d'InVision et Zeplin (version gratuite à petite échelle).
 - [Adobe XD](https://www.adobe.com/fr/products/xd.html) est l'outil historique et complet du designer comportant également une version gratuite à périmètre fonctionnel réduit.
 
-## Ouverture du design de service public
+Ces principaux outils sont cités également pour les mentors afin [préparer le poste de travail des EIG](./accueil-eig.md).
 
-La [loi pour une République Numérique de 2016](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. La production d'un designer est assimilée à un document administratif. Cette production doit donc être publiée sous licence libre, comme le [code source d'un logiciel](./opensource.md).
+## Ouvrir son design
 
-Il est donc conseillé de publier sur un dépôt [github.com](https://github.com/) ou une autre forge selon votre ministère vos produtions en licence ouverte. Exemple avec le dépôt : [Brigade Numérique](https://github.com/entrepreneur-interet-general/brigade-numerique)
+La [loi pour une République Numérique de 2016](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. La production d'un designer est assimilée à un document administratif une fois que celui-ci est terminé. Cette production doit donc être publiée sous licence libre, comme le [code source d'un logiciel](./opensource.md).
+
+Nous vous conseillons donc de créer et de publier sur un dépôt [GitHub de l'organisation Entrepreneurs d’intérêt général](https://github.com/entrepreneur-interet-general/) (ou une autre forge selon votre ministère) vos produtions en licence ouverte, vos recherches, documentations, productions de maquettes, prototypes, templates, logos... Exemple avec le dépôt : [Brigade Numérique](https://github.com/entrepreneur-interet-general/brigade-numerique)
 
 ### Format des données
 
@@ -38,8 +40,12 @@ La loi pour une République Numérique de 2016 demande également l'utilisation 
 
 Concernant les productions des designers, il est donc préférable d'exporter son travail aux formats `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.
 
+### Pour les débutants de GitHub
+
+Pour les débutants de GitHub, nous vous conseillons d'avoir l'outil [GitHub Desktop](https://desktop.github.com/) afin de *commiter* vos productions sur votre dépot.   
+
 ## Communautés 
 
-Pour partager ces pratiques il existe plusieurs lieux et moment d'échanges : 
+Pour partager vos pratiques de designer il existe plusieurs lieux et moment d'échanges dans l'administration publique : 
 - Le [Hub des communautés](https://www.modernisation.gouv.fr/le-hub-des-communautes), est une liste de communauté de professionnels innovants dans la transformation du secteur public dont certains ont une certaine expertise du design, comme la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/).
 - La [CNIL a une communauté de designers et de professionnel du numérique](https://design.cnil.fr/) pour construire des parcours utilisateurs respectueux de la vie privée et des concepts du RGPD.
