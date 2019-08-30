@@ -85,7 +85,7 @@ Au début de votre défi, des indicateurs ont été définis dans le cadre du co
 Mesurer des indicateurs permet d'une certaine façon de mesurer l'impact de son travail. En complément, nous recommandons de lier ces indicateurs à des retours qualitatifs. Vous pouvez collecter des retours de vos utilisateurs à propos de votre défi, illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration.
 
 ## Exemple : défi PrédiSauvetage
-Pour illustrer ces consignes, nous prenons comme exemple défi EIG 2 [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) dont l'objectif était de sauver des vies en mer en prévenant les accidents maritimes.
+Pour illustrer ces consignes, nous prenons comme exemple le défi EIG 2 [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) dont l'objectif était de sauver des vies en mer en prévenant les accidents maritimes.
 
 Nous détaillons les objectifs et indicateurs associés mis en place. Il existe des indicateurs complémentaires, requis par le PIA et communs aux différents défis.
 
@@ -93,8 +93,8 @@ Nous détaillons les objectifs et indicateurs associés mis en place. Il existe 
 |----|-----|
 | Accroître la connaissance de l’accidentologie en mer | Nombre de détenteurs de données ayant rejoint l’observatoire de l’accidentologie de la plaisance à l’issue du programme |
 | Croiser et valoriser des données d'acteurs multiples | Nombre de données mises à disposition |
-| Identifier les situations à risque en mer | - Nombre de réutilisation sur ces données au sein de l’observatoire<br> - Nombre de situations à risque nouvelles détectées |
-| Cibler les messages et médias en matière de prévention | - Nombre de campagnes de prévention<br>- Indice de satisfaction utilisateurs<br>- Nombre de sollicitations de la presse, de particuliers, de communes ou de ports demandant les infos produites par l’algorithme ou sollicitant l'observatoire |
+| Identifier les situations à risque en mer | Nombre de réutilisation sur ces données au sein de l’observatoire<br> Nombre de situations à risque nouvelles détectées |
+| Cibler les messages et médias en matière de prévention | Nombre de campagnes de prévention<br>Indice de satisfaction utilisateurs<br>Nombre de sollicitations de la presse, de particuliers, de communes ou de ports demandant les infos produites par l’algorithme ou sollicitant l'observatoire |
 
 ## Sources et ressources
 - [CDS - Developing an evaluation framework for product and service delivery
@@ -103,3 +103,4 @@ Nous détaillons les objectifs et indicateurs associés mis en place. Il existe 
 ](https://www.gov.uk/service-manual/measuring-success/measuring-the-success-of-your-service)
 - [beta.gouv.fr - Mesurer son impact dans le réel](https://beta.gouv.fr/alpha/mooc/sequence-3-mesurer-impact.html), un article de l'incubateur des Startups d'État
 - [Évaluer un projet de transformation](https://eformation.fonction-publique.gouv.fr/course/view.php?id=14), sur la plateforme de la formation interministérielle (plateforme ouverte aux agents publics sur inscription)
+- [Description du projet Camino](https://camino.beta.gouv.fr/a-propos) et [statistiques du projet Camino](https://camino.beta.gouv.fr/statistiques)

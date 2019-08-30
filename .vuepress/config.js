@@ -31,7 +31,8 @@ sidebar = [
       'opendata',
       'mesure-impact',
       'accueil-eig',
-      'design'
+      'modele-note-perennisation',      
+      'design',
     ]
   },
 ]
