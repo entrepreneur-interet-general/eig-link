@@ -32,11 +32,11 @@ Lorsque vous parlez d'un ou de plusieurs EIG, écrivez tout en minuscules.
 ### Définir le programme
 Le programme n'a pas encore choisi sa phrase d'accroche. Pour présenter le programme en une phrase, vous pouvez utiliser :
 
-> Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis numériques en 10 mois.
+> Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d'amélioration du service public à l'aide du numérique et des données. 
 
 Pour présenter le programme en un paragraphe, vous pouvez utiliser :
 
-> Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
+> Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données.
 
 ## Bonnes pratiques de communication
 
