@@ -12,6 +12,11 @@ De nombreuses bulloteries ont été réalisées dans le programme EIG. Pour conc
 
 Pour information, l'application affiche aléatoirement 4 compétences et ces liens.
 
+## Bulloterie EIG3 
+
+<iframe
+  src="https://embed.kumu.io/dc607dcfc6ba1f3a7954c30400cb3614"
+  width="100%" height="400" frameborder="0"></iframe>
 
 ## Intégration en ligne
 
