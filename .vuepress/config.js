@@ -20,6 +20,7 @@ sidebar = [
       'serveur',
       'stack',
       'eig-link',
+      'bulloterie',
     ]
   },
   {
