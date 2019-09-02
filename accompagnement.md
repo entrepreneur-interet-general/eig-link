@@ -35,6 +35,45 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+### Séminaire hors-les-murs EIG | 5 & 6 Septembre
+
+- Heures : 10h - 18h
+- Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 Rue de l'Hermitage, 60350 Autrêches 
+- Thème : Rétrospectif & Prospectif du programme EIG
+
+> **[PAD pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
+
+#### Jeudi 5 septembre - Rétrospectif
+
+- 08h30 - 09h30 : Gare du Nord - Compiègne 
+- 09h30 - 10h05 : Voiture/Taxi - Compiègne - Autrêches
+- 10h00 - 10h45 : Arrivage sur le lieu - Installation - Café
+- 10h45 - 11h00 : Présentation du séminaire
+- 11h00 - 12h30 : Organisation des ateliers du séminaire
+- 12h30 - 14h00 : Déjeuner
+- **14h00 - 15h30 : Atelier**
+- 15h30 - 15h45 : Pause
+- **15h45 - 17h00 : Atelier**
+- 17h00 - 18h00 : Micro gamejam (Mourdjen Bari)
+- 18h00 - 19h00 : OFF // Apéro 
+- 20h00 : Dîner 
+
+#### Vendredi 6 septembre - Prospectif
+
+> Invité : Adnène Trojette, conseiller numérique et action publique
+
+- 08h30 - 09h30 : Petit-dej
+- 09h30 - 10h00 : Présentation de la journée / Ice-breaking
+- **10h00 - 11h15 : Atelier**
+- 11h15 - 11h30 : Pause 
+- **11h30 - 12h30 : Atelier**
+- 12h30 - 14h00 : Déjeuner + intervention d'Adnène Trojette
+- **14h00 - 15h30 : Atelier** 
+- 15h30 - 15h45 : Pause
+- **15h45 - 17h00 : Plénière**
+- 17h00 - 18h00 : **OFF** 
+- 18h00 - 19h00 : OFF // Apéro // Retour 
+- 20h00 : Dîner
 
 ### Session EIG | 29 août
 
