@@ -2,6 +2,8 @@
 
 [[toc]]
 
+Nous utilisons la messagerie instantanée ainsi que des listes de diffusion pour communiquer.
+
 ## Messagerie instantanée
 
 Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
@@ -29,6 +31,8 @@ En plus des précédents canaux, on peut trouver ces différents canaux :
 - `offres-emploi` : partager des offres au sein de la communauté EIG.
 
 ## Listes de diffusion
+
+Nous utilisons les listes de diffusion pour diffuser les informations les plus importantes au sein de la promotion : sessions plénières, demandes de documents, dates clés etc.
 
 Les EIG et mentors sont inscrits sur des listes de diffusion :
 
