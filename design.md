@@ -28,6 +28,12 @@ En terme d'outils de conception d'interface utilisateur, les principaux outils u
 
 Ces principaux outils sont cités également pour les mentors afin [préparer le poste de travail des EIG](./accueil-eig.md).
 
+## Communauté & ressources communautaires 
+
+Pour partager vos pratiques et vos ressources de designer il existe plusieurs espaces et moments d'échanges dans l'administration publique : 
+- Le [Hub des communautés](https://www.modernisation.gouv.fr/le-hub-des-communautes), est une liste de communauté de professionnels innovants dans la transformation du secteur public dont certains ont une certaine expertise du design, comme la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/).
+- La [CNIL a une communauté de designers et de professionnel du numérique](https://design.cnil.fr/) pour construire des parcours utilisateurs respectueux de la vie privée et des concepts du RGPD, et faisant suite au [cahier IP6 - La forme de  choix](https://linc.cnil.fr/fr/cahier-ip6-la-forme-des-choix-0).
+
 ## Ouvrir son design
 
 La [loi pour une République Numérique de 2016](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. La production d'un designer est assimilée à un document administratif une fois que celui-ci est terminé. Cette production doit donc être publiée sous licence libre, comme le [code source d'un logiciel](./opensource.md).
@@ -44,8 +50,4 @@ Concernant les productions des designers, il est donc préférable d'exporter so
 
 Pour les débutants de GitHub, nous vous conseillons d'avoir l'outil [GitHub Desktop](https://desktop.github.com/) afin de *commiter* vos productions sur votre dépot.   
 
-## Communautés 
 
-Pour partager vos pratiques de designer il existe plusieurs lieux et moment d'échanges dans l'administration publique : 
-- Le [Hub des communautés](https://www.modernisation.gouv.fr/le-hub-des-communautes), est une liste de communauté de professionnels innovants dans la transformation du secteur public dont certains ont une certaine expertise du design, comme la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/).
-- La [CNIL a une communauté de designers et de professionnel du numérique](https://design.cnil.fr/) pour construire des parcours utilisateurs respectueux de la vie privée et des concepts du RGPD.
