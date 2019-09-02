@@ -6,11 +6,11 @@ Cette outil a été conçu par Sébastien Kurt. [Voir le wiki pour comprendre : 
 
 ## Historique
 
-De nombreuses bulloteries ont été réalisées dans le programme EIG. Pour concerver la trace des bulloteries produites, une [première implémentation de la bulloterie](https://github.com/phileas-condemine/bulloterie) a été réalisée par Philéas Condemine. Elle a pris la forme de graphe (et non de bulle). Cette application nécéssite des connaissances en R pour l'ajout de bulloterie supplémentaire. 
+De nombreuses bulloteries ont été réalisées dans le programme EIG. Pour conserver la trace des bulloteries produites, une [première implémentation de la bulloterie](https://github.com/phileas-condemine/bulloterie) a été réalisée par Philéas Condemine. Elle a pris la forme de graphe (et non de bulle). Cette application nécessite des connaissances en R pour l'ajout de bulloterie supplémentaire. 
 
 > [Application de visualisation des résultats de la Bulloterie (par Philéas)](https://drees.shinyapps.io/bulloterie_eig/)
 
-Pour information, l'application affiche aléatoirement 4 compétences et ces liens.
+Pour information, l'application affiche aléatoirement 4 compétences et ses liens.
 
 ## Bulloterie EIG3 
 
