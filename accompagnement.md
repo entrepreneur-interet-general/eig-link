@@ -43,6 +43,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 > **[PAD pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
 
+> [Lien du framacalc pour la logistique](https://lite.framacalc.org/eig2019-seminaire)
+
 #### Jeudi 5 septembre - Rétrospectif
 
 - 08h30 - 09h30 : Gare du Nord - Compiègne 
