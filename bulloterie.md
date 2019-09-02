@@ -27,7 +27,7 @@ Pour offrir une meilleur autonomie au utilisateur, une seconde implémentation d
 
 ### Création du fichier d'importation des données 
 
-Pour intégrer la bulloterie, il est nécéssaire de créer un fichier d'importation des données. 
+Pour intégrer la bulloterie, il est nécessaire de créer un fichier d'importation des données.
 
 > [Exemple du fichier d'importation](https://github.com/entrepreneur-interet-general/eig-link/raw/master/docs/Exemple-KUMU-BulloterieEIG.xlsx)
 
@@ -41,7 +41,8 @@ Pour résumé, dans votre fichier `.xlsx` d'importation des données :
 	- Ecrire le lien entre le centre d'intérêt et le niveau d'intéret (expert, intéressé...)
 	- Ecrire le lien entre le niveau d'intéret et la personne concerné
 
-> Ajouter le nombre de liens entre les bulles afin d'ajouter du poids aux centres d'intéret/savoir-faire.	
+> Ajouter le nombre de liens entre les bulles afin d'ajouter du poids aux centres d’intérêt/savoir-faire.
+
 
 Enfin, pour créer un graph dans Kumu : 
 1. créer un compte sur la plateforme [kumu.io](https://kumu.io/),
@@ -52,5 +53,4 @@ Enfin, pour créer un graph dans Kumu :
 	- *color by* : Element type
 	- *size by* : Nb liens (optionnel mais préféreable) 
 
-> Ressource : voir la [documentation Kumu](https://docs.kumu.io/guides/import.html). 
-
+> Ressource : voir la [documentation Kumu](https://docs.kumu.io/guides/import.html).
