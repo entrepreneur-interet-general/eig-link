@@ -1,4 +1,4 @@
-# Bulloterie
+# Découvrer et intégrer votre bulloterie en ligne
 
 > La Bulloterie est un outil ludique de mise en relation par intérêts et savoir-faire, en groupe affinitaire (bulles)
 
@@ -24,7 +24,7 @@ Pour offrir une meilleur autonomie une seconde implémentation de la bulloterie 
 
 Pour intégrer la bulloterie, il est nécéssaire de créer un fichier d'importation des données. 
 
-> [Exemple du fichier d'importation](https://github.com/entrepreneur-interet-general/eig-link/raw/jb-bulloterie/docs/Exemple-KUMU-BulloterieEIG.xlsx)
+> [Exemple du fichier d'importation](https://github.com/entrepreneur-interet-general/eig-link/raw/master/docs/Exemple-KUMU-BulloterieEIG.xlsx)
 
 Pour comprendre comment intégrer ces données, voir la [documentation d'importation](https://docs.kumu.io/guides/import.html). 
 

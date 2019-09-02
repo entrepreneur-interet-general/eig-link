@@ -23,6 +23,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
 - [Les stacks techniques des défis](./stack.md)
 - [Le rôle EIG Link](./eig-link.md)
+- [La bulloterie](./bulloterie.md)
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/eig-2019_277159?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
