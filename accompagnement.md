@@ -37,11 +37,11 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Séminaire hors-les-murs EIG | 5 & 6 Septembre
 
-- Heures : Arriver Jeudi entre 10h et 10h30 à Autrêches - Fin Vendredi à 17h
-- Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 Rue de l'Hermitage, 60350 Autrêches 
+- Heures : arriver jeudi entre 10h et 10h30 à Autrêches - Fin vendredi à 17h
+- Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 rue de l'Hermitage, 60350 Autrêches
 - Thème : Rétrospectif & Prospectif du programme EIG
 
-> **[PAD pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
+> **[Pad pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
 
 #### Jeudi 5 septembre - Rétrospectif
 
@@ -80,8 +80,6 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Heures : 9h - 18h
 - Lieu : LLL, Grand atelier + Atelier B
 - Thème : session de rentrée
-
-:warning: Antoine sera absent lors de cette session.
 
 #### Idées d'ateliers pour l'aprem
 
