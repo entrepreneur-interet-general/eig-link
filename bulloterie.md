@@ -24,7 +24,7 @@ Pour offrir une meilleur autonomie une seconde implémentation de la bulloterie 
 
 Pour intégrer la bulloterie, il est nécéssaire de créer un fichier d'importation des données. 
 
-> [Exemple du fichier d'importation](./docs/Exemple-KUMU-BulloterieEIG.xlsx)
+> [Exemple du fichier d'importation](https://github.com/entrepreneur-interet-general/eig-link/raw/jb-bulloterie/docs/Exemple-KUMU-BulloterieEIG.xlsx)
 
 Pour comprendre comment intégrer ces données, voir la [documentation d'importation](https://docs.kumu.io/guides/import.html). 
 
