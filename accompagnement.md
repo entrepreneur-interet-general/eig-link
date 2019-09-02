@@ -35,7 +35,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
-### Séminaire hors-les-murs EIG | 5 & 6 Septembre
+### Séminaire hors-les-murs EIG | 5 & 6 septembre
 
 - Heures : arriver jeudi entre 10h et 10h30 à Autrêches - Fin vendredi à 17h
 - Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 rue de l'Hermitage, 60350 Autrêches
