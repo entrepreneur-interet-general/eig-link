@@ -32,7 +32,7 @@ sidebar = [
       'opendata',
       'mesure-impact',
       'accueil-eig',
-      'modele-note-perennisation',      
+      'modele-note-perennisation',
       'design',
     ]
   },
@@ -50,6 +50,7 @@ module.exports = {
     sidebar: sidebar,
     sidebarDepth: 1,
     docsDir: ".",
+    variation: 'white',
     repo: 'entrepreneur-interet-general/eig-link',
     repoLabel: 'Dépôt Git',
     editLinks: true,
