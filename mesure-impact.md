@@ -104,3 +104,5 @@ Nous détaillons les objectifs et indicateurs associés mis en place. Il existe 
 - [beta.gouv.fr - Mesurer son impact dans le réel](https://beta.gouv.fr/alpha/mooc/sequence-3-mesurer-impact.html), un article de l'incubateur des Startups d'État
 - [Évaluer un projet de transformation](https://eformation.fonction-publique.gouv.fr/course/view.php?id=14), sur la plateforme de la formation interministérielle (plateforme ouverte aux agents publics sur inscription)
 - [Description du projet Camino](https://camino.beta.gouv.fr/a-propos) et [statistiques du projet Camino](https://camino.beta.gouv.fr/statistiques)
+- Les [analyses d’impact relative à la protection des données (AIPD)](https://www.cnil.fr/fr/RGPD-analyse-impact-protection-des-donnees-pia) et l'[outil PIA](https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil) développé, pour permettre aux responsables de traitement d’analyser les risques que comportent leurs traitements.
+
