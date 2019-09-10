@@ -17,19 +17,19 @@ Un *besoin de sécurité* est un niveau d'exigences opérationnelles relatives �
 - **Confidentialité** : les informations ne sont divulguées qu'aux personnes autorisées ;
 - **Preuve** : les traces de l'activité du système sont opposables en cas de contestation.
 
-:::tip Exemple
+::: tip Exemple
 L’application « Le TAXI », c’est la garantie d’un chauffeur professionnel (intégrité) et d’applications agréées respectueuses de la vie privée (confidentialité).
 :::
 
 L’identification des mesures de sécurité à appliquer résulte d’un processus d’*identification et d’évaluation des risques*.
 
-:::tip Exemple
+::: tip Exemple
 En tant qu’attaquant, je divulgue des données personnelles que j’ai récupérées en compromettant la base de données de l’application utilisateur.
 :::
 
 La mise en place de *mesures de sécurité* lors du développement du produit va permettre  de répondre à ces besoins de sécurité.
 
-:::tip Exemple
+::: tip Exemple
 L’utilisation de HTTPS entre l’application mobile du client et le serveur central garantit l’authentification et la confidentialité de l’échange sur Internet.
 :::
 
@@ -40,7 +40,7 @@ Un risque est un scénario combinant un *événement redouté* sur une *valeur m
 
 ### Représentation
 
-Dans une démarche Agile, un risque est représenté par une « Abuser Story » décrivant
+Dans une démarche agile, un risque est représenté par :
 - la réalisation d’un scénario de menaces
   - provoquant un événement redouté
     - sur une valeur métier ayant
@@ -48,7 +48,9 @@ Dans une démarche Agile, un risque est représenté par une « Abuser Story » 
       - des impacts engendrés en cas de non respect de ces besoins,
   - en exploitant une vulnérabilité d’un composant du produit.
 
-Exemple : En tant qu’attaquant, j’empêche les clients de demander un taxi en inondant le serveur applicatif par un attaque DOS.
+::: tip Exemple
+En tant qu’attaquant, j’empêche les clients de demander un taxi en inondant le serveur applicatif par un attaque DOS.
+:::
 
 ### Exemples
 Chaque besoin de sécurité identifié constitue le point de départ pour
