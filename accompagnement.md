@@ -45,6 +45,18 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 > [Lien du framacalc pour la logistique](https://lite.framacalc.org/eig2019-seminaire)
 
+#### Atelier du séminaire EIG
+
+Les atliers du séminaire EIG ont été les suivants :
+
+- Atelier FailCon - Les échecs EIG (Quentin/JB) 
+- Mes motivations à rejoindre EIG - Pourquoi avoir rejoins EIG ? (JB) 
+- Atelier de lancement de projet (Hugo) 
+- Self branding (Antoine/Erica) 
+- Atelier retour sur le programme EIG (Seb/Hugo) 
+- Valoriser/Documenter le design d’un projet (JB)
+- Entrer dans l'administration (Erica) 
+
 #### Jeudi 5 septembre - Rétrospectif
 
 - 08h30 - 09h30 : Gare du Nord - Compiègne 
