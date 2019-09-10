@@ -30,9 +30,10 @@ sidebar = [
       'opensource',
       'opensource-licences',
       'opendata',
+      'securite',
       'mesure-impact',
       'accueil-eig',
-      'modele-note-perennisation',      
+      'modele-note-perennisation',
       'design',
     ]
   },
