@@ -30,7 +30,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC | TBC | Atelier "Redesign des posters" |
 | Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) | TBC | Suite de la réflexion "Mesurer son impact" |
 | EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Grand Atelier + Atelier B | TBC | Challenge des réalisations et des indicateurs et intégration aux posters + Tournage des vidéos |
-| EIG + mentors | 7 novembre | 9h30 - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Grand Atelier | TBC|  Remplissage du questionnaire de fin de promotion + des indicateurs + mise à jour du site Internet |
+| EIG + mentors | 7 novembre | 9h30 - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Atelier C le matin ; Foyer + Carré B l'après-midi | TBC|  Remplissage du questionnaire de fin de promotion + des indicateurs + mise à jour du site Internet |
 | **Restitution** (EIG + mentors) | TBC | TBC | TBC | TBC | Présentation des résultats de l'année |
 
 ## Présentation détaillée des sessions
