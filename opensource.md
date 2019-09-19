@@ -1,4 +1,4 @@
-# Open source
+# Publier et réutiliser des codes sources de logiciels
 
 [[toc]]
 

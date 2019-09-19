@@ -29,11 +29,27 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | EIG | 29 août | 9h - 18h30 | LLL, Grand atelier + Atelier B | Session de rentrée | Atelier "Mesurer son impact" + présentation des posters|
 | **Séminaire EIG** | 5 & 6 septembre | Les 2 jours | TBC | TBC | Atelier "Redesign des posters" |
 | Mentors | 19 septembre | 14h - 18h30 | Atelier C (rue du Caire) | TBC | Suite de la réflexion "Mesurer son impact" |
-| EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Grand Atelier + Atelier B | TBC | Challenge des réalisations et des indicateurs et intégration aux posters |
-| EIG + mentors | 7 novembre | 9h30 - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Grand Atelier | TBC|  Remplissage du questionnaire de fin de promotion |
+| EIG (+ mentors l’après-midi) | 10 octobre | 9h - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Grand Atelier + Atelier B | TBC | Challenge des réalisations et des indicateurs et intégration aux posters + Tournage des vidéos |
+| EIG + mentors | 7 novembre | 9h30 - 18h30 pour les EIG, 14h - 18h30 pour les mentors | Atelier C le matin ; Foyer + Carré B l'après-midi | TBC|  Remplissage du questionnaire de fin de promotion + des indicateurs + mise à jour du site Internet |
 | **Restitution** (EIG + mentors) | TBC | TBC | TBC | TBC | Présentation des résultats de l'année |
 
 ## Présentation détaillée des sessions
+
+### Session mentors EIG 3 | 19 septembre
+
+* Lieu : Liberté Living Lab, Atelier C
+* Qui va animer ? L'équipe EIG Core   
+* **Livrables** : des retours pour améliorer le programme et construire sa stratégie
+
+#### Programme
+14h - 14h30 : installation et rencontre des intrapreneurs de l'ARCP    
+14h30 - 14h45 : standup. Focus : où en seront les projets en novembre ? Quelles suites pour les EIG ?     
+14h45 - 15h30 : "rétrospective" : atelier sur l'impact et l'évaluation des résultats    
+15h30 - 16h00 : vos recommandations anonymes à l'administration    
+16h00 - 16h15 : mise en commun    
+16h15 - 16h30 : pause    
+16h30 - 17h30 : retours sur le programme (facilitation : Jean-Baptiste)   
+17h30 : mise en commun finale et fin    
 
 ### Séminaire hors-les-murs EIG | 5 & 6 septembre
 
