@@ -44,7 +44,7 @@ Nous vous conseillons donc de créer et de publier sur un dépôt [GitHub de l'o
 
 La loi pour une République Numérique de 2016 demande également l'utilisation des formats favorisant l'interopérabilité, c'est le droit à la portabilité. Il faut donc privilégier des formats ouverts et lisibles par des machines autant que possible.
 
-Concernant les productions des designers, il est donc préférable d'exporter son travail aux formats `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.
+Concernant les productions des designers, il est donc préférable d'exporter son travail aux formats ouverts suivants `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.
 
 ### Pour les débutants de GitHub
 
