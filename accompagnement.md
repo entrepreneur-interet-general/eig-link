@@ -46,8 +46,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 14h30 - 14h45 : standup. Focus : où en seront les projets en novembre ? Quelles suites pour les EIG ?     
 14h45 - 15h30 : "rétrospective" : atelier sur l'impact et l'évaluation des résultats    
 15h30 - 16h00 : vos recommandations anonymes à l'administration    
-16h00 - 16h15 : mise en commun    
-16h15 - 16h30 : pause    
+16h00 - 16h15 : pause    
+16h15 - 16h30 : mise en commun    
 16h30 - 17h30 : retours sur le programme (facilitation : Jean-Baptiste)   
 17h30 : mise en commun finale et fin    
 
