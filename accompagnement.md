@@ -40,7 +40,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Heures : 9h30 - 18h
 - Lieu : LLL, Grand atelier + Atelier B
 - Thème : Rush de fin et restitution (vidéo)
-- **Support de préparation du Rush** : https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0
+- **Support de préparation du Rush : [Lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
 
 #### Objectifs 
 - Partager des problématiques de production liées au rush de fin
