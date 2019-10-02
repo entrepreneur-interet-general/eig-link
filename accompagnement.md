@@ -35,6 +35,30 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+### Session du 10 octobre 2019
+
+- Heures : 9h30 - 18h
+- Lieu : LLL, Grand atelier + Atelier B
+- Thème : Rush de fin et restitution (vidéo)
+- **Support de préparation du Rush** : https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0
+
+#### Objectifs 
+- Partager des problématiques de production liées au rush de fin
+- Challenger des réalisations et des indicateurs pour finalisation des contenus posters pour la restitution
+- Tourner les vidéos de restitution
+
+#### Programme
+- 9:15 - 9:45 - Accueil
+- 9:45 - 10:00 - Présentation de la journée 
+- 10:00 - 10:30 - Standup
+- 10:30 - 12:30 - **Rush Dating**
+- 12:30 - 14:00 - Dej
+- 14:00 - 14:30 - Repartition pour l'aprem
+- 14:30 - 16:00 - **Rush Clinic**
+- 16:00 - 16:15 - Pause
+- 16:15 - 17:30 - **Challenge des réalisations et des indicateurs des posters**
+- 17:30 - 18:00 - Restitution
+
 ### Session mentors EIG 3 | 19 septembre
 
 * Lieu : Liberté Living Lab, Atelier C
