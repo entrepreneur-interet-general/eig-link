@@ -56,7 +56,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 14:00 - 14:30 - Repartition pour l'aprem
 - 14:30 - 16:00 - **Rush Clinic**
 - 16:00 - 16:15 - Pause
-- 16:15 - 17:30 - **Challenge des réalisations et des indicateurs des posters**
+- 16:15 - 17:30 - **Temps libres**
 - 17:30 - 18:00 - Restitution
 
 ### Session mentors EIG 3 | 19 septembre
