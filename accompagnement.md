@@ -43,23 +43,23 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - **Support de préparation du Rush : [Lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
 
 **Matching 1**
-ACOSS - ExploCode
-CartoBio - LexImpact
-CibNav - DataReg
-DataJust - Open Chronic
-EIG Link - IA Flash
-Karfu’R - Plume Redaction
-Open Justice - Plume Exploration
+- ACOSS - ExploCode
+- CartoBio - LexImpact
+- CibNav - DataReg
+- DataJust - Open Chronic
+- EIG Link - IA Flash
+- Karfu’R - Plume Redaction
+- Open Justice - Plume Exploration
 
 **Matching 2** 
-ACOSS - Karfu’R
-CibNav - Open Chronic
-DataJust - Plume Exploration
-Plume Redaction - EIG Link
-ExploCode - Open Justice
-CartoBio - DataReg
-LexImpact (au choix)
-IA Flash (au choix)
+- ACOSS - Karfu’R
+- CibNav - Open Chronic
+- DataJust - Plume Exploration
+- Plume Redaction - EIG Link
+- ExploCode - Open Justice
+- CartoBio - DataReg
+- LexImpact (au choix)
+- IA Flash (au choix)
 
 #### Objectifs 
 - Partager des problématiques de production liées au rush de fin
