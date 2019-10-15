@@ -34,6 +34,7 @@ sidebar = [
       'mesure-impact',
       'accueil-eig',
       'modele-note-perennisation',
+      'checklist_depart',
       'design',
     ]
   },
