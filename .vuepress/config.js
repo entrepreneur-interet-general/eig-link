@@ -21,6 +21,7 @@ sidebar = [
       'stack',
       'eig-link',
       'bulloterie',
+      'userjourneyEIG.md',
     ]
   },
   {
