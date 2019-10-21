@@ -5,4 +5,4 @@
 Suite à un atelier ([plénière du 10/10/2019](https://doc.eig-forever.org/accompagnement.html#session-du-10-octobre-2019)) entre plusieurs EIG, le parcours d'un EIG sous le format *user journey* a été produit.
 
 Voici ce que l'on peut retenir :
-[![User Journey EIG](./images/experience-parcours-eig.png)](./images/experience-parcours-eig.png)
+[![User Journey EIG](./images/experience-parcours-eig.png)](./assets/img/experience-parcours-eig.baae89d5.png)
