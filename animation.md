@@ -49,6 +49,13 @@ Nous n'avons pas trouvé d'outils se rapprochant de notre besoin sur le marché 
 ## Outils de communication
 Pour accompagner les défis, partager les nouvelles du programme et dialoguer entre collègues, nous utilisons plusieurs outils de communication décrits [dans une page dédiée](communication-interne.md).
 
+## Gazette
+::: tip Fréquence
+Toutes les semaines, le lundi.
+:::
+
+Tous les lundis, l'équipe de coordination partage par e-mail sur la [liste de diffusion](communication-interne.md#listes-de-diffusion) les nouvelles de la semaine à venir : événements, informations à diffuser, bonnes nouvelles etc.
+
 ## Tiers lieu
 Le programme EIG dispose d'un tiers lieu. Plus d'information sur [la page tiers lieu](tiers-lieu.md).
 
