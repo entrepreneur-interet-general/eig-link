@@ -30,7 +30,9 @@ Ce document décrit les outils employés et déployés dans chacun des défis EI
 ## DataReg
 - Pentaho (ETL)
 - Data Integration
+- Python
 - PostgreSQL et Postgis
+- Metabase
 
 ## EIG Link
 - Python
