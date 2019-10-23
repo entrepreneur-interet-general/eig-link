@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-10-22 | Radars-auto.com | [Quand l'intelligence artificielle est utilisée pour mieux verbaliser](https://www.radars-auto.com/actualite/actu-radars-general/quand-l-intelligence-artificielle-est-utilisee-pour-mieux-verbaliser-1598) | Public | IA Flash |
 | 2019-08-05 | La gazette des communes | [Comment l’intelligence artificielle va aider les pompiers à anticiper leurs besoins humains](https://www.lagazettedescommunes.com/632456/comment-lintelligence-artificielle-va-aider-les-pompiers-a-anticiper-leurs-besoins-humains/) | Payant | Prévisecours |
 | 2019-07-19 | Dalloz actualité | [La distinction entre l’open data et l’accès aux décisions de justice](https://www.dalloz-actualite.fr/flash/distinction-entre-l-open-data-et-l-acces-aux-decisions-de-justice#.XTXSJWPgrRY) | Public | Open Justice |
 | 2019-07-12 | DataAnalyticsPost | [L’open data des données juridiques se fait attendre](https://dataanalyticspost.com/lopen-data-des-donnees-juridiques-se-fait-attendre) | Public | OpenJustice |
