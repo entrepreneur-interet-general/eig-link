@@ -95,6 +95,7 @@ Ce document décrit les outils employés et déployés dans chacun des défis EI
 - Python
 - VueJS
 - NodeJS
-- Loopback (API)
+- Loopback
 - PostgreSQL
 - Scrapy
+- Redis
