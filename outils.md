@@ -41,6 +41,7 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 - Guide australien : <https://designsystem.gov.au/>
 - Guide américain : <https://designsystem.digital.gov/>
 - Guide italien : <https://designers.italia.it/>
+- Guide néo-Zélandais <https://design-system-alpha.digital.govt.nz/>
 - Kit design : <http://www.designkit.org/>
 - Site comment faire de la DITP : <http://comment-faire.modernisation.gouv.fr/>
 - 6eme cahier Innovation et Prospective du Laboration d'innovation de la CNIL : <https://linc.cnil.fr/cahier-ip6-la-forme-des-choix>
@@ -151,6 +152,7 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 - [redmine](https://www.redmine.org/)
 - [pivotal tracker](https://www.pivotaltracker.com/)
 - [pipefy](https://www.pipefy.com/)
+- [notion](https://www.notion.so)
 
 # Guides de contribution à des projets open source
 
@@ -218,6 +220,7 @@ La liste des outils est aussi disponible sous forme de [tableau](outils-tableau.
 # Prototypage web
 
 - [Sketch](https://www.sketchapp.com/)
+- [Figma] (https://www.figma.com)
 
 # Publication
 
