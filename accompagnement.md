@@ -40,7 +40,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Heures : 9h30 - 18h
 - Lieu : LLL, Grand atelier + Atelier B
 - Thème : Rush de fin et restitution (vidéo)
-- **Support de préparation du Rush : [Lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
+- **Support de préparation du rush : [lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
 
 **Matching 1**
 - ACOSS - ExploCode
@@ -101,9 +101,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Thème : Rétrospectif & Prospectif du programme EIG
 
 > **[Pad pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
-
-> [Lien du framacalc pour la logistique](https://lite.framacalc.org/eig2019-seminaire)
-
+> 
 #### Atelier du séminaire EIG
 
 Les atliers du séminaire EIG ont été les suivants :
@@ -220,7 +218,7 @@ Les atliers du séminaire EIG ont été les suivants :
  - 9:45 - 10:00 - Présentation de la journée / Présentation des DIG
  - 10:00 - 10:30 - Standup
  - 10:30 - 11:00 - Atelier "Étonnements / Craintes / Envies" pour les DIG (Atelier B) // Présentation du rapport d'analyse EIG (Guénolé) pour les EIG 3 (Grand Atelier)
- - 11:00 - 11:30 - Echanges entre DIG et les designers EIG 3 (Atelier B) // Temps libre pour les EIG 3 (Grand Atelier)
+ - 11:00 - 11:30 - Échanges entre DIG et les designers EIG 3 (Atelier B) // Temps libre pour les EIG 3 (Grand Atelier)
  - 11:30 - 12:30 - Pitchs démo day (1h) (Grand Atelier divisé) avec les **mentors** et DIG
     - Rappel du format de pitch, 20 minutes par défi soit :
         - 8 minutes de pitch
@@ -345,7 +343,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 **14h - 17h30** : Démos + Atelier "Feuille de route" avec les mentors
 
-Nous avons 15 défis. Chauque défi doit pitcher devant 10/20 personnes. Le format de pitch est de 20 minutes par défi : 
+Nous avons 15 défis. Chaque défi doit pitcher devant 10/20 personnes. Le format de pitch est de 20 minutes par défi : 
 - 8 minutes de pitch 
 - 12 minutes de Q/R 
 
@@ -354,7 +352,7 @@ Proposition du format pitch :
 2. Détails les utilisateurs et de leurs besoins + modification de la problématique suite à l’immersion (2min)
 3. Démonstration du prototype/solution en cours de développement (2min)
 4. Énonciation des challenges, blocages, problématiques en cours (2min)
-5. Présentation de la Roadmap et ambitions fonctionnelles et stratégiques (1min)
+5. Présentation de la feuille de route ambitions fonctionnelles et stratégiques (1min)
 
 Nous avons 2 salles et une repartition des défis par salle
 
@@ -369,23 +367,6 @@ Nous avons 2 salles et une repartition des défis par salle
 Selon le tableau ci-dessous nous avons 3 défi par heures sur 2 scènes soit 6 défis par heures, soit 15 défis en 3 heures à répartir sur l’après-midi. Chaque observateur aura une fiche à remplir en quelques points positifs, négatifs, interrogations qu’il peut rendre aux défis à la fin de la journée s’il n’a pas eu l’occasion de l’évoquer lors du tour de clarification et de réaction. Une facilitation est omniprésente pour maintenir un rythme et tenir le timing.
 
 **Important** : Le dernier créneau sera sera un atelier "Feuille de route" pour les défis/mentor qui le souhaite.
-
-Liste des défis :
-1. ACOSS Plateforme
-2. Adler
-3. CartoBio
-4. CibNav
-5. DataJust
-6. DataReg
-7. EIGLink
-8. ExploCode
-9. IA Flash
-10. Karfu'R
-11. LexImpact
-12. OpenChronic
-13. OpenJustice
-14. Plume
-15. Polygraphe
 
 **17h30 - 18h** : Restitution   
 
@@ -409,7 +390,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 | Heure  début | Heure fin | Durée | Description |
 |--------------|-----------|-------|-------------------------------------------|
-| 07:50 | 08:25 | 35mn | [Trajet RER D (Gare de Lyon à Combs-la-Ville Quincy)](https://www.google.com/maps/dir/Gare+de+Lyon,+Place+Louis-Armand,+Paris/Combs+la+Ville+Quincy,+77380+Combs-la-Ville/@48.7560332,2.3208803,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47e6721b2000bf4b:0x3ca1c23108bb64!2m2!1d2.3743773!2d48.8443038!1m5!1m1!1s0x47e5e23e835f1877:0x881eca335bc9bb45!2m2!1d2.547711!2d48.667198!2m3!6e1!7e2!8j1557995400!3e3)|
+| 07:50 | 08:25 | 35mn | Trajet RER D (Gare de Lyon à Combs-la-Ville Quincy)|
 | 08:30 | 09:30 | 1h00 | Trajet Navette |
 | 09:30 | 10:00 | 30mn | Accueil & petit déj |
 | 10:00 | 10:30 | 30mn | StandUp |
@@ -433,13 +414,13 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 09:45 | 11:15 | 1h30 | Atelier (Pérennisation du défi) |
 | 11:15 | 11:30 | 15mn | Pause |
 | 11:30 | 12:30 | 1h00 | Atelier (dont Documentation animé par Antoine et Bastien) |
-| 12:30 | 14:00 | 1h30 | Déjeuner + Prévoir ses affaires pour partir des la fin de la plénière de clôture) |
+| 12:30 | 14:00 | 1h30 | Déjeuner |
 | 14:00 | 15:00 | 1h00 | Atelier (dont Pitcher son défi (proposé par Soizic, peut être animé par quelqu'un d'autre si possible)) |
 | 15:00 | 16:00 | 1h00 | Atelier (dont Préparation de l'événement communauté EIG (Mathilde) : déroulé, crowdsourcing des invités, supports de com, etc.) |
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
-### Session Mentors | 18 avril
+### Session mentors | 18 avril
 
 * Lieu : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core
@@ -462,7 +443,6 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
-* **Livrables** : TBC
 * **Objectifs** : 
     * Comprendre le métier de designer
     * Savoir utiliser les outils du design dans son défi
@@ -501,7 +481,6 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des personnes d'Etalab
-* **Livrables** : TBC
 * **Objectifs** : 
   * Avoir un aperçu du cadre légal de l'"open"
   * Identifier ce qui peut être mis en open source et open data dans les différents défis (et comment)
@@ -532,7 +511,7 @@ Intervenants/facilitateurs de l'après-midi (pressentis) :
 * Romain Talès : open data, spécialité stratégie
 * Tamkien Duong : open source, open data, spécialité tech / data.gouv.fr
 
-### Session Mentors | 21 février
+### Session mentors | 21 février
 
 **Quels sont les objectifs de la session ?**  
 Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG   
