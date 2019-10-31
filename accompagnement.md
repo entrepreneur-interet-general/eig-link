@@ -139,13 +139,6 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Lieu : LLL, Grand atelier + Atelier B
 - Thème : session de rentrée
 
-#### Idées d'ateliers pour l'aprem
-
-- Clinique défis
-- Collaboration entre défis
-- Recueil d'idées / suggestions pour le séminaire
-- Atelier écriture de notes / articles de blog
-
 #### Programme
 
 - 9:15 - 9:45 - Accueil
@@ -154,6 +147,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 10:30 - 12:30 - Atelier "Mesurer son impact"
     - Présentation : [Mesurer et présenter ses résultats](https://speakerdeck.com/eig2018/mesurer-et-presenter-ses-resultats) 
     - Temps de production par défi
+    - Présentation des posters de l'année précédente pour inspiration sur les impacts des défis
     - Voir aussi la documentation en ligne : [Pourquoi mesurer son impact](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact).
 - 12:30 - 14:00 - Déjeuner 
 - 14:00 - 14:30 - Repartition pour l'aprem
@@ -161,6 +155,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 16:00 - 16:15 - Pause
 - 16:15 - 17:30 - Atelier
 - 17:30 - 18:00 - Restitution
+
+#### Ateliers pour l'aprem
+
+- Clinique défis
+- Collaboration entre défis
+- Recueil d'idées, suggestions et logistique pour le séminaire
+- Atelier écriture de notes / articles de blog
+- Partage de pratique atomic design & design UI général
 
 ### Session mentors EIG 3 & DIG | 11 juillet
 
