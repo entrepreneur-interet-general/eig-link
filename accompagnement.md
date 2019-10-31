@@ -40,7 +40,25 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Heures : 9h30 - 18h
 - Lieu : LLL, Grand atelier + Atelier B
 - Thème : Rush de fin et restitution (vidéo)
-- **Support de préparation du rush : [lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
+
+#### Objectifs 
+- Partager des problématiques de production liées au "rush" de fin
+- Challenger des réalisations et des indicateurs pour finalisation des contenus posters pour la restitution
+- Tourner les vidéos de restitution
+
+#### Programme
+- 9:15 - 9:45 - Accueil
+- 9:45 - 10:00 - Présentation de la journée 
+- 10:00 - 10:30 - Standup
+- 10:30 - 12:30 - **Rush Dating**
+- 12:30 - 14:00 - Dej
+- 14:00 - 14:30 - Repartition pour l'aprem
+- 14:30 - 16:00 - **Rush Clinic**
+- 16:00 - 16:15 - Pause
+- 16:15 - 17:30 - **Temps libres**
+- 17:30 - 18:00 - Restitution
+
+#### Matching entre défis pour l'atelier "Rush Dating"
 
 **Matching 1**
 - ACOSS Plateforme - ExploCode
@@ -60,23 +78,6 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - CartoBio - DataReg
 - LexImpact (au choix)
 - IA Flash (au choix)
-
-#### Objectifs 
-- Partager des problématiques de production liées au "rush" de fin
-- Challenger des réalisations et des indicateurs pour finalisation des contenus posters pour la restitution
-- Tourner les vidéos de restitution
-
-#### Programme
-- 9:15 - 9:45 - Accueil
-- 9:45 - 10:00 - Présentation de la journée 
-- 10:00 - 10:30 - Standup
-- 10:30 - 12:30 - **Rush Dating**
-- 12:30 - 14:00 - Dej
-- 14:00 - 14:30 - Repartition pour l'aprem
-- 14:30 - 16:00 - **Rush Clinic**
-- 16:00 - 16:15 - Pause
-- 16:15 - 17:30 - **Temps libres**
-- 17:30 - 18:00 - Restitution
 
 ### Session mentors EIG 3 | 19 septembre
 
@@ -104,7 +105,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 | JEUDI 5 - RETROSPECTIVE | VENDREDI 6 - PROSPECTIVE |
 |--------|--------|
-| Création des posters de l’événement de restitution <br> “Fail Con” : apprendre de ses échecs, animé par Quentin Loridant (CibNAV) et Jean-Baptiste Le Dévéhat (EIG Link) <br> “Mes motivations à rejoindre le programme EIG”, animé par Jean-Baptiste Le Dévéhat (EIG Link) <br> Valoriser/documenter le design d’un projet, animé par Jean-Baptiste Le Dévéhat (EIG Link), permettant d’alimenter la documentation EIG sur le design | Valorisation des compétences EIG, animé par Antoine Augusti (EIG Link) <br> Etapes de lancement d’un produit, par Hugo Stephan (Karfu’R) <br> Recueil des retours sur le programme EIG, animé par Sébastien Touzé (CibNAV) <br> Stratégie du programme EIG, animé par Soizic Pénicaud <br> Entrer dans l'administration, animé par Erica Marco (Plume) |
+| Création des posters de l’événement de restitution <br><br> “Fail Con” : apprendre de ses échecs, animé par Quentin Loridant (CibNAV) et Jean-Baptiste Le Dévéhat (EIG Link) <br><br> “Mes motivations à rejoindre le programme EIG”, animé par Jean-Baptiste Le Dévéhat (EIG Link) <br><br> Valoriser/documenter le design d’un projet, animé par Jean-Baptiste Le Dévéhat (EIG Link), permettant d’alimenter la documentation EIG sur le design | Valorisation des compétences EIG, animé par Antoine Augusti (EIG Link) <br><br> Etapes de lancement d’un produit, par Hugo Stephan (Karfu’R) <br><br> Recueil des retours sur le programme EIG, animé par Sébastien Touzé (CibNAV) <br><br> Stratégie du programme EIG, animé par Soizic Pénicaud <br><br> Entrer dans l'administration, animé par Erica Marco (Plume) |
 
 #### Planning
 
@@ -233,17 +234,13 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 #### Programme de la matinee - EIG seuls
 
-**9h30-10h** : Accueil, standup
-
-**10h00-12h** : Speed-dating défis
-* 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois. 
-* 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois. 
-
-**12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
-
-- Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
-
-**12h30 - 14h** : Déjeuner
+* **9h30-10h** : Accueil, standup
+* **10h00-12h** : Speed-dating défis
+    * 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois. 
+    * 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois. 
+* **12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
+    * Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
+* **12h30 - 14h** : Déjeuner
 
 #### Format du speed-dating 
 
@@ -410,16 +407,16 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
     * Comprendre les facteurs d'une pérennisation réussie
     * Elaborer des scénarios de pérennisation et identifier les actions à mettre en oeuvre pour les atteindre
 
-**Programme de la journée**  
+#### Programme de la session  
 
-14h : accueil / standup   
-14h30 : présentation "Pérenniser un défi EIG"  
-14h50 : tour de table des attentes et craintes  
-15h20 : atelier duo "scénarios de pérennisation"  
-16h50 : pause  
-17h15 : mise en commun  
-17h45 : brainstorm "projet mentors EIG"  
-18h15 : fin de la session  
+- 14h : accueil / standup   
+- 14h30 : présentation "Pérenniser un défi EIG"  
+- 14h50 : tour de table des attentes et craintes  
+- 15h20 : atelier duo "scénarios de pérennisation"  
+- 16h50 : pause  
+- 17h15 : mise en commun  
+- 17h45 : brainstorm "projet mentors EIG"  
+- 18h15 : fin de la session  
 
 ### Session EIG | 11 avril
 
@@ -431,33 +428,28 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
     * Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
     * Savoir pourquoi et comment communiquer autour de son défi
 
-[**Programme de la journée**](https://speakerdeck.com/eig2018/pleniere-design-and-com)
+#### [**Programme de la journée**](https://speakerdeck.com/eig2018/pleniere-design-and-com)
 
-09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
-10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#)) 
-
-10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
-11h00 : Pause  
-11h15 : Troisième séquence : User stories / Interfaces (Jean-Baptiste)  
-11h45 : Quatrième séquence : Communication (Sophie)  
-12h15 : Conclusion  
-
-_Note : les séquences du matin sont composées d'une présentation de 5 à 10 minutes, puis d'un temps en petits groupes de 20 minutes facilité par les designers de la promotion 3 et par certains EIG Node si besoin._  
-
-12h30 : Déjeuner    
-14h00 : 1ère session d'ateliers de l'après-midi
-* Clinique défis stratégique (Soizic) 
-* Design Review (JB)
-* [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
-* Atelier publications sur les réseaux sociaux (Antoine)  
-
-16H30 : 2nd session d'ateliers en auto-organisation  
-* Clinique défis stratégique (Soizic) 
-* Design Review (JB)
-* Atelier documentation (Antoine)  
-* Atelier communication (Sophie) 
-
-18h00 - 18h30 : Conclusion de la journée
+- 09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
+- 10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#)) 
+- 10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
+- 11h00 : Pause  
+- 11h15 : Troisième séquence : User stories / Interfaces (Jean-Baptiste)  
+- 11h45 : Quatrième séquence : Communication (Sophie)  
+- 12h15 : Conclusion  
+    - _Note : les séquences du matin sont composées d'une présentation de 5 à 10 minutes, puis d'un temps en petits groupes de 20 minutes facilité par les designers de la promotion 3 et par certains EIG Node si besoin._  
+- 12h30 : Déjeuner    
+- 14h00 : 1ère session d'ateliers de l'après-midi
+    * Clinique défis stratégique (Soizic) 
+    * Design Review (JB)
+    * [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
+    * Atelier publications sur les réseaux sociaux (Antoine)  
+- 16h30 : 2nd session d'ateliers en auto-organisation  
+    * Clinique défis stratégique (Soizic) 
+    * Design Review (JB)
+    * Atelier documentation (Antoine)  
+    * Atelier communication (Sophie) 
+- 18h00 - 18h30 : Conclusion de la journée
 
 ### Session EIG | 14 mars
 
@@ -467,24 +459,23 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
   * Avoir un aperçu du cadre légal de l'"open"
   * Identifier ce qui peut être mis en open source et open data dans les différents défis (et comment)
 
-**Programme de la journée**
+#### Programme de la journée
 
-9h30 : Accueil, petit-déjeuner "Secrets d'histoire EIG"  
-10h30 : Standup  
-10h45 : Annonces du mois + présentation du programme de la journée  
-11h - 12h30 : Ateliers / Peer learning :    
-* Clinique défis (Mathilde / Soizic)
-* Challenge des défis en duo (sur un thème en particulier ?)
-* Design review (y compris sur l'approche utilisateurs)
-* Code review (...)  
-
-12h30 : Déjeuner    
-14h30 : Arrivée des mentors et ateliers de l'après-midi  
-14h30 - 16h : [Présentation open data](https://speakerdeck.com/eig2018/open-data) / [Présentation open source](https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique)  + questions (Antoine / Bastien)   
-16h - 16h30 : Pause  
-16h30 - 18h : "Cliniques" avec différents intervenants/facilitateurs de l'après-midi (voir liste ci-dessous)  
-18h : Conclusion  
-18h30 : Fin de la journée  
+- 9h30 : Accueil, petit-déjeuner "Secrets d'histoire EIG"  
+- 10h30 : Standup  
+- 10h45 : Annonces du mois + présentation du programme de la journée  
+- 11h - 12h30 : Ateliers / Peer learning :    
+    * Clinique défis (Mathilde / Soizic)
+    * Challenge des défis en duo (sur un thème en particulier ?)
+    * Design review (y compris sur l'approche utilisateurs)
+    * Code review (...)  
+- 12h30 : Déjeuner    
+- 14h30 : Arrivée des mentors et ateliers de l'après-midi  
+- 14h30 - 16h : [Présentation open data](https://speakerdeck.com/eig2018/open-data) / [Présentation open source](https://speakerdeck.com/bluehats/du-logiciel-libre-ecrit-par-ladministration-publique)  + questions (Antoine / Bastien)   
+- 16h - 16h30 : Pause  
+- 16h30 - 18h : "Cliniques" avec différents intervenants/facilitateurs de l'après-midi (voir liste ci-dessous)  
+- 18h : Conclusion  
+- 18h30 : Fin de la journée  
 
 Intervenants/facilitateurs de l'après-midi (pressentis) :
 * Antoine Augusti : open source, open data, stratégie, tech
@@ -495,18 +486,18 @@ Intervenants/facilitateurs de l'après-midi (pressentis) :
 
 ### Session mentors | 21 février
 
-**Quels sont les objectifs de la session ?**  
-Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG   
-Découvrir les bases du design et de la gestion de projet agile et mieux comprendre comment les mentors peuvent se positionner au sein des défis EIG 
+**Objectifs**
+- Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG   
+- Découvrir les bases du design et de la gestion de projet agile et mieux comprendre comment les mentors peuvent se positionner au sein des défis EIG 
 
-**Programme**  
-14h30 - 14h45: icebreaker (parler d'une expérience ou d'un projet qui nous tient à coeur)  
-14h45 - 15h: présentation du programme + retour sur le bootcamp  
-15h - 16h: discussion ouverte : partage d'expérience/étonnements/besoins/attentes...   
-16h - 16h30: pause    
-16h30 - 17h30: le métier de designer / gestion de projet agile (et le rôle que les mentors peuvent jouer dans le défi EIG)   
-17h30 - 18h: Discussion "EIG Next"  
-18h: fin de la session  
+#### Programme de la session  
+- 14h30 - 14h45: icebreaker (parler d'une expérience ou d'un projet qui nous tient à coeur)  
+- 14h45 - 15h: présentation du programme + retour sur le bootcamp  
+- 15h - 16h: discussion ouverte : partage d'expérience/étonnements/besoins/attentes...   
+- 16h - 16h30: pause    
+- 16h30 - 17h30: le métier de designer / gestion de projet agile (et le rôle que les mentors peuvent jouer dans le défi EIG)   
+- 17h30 - 18h: Discussion "EIG Next"  
+- 18h: fin de la session  
 
 ### Bootcamp (EIG + mentors à certain moment) | 11 au 15 février
 Voir la [page descriptive du bootcamp EIG 2019](./bootcamp.md)
