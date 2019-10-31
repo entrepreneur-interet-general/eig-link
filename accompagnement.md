@@ -43,7 +43,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - **Support de préparation du rush : [lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
 
 **Matching 1**
-- ACOSS - ExploCode
+- ACOSS Plateforme - ExploCode
 - CartoBio - LexImpact
 - CibNav - DataReg
 - DataJust - Open Chronic
@@ -52,7 +52,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Open Justice - Plume Exploration
 
 **Matching 2** 
-- ACOSS - Karfu’R
+- ACOSS Plateforme - Karfu’R
 - CibNav - Open Chronic
 - DataJust - Plume Exploration
 - Plume Redaction - EIG Link
@@ -62,7 +62,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - IA Flash (au choix)
 
 #### Objectifs 
-- Partager des problématiques de production liées au rush de fin
+- Partager des problématiques de production liées au "rush" de fin
 - Challenger des réalisations et des indicateurs pour finalisation des contenus posters pour la restitution
 - Tourner les vidéos de restitution
 
@@ -85,7 +85,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 * **Livrables** : des retours pour améliorer le programme et construire sa stratégie
 
 #### Programme
-14h - 14h30 : installation et rencontre des intrapreneurs de l'ARCP    
+14h - 14h30 : installation et rencontre des intrapreneurs de l'Autorité de contrôle prudentiel et de résolution (Banque de France)   
 14h30 - 14h45 : standup. Focus : où en seront les projets en novembre ? Quelles suites pour les EIG ?     
 14h45 - 15h30 : "rétrospective" : atelier sur l'impact et l'évaluation des résultats    
 15h30 - 16h00 : vos recommandations anonymes à l'administration    
@@ -100,25 +100,15 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 rue de l'Hermitage, 60350 Autrêches
 - Thème : Rétrospectif & Prospectif du programme EIG
 
-> **[Pad pour propositions d'ateliers, besoins, demandes d’aide, propositions de détente](https://pad.etalab.studio/I8aSx0pvQPa3RLIUhxGvkA?both)**
-> 
 #### Atelier du séminaire EIG
 
-Les atliers du séminaire EIG ont été les suivants :
+| JEUDI 5 - RETROSPECTIVE | VENDREDI 6 - PROSPECTIVE |
+|--------|--------|
+| Création des posters de l’événement de restitution <br> “Fail Con” : apprendre de ses échecs, animé par Quentin Loridant (CibNAV) et Jean-Baptiste Le Dévéhat (EIG Link) <br> “Mes motivations à rejoindre le programme EIG”, animé par Jean-Baptiste Le Dévéhat (EIG Link) <br> Valoriser/documenter le design d’un projet, animé par Jean-Baptiste Le Dévéhat (EIG Link), permettant d’alimenter la documentation EIG sur le design | Valorisation des compétences EIG, animé par Antoine Augusti (EIG Link) <br> Etapes de lancement d’un produit, par Hugo Stephan (Karfu’R) <br> Recueil des retours sur le programme EIG, animé par Sébastien Touzé (CibNAV) <br> Stratégie du programme EIG, animé par Soizic Pénicaud <br> Entrer dans l'administration, animé par Erica Marco (Plume) |
 
-- Atelier FailCon - Les échecs EIG (Quentin/JB) 
-- Mes motivations à rejoindre EIG - Pourquoi avoir rejoins EIG ? (JB) 
-- Atelier de lancement de projet (Hugo) 
-- Self branding (Antoine/Erica) 
-- Atelier retour sur le programme EIG (Seb/Hugo) 
-- Valoriser/Documenter le design d’un projet (JB)
-- Entrer dans l'administration (Erica) 
+#### Planning
 
-#### Jeudi 5 septembre - Rétrospectif
-
-- 08h30 - 09h30 : Gare du Nord - Compiègne 
-- 09h30 - 10h05 : Voiture/Taxi - Compiègne - Autrêches
-- 10h00 - 10h45 : Arrivage sur le lieu - Installation - Café
+- 10h00 - 10h45 : Arrivée sur le lieu - Installation - Café
 - 10h45 - 11h00 : Présentation du séminaire
 - 11h00 - 12h30 : Organisation des ateliers du séminaire
 - 12h30 - 14h00 : Déjeuner
@@ -131,20 +121,16 @@ Les atliers du séminaire EIG ont été les suivants :
 
 #### Vendredi 6 septembre - Prospectif
 
-> Invité : Adnène Trojette, conseiller numérique et action publique
-
-- 08h30 - 09h30 : Petit-dej
+- 08h30 - 09h30 : Petit-déjeuner
 - 09h30 - 10h00 : Présentation de la journée / Ice-breaking
 - **10h00 - 11h15 : Atelier**
 - 11h15 - 11h30 : Pause 
 - **11h30 - 12h30 : Atelier**
-- 12h30 - 14h00 : Déjeuner + intervention d'Adnène Trojette
+- 12h30 - 14h00 : Déjeuner 
 - **14h00 - 15h30 : Atelier** 
 - 15h30 - 15h45 : Pause
 - **15h45 - 17h00 : Plénière**
-- 17h00 - 18h00 : **OFF** 
-- 18h00 - 19h00 : OFF // Apéro // Retour 
-- 20h00 : Dîner
+- 17h00 - 18h00 : Clôture, temps libre
 
 ### Session EIG | 29 août
 
@@ -163,18 +149,14 @@ Les atliers du séminaire EIG ont été les suivants :
 
 - 9:15 - 9:45 - Accueil
 - 9:45 - 10:00 - Présentation de la journée 
-- 10:00 - 10:30 - Standup >> Info à transmettre en + : Partage de bonnes nouvelles de pérennisation des défis / personnes (ex : ouverture de poste, prolongation comme independant...)
-    - Actualité sur la pérennisation du programme et sur les DIG
-    - Appel à gestion de la logistique / voiture pour le séminaire
-    - Message **positive attitude** > Engagement de moyen/contractuel, "on vous demande pas d'ouvrir un service à compétence nationale", message de BZG, que vous soyez tous content de votre défis 
+- 10:00 - 10:30 - Standup
 - 10:30 - 12:30 - Atelier "Mesurer son impact"
-    - Présentation rapide ([slide de la doc](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact)) ?
-    - Exemple d'inspiration : Poster, pages réalisations
+    - Présentation : [Mesurer et présenter ses résultats](https://speakerdeck.com/eig2018/mesurer-et-presenter-ses-resultats) 
     - Temps de production par défi
-- 12:30 - 14:00 - Dej
+    - Voir aussi la documentation en ligne : [Pourquoi mesurer son impact](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact).
+- 12:30 - 14:00 - Déjeuner 
 - 14:00 - 14:30 - Repartition pour l'aprem
-- 14:30 - 16:00 - Atelier
-    - Proposition d'atelier pour le seminaire 
+- 14:30 - 16:00 - Ateliers
 - 16:00 - 16:15 - Pause
 - 16:15 - 17:30 - Atelier
 - 17:30 - 18:00 - Restitution
