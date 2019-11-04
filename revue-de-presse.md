@@ -4,6 +4,9 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-10-31 | Actu IA | [Testez l’API d’IA Flash, le projet IA développé pour fiabiliser la constatation des contraventions à partir de la reconnaissance d’images](https://www.actuia.com/actualite/testez-lapi-dia-flash-le-projet-ia-developpe-pour-fiabiliser-la-constatation-des-contraventions-a-partir-de-la-reconnaissance-dimages/) | Public | IA Flash |
+| 2019-10-29 | Capital | [L'intelligence artificielle au secours des radars automatiques pour éviter les erreurs](https://www.capital.fr/economie-politique/lintelligence-artificielle-au-secours-des-radars-automatiques-pour-eviter-les-erreurs-1353915) | Public | IA Flash |
+| 2019-10-29 | Le Big Data | [Les radars automatiques français passent à l'intelligence artificielle](https://www.lebigdata.fr/radars-automatiques-intelligence-artificielle/amp/) | Public | IA Flash |
 | 2019-10-23 | Capital | [L'intelligence artificielle à la rescousse des radars pour mieux flasher](https://www.capital.fr/entreprises-marches/lintelligence-artificielle-a-la-rescousse-des-radars-pour-mieux-flasher-1353503) | Public | IA Flash |
 | 2019-10-22 | Radars-auto.com | [Quand l'intelligence artificielle est utilisée pour mieux verbaliser](https://www.radars-auto.com/actualite/actu-radars-general/quand-l-intelligence-artificielle-est-utilisee-pour-mieux-verbaliser-1598) | Public | IA Flash |
 | 2019-08-05 | La gazette des communes | [Comment l’intelligence artificielle va aider les pompiers à anticiper leurs besoins humains](https://www.lagazettedescommunes.com/632456/comment-lintelligence-artificielle-va-aider-les-pompiers-a-anticiper-leurs-besoins-humains/) | Payant | Prévisecours |
