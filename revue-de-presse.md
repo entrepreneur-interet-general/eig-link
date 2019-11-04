@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-11-03 | Motor 1 | [Les radars automatiques vont devenir intelligents](https://fr.motor1.com/news/379069/radars-automatiques-intelligence-artificielle/) | Public | IA Flash |
 | 2019-10-31 | Actu IA | [Testez l’API d’IA Flash, le projet IA développé pour fiabiliser la constatation des contraventions à partir de la reconnaissance d’images](https://www.actuia.com/actualite/testez-lapi-dia-flash-le-projet-ia-developpe-pour-fiabiliser-la-constatation-des-contraventions-a-partir-de-la-reconnaissance-dimages/) | Public | IA Flash |
 | 2019-10-29 | Capital | [L'intelligence artificielle au secours des radars automatiques pour éviter les erreurs](https://www.capital.fr/economie-politique/lintelligence-artificielle-au-secours-des-radars-automatiques-pour-eviter-les-erreurs-1353915) | Public | IA Flash |
 | 2019-10-29 | Le Big Data | [Les radars automatiques français passent à l'intelligence artificielle](https://www.lebigdata.fr/radars-automatiques-intelligence-artificielle/amp/) | Public | IA Flash |
