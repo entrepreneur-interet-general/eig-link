@@ -35,11 +35,33 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
-### Session du 10 octobre 2019
+### Session EIG/mentor | 07 novembre 2019
 
-- Heures : 9h30 - 18h
-- Lieu : LLL, Grand atelier + Atelier B
-- Thème : Rush de fin et restitution (vidéo)
+- **Heures** : 9h30 - 18h30 pour les EIG, 14h - 18h30 pour les mentors
+- **Lieu** : Atelier C jusqu'à 17h45 ; Foyer + Carré B l'après-midi
+- **Thème** : clôture de la promotion 3
+
+#### Programme
+- 9:30 - 9:45 - Accueil
+- 9:45 - 10:00 - Présentation de la journée
+- 10:00 - 10:30 - Standup
+- 10:30 - 11:00 - **Remplissage pages défis**
+- 11:00 - 12:30 - **Temps libre de collaboration**
+- 12:30 - 14:00 - Déjeuner
+- 14:00 - 14:15 - Présentation des chiffres Ma Semaine
+- 14:15 - 14:45 - **Remplissage des questionnaires de fin de promo**
+- 14:45 - 15:00 - **Remplissage des indicateurs PIA**
+- 15:00 - 15:30 - **Temps libre de collaboration**
+- 15:30 - 16:00 - Pause
+- 16:00 - 17:00 - **Temps libre de collaboration**
+- 17:00 - 17:30 - Présentation Léon 
+- 17:30 - 17:45 - Restitution
+
+### Session EIG/mentors | 10 octobre 2019
+
+- **Heures** : 9h30 - 18h
+- **Lieu** : LLL, Grand atelier + Atelier B
+- **Thème** : Rush de fin et restitution (vidéo)
 
 #### Objectifs 
 - Partager des problématiques de production liées au "rush" de fin
@@ -47,7 +69,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Tourner les vidéos de restitution
 
 #### Programme
-- 9:15 - 9:45 - Accueil
+- 9:30 - 9:45 - Accueil
 - 9:45 - 10:00 - Présentation de la journée 
 - 10:00 - 10:30 - Standup
 - 10:30 - 12:30 - **Rush Dating**
@@ -81,25 +103,25 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session mentors EIG 3 | 19 septembre
 
-* Lieu : Liberté Living Lab, Atelier C
+* **Lieu** : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core   
 * **Livrables** : des retours pour améliorer le programme et construire sa stratégie
 
 #### Programme
-14h - 14h30 : installation et rencontre des intrapreneurs de l'Autorité de contrôle prudentiel et de résolution (Banque de France)   
-14h30 - 14h45 : standup. Focus : où en seront les projets en novembre ? Quelles suites pour les EIG ?     
-14h45 - 15h30 : "rétrospective" : atelier sur l'impact et l'évaluation des résultats    
-15h30 - 16h00 : vos recommandations anonymes à l'administration    
-16h00 - 16h15 : pause    
-16h15 - 16h30 : mise en commun    
-16h30 - 17h30 : retours sur le programme (facilitation : Jean-Baptiste)   
-17h30 : mise en commun finale et fin    
+- 14h - 14h30 : installation et rencontre des intrapreneurs de l'Autorité de contrôle prudentiel et de résolution (Banque de France)   
+- 14h30 - 14h45 : standup. Focus : où en seront les projets en novembre ? Quelles suites pour les EIG ?     
+- 14h45 - 15h30 : "rétrospective" : atelier sur l'impact et l'évaluation des résultats    
+- 15h30 - 16h00 : vos recommandations anonymes à l'administration    
+- 16h00 - 16h15 : pause    
+- 16h15 - 16h30 : mise en commun    
+- 16h30 - 17h30 : retours sur le programme (facilitation : Jean-Baptiste)   
+- 17h30 : mise en commun finale et fin    
 
 ### Séminaire hors-les-murs EIG | 5 & 6 septembre
 
-- Heures : arriver jeudi entre 10h et 10h30 à Autrêches - Fin vendredi à 17h
-- Lieu : L'[Hermitage](https://www.hermitagelelab.com/), 17 rue de l'Hermitage, 60350 Autrêches
-- Thème : Rétrospectif & Prospectif du programme EIG
+- **Heures** : arriver jeudi entre 10h et 10h30 à Autrêches - Fin vendredi à 17h
+- **Lieu** : L'[Hermitage](https://www.hermitagelelab.com/), 17 rue de l'Hermitage, 60350 Autrêches
+- **Thème** : Rétrospectif & Prospectif du programme EIG
 
 #### Atelier du séminaire EIG
 
@@ -135,9 +157,9 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG | 29 août
 
-- Heures : 9h - 18h
-- Lieu : LLL, Grand atelier + Atelier B
-- Thème : session de rentrée
+- **Heures** : 9h - 18h
+- **Lieu** : LLL, Grand atelier + Atelier B
+- **Thème** : session de rentrée
 
 #### Programme
 
@@ -166,7 +188,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session mentors EIG 3 & DIG | 11 juillet
 
-* Lieu : Liberté Living Lab, Atelier C (rue du Caire)
+* **Lieu** : Liberté Living Lab, Atelier C (rue du Caire)
 * Qui va animer ? L'équipe EIG Core   
 * **Objectifs** : 
     * Accueillir les mentors DIG et faire se rencontrer la communauté des mentors
@@ -189,7 +211,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG & mentors | 4 juillet
 
-* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* **Lieu** : Liberté Living Lab, Grand Atelier et Atelier B 
 * Qui va animer ? L'équipe EIG Core   
 * **Livrables** : fin des démos et ateliers collaboratifs sur les publications à mi-parcours
 * **Objectifs** : 
@@ -227,7 +249,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session EIG & mentors | 6 juin
 
-* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* **Lieu** : Liberté Living Lab, Grand Atelier et Atelier B 
 * Qui va animer ? L'équipe EIG Core et Hugo (défi Karfu'R)   
 * **Livrables** : des démos et des feuilles de route pour les défis
 * **Objectifs** : 
@@ -403,7 +425,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 ### Session mentors | 18 avril
 
-* Lieu : Liberté Living Lab, Atelier C
+* **Lieu** : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core
 * **Objectifs** : 
     * Comprendre les facteurs d'une pérennisation réussie
@@ -422,7 +444,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 ### Session EIG | 11 avril
 
-* Lieu : Liberté Living Lab, Grand Atelier
+* **Lieu** : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
 * **Objectifs** : 
     * Comprendre le métier de designer
@@ -455,7 +477,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 ### Session EIG | 14 mars
 
-* Lieu : Liberté Living Lab, Grand Atelier
+* **Lieu** : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des personnes d'Etalab
 * **Objectifs** : 
   * Avoir un aperçu du cadre légal de l'"open"
