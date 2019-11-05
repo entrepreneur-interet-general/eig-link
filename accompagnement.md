@@ -49,11 +49,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 11:00 - 12:30 - **Temps libre de collaboration**
 - 12:30 - 14:00 - Déjeuner
 - 14:00 - 14:15 - Présentation des chiffres Ma Semaine
-- 14:15 - 14:45 - **Remplissage des questionnaires de fin de promo**
-- 14:45 - 15:00 - **Remplissage des indicateurs PIA**
-- 15:00 - 15:30 - **Temps libre de collaboration**
-- 15:30 - 16:00 - Pause
-- 16:00 - 17:00 - **Temps libre de collaboration**
+- 14:15 - 15:15 - **Remplissage des questionnaires de fin de promo et des indicateurs PIA**
+- 15:15 - 17:00 - **Temps libre de collaboration**
 - 17:00 - 17:30 - Présentation Léon 
 - 17:30 - 17:45 - Restitution
 
