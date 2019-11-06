@@ -45,13 +45,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 9:30 - 9:45 - Accueil
 - 9:45 - 10:00 - Présentation de la journée
 - 10:00 - 10:30 - Standup
-- 10:30 - 11:00 - **Remplissage pages défis**
+- 10:30 - 11:00 - **Remplissage des pages défis sur le site web EIG**
 - 11:00 - 12:30 - **Temps libre de collaboration**
 - 12:30 - 14:00 - Déjeuner
 - 14:00 - 14:15 - Présentation des chiffres Ma Semaine
-- 14:15 - 15:15 - **Remplissage des questionnaires de fin de promo et des indicateurs PIA**
-- 15:15 - 17:00 - **Temps libre de collaboration**
-- 17:00 - 17:30 - Présentation Léon 
+- 14:15 - 14:25 - Mot de départ du Liberté Living Lab
+- 14:25 - 15:25 - **Remplissage des questionnaires de fin de promo et des indicateurs PIA**
+- 15:25 - 17:00 - **Temps libre de collaboration**
+- 17:00 - 17:30 - Présentation de Léon, l'association des anciens EIG 
 - 17:30 - 17:45 - Restitution
 
 ### Session EIG/mentors | 10 octobre 2019
