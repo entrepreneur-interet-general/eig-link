@@ -30,6 +30,12 @@ En plus des précédents canaux, on peut trouver ces différents canaux :
 - `help` : besoin d'aide à adresser à la communauté ;
 - `offres-emploi` : partager des offres au sein de la communauté EIG.
 
+::: tip Rejoindre et créer des canaux
+Tout le monde est libre de créer des canaux. Nous vous invitions à parcourir régulièrement la liste des canaux pour vous inscrire à ce qui vous intéresse.
+
+Quand vous créez un nouveau canal, il est de bon goût de prévenir sur un canal existant de la création de celui-ci afin que les personnes intéressées puissent le rejoindre.
+:::
+
 ## Listes de diffusion
 
 Nous utilisons les listes de diffusion pour diffuser les informations les plus importantes au sein de la promotion : sessions plénières, demandes de documents, dates clés etc.

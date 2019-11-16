@@ -20,7 +20,7 @@ Vous pouvez également bénéficier de l'écosystème LLL (interne et externe).
 ### Y travailler quand vous le souhaitez 
 _Si vous avez envie de changer de cadre._
 
-Chaque équipe défi dispose d'une carte d'accès au lieu, qui vous permet d'accéder au LLL 24h/24 et 7j/7. Vous pouvez utiliser à l'envie les lieux "communautaires" du premier et deuxième étages : foyer, loges...
+Chaque équipe défi dispose d'une carte d'accès au lieu, qui vous permet d'accéder au LLL 24h/24 et 7j/7. Vous pouvez utiliser à l'envie les lieux "communautaires" du premier et deuxième étages : foyer, loges etc.
 
 ### S'y rendre le mercredi après-midi
 _Pour se retrouver entre EIG pour travailler._
@@ -35,6 +35,6 @@ Tous les mercredis après-midi, de 14h à 18h30, une salle d'une capacité de 10
 _Si vous voulez travailler ensemble dans une salle fermée un autre jour que le mercredi après-midi._
 
 La promotion EIG 3 peut également réserver une salle de 6-8 personnes jusqu'à 2 après-midi par semaine, sur demande.
-**Pour ce faire** : envoyer un e-mail à <entrepreneur-interet-general@data.gouv.fr>. Une fois qu'on valide la réservation, le créneau réservé et la salle seront indiqués sur [l'agenda](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3).
+Pour ce faire, envoyez un e-mail à <entrepreneur-interet-general@data.gouv.fr> et nous nous en chargerons pour vous.
 
 _NB : si vous souhaitez organiser un événement plus grand (meetup ou autre), n'hésitez pas à nous le faire savoir._

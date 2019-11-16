@@ -36,12 +36,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Accueillir des EIG **(à destination des mentors)**](./accueil-eig.md)
 - [Guider les designers](./design.md)
 
-## Outils et tutoriels
-
-* [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-* [La boîte à outils](./outils.md)
-* [Une revue de presse](./revue-de-presse.md)
-
 ## Publication web
 Ce dépôt est publié en ligne à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org). Il utilise [VuePress](https://vuepress.vuejs.org) et le [thème Gouv Fr](https://vuepress-gouv-fr-demo.eig-forever.org/).
 
