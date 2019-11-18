@@ -4,6 +4,7 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-11-18 | Coko | [Meet Plume: A new PubSweet platform created by the French Financial Jurisdictions](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) | Public | Plume |
 | 2019-11-03 | Motor 1 | [Les radars automatiques vont devenir intelligents](https://fr.motor1.com/news/379069/radars-automatiques-intelligence-artificielle/) | Public | IA Flash |
 | 2019-10-31 | Actu IA | [Testez l’API d’IA Flash, le projet IA développé pour fiabiliser la constatation des contraventions à partir de la reconnaissance d’images](https://www.actuia.com/actualite/testez-lapi-dia-flash-le-projet-ia-developpe-pour-fiabiliser-la-constatation-des-contraventions-a-partir-de-la-reconnaissance-dimages/) | Public | IA Flash |
 | 2019-10-30 | Le Point | [Quand l'intelligence artificielle vient en aide aux radars](https://www.lepoint.fr/societe/quand-l-intelligence-artificielle-vient-en-aide-aux-radars-30-10-2019-2344210_23.php) | Public | IA Flash |
