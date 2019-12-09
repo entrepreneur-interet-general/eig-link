@@ -263,7 +263,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
     * Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
 * **12h30 - 14h** : Déjeuner
 
-> Mieux comprendre l'animation de [Speed pitching](animations-EIG.md)
+> Mieux comprendre l'animation de [Speed pitching](animations-eig.md)
 
 #### Programme de l'apres-midi - mentors + EIG + invités (Etalab, beta.gouv.fr)
 
