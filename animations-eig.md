@@ -11,7 +11,7 @@ Une bulloterie a été réalisée en début de chaque promotion EIG, à l'except
 - Si je pense être expert du sujet je m'inscris en encadrant mon signe ;
 - Si je suis intéressé ou débutant souhaitant découvrir ou apprendre, je m'inscris en entourant mon signe.
 
-Souhaitant concerver une trace tout au long de la promotion, nous avons représenter la Bulloterie sous forme de graph (à défaut de bulles). 
+Souhaitant conserver une trace tout au long de la promotion, nous avons représenté la Bulloterie sous forme d'un graphe. 
 
 Pour comprendre l'intégration en graph voici la [documentation explicative](https://doc.eig-forever.org/bulloterie.html).
 
@@ -123,6 +123,5 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
-
 
 
