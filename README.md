@@ -12,7 +12,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 
 - [Le planning du programme](./accompagnement.md)
 - [Les rituels d'accompagnement](./animation.md)
-- [Les contributions des EIG](./contributions.md)
 
 ## Ressources du programme
 - [L'écosystème du programme EIG](./ecosysteme.md)
