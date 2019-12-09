@@ -5,7 +5,6 @@ sidebar = [
     children: [
       'accompagnement',
       'animation',
-      'contributions',
     ]
   },
   {
