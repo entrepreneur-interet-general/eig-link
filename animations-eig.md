@@ -23,7 +23,7 @@ Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté aux 2
 
 ## Forum Ouvert
 
-Lors des différentes plénières, le programme offre la possibilité aux EIG de partager à la fois leur compétence mais aussi des sujets et des thèmes dans lequel les défis sont abordés. Le format d'animation pour réaliser cela est  le Forum Ouvert. Concrètement, lors d'une plénière, en début de Forum, il est demandé aux EIG si des thèmes ou des sujets peuvent être proposé sur la thèmatique du jour. Les EIG souhaitant proposer un sujet le font savoir et une fois le tour des propositions terminées, la repartition peut se matérialiser dans les différents espaces du lieu. 
+Lors des différentes plénières, le programme offre la possibilité aux EIG de partager à la fois leur compétence mais aussi des sujets et des thèmes dans lequel les défis sont abordés. Le format d'animation pour réaliser cela est le Forum Ouvert. Concrètement, lors d'une plénière, en début de Forum, il est demandé aux EIG si des thèmes ou des sujets peuvent être proposés sur la thématique du jour. Les EIG souhaitant proposer un sujet le font savoir et une fois le tour des propositions terminé, la répartition peut se matérialiser dans les différents espaces du lieu. 
 
 Par exemple, si un Forum ouvert porte sur l'accessibilité. Des personnes peuvent proposer : une présentation du RGAA accélérée, un design review des maquettes ou prototype déjà réalisés, une présentation sur le Facile à lire et à comprendre (FALC), comment faire appel à une communauté de personne non-voyantes et les formalités pour obtenir le label e-accessible sur son site. Suite à cela, le reste des personnes présentes au forum peuvent suivrent ou s'inscrire auprès de la personne ayant proposé un sujet. 
 
@@ -123,5 +123,4 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
-
 
