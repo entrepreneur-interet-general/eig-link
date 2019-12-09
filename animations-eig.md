@@ -19,7 +19,7 @@ Pour comprendre l'intégration en graph voici la [documentation explicative](htt
 
 Le stand-up est une activité mensuelle pour la promotion afin de partager actualités, ambiance, avancement, retournement de situation de chaque défis. Nous sommes debout, tous ensmeble, en cercle. Le stand-up dure en entre 20min et 30min. Chaque défis a, normalement, 1min maximum, pour partager ses informations au reste de la promotion. Le stand-up se réalise bien souvent en début de [plénière](https://doc.eig-forever.org/animation.html#sessions-plenieres) entre 10h et 10h30. 
 
-Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté au 2 dernières promotion. Exemple : [http://standup.eig-forever.org](http://standup.eig-forever.org) (voir le [code source](https://github.com/entrepreneur-interet-general/standup) de celui-ci)
+Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté aux 2 dernières promotions. Exemple : [http://standup.eig-forever.org](http://standup.eig-forever.org) (voir le [code source](https://github.com/entrepreneur-interet-general/standup) de celui-ci)
 
 ## Forum Ouvert
 
@@ -123,7 +123,6 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
-
 
 
 
