@@ -13,7 +13,7 @@ Une bulloterie a été réalisée en début de chaque promotion EIG, à l'except
 
 Souhaitant conserver une trace tout au long de la promotion, nous avons représenté la Bulloterie sous forme d'un graphe. 
 
-Pour comprendre l'intégration en graph voici la [documentation explicative](https://doc.eig-forever.org/bulloterie.html).
+Pour comprendre l'intégration sous la forme d'un graphe voici la [documentation explicative](bulloterie.md).
 
 ## Stand-up
 
