@@ -30,13 +30,13 @@ Lorsque vous parlez d'un ou de plusieurs EIG, écrivez tout en minuscules.
 > Les entrepreneurs d'intérêt général ont des compétences variées et complémentaires.
 
 ### Définir le programme
-Le programme n'a pas encore choisi sa phrase d'accroche. Pour présenter le programme en une phrase, vous pouvez utiliser :
+Pour présenter le programme en une phrase, vous pouvez utiliser :
 
-> Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis numériques en 10 mois.
+> Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d'amélioration du service public à l'aide du numérique et des données. 
 
 Pour présenter le programme en un paragraphe, vous pouvez utiliser :
 
-> Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi numérique autour des données.
+> Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données.
 
 ## Bonnes pratiques de communication
 
@@ -46,7 +46,7 @@ Dans le cadre de votre mission, vous serez peut-être sollicités par la presse 
 
 Quel que soit le média, quel que soit le format et même si l'on vous promet la confidentialité, avant de répondre favorablement à une sollicitation presse, nous vous demandons :
 - D'en informer votre mentor ;
-- D'en informer l'équipe de coordination en écrivant à l'alias entrepreneur-interet-general@data.gouv.fr ;
+- D'en informer l'équipe de coordination en écrivant à l'alias <entrepreneur-interet-general@data.gouv.fr> ;
 - D'attendre l'aval des mentors et de l'équipe de coordination.
 
 Cela vous permettra de vous assurer que vous êtes alignés avec la communication de votre administration d'accueil et celle du programme. Cela permettra aussi à l'équipe de coordination d'avoir une vision globale des actions de communication menées par les différents défis.
@@ -64,7 +64,7 @@ Maintenant que vous travaillez pour des administrations, il vous faudra simpleme
 Pour structurer la présence du programme en ligne, il est important d'être cohérent. 
 
 Pour parler du programme, utilisez `#EIG`. 
-Pour parler des promotions, utilisez `#EIG"année de la promotion"`. Par exemple, pour la promotion 3, utilisez #EIG2019. 
+Pour parler des promotions, utilisez `#EIG"année de la promotion"`. Par exemple, pour la promotion 3, utilisez `#EIG2019`.
 Pour parler de vos défis, utilisez les hashtags suivants :
 
 |Défi|Hashtag|Défi|Hashtag|Défi|Hashtag|  

@@ -4,6 +4,15 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2019-11-18 | Coko | [Meet Plume: A new PubSweet platform created by the French Financial Jurisdictions](https://coko.foundation/french-financial-jurisdictions-and-coko-collaboration/) | Public | Plume |
+| 2019-11-03 | Motor 1 | [Les radars automatiques vont devenir intelligents](https://fr.motor1.com/news/379069/radars-automatiques-intelligence-artificielle/) | Public | IA Flash |
+| 2019-10-31 | Actu IA | [Testez l’API d’IA Flash, le projet IA développé pour fiabiliser la constatation des contraventions à partir de la reconnaissance d’images](https://www.actuia.com/actualite/testez-lapi-dia-flash-le-projet-ia-developpe-pour-fiabiliser-la-constatation-des-contraventions-a-partir-de-la-reconnaissance-dimages/) | Public | IA Flash |
+| 2019-10-30 | Le Point | [Quand l'intelligence artificielle vient en aide aux radars](https://www.lepoint.fr/societe/quand-l-intelligence-artificielle-vient-en-aide-aux-radars-30-10-2019-2344210_23.php) | Public | IA Flash |
+| 2019-10-29 | Capital | [L'intelligence artificielle au secours des radars automatiques pour éviter les erreurs](https://www.capital.fr/economie-politique/lintelligence-artificielle-au-secours-des-radars-automatiques-pour-eviter-les-erreurs-1353915) | Public | IA Flash |
+| 2019-10-29 | Le Big Data | [Les radars automatiques français passent à l'intelligence artificielle](https://www.lebigdata.fr/radars-automatiques-intelligence-artificielle/amp/) | Public | IA Flash |
+| 2019-10-28 | BFMTV | [Sécurité routière: les radars bientôt aidés par l'intelligence artificielle](https://auto.bfmtv.com/actualite/securite-routiere-les-radars-bientot-aides-par-l-intelligence-artificielle-1795251.html) | Public | IA Flash |
+| 2019-10-23 | Capital | [L'intelligence artificielle à la rescousse des radars pour mieux flasher](https://www.capital.fr/entreprises-marches/lintelligence-artificielle-a-la-rescousse-des-radars-pour-mieux-flasher-1353503) | Public | IA Flash |
+| 2019-10-22 | Radars-auto.com | [Quand l'intelligence artificielle est utilisée pour mieux verbaliser](https://www.radars-auto.com/actualite/actu-radars-general/quand-l-intelligence-artificielle-est-utilisee-pour-mieux-verbaliser-1598) | Public | IA Flash |
 | 2019-08-05 | La gazette des communes | [Comment l’intelligence artificielle va aider les pompiers à anticiper leurs besoins humains](https://www.lagazettedescommunes.com/632456/comment-lintelligence-artificielle-va-aider-les-pompiers-a-anticiper-leurs-besoins-humains/) | Payant | Prévisecours |
 | 2019-07-19 | Dalloz actualité | [La distinction entre l’open data et l’accès aux décisions de justice](https://www.dalloz-actualite.fr/flash/distinction-entre-l-open-data-et-l-acces-aux-decisions-de-justice#.XTXSJWPgrRY) | Public | Open Justice |
 | 2019-07-12 | DataAnalyticsPost | [L’open data des données juridiques se fait attendre](https://dataanalyticspost.com/lopen-data-des-donnees-juridiques-se-fait-attendre) | Public | OpenJustice |

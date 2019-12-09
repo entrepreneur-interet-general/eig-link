@@ -1,8 +1,8 @@
-# Open source
+# Publier et réutiliser des codes sources de logiciels
 
 [[toc]]
 
-La [Loi pour une République Numérique de 2015](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. Le code source d'un logiciel est assimilé à un document administratif, donc il doit lui aussi être publié sous licence libre.
+La [Loi pour une République Numérique de 2016](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) oblige les administrations à publier les documents administratifs qu'elles produisent sous licence libre. Le code source d'un logiciel est assimilé à un document administratif, donc il doit lui aussi être publié sous licence libre.
 
 Ce document a pour vocation de guider les EIG dans la publication et la gestion de leurs projets de logiciels libres.
 

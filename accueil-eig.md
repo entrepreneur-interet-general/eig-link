@@ -34,13 +34,12 @@ Si les EIG souhaitent travailler depuis leurs ordinateurs personnels, n'hésitez
 
 Si les EIG travaillent depuis un poste fourni par l'administration, prévoyez ces besoins :
 
-- Pour un designer : Demandez aux EIG s'ils ont besoin de **logiciels spécifiques** pour travailler : la suite Adobe est souvent demandée par les designer.
-- Pour un data scientist : Demandez aux EIG de **quelle puissance de calcul** ils ont besoin sur leur machine : en général, prévoir 16Go ou 32Go de RAM pour des machines confortables.
-- Pour un développeur web : Demandez aux EIG de **quel système d'exploitation** ils ont besoin.  Les développeurs travaillent souvent avec des distributions de GNU/Linux (Ubuntu, Debian, ArchLinux, etc.) ou macOS
-- Pour tous les EIG : Deux écrans de 17 à 19 pouces, et si l'espace de travail est un open space, un casque audio.
+- Pour un designer : demandez aux EIG s'ils ont besoin de **logiciels spécifiques** pour travailler : la suite Adobe est souvent demandée par les designer.
+- Pour un data scientist : demandez aux EIG de **quelle puissance de calcul** ils ont besoin sur leur machine : en général, prévoir 16 Go ou 32 Go de RAM pour des machines confortables.
+- Pour un développeur web : demandez aux EIG de **quel système d'exploitation** ils ont besoin.  Les développeurs travaillent souvent avec des distributions de GNU/Linux (Ubuntu, Debian, ArchLinux, etc.) ou macOS
+- Pour tous les EIG : deux écrans de 17 à 19 pouces, et si l'espace de travail est un open space, un casque audio.
 
-Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (notamment pour acheter des serveurs, de l'hébergement, etc.). Bien que cela soit très difficile dans l'administration, vous pouvez commencer par réfléchir à des moyens pour leur faciliter la tâche sur l'achat de petit matériel.  
-
+Beaucoup d'EIG actuels ont émis le souhait d'avoir un budget à dépenser (notamment pour acheter des serveurs, de l'hébergement, etc.). Bien que cela soit très difficile dans l'administration, vous pouvez commencer par réfléchir à des moyens pour leur faciliter la tâche sur l'achat de petit matériel.
 
 ### Assurer aux EIG un accès ouvert à Internet
 
@@ -127,8 +126,8 @@ Ce dialogue doit se mettre en place en suivant un calendrier stable, indépendam
 
 Quelques bonnes pratiques :
 
-- Un point hebdomadaire pour communiquer sur les actions - et éventuelles urgences - de la semaine
-- Un affichage "physique" de la feuille de route à quelques mois
+- Un point hebdomadaire pour communiquer sur les actions - et éventuelles urgences - de la semaine ;
+- Un affichage "physique" de la feuille de route à quelques mois ;
 - Des formations en pair à pair.
 
 
@@ -139,6 +138,6 @@ Il est rare qu'une administration ou un défi ne présente aucun rapport avec un
 
 ### Partager des ressources administratives entre mentors
 
-- Modèle de notes de frais pour les EIG.
-- Formulaire d'autorisation au télétravail.
-- Contrat de confidentialité, correspondant au rappel des droits et devoirs des fonctionnaires.
+- Modèle de notes de frais pour les EIG ;
+- Formulaire d'autorisation au télétravail ;
+- Contrat de confidentialité, correspondant au rappel des droits et devoirs des agents.

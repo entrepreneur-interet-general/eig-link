@@ -2,3 +2,4 @@ node_modules
 guides/*odt
 guides/*docx
 .vuepress/dist
+.DS_Store

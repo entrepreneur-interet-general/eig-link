@@ -12,7 +12,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 
 - [Le planning du programme](./accompagnement.md)
 - [Les rituels d'accompagnement](./animation.md)
-- [Les contributions des EIG](./contributions.md)
 
 ## Ressources du programme
 - [L'écosystème du programme EIG](./ecosysteme.md)
@@ -23,6 +22,7 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
 - [Les stacks techniques des défis](./stack.md)
 - [Le rôle EIG Link](./eig-link.md)
+- [La bulloterie](./bulloterie.md)
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/eig-2019_277159?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
@@ -34,12 +34,6 @@ Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https:/
 - [Définir des indicateurs et mesurer son impact](./mesure-impact.md)
 - [Accueillir des EIG **(à destination des mentors)**](./accueil-eig.md)
 - [Guider les designers](./design.md)
-
-## Outils et tutoriels
-
-* [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-* [La boîte à outils](./outils.md)
-* [Une revue de presse](./revue-de-presse.md)
 
 ## Publication web
 Ce dépôt est publié en ligne à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org). Il utilise [VuePress](https://vuepress.vuejs.org) et le [thème Gouv Fr](https://vuepress-gouv-fr-demo.eig-forever.org/).
