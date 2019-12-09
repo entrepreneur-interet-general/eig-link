@@ -9,7 +9,7 @@ Pour plus d'information voir la [documentation complète sur la Bulloterie](http
 Une bulloterie a été réalisée en début de chaque promotion EIG, à l'exception de la première. Nous avons principalement eu l'occasion d'avoir de grands tableaux blancs pour réaliser nos bulloteries. De plus, nous avons souvent conceptualisé 3 niveaux par intérêts ou savoir-faire :
 - Si je me retrouve dans cet intérêt ou étant compétent dans le sujet (sans être forcement expert), je m'inscrit dans la bulle
 - Si je pense être expert du sujet je m'inscris en encadrant mon signe ;
-- Si je suis intéressé ou débutant souhaitant découvrir ou apprendre, je m'inscris en entourant mon signe
+- Si je suis intéressé ou débutant souhaitant découvrir ou apprendre, je m'inscris en entourant mon signe.
 
 Souhaitant concerver une trace tout au long de la promotion, nous avons représenter la Bulloterie sous forme de graph (à défaut de bulles). 
 
@@ -123,7 +123,6 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
 | 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
-
 
 
 
