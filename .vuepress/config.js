@@ -5,8 +5,6 @@ sidebar = [
     children: [
       'accompagnement',
       'animation',
-      'animations-eig',
-      'contributions',
     ]
   },
   {
@@ -17,6 +15,7 @@ sidebar = [
       'communication-interne',
       'communication-externe',
       'supports-communication',
+      'animations-eig',
       'tiers-lieu',
       'serveur',
       'stack',
