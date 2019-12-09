@@ -256,86 +256,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 #### Programme de la matinee - EIG seuls
 
 * **9h30-10h** : Accueil, standup
-* **10h00-12h** : Speed-dating défis
+* **10h00-12h** : Speed-pitching défis
     * 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois. 
     * 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois. 
-* **12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
+* **12h00 - 12h30** : Echange libre entre défis ou speed-pitching ciblé
     * Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
 * **12h30 - 14h** : Déjeuner
 
-#### Format du speed-dating 
-
-Le format speed-dating défis est un nouveau format de présentation et de partage entre défis. 
-
-Sur un stand, chaque défi présente son projet à une autre équipe défi. 
-- Le cycle de ce speed-dating défis est de **15min** :
-    - Le défi pitche **5min** devant un autre défi.
-    - Les 2 défis peuvent échanger pendant **10min**.
-
-**Important** au bout de 15min :
-- Le défi qui écoute passe à un autre défi 
-- Le défi qui présent reste sur place et voit un nouveau défi arriver   
-_Exemple : ACOSS Plateforme présente son défi à IA Flash. 15 minutes après, IA Flash part écouter Adler, et l'équipe ACOSS Plateforme présente à nouveau son défi, à Karfu'R cette fois._
-
-8 défis pitchent à la fois. 
-Les défis sont répartis en 2 groupes de 8 (A et B). 
-Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, les rôles s'inversent.
-
-**De 10h à 11h** :
-- Le **groupe A** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
-- Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
-
-**De 11h à 12h** : Nous inversons les rôles du groupe A et B 
-- Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
-- Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
-
-**Groupe A** : 
-1. ACOSS Plateforme
-2. Adler
-3. CartoBio
-4. CibNav
-5. DataJust
-6. DataReg
-7. EIGLink
-8. ExploCode
-
-**Groupe B** : 
-1. IA Flash
-2. Karfu'R
-3. LexImpact
-4. OpenChronic
-5. OpenJustice
-6. Plume (Rédaction)
-7. Plume (Exploration)
-8. Polygraphe
-
-**Planning des rotations de 10h à 11h :**
-
-| Stand Pitch | 10h | 10h15 | 10h30 | 10h45 | 
-| -------- | -------- | -------- | -------- | -------- |
-| 1. ACOSS Plateforme | IA Flash | Karfu'R| LexImpact | OpenChronic|
-| 2. Adler | Karfu'R | LexImpact | OpenChronic |OpenJustice|
-| 3. CartoBio | LexImpact | OpenChronic |OpenJustice|Plume (Redac) | 
-| 4. CibNav | OpenChronic | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
-| 5. DataJust | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
-| 6. DataReg | Plume (Redac) | Plume (Explo)| Polygraphe |IA Flash |
-| 7. EIGLink | Plume (Explo) |Polygraphe |IA Flash | Karfu'R|
-| 8. ExploCode | Polygraphe |IA Flash | Karfu'R| LexImpact |
-
-**11h : inversion des rôles des groupes A et B**
-
-**Planning des rotations de 11h à 12h :**
-
-| Stand Pitch | 11h | 11h15 | 11h30 | 11h45 | 
-| -------- | -------- | -------- | -------- | -------- |
-| 1. IA Flash | ExploCode | EIGLink | DataReg | DataJust |
-| 2. Karfu'R | EIGLink| DataReg| DataJust|CibNav|
-| 3. LexImpact | DataReg| DataJust|CibNav| CartoBio|
-| 4. OpenChronic | DataJust|CibNav| CartoBio| Adler|
-| 5. OpenJustice | CibNav| CartoBio| Adler| ACOSS Plateforme|
-| 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
-| 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
-| 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
+> Mieux comprendre l'animation de [Speed pitching](animations-EIG.md)
 
 #### Programme de l'apres-midi - mentors + EIG + invités (Etalab, beta.gouv.fr)
 
