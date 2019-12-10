@@ -15,11 +15,11 @@ sidebar = [
       'communication-interne',
       'communication-externe',
       'supports-communication',
-      'animations-eig',
       'tiers-lieu',
       'serveur',
       'stack',
       'eig-link',
+      'animations-eig',
       'bulloterie',
       'experience-parcours-eig',
     ]
