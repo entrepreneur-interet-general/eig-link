@@ -1,5 +1,9 @@
 # Animations EIG
 
+Cette page décrit les différentes animations qui sont utilisés dans le programme EIG. Nous avons essayé ici de mettre en évidence des formats d'animations innovants, créés par des membres du programme, ou probant par leur efficacité ou leur ingéniosité.
+
+[[toc]]
+
 ## Bulloterie 
 
 La Bulloterie est un outil ludique de mise en relation par intérêts et savoir-faire, en groupe affinitaire (à travers des bulles). Elle permet aux EIG, en début de promotion, de se rencontrer et de se découvrir autour du support de l'outil. 
