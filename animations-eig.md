@@ -123,7 +123,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 - Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
 - Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-::: Détails des groupes et du planning des rotations
+::: tip Détails des groupes et du planning des rotations
 
 **Groupe A** : 
 1. ACOSS Plateforme
@@ -175,3 +175,37 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 :::
 
+## Rushs
+
+Ce sont 2 ateliers créé par [Hugo Stephan]https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
+
+## Rush dating
+
+Objectifs :
+
+ - Partager ses problématiques de production liées au rush de fin (tech, Dev, biz Dev, lancement, pérennisation, documentation, sécu…)
+ - Obtenir des retours de défis qui ont des problématiques similaires histoire de : solutionner, pleurer tous ensemble, maudir la ou les raisons de vos malheurs, inventer des parades, s’entraider
+ - Et inversement : la sensation de réciprocité est importante.
+
+Format : 2 phases d’une heure
+
+Détails d’une phase :
+
+ - Les binômes de défi cherchent un autre binôme pour échanger ;
+ - Une fois que le match est fait : ils s’installent pour une heure d’échange ;
+ - Au bout de 30 minutes, un gong retenti pour inverser les problématiques si besoin ;"	
+
+### Rush clinic
+
+Objectifs :
+
+ - Approfondir certaines problématiques en bénéficiant notamment de la présence des mentors : résoudre des problèmes stratégiques, liés à la pérennisation...
+ - Échanger à plusieurs en tant que EIG, pas forcément en binôme.
+
+Format :
+
+ - Durée : 1 heures 30
+ - Chaque porteur de problématique accueille jusqu'à 5 personnes pour 1 heure d’échanges ;
+ - Le format permet aux défis qui passent les vidéos de s’éclipser et de s’ajouter plus facilement dans les groupes."			
+
+ Ce format se rapproche d'un Forum ouvert avec la volonté supplémentaire de le prévoir en amont du jour J.				
