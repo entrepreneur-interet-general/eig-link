@@ -33,7 +33,7 @@ Par exemple, si un Forum ouvert porte sur l'accessibilité. Des personnes peuven
 
 Pour en savoir plus, voir l'[article Wikipédia sur le Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert).
 
-## Pair-à-pair ou « peer learning »
+## Pair-à-pair ou « _peer learning_ »
 
 Le mode d'apprentissage en pair-à-pair est tout simplement le mode d'interaction qu'il peut y avoir entre deux individus sur un sujet donné. Ce nom est inspiré du « [peer-to-peer](https://fr.wikipedia.org/wiki/Pair_%C3%A0_pair) », issus du monde informatique. Par ailleurs ce mode d'animation n'est possible que si le contexte le permet. Les plénières, le bootcamp ou le semainière permet ainsi d'obtenir une volonté de *"créer quelque chose qui soit directement utile aux autres contributeurs (en créant une valeur d’usage, et non une valeur d’échange)"* (cf. [Le Pair-à-Pair, nouveau modèle de société centré sur les communs](http://blogfr.p2pfoundation.net/2017/06/17/pair-a-pair-nouveau-modele-de-societe-centre-communs/))
 
