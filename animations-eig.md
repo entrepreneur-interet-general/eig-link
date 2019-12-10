@@ -132,7 +132,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 - Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
 - Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-::: details Détails des groupes et du planning des rotations
+::: tip Détails des groupes et du planning des rotations
 Groupe A : 
 1. ACOSS Plateforme
 2. Adler
