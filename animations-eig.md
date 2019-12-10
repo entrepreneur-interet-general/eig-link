@@ -47,7 +47,7 @@ La définition et la liste des EIG « off » produits sont dans la page : [EIG �
 
 L'animation « speed pitching » est un atelier en collectif pour tous les défis EIG. Le ***speed pitching*** permet de rencontrer rapidement plusieurs défis, individuellement, comme un *[speed dating](https://fr.wikipedia.org/wiki/Speed_dating)*. Il a été aussi nommé "speed dating défis". L'objectif du ***speed pitching*** est de présenter, rapidement et à plusieurs reprises, son défi (problématique, solution, impact) sous la forme d'un *pitch*. Le *pitch* est une présentation courte d'un produit ou d'un projet, de manière convaincante et engagé, souvent dans un but promotionnel.
 
-Cette atelier est une création de [Jean-Baptiste Le Dévéhat (EIG Link 2019)](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-baptiste-le-devehat.html) lors de la plénière du 6 Juin 2019.
+Cet atelier est une création de [Jean-Baptiste Le Dévéhat (EIG Link 2019)](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-baptiste-le-devehat.html).
 
 ### Format du *speed pitching* 
 
