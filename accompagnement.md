@@ -159,7 +159,7 @@ Cette session a fait l'objet d'un nouveau format d'animation nommé [Rushs](anim
 
 ::: tip Animations
 Ce seminaire a fait l'objet d'un nouveau format d'ice breaker(animations-eig.md#«-ice-breaker-»).
-Les ateliers ont été principalement organisé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-a-pair-ou-«-peer-learning-»).
+Les ateliers ont été principalement organisé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
 :::
 
 ### Session EIG | 29 août
@@ -361,7 +361,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
 ::: tip Animations
-Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-a-pair-ou-«-peer-learning-»).
+Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
 :::
 
 ### Session mentors | 18 avril
