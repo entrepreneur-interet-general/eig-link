@@ -51,7 +51,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 14:00 - 14:15 - Présentation des chiffres Ma Semaine
 - 14:15 - 14:25 - Mot de départ du Liberté Living Lab
 - 14:25 - 15:25 - **Remplissage des questionnaires de fin de promo et des indicateurs PIA**
-- 15:25 - 17:00 - **Temps libre de collaboration en [pair-à-pair](animations-eig.md#pair-a-pair-ou-«-peer-learning-»)**
+- 15:25 - 17:00 - **Temps libre de collaboration en [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»)**
 - 17:00 - 17:30 - Présentation de Léon, l'association des anciens EIG 
 - 17:30 - 17:45 - Restitution
 
