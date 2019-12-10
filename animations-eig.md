@@ -89,6 +89,15 @@ Durée : 15min (préparation, explication et pose)
 
 ![Deux EIG s'entraident](./images/icebreaker-baton.jpg) _Des EIG en train de se demander pourquoi le bâton ne descend pas_
 
+### Micro game jam
+
+Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackathon) ayant pour sujet les jeux vidéo, mais pouvant aussi porter sur les jeux au sens large. Une _micro game jam_ est donc un ice breaker permettant de créer des jeux (de société principalement) à plusieurs.
+
+Cet ice breaker a été réalisé par Mourdjen Bari. Il nécéssite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toute forme, plateau...). 
+
+L'objectif : Permet à une petite équipe de créer rapidement un jeu de société avec quelques éléments existants dans les jeux de sociétés.
+
+Durée : 30 à 45 minutes pour la préparation + 1h de jeu
 
 ## « Speed pitching » 
 
@@ -175,9 +184,9 @@ Groupe B :
 
 ## Rushs
 
-Ce sont 2 ateliers créé par [Hugo Stephan]https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
+Ce sont 2 ateliers créés par [Hugo Stephan]https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
 
-## Rush dating
+### Rush dating
 
 Objectifs :
 
@@ -206,4 +215,8 @@ Format :
  - Chaque porteur de problématique accueille jusqu'à 5 personnes pour 1 heure d’échanges ;
  - Le format permet aux défis qui passent les vidéos de s’éclipser et de s’ajouter plus facilement dans les groupes."			
 
- Ce format se rapproche d'un Forum ouvert avec la volonté supplémentaire de le prévoir en amont du jour J.				
+ Ce mode d'animation se rapproche d'un forum ouvert. Mais il a pour vocation a prévoir les atéliers et clinique en amont de l'évènement.	
+
+
+
+

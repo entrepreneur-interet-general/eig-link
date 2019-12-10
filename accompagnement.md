@@ -70,10 +70,10 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 9:30 - 9:45 - Accueil
 - 9:45 - 10:00 - Présentation de la journée 
 - 10:00 - 10:30 - Standup
-- 10:30 - 12:30 - **Rush Dating**
+- 10:30 - 12:30 - **[Rush Dating](animations-eig.md#rushs)**
 - 12:30 - 14:00 - Dej
 - 14:00 - 14:30 - Repartition pour l'aprem
-- 14:30 - 16:00 - **Rush Clinic**
+- 14:30 - 16:00 - **[Rush Clinic](animations-eig.md#rushs)**
 - 16:00 - 16:15 - Pause
 - 16:15 - 17:30 - **Temps libres**
 - 17:30 - 18:00 - Restitution
@@ -98,6 +98,10 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - CartoBio - DataReg
 - LexImpact (au choix)
 - IA Flash (au choix)
+
+::: tip Animations
+Cette session a fait l'objet d'un nouveau format d'animation nommé [Rushs](animations-eig.md#rushs)
+:::
 
 ### Session mentors EIG 3 | 19 septembre
 
@@ -152,6 +156,11 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 15h30 - 15h45 : Pause
 - **15h45 - 17h00 : Plénière**
 - 17h00 - 18h00 : Clôture, temps libre
+
+::: tip Animations
+Ce seminaire a fait l'objet d'un nouveau format d'ice breaker(animations-eig.md#«-ice-breaker-»).
+Les ateliers ont été principalement organisé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-a-pair-ou-«-peer-learning-»).
+:::
 
 ### Session EIG | 29 août
 
@@ -264,7 +273,9 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
     * Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
 * **12h30 - 14h** : Déjeuner
 
-> Mieux comprendre l'animation de [Speed pitching](animations-eig.md)
+::: tip Animations
+Cette session plénière a fait l'objet d'un nouveau format d'animation nommé [Speed pitching](animations-eig.md#«-speed-pitching-»)
+:::
 
 #### Programme de l'apres-midi - mentors + EIG + invités (Etalab, beta.gouv.fr)
 
@@ -349,6 +360,10 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
+::: tip Animations
+Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-a-pair-ou-«-peer-learning-»).
+:::
+
 ### Session mentors | 18 avril
 
 * **Lieu** : Liberté Living Lab, Atelier C
@@ -400,6 +415,10 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
     * Atelier documentation (Antoine)  
     * Atelier communication (Sophie) 
 - 18h00 - 18h30 : Conclusion de la journée
+
+::: tip Animations
+Cette session plénière a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert).
+:::
 
 ### Session EIG | 14 mars
 
