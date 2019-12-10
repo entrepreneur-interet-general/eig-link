@@ -6,7 +6,7 @@ La Bulloterie est un outil ludique de mise en relation par intérêts et savoir-
 
 Pour plus d'information voir la [documentation complète sur la Bulloterie](https://movilab.org/wiki/La_Bulloterie)
 
-Une bulloterie a été réalisée en début de chaque promotion EIG, à l'exception de la première. Nous avons principalement eu l'occasion d'avoir de grands tableaux blancs pour réaliser nos bulloteries. Nous conseillons ce support pour faciliter la saisie, bien qu'il soit possible de le réaliser sur papier. 
+Une bulloterie a été réalisée en début de chaque promotion EIG, à l'exception de la première. Nous avons principalement eu l'occasion d'avoir de grands tableaux blancs pour réaliser nos bulloteries. Nous conseillons ce support pour faciliter la saisie, bien qu'il soit possible de la réaliser sur papier. 
 
 Nous avons souvent conceptualisé 3 niveaux par intérêts ou savoir-faire :
 - Si je me retrouve dans un intérêt ou un savoir-faire (une bulle), je m'inscris dans la bulle avec mon signe ;
