@@ -123,9 +123,11 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 - Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
 - Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-::: tip Détails des groupes et du planning des rotations
+::: details 
 
-**Groupe A** : 
+**Détails des groupes et du planning des rotations**
+
+Groupe A : 
 1. ACOSS Plateforme
 2. Adler
 3. CartoBio
@@ -135,7 +137,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 7. EIGLink
 8. ExploCode
 
-**Groupe B** : 
+Groupe B : 
 1. IA Flash
 2. Karfu'R
 3. LexImpact
