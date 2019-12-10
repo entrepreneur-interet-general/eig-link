@@ -17,7 +17,7 @@ Souhaitant conserver une trace tout au long de la promotion, nous avons représe
 
 Pour comprendre l'intégration sous la forme d'un graphe voici la [documentation explicative](bulloterie.md).
 
-![Résultat de la Bulloterie lors du bootcamp 2019](/images/bulloterie2019.jpg) _Résultat de la Bulloterie au Lab110bis en Février 2019_
+![Résultat de la Bulloterie lors du bootcamp 2019](./images/bulloterie2019.jpg) _Résultat de la Bulloterie au Lab110bis en Février 2019_
 
 ## Stand-up
 
@@ -25,7 +25,7 @@ Le stand-up est une activité mensuelle pour la promotion afin de partager actua
 
 Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté aux 2 dernières promotions. Lien vers l'outil : [http://standup.eig-forever.org](http://standup.eig-forever.org) (voir le [code source](https://github.com/entrepreneur-interet-general/standup) de celui-ci).
 
-![Stand-up avec des EIG et des DIG](/images/stand-up.jpg) _Stand-up avec des EIG et des DIG_
+![Stand-up avec des EIG et des DIG](./images/stand-up.jpg) _Stand-up avec des EIG et des DIG_
 
 ## Forum Ouvert
 
@@ -43,7 +43,7 @@ Le mode de collaboration ou d'apprentissage en [pair-à-pair](https://fr.wikiped
 
 Il est possible d'obtenir des modes d'interaction en pair-à-pair pendant une session plénière. Mais plus généralement, les temps en séminaire permettent plus facilement ce mode de collaboration. 
 
-![Deux EIG s'entraident](/images/pair-a-pair.jpg) _Deux EIG s'entraident pendant un seminaire_
+![Deux EIG s'entraident](./images/pair-a-pair.jpg) _Deux EIG s'entraident pendant un seminaire_
 
 ## EIG « off »
 
@@ -87,7 +87,7 @@ Nous avons dû scotché plusieurs baton ensemble afin de tous pouvoir tenir le b
 
 Durée : 15min (préparation, explication et pose)
 
-![Deux EIG s'entraident](/images/icebreaker-baton.jpg) _Des EIG en train de se demander pourquoi le bâton ne descend pas_
+![Deux EIG s'entraident](./images/icebreaker-baton.jpg) _Des EIG en train de se demander pourquoi le bâton ne descend pas_
 
 
 ## « Speed pitching » 
@@ -111,7 +111,7 @@ _Exemple : ACOSS Plateforme présente son défi à IA Flash. 15 minutes après, 
 Les défis sont répartis en 2 groupes de 8 (A et B). C'est à dire : 8 défis pitchent à la fois. 
 Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, les rôles s'inversent.
 
-![Présentation par Jean-Baptiste Le Dévéhat du déroulement du speed pitching](/images/speed-pitching.jpg) _Présentation du déroulement du speed pitching_
+![Présentation par Jean-Baptiste Le Dévéhat du déroulement du speed pitching](./images/speed-pitching.jpg) _Présentation du déroulement du speed pitching_
 
 ### Exemple pendant une plénière
 
