@@ -99,7 +99,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - LexImpact (au choix)
 - IA Flash (au choix)
 
-::: tip Animations
+::: tip Animation
 Cette session a fait l'objet d'un nouveau format d'animation nommé [Rushs](animations-eig.md#rushs)
 :::
 
@@ -157,8 +157,9 @@ Cette session a fait l'objet d'un nouveau format d'animation nommé [Rushs](anim
 - **15h45 - 17h00 : Plénière**
 - 17h00 - 18h00 : Clôture, temps libre
 
-::: tip Animations
-Ce seminaire a fait l'objet d'un nouveau format d'ice breaker(animations-eig.md#«-ice-breaker-»).
+::: tip Animation
+Ce seminaire a fait l'objet d'un nouveau format d'[ice breaker(animations-eig.md#«-ice-breaker-»).
+
 Les ateliers ont été principalement organisé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
 :::
 
@@ -273,7 +274,7 @@ Les ateliers ont été principalement organisé en [forum ouvert](animations-eig
     * Pour les défis qui souhaitent refaire l'exercice avec un autre défi qu'ils n'ont pas vu.
 * **12h30 - 14h** : Déjeuner
 
-::: tip Animations
+::: tip Animation
 Cette session plénière a fait l'objet d'un nouveau format d'animation nommé [Speed pitching](animations-eig.md#«-speed-pitching-»)
 :::
 
@@ -360,7 +361,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 16:00 | 16:30 | 30mn | **Plénière de fin** |
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
-::: tip Animations
+::: tip Animation
 Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
 :::
 
@@ -416,7 +417,7 @@ Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#f
     * Atelier communication (Sophie) 
 - 18h00 - 18h30 : Conclusion de la journée
 
-::: tip Animations
+::: tip Animation
 Cette session plénière a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert).
 :::
 

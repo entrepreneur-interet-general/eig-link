@@ -184,7 +184,7 @@ Groupe B :
 
 ## Rushs
 
-Ce sont 2 ateliers créés par [Hugo Stephan]https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
+Ce sont 2 ateliers créés par [Hugo Stephan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
 
 ### Rush dating
 
