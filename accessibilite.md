@@ -108,4 +108,26 @@ RGAA 8.5 — Chaque page comporte un titre `<title>`
 RGAA 12.1 — Chaque ensemble de pages dispose au moins de deux systèmes de navigation différents
 ::: 
 
+### Test rapide avec Asqatasun
+
+Il existe un moyen d'auditer automatiquement et rapidement une page web à travers l'outil **[app.asqatasun.org](https://app.asqatasun.org)** (qui est la version gratuite de **Tanaguru**). 
+
+Cela donne l'avantage d'avoir une image rapide de qui est accessible ou non/ Mais cela est très peu qualitatif au regard du nombre de critères testés automatiquement (variant entre 5% et 25%).
+
+![Exemple de résultat de l'application Asqatasun](./images/exemple-asqatasun.png)
+_Exemple de resultat de l'application Asqatasun_
+
+### Plugin Chrome RGAA 3
+
+Il existe également un plugin Chrome qui permet d'avoir sous la main dans son navigateur les critères et tests du RGAA 3
+
+::: warning 
+Il n'existe pas de plugin sur la version 4 du RGAA
+:::
+
+## Annexes 
+
+::: tip Présentation 
+Voir la présentation : [Accessibilité & RGAA](https://speakerdeck.com/eig2018/presentation-accessibilite-rgaa)
+:::
 
