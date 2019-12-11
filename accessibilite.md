@@ -1,15 +1,14 @@
 # Accessibilité 
 
-« L'accessibilité numérique consiste à rendre les services de communication au public en ligne accessibles aux personnes handicapées » — RGAA 4
-
 Initialement relatif au monde du handicap, des enfants ou des personnes âgées, l’accessibilité c’est étendu à l'ensemble des citoyens et utilisé pour désigner l'accès à de nombreux domaines :
 - **physique**, la liberté de déplacement dans l’espace (mobilité) ;
 - **éducatif**, le droit à une scolarisation ;
 - **civique**, le droit de vote ;
 - **culturel**, pouvoir développer sa culture ;
-- **numérique**, adaptation des systèmes numériques, dont les sites web, aux différents types de handicap, développement d'outils spécifiques tels loupe ou clavier visuel...
+- **numérique**, adaptation des systèmes numériques, dont les sites web, aux différents types de handicap, développement d'outils spécifiques tels loupe ou clavier visuel
+- ...
 
-Il s'avère nénamoins nécéssaire de rappeler que l'accessibilité permet aussi d'améliorer la qualité des services, des sites web, pour l'ensemble des usagers.
+> « L'accessibilité numérique consiste à rendre les services de communication au public en ligne accessibles aux personnes handicapées » — RGAA 4
 
 [[toc]]
 
@@ -17,14 +16,16 @@ Il s'avère nénamoins nécéssaire de rappeler que l'accessibilité permet auss
 
 Nous sommes actuellement en **version 4 du RGAA**, qui est décrit à l'adresse suivante : [https://www.numerique.gouv.fr/publications/rgaa-accessibilite/](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 
+::: tip Changement de nom du Reférentiel Général entre la version 3 et 4
+RGA.A. 3 : Accessibilité pour les Administrations
+
+RGA.A. 4 : Amélioration de l’Accessibilité 
+:::
+
 ::: danger Version antérieur
 Cette adresse n'est donc pas la bonne : [http://references.modernisation.gouv.fr/rgaa-accessibilite/](http://references.modernisation.gouv.fr/rgaa-accessibilite/)
 :::
 
-::: tip Changement de nom du Reférentiel Général entre la version 3 et 4
-RGA.A. 3 : Accessibilité pour les Administrations
-RGA.A. 4 : Amélioration de l’Accessibilité 
-:::
 
 Le Référentiel Général d'Amélioration de l'Accessibilité (RGAA) est un document initialement pensé pour tester votre site ou service numérique a posteriori. C'est à dire lorsque celui-ci est finalisé. 
 
@@ -57,7 +58,7 @@ La déclaration d'accessibilité permet de :
 - Définir les dispositifs d'assistance et de contact
 - Mentionner l’appel au Défenseur des droits si nécéssaire
 
-::: tip % des critères respectés 
+::: tip
 Le **% des critères respectés** = Nb **critères validés** / Nb **critères applicables**
 
 Il faut donc commencer par définir les critères applicables avant de vérifier s'ils sont valides. 
@@ -93,11 +94,17 @@ Ces critères sont organisé par ce que l'on appelle des **thématiques** (image
 
 ::: tip Exemples de critères 
 RGAA 1.1 — Chaque image porteuse d'information a une alternative textuelle
+
 RGAA 1.2 — Chaque image de décoration est correctement ignorée par les technologies d'assistance 
+
 RGAA 3.1 — L'information ne doit pas être donnée uniquement par la couleur.
+
 RGAA 3.2 — Le contraste entre la couleur du texte et la couleur de son arrière-plan est suffisamment élevé
+
 RGAA 4.1 —Chaque média temporel pré-enregistré a-t-il, si nécessaire, une transcription textuelle ou une audiodescription
-RGAA 8.5 — Chaque page comporte un titre <title> 
+
+RGAA 8.5 — Chaque page comporte un titre `<title>` 
+
 RGAA 12.1 — Chaque ensemble de pages dispose au moins de deux systèmes de navigation différents
 ::: 
 
