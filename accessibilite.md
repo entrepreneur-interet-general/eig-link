@@ -76,12 +76,10 @@ Cette page doit se nommer selon l'état de conformité :
 - « Accessibilité : non conforme » 
 
 ::: tip Exemples 
-Une page accessibilité bien documenté : [www.service-public.fr/P10000](www.service-public.fr/P10000)
+Une page accessibilité bien documenté : [www.service-public.fr/P10000](https://www.service-public.fr/P10000)
 
-Page accessibilité initié : [www.etalab.gouv.fr/accessibilite](www.etalab.gouv.fr/accessibilite)
+Page accessibilité initié : [www.etalab.gouv.fr/accessibilite](https://www.etalab.gouv.fr/accessibilite)
 :::
-
-<script async class="speakerdeck-embed" data-id="1612a6dfe4a242aaa3f3a41204084607" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Critères & tests
 
