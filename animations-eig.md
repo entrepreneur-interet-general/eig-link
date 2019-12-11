@@ -1,6 +1,6 @@
 # Animations EIG
 
-Cette page décrit les différentes animations qui sont utilisés dans le programme EIG. Nous avons essayé ici de mettre en évidence des formats d'animations innovants, créés par des membres du programme, ou probant par leur efficacité ou leur ingéniosité.
+Cette page décrit les différentes formes d'animations utilisées dans le programme EIG. Nous avons documentés principalement les formes d'animations innovantes, créées par des membres du programme, ou probant par leur efficacité ou leur ingéniosité.
 
 [[toc]]
 
@@ -12,14 +12,12 @@ Pour plus d'information voir la [documentation complète sur la Bulloterie](http
 
 Une Bulloterie a été réalisée en début de chaque promotion EIG, à l'exception de la première. Nous avons principalement eu l'occasion d'avoir de grands tableaux blancs pour réaliser nos Bulloteries. Nous conseillons ce support pour faciliter la saisie, bien qu'il soit possible de la réaliser sur papier. 
 
-Nous avons souvent conceptualisé 3 niveaux par intérêts ou savoir-faire :
-- Si je me retrouve dans un intérêt ou un savoir-faire (une bulle), je m'inscris dans la bulle avec mon signe ;
-- Si je pense être expert dans un intérêt ou un savoir-faire (une bulle), je m'inscris en encadrant mon signe ;
-- Si je suis débutant ou avec la volonté d'apprendre dans un intérêt ou un savoir-faire (une bulle), je m'inscris en entourant avec un cercle mon signe.
+Nous avons souvent conceptualisé 3 niveaux sur les intérêts ou savoir-faire communs :
+- Si je me retrouve dans un intérêt ou un savoir-faire (une bulle), **j'inscris mon signe dans la bulle** ;
+- Si je pense être expert dans un intérêt ou un savoir-faire (une bulle), j'inscris mon signe dans la bulle et **je l'encadre** ;
+- Si je suis débutant ou avec la volonté d'apprendre dans un intérêt ou un savoir-faire (une bulle), j'inscris mon signe dans la bulle et **je l'encercle**.
 
-Souhaitant conserver une trace tout au long de la promotion, nous avons représenté la Bulloterie sous forme d'un graphe. 
-
-Pour comprendre l'intégration sous la forme d'un graphe voici la [documentation explicative](bulloterie.md).
+Souhaitant conserver une trace tout au long de la promotion, nous avons représenté la Bulloterie sous forme d'un graphe (à défaut d'outil adapté pour la représentation en bulles). Pour comprendre l'intégration sous la forme d'un graphe voici la [documentation explicative](bulloterie.md).
 
 ![Résultat de la Bulloterie lors du bootcamp 2019](./images/bulloterie2019.jpg) _Résultat de la Bulloterie au Lab110bis en Février 2019_
 
@@ -95,13 +93,13 @@ Durée : 15min (préparation, explication et pose)
 
 ### Micro game jam
 
-Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackathon) ayant pour sujet les jeux vidéo, mais pouvant aussi porter sur les jeux au sens large. Une _micro game jam_ est donc un ice breaker permettant de créer des jeux (de société principalement) à plusieurs.
+Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackathon) ayant pour sujet les jeux vidéo, mais pouvant aussi porter sur les jeux au sens large. Une _micro game jam_ est donc un ice breaker permettant de créer des jeux en équipe avec le materiel mis à disposition. Ils est donc nécéssaire de définir un but du jeu, des règles, avec la volonté de s'amuser.
 
-Cet ice breaker a été réalisé par Mourdjen Bari. Il nécéssite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toute forme, plateau...). 
+Cet _ice breaker_ a été créé et réalisé par Mourdjen Bari. Il nécéssite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toute forme, plateau...). 
 
-L'objectif : Permet à une petite équipe de créer rapidement un jeu de société avec quelques éléments existants dans les jeux de sociétés.
+L'objectif : Permet à une petite équipe de créer rapidement un jeu de société afin d'y jouer.
 
-Durée : 30 à 45 minutes pour la préparation + 1h de jeu
+Durée : 1h (30 minutes pour la préparation + 30 minutes de jeu)
 
 ## « Speed pitching » 
 
@@ -188,7 +186,7 @@ Groupe B :
 
 ## Rushs
 
-Ce sont 2 ateliers créés par [Hugo Stephan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
+Le _Rush dating_ et le *Rush clinic_ sont 2 ateliers créés par [Hugo Stephan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
 
 ### Rush dating
 
