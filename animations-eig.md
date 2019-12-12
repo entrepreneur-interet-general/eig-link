@@ -1,6 +1,6 @@
 # Animations EIG
 
-Cette page décrit les différentes formes d'animations utilisées dans le programme EIG. Nous avons documentés principalement les formes d'animations innovantes, créées par des membres du programme, ou probant par leur efficacité ou leur ingéniosité.
+Cette page décrit les différentes formes d'animations utilisées dans le programme EIG. Nous avons documenté principalement les formes d'animations innovantes, créées par des membres du programme, ou probant par leur efficacité ou leur ingéniosité.
 
 [[toc]]
 
@@ -23,9 +23,9 @@ Souhaitant conserver une trace tout au long de la promotion, nous avons représe
 
 ## Stand-up
 
-Le stand-up est une activité mensuelle pour la promotion afin de partager actualités, ambiance, avancement, retournement de situation de chaque défi. Nous sommes debout, tous ensemble, en cercle. Le stand-up dure entre 20 et 30 minutes. Chaque défi dispose d'une minute maximum, pour partager ses informations au reste de la promotion. Le stand-up se réalise bien souvent en début de [plénière](animation.md#sessions-plénières) (entre 10h et 10h30). 
+Le stand-up est une activité mensuelle pour la promotion afin de partager des actualités, l'ambiance, les avancements, les retournements de situation de chaque défi. Nous sommes debout, tous ensemble, en cercle. Le stand-up dure entre 20 et 30 minutes. Chaque défi dispose d'une minute maximum, pour partager ses informations au reste de la promotion. Le stand-up se réalise bien souvent en début de [plénière](animation.md#sessions-plénières) (entre 10h et 10h30). 
 
-Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté aux 2 dernières promotions. Lien vers l'outil : [http://standup.eig-forever.org](http://standup.eig-forever.org) (voir le [code source](https://github.com/entrepreneur-interet-general/standup) de celui-ci).
+Nous avons repris l'outil stand-up [BetaGouv](https://github.com/betagouv/beta.gouv.fr/wiki/Stand-up) et nous l'avons adapté aux 2 dernières promotions. Lien vers l'outil : [http://standup.eig-forever.org](http://standup.eig-forever.org) (voir le [code source](https://github.com/entrepreneur-interet-general/standup) de celui-ci).
 
 ![Stand-up avec des EIG et des DIG](./images/stand-up.jpg) _Stand-up avec des EIG et des DIG_
 
@@ -33,9 +33,9 @@ Nous avons repris l'outil stand-up de beta.gouv.fr et nous l'avons adapté aux 2
 
 Le **Forum Ouvert** est un moyen de partager des compétences ou des connaissances, autour de sujets ou de thèmes dans lequel les défis sont abordés. Lors des sessions plénières passées, un forum ouvert a souvent été proposé en deux temps l'après-midi. 
 
-Concrètement, il est demandé aux EIG les thèmes ou les sujets qu'ils souhaitent proposer sur la thématique du jour. Les EIG proposant un sujet le font savoir au reste de la promotion. Une fois les propositions terminées, les EIG se répartissent dans les différents espaces du tiers-lieu selon leurs intérêts. 
+Concrètement, il est demandé aux EIG les thèmes ou les sujets qu'ils souhaitent proposer sur la thématique du jour. Les EIG proposant un sujet le font savoir au reste de la promotion. Une fois les propositions terminées, les EIG se répartissent dans les différents espaces du tiers-lieu selon leurs intérêts communs. 
 
-Par exemple, si un Forum ouvert porte sur l'accessibilité. Des personnes peuvent proposer à une assemblée : une présentation accélérée du RGAA, un design review des maquettes ou prototype déjà réalisés sur cet axe, une présentation pour découvrir le Facile à lire et à comprendre (FALC), un retour d'expérience sur des démonstrations réalisées par des non-voyants et les formalités pour obtenir le label e-accessible sur son site. Ces personnes sont mises en évidence afin de bien les identifier. Ensuite, les autres personnes de l'assemblée peuvent suivre ou s'inscrire auprès de la personne ayant proposé son sujet. 
+Par exemple, si un Forum Ouvert porte sur l'accessibilité. Des personnes peuvent proposer dans l'assemblée : une présentation accélérée du RGAA, un design review des maquettes ou du prototype déjà réalisés, une présentation pour découvrir le Facile à lire et à comprendre (FALC), un retour d'expérience sur des démonstrations réalisées par des non-voyants, expliquer les formalités pour obtenir le label [e-accessible](https://references.modernisation.gouv.fr/e-accessible) sur son site. Ces personnes associées à ses propositions sont mises en évidence afin que l'assemblée puisse bien les identifier. Ensuite, les personnes de l'assemblée peuvent suivre ou s'inscrire auprès de la personne ayant proposé son sujet. 
 
 Pour en savoir plus, voir l'[article Wikipédia sur le Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert).
 
@@ -43,49 +43,47 @@ Pour en savoir plus, voir l'[article Wikipédia sur le Forum Ouvert](https://fr.
 
 Le mode de collaboration ou d'apprentissage en [pair-à-pair](https://fr.wikipedia.org/wiki/Processus_collaboratif_pair_%C3%A0_pair) est le mode d'interaction entre deux ou plusieurs individus sur un sujet donné. Ce nom est inspiré du « [peer-to-peer](https://fr.wikipedia.org/wiki/Pair_%C3%A0_pair) », issus du monde informatique. Les collaborateurs ne sont pas soumis à une autorité hiérarchique et chacun est libre de contribuer sans sélection préalable. Ce mode d'animation est donc possible que si le contexte le permet. Les plénières, le bootcamp et le semainière permettent ainsi d'obtenir une volonté de *"créer quelque chose qui soit directement utile aux autres contributeurs (en créant une valeur d’usage, et non une valeur d’échange)"* (cf. [Le Pair-à-Pair, nouveau modèle de société centré sur les communs](http://blogfr.p2pfoundation.net/2017/06/17/pair-a-pair-nouveau-modele-de-societe-centre-communs/))
 
-Il est possible d'obtenir des modes d'interaction en pair-à-pair pendant une session plénière. Mais plus généralement, les temps en séminaire permettent plus facilement ce mode de collaboration. 
+Il est possible d'obtenir des modes d'interactions en pair-à-pair pendant une session plénière. Mais plus généralement, les temps en séminaire permettent plus facilement ce mode de collaboration. 
 
 ![Deux EIG s'entraident](./images/pair-a-pair.jpg) _Deux EIG s'entraident pendant un seminaire_
 
 ## EIG « off »
 
-La définition et la liste des EIG « off » produits sont dans la page : [EIG « off »](eig-off.md)
+La définition et la liste des _EIG « off »_ produits sont dans la page : [EIG « off »](eig-off.md)
 
 ## « Ice breaker »
 
-Un _ice breaker_ (ou « brise-glace » en français) est un atelier ou un jeu, utilisé pour initier le dialogue entre plusieurs participants amenés à évoluer ensemble, pour renforcer l’esprit de groupe ou s'implement pour se reveiller le corp et l'esprit.
+Un _ice breaker_ (ou « brise-glace » en français) est un atelier ou un jeu, utilisé pour initier le dialogue entre plusieurs participants amenés à évoluer ensemble, pour renforcer l’esprit de groupe ou simplement pour se réveiller le corps et l'esprit.
 
 ### Compter le plus possible
 
-L'objectif de cet ice breaker est de compter (1, 2, 3...) individuellement et dans une équipe, le loin possible, sans jamais se couper la parole. 
+L'objectif de cet ice breaker est de compter (1, 2, 3...) en équipe, le loin possible, sans jamais se couper la parole. 
 
-Contraintes :
-- le chiffre doit être enoncé par une seule personne à la fois 
+Explications et contraintes :
+- le chiffre doit être énoncé par une seule personne à la fois 
 - il est interdit de parler, à part pour dire un chiffre
 - il faut au minimum 2 équipes d'au moins 5 personnes (possible de faire 10 équipes de 10 personnes)
-
-Règles : 
 - Si deux personnes disent un chiffre en même temps, le comptage recommence à zéro
 - Si une personne parle, le comptage recommence à zéro
 
 Le challenge est de faire le comptage le plus élevé possible au regard des équipes adverses.
 
-C'est un exercice sous forte contrainte qui demande l'attention auprès de l'ensemble des personnes présentes. Car en silence, il n'est pas évident d'enoncer qu'un chiffre, sans couper la parole.
+C'est un exercice sous forte contrainte qui demande l'attention auprès de l'ensemble des personnes présentes. Car en silence, il n'est pas évident d'énoncer un chiffre, sans couper la parole.
 
 Durée : 15min
 
 ### Pose de bâton 
 
-L'idée est simple : poser un baton au sol tenu par des participants avec leur doigts. 
+L'idée est simple : poser un bâton au sol tenu par des participants avec leur doigt. 
 
 Pour cela il faut :
 - mettre les personnes deux par deux en file indienne, comme si l'on souhaitais faire un couloir
 - poser le bâton dans ce couloir
-- lever le bâton tous ensemble
-- tenir tous ensemble le baton avec un seul doigt 
-- poser le baton (ça peut être long)
+- prendre le bâton et le lever tous ensemble
+- tenir tous ensemble le bâton avec un seul doigt 
+- poser le bâton au sol (ça peut être long)
 
-Nous avons dû scotché plusieurs baton ensemble afin de tous pouvoir tenir le baton.
+Nous avons dû scotcher plusieurs bâton ensemble afin de tous puissent pouvoir tenir le bâton.
 
 Durée : 15min (préparation, explication et pose)
 
@@ -93,9 +91,9 @@ Durée : 15min (préparation, explication et pose)
 
 ### Micro game jam
 
-Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackathon) ayant pour sujet les jeux vidéo, mais pouvant aussi porter sur les jeux au sens large. Une _micro game jam_ est donc un ice breaker permettant de créer des jeux en équipe avec le materiel mis à disposition. Ils est donc nécéssaire de définir un but du jeu, des règles, avec la volonté de s'amuser.
+Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackathon) ayant pour sujet les jeux vidéo, mais pouvant aussi porter sur les jeux au sens large. Une _micro game jam_ est donc un _ice breaker_ permettant de créer des jeux en équipe avec le matériel mis à disposition. Il est donc nécessaire de définir un but du jeu, des règles, avec la volonté de s'amuser.
 
-Cet _ice breaker_ a été créé et réalisé par Mourdjen Bari. Il nécéssite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toute forme, plateau...). 
+Cet _ice breaker_ a été créé et réalisé par Mourdjen Bari. Il nécessite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toutes formes, plateau...). 
 
 L'objectif : Permet à une petite équipe de créer rapidement un jeu de société afin d'y jouer.
 
@@ -127,11 +125,11 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 ### Exemple pendant une plénière
 
 **De 10h à 11h** :
-- Le **groupe A** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe A** est le groupe de défis qui *pitche*. Ils pourront présenter leur défi 4 fois.
 - Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
 **De 11h à 12h** : Nous inversons les rôles du groupe A et B 
-- Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
+- Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défi 4 fois.
 - Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
 ::: tip Détails des groupes et du planning des rotations
@@ -186,14 +184,14 @@ Groupe B :
 
 ## Rushs
 
-Le _Rush dating_ et le *Rush clinic_ sont 2 ateliers créés par [Hugo Stephan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
+Le _Rush dating_ et le _Rush clinic_ sont 2 ateliers créés par [Hugo Stephan](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/hugo-stephan.html) lors de la session plénière du 10 octobre 2019. 
 
 ### Rush dating
 
 Objectifs :
 
- - Partager ses problématiques de production liées au rush de fin (tech, Dev, biz Dev, lancement, pérennisation, documentation, sécu…)
- - Obtenir des retours de défis qui ont des problématiques similaires histoire de : solutionner, pleurer tous ensemble, maudir la ou les raisons de vos malheurs, inventer des parades, s’entraider
+ - Partager ses problématiques de production liées au rush de fin (tech, Dev, biz Dev, lancement, pérennisation, documentation, sécurité…)
+ - Obtenir des retours de défis qui ont des problématiques similaires histoire de : solutionner, pleurer tous ensemble, maudire la ou les raisons de vos malheurs, inventer des parades, s’entraider
  - Et inversement : la sensation de réciprocité est importante.
 
 Format : 2 phases d’une heure
