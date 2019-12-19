@@ -6,6 +6,11 @@ Cette page décrit les différentes formes d'animations utilisées dans le progr
 
 ## Bulloterie 
 
+::: tip Format
+Pour 5 à 100 personnes 
+Durée : 30min à 1h 
+:::
+
 La Bulloterie est un outil ludique de mise en relation par intérêts et savoir-faire, en groupe affinitaire (à travers des bulles). Elle permet aux EIG, en début de promotion, de se rencontrer et de se découvrir autour du support de l'outil. 
 
 Pour plus d'information voir la [documentation complète sur la Bulloterie](https://movilab.org/wiki/La_Bulloterie)
@@ -22,6 +27,11 @@ Souhaitant conserver une trace tout au long de la promotion, nous avons représe
 ![Résultat de la Bulloterie lors du bootcamp 2019](./images/bulloterie2019.jpg) _Résultat de la Bulloterie au Lab110bis en Février 2019_
 
 ## Stand-up
+
+::: tip Format
+Pour 10 à 60 personnes 
+Durée : 1min par personne ou par projet 
+:::
 
 Le stand-up est une activité mensuelle pour la promotion afin de partager des actualités, l'ambiance, les avancements, les retournements de situation de chaque défi. Nous sommes debout, tous ensemble, en cercle. Le stand-up dure entre 20 et 30 minutes. Chaque défi dispose d'une minute maximum, pour partager ses informations au reste de la promotion. Le stand-up se réalise bien souvent en début de [plénière](animation.md#sessions-plénières) (entre 10h et 10h30). 
 
