@@ -64,7 +64,7 @@ La déclaration d'accessibilité permet de :
 - Définir les dispositifs d'assistance et de contact
 - Mentionner l’appel au Défenseur des droits si nécessaire
 
-::: tip
+::: tip État de conformité 
 Le **% des critères respectés** = Nb **critères respectés** / Nb **critères applicables**
 
 Il faut donc commencer par définir les critères applicables avant de vérifier s'ils sont respectés. Nous pouvons aussi parler de critères valides.
