@@ -83,7 +83,7 @@ Pour cela il faut :
 - tenir tous ensemble le bâton avec un seul doigt 
 - poser le bâton au sol (ça peut être long)
 
-Nous avons dû scotcher plusieurs bâton ensemble afin de tous puissent pouvoir tenir le bâton.
+Vous pouvez aussi scotcher plusieurs bâtons ensemble afin que tous les participants puissent porter le bâton.
 
 Durée : 15min (préparation, explication et pose)
 
