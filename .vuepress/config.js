@@ -19,6 +19,7 @@ sidebar = [
       'serveur',
       'stack',
       'eig-link',
+      'animations-eig',
       'bulloterie',
       'experience-parcours-eig',
     ]
