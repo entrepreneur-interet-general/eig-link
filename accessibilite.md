@@ -18,7 +18,7 @@ RGAA signifie Référentiel Général d'Amélioration de l'Accessibilité. Ce r�
 
 Le Référentiel Général d'Amélioration de l'Accessibilité (RGAA) est un document initialement pensé pour tester votre site ou service numérique a posteriori. C'est à dire lorsque celui-ci est finalisé. 
 
-Les règles et principes pour l'accessibilité des contenus web, qui sont proposées à travers ce référentiel, reposent sur les [WCAG 2.0 (Règles pour l'accessibilité des contenus Web du W3C)](https://www.w3.org/Translations/WCAG20-fr/), rédigées par la [WAI](https://www.w3.org/WAI/) initié en 1997.
+Les règles et principes pour l'accessibilité des contenus web, qui sont proposés à travers ce référentiel, reposent sur les [WCAG 2.0 (Règles pour l'accessibilité des contenus Web du W3C)](https://www.w3.org/Translations/WCAG20-fr/), rédigées par la [WAI](https://www.w3.org/WAI/) initié en 1997.
 
 ::: tip Changement de nom du Reférentiel Général entre la version 3 et 4
 RGA.A. version 3 : Accessibilité pour les Administrations
@@ -137,9 +137,9 @@ Télécharger l'[assistant RGAA (pour Chrome)](https://chrome.google.com/webstor
 
 ### Checklist Pidila
 
-La Checklist Pidila regroupe les critères des différents référentiels et bonnes pratiques du web à commencer par le Référentiel général d’amélioration de l’accessibilité (RGAA), mais aussi les critères du Cerfa numérique, de la Charte internet de l'État, du Référentiel général d'interopérabilité (RGI), des bonnes pratiques Opquast…
+La Checklist Pidila regroupe les critères des différents référentiels et bonnes pratiques du web à commencer par le RGAA, mais aussi les critères du Cerfa numérique, de la Charte internet de l'État, du Référentiel général d'interopérabilité (RGI), des bonnes pratiques Opquast…
 
-C'est l'outil de travail des équipes de la DILA (en charge du site web [service-public.fr](service-public.fr)) pour gérer la qualité de ses sites internet.
+C'est un outil de travail des équipes de la DILA (en charge de [service-public.fr](service-public.fr)) pour gérer la qualité de ses sites internet.
 
 Cette liste dispose d'un moteur de recherche et peut également être filtrée par profil, référentiel ou thématique.
 
