@@ -139,7 +139,7 @@ Télécharger l'[assistant RGAA (pour Chrome)](https://chrome.google.com/webstor
 
 La Checklist Pidila regroupe les critères des différents référentiels et bonnes pratiques du web à commencer par le RGAA, mais aussi les critères du Cerfa numérique, de la Charte internet de l'État, du Référentiel général d'interopérabilité (RGI), des bonnes pratiques Opquast…
 
-C'est un outil de travail des équipes de la DILA (en charge de [service-public.fr](service-public.fr)) pour gérer la qualité de ses sites internet.
+C'est un outil de travail des équipes de la DILA (en charge de [service-public.fr](https://service-public.fr)) pour gérer la qualité de ses sites internet.
 
 Cette liste dispose d'un moteur de recherche et peut également être filtrée par profil, référentiel ou thématique.
 
