@@ -48,7 +48,7 @@ Nous n'avons pas trouvé d'outils se rapprochant de notre besoin sur le marché 
 
 ## Formats d'animations
 
-Les formats d'animations proposés par le programme, lors de bootcamp, de session plénière ou de séminaire, ont été documentés [dans une page dédiée](animations-eig.md).
+Les formats d'animations proposés par le programme, lors de bootcamps, de sessions plénières ou de séminaires, ont été documentés [dans une page dédiée](animations-eig.md).
 
 ## Outils de communication
 Pour accompagner les défis, partager les nouvelles du programme et dialoguer entre collègues, nous utilisons plusieurs outils de communication décrits [dans une page dédiée](communication-interne.md).

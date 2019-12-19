@@ -362,7 +362,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 | 16:00 | 17:30 | 1h00 | Navette de retour |
 
 ::: tip Animation
-Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
+Ce séminaire a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert) et [pair-à-pair](animations-eig.md#pair-à-pair-ou-«-peer-learning-»).
 :::
 
 ### Session mentors | 18 avril
@@ -418,7 +418,7 @@ Ce seminaire a été principalement animé en [forum ouvert](animations-eig.md#f
 - 18h00 - 18h30 : Conclusion de la journée
 
 ::: tip Animation
-Cette session plénière a été principalement animé en [forum ouvert](animations-eig.md#forum-ouvert).
+Cette session plénière a été principalement animée en [forum ouvert](animations-eig.md#forum-ouvert).
 :::
 
 ### Session EIG | 14 mars

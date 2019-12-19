@@ -31,11 +31,11 @@ Nous avons repris l'outil stand-up [BetaGouv](https://github.com/betagouv/beta.g
 
 ## Forum Ouvert
 
-Le **Forum Ouvert** est un moyen de partager des compétences ou des connaissances, autour de sujets ou de thèmes dans lequel les défis sont abordés. Lors des sessions plénières passées, un forum ouvert a souvent été proposé en deux temps l'après-midi. 
+Le **Forum Ouvert** est un moyen de partager des compétences ou des connaissances, autour de sujets ou de thèmes dans lesquels les défis sont abordés. Lors des sessions plénières passées, un forum ouvert a souvent été proposé en deux temps l'après-midi. 
 
 Concrètement, il est demandé aux EIG les thèmes ou les sujets qu'ils souhaitent proposer sur la thématique du jour. Les EIG proposant un sujet le font savoir au reste de la promotion. Une fois les propositions terminées, les EIG se répartissent dans les différents espaces du tiers-lieu selon leurs intérêts communs. 
 
-Par exemple, si un Forum Ouvert porte sur l'accessibilité. Des personnes peuvent proposer dans l'assemblée : une présentation accélérée du RGAA, un design review des maquettes ou du prototype déjà réalisés, une présentation pour découvrir le Facile à lire et à comprendre (FALC), un retour d'expérience sur des démonstrations réalisées par des non-voyants, expliquer les formalités pour obtenir le label [e-accessible](https://references.modernisation.gouv.fr/e-accessible) sur son site. Ces personnes associées à ses propositions sont mises en évidence afin que l'assemblée puisse bien les identifier. Ensuite, les personnes de l'assemblée peuvent suivre ou s'inscrire auprès de la personne ayant proposé son sujet. 
+Prenons comme exemple un Forum Ouvert sur le thème de l'accessibilité. Des personnes peuvent proposer dans l'assemblée : une présentation accélérée du RGAA, un design review des maquettes ou du prototype déjà réalisés, une présentation pour découvrir le Facile à lire et à comprendre (FALC), un retour d'expérience sur des démonstrations réalisées par des non-voyants, expliquer les formalités pour obtenir le label [e-accessible](https://references.modernisation.gouv.fr/e-accessible) sur son site. Ces personnes associées à ses propositions sont mises en évidence afin que l'assemblée puisse bien les identifier. Ensuite, les personnes de l'assemblée peuvent suivre ou s'inscrire auprès de la personne ayant proposé son sujet. 
 
 Pour en savoir plus, voir l'[article Wikipédia sur le Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert).
 
@@ -68,7 +68,7 @@ Explications et contraintes :
 
 Le challenge est de faire le comptage le plus élevé possible au regard des équipes adverses.
 
-C'est un exercice sous forte contrainte qui demande l'attention auprès de l'ensemble des personnes présentes. Car en silence, il n'est pas évident d'énoncer un chiffre, sans couper la parole.
+C'est un exercice sous forte contrainte qui demande l'attention de l'ensemble des personnes présentes. Car en silence, il n'est pas évident d'énoncer un chiffre, sans couper la parole.
 
 Durée : 15min
 
@@ -77,7 +77,7 @@ Durée : 15min
 L'idée est simple : poser un bâton au sol tenu par des participants avec leur doigt. 
 
 Pour cela il faut :
-- mettre les personnes deux par deux en file indienne, comme si l'on souhaitais faire un couloir
+- mettre les personnes deux par deux en file indienne, comme si l'on souhaitait faire un couloir
 - poser le bâton dans ce couloir
 - prendre le bâton et le lever tous ensemble
 - tenir tous ensemble le bâton avec un seul doigt 
@@ -95,13 +95,13 @@ Une _game jam_ est une forme de [hackathon](https://fr.wikipedia.org/wiki/Hackat
 
 Cet _ice breaker_ a été créé et réalisé par Mourdjen Bari. Il nécessite beaucoup de matériel de jeux de société (cartes, dés, pièces, pions de toutes formes, plateau...). 
 
-L'objectif : Permet à une petite équipe de créer rapidement un jeu de société afin d'y jouer.
+L'objectif : permettre à une petite équipe de créer rapidement un jeu de société afin d'y jouer.
 
 Durée : 1h (30 minutes pour la préparation + 30 minutes de jeu)
 
 ## « Speed pitching » 
 
-L'animation « speed pitching » est un atelier en collectif pour tous les défis EIG. Le _speed pitching_ permet de rencontrer rapidement plusieurs défis, individuellement, comme un *[speed dating](https://fr.wikipedia.org/wiki/Speed_dating)*. Il a été aussi nommé "speed dating défis". L'objectif du _speed pitching_ est de présenter, rapidement et à plusieurs reprises, son défi (problématique, solution, impact) sous la forme d'un *pitch*. Le *pitch* est une présentation courte d'un produit ou d'un projet, de manière convaincante et engagé, souvent dans un but promotionnel.
+L'animation « speed pitching » est un atelier en collectif pour tous les défis EIG. Le _speed pitching_ permet de rencontrer rapidement plusieurs défis, individuellement, comme un *[speed dating](https://fr.wikipedia.org/wiki/Speed_dating)*. Il a été aussi nommé "speed dating défis". L'objectif du _speed pitching_ est de présenter, rapidement et à plusieurs reprises, son défi (problématique, solution, impact) sous la forme d'un *pitch*. Le *pitch* est une présentation courte d'un produit ou d'un projet, de manière convaincante et engagée, souvent dans un but promotionnel.
 
 Cet atelier est une création de [Jean-Baptiste Le Dévéhat (EIG Link 2019)](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/jean-baptiste-le-devehat.html).
 
@@ -213,10 +213,9 @@ Format :
 
  - Durée : 1 heures 30
  - Chaque porteur de problématique accueille jusqu'à 5 personnes pour 1 heure d’échanges ;
- - Le format permet aux défis qui passent les vidéos de s’éclipser et de s’ajouter plus facilement dans les groupes."			
+ - Le format permet aux défis qui passent les vidéos de s’éclipser et de s’ajouter plus facilement dans les groupes.	
 
- Ce mode d'animation se rapproche d'un forum ouvert. Mais il a pour vocation a prévoir les atéliers et clinique en amont de l'évènement.	
-
+ Ce mode d'animation se rapproche d'un Forum Ouvert. Mais il a pour vocation de prévoir les ateliers et clinique en amont de l'évènement.	
 
 
 
