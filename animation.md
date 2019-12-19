@@ -46,6 +46,10 @@ L'équipe du programme EIG est en capacité de suivre l'avancement de chaque dé
 
 Nous n'avons pas trouvé d'outils se rapprochant de notre besoin sur le marché et nous avons évalué que le développement d'un tel outil prendrait quelques jours. C'est ainsi que nous avons créé [Bulletins](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html), notre outil de rétrospective hebdomadaire, disponible en tant que logiciel open source. En interne, cet outil s'appelle « Ma Semaine ».
 
+## Formats d'animations
+
+Les formats d'animations proposés par le programme, lors de bootcamps, de sessions plénières ou de séminaires, ont été documentés [dans une page dédiée](animations-eig.md).
+
 ## Outils de communication
 Pour accompagner les défis, partager les nouvelles du programme et dialoguer entre collègues, nous utilisons plusieurs outils de communication décrits [dans une page dédiée](communication-interne.md).
 
