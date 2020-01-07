@@ -37,6 +37,7 @@ sidebar = [
       'modele-note-perennisation',
       'checklist_depart',
       'design',
+      'accessibilite',
     ]
   },
 ]
