@@ -31,6 +31,7 @@ sidebar = [
       'opensource',
       'opensource-licences',
       'opendata',
+      'algorithmes',
       'securite',
       'mesure-impact',
       'accueil-eig',
