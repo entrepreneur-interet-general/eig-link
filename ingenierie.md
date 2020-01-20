@@ -15,8 +15,9 @@ Le programme EIG comprend deux principaux postes de dépenses : la rémunératio
 
 _Important : les salaires des membres de l'équipe ne sont pas comptabilisés dans ce budget de fonctionnement._
 
-::: tip **Ressources** :book: 
-Les données de financement du programme sont en open data sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/#_). :::
+::: tip Ressources &#x1F4D6;  
+Les données de financement du programme sont en open data sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/#_). 
+:::
 
 ### Modes de financement 
 
