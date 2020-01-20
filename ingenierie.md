@@ -15,7 +15,7 @@ Le programme EIG comprend deux principaux postes de dépenses : la rémunératio
 
 _Important : les salaires des membres de l'équipe ne sont pas comptabilisés dans ce budget de fonctionnement._
 
-:::info
+::: info
 **Ressources** :book: 
 Les données de financement du programme sont en open data sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/programme-entrepreneurs-dinteret-general/#_).
 :::
@@ -32,9 +32,9 @@ Un financement en Projet de loi de finances a été obtenu pour la 4e promotion.
 
 Les modalités de transmission des fonds dépendent de la nature des fonds à transmettre. Le cahier des charges de la quatrième promotion détaille le mécanisme mis en place dans le cadre d'un transfert de crédits en titre 2 (administrations centrales).
 
-:::info
+::: info
 **Ressources** :book:
-* [Cahier des charges de la promotion 4](https://entrepreneur-interet-general.etalab.gouv.fr/docs/AAPEIG4_Cahierdescharges.pdf).
+* [Cahier des charges de la promotion 4](https://entrepreneur-interet-general.etalab.gouv.fr/docs/AAPEIG4_Cahierdescharges.pdf).  
 :::
 
 ## Constituer une promotion
@@ -53,7 +53,7 @@ Les projets sont déposés via un formulaire établi sur demarches-simplifiees.f
 
 L'appel à projets est ouvert pendant un peu plus d'un mois. 
 
-:::success
+::: success
 **Conseil** :bulb: 
 Bien prendre en compte les vacances scolaires dans les dates d'appel à projets, surtout si celui-ci dure seulement un peu plus d'un mois.
 :::
@@ -64,7 +64,7 @@ Les critères d'éligibilité et de sélection sont détaillés dans le cahier d
 
 Ils ont été établis en fonction des objectifs du programme, ainsi qu'à partir des observations des facteurs de réussite des défis des premières promotions.
 
-:::info
+::: info
 **Ressources** :book: 
 * [Cahier des charges de l'appel à projets de la promotion 4](https://entrepreneur-interet-general.etalab.gouv.fr/docs/AAPEIG4_Cahierdescharges.pdf) (voir p.9 pour les critères de sélection).
 * Article de blog ["Appel à projets EIG 3 - Les 6 facteurs clés de réussite d'un défi EIG"](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html)
@@ -87,7 +87,7 @@ Nous accompagnons les équipes EIG de différentes manières :
 * La mise à disposition d'un tiers-lieu, pour se retrouver ensemble en dehors des administrations d'accueil
 * Un accompagnement individualisé par défi, en fonction des problématiques rencontrées (techniques, stratégiques, juridiques...)
 
-:::info
+::: info
 **Ressources** :book: 
 * Page [rituels d'accompagnement](https://doc.eig-forever.org/animation.html) de la documentation, qui détaille les rituels
 * Page [formats d'animation](https://doc.eig-forever.org/animations-eig.html#bulloterie) qui documente les formats testés pendant les sessions plénières
@@ -106,7 +106,7 @@ Pendant la promotion EIG 3, 3 défis ont bénéficié d'un appui ponctuel (5 - 1
 
 Nous consolidons des bonnes pratiques et mettons des liens vers des ressources sur notre [site de documentation](https://doc.eig-forever.org/opensource.html). Ces ressources sont rédigées par des membres de l'équipe de coordination du programme et peuvent être complétées par n'importe qui. 
 
-:::info
+::: info
 **Ressources** :book: 
 * [Article de blog sur la documentation du programme](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/09/12/documentation-programme.html) 
 :::
@@ -117,7 +117,7 @@ Le programme dispose d'un Slack où se retrouvent les EIG (anciens et actuels).
 
 La promotion en cours partage également des informations de manière hebdomadaire, à travers un outil open source développé spécialement pour le programme : Bulletins.
 
-:::info
+::: info
 **Ressources** :book:
 * [Documentation technique de l'outil Bulletins](https://bulletins.eig-forever.org/)
 * [Article de blog sur l'outil Bulletins](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)
@@ -150,7 +150,7 @@ Le programme EIG a 2 objectifs :
 
 Ces modes d'évaluation formels sont complétés par des **ateliers de retours sur le programme**, organisés régulièrement pendant l'année.
 
-:::info
+::: info
 **Ressources** :book: [EN CONSTRUCTION]
 * [Article de blog sur l'évaluation de la promotion 3](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2020/01/17/bilan-eig3.html)
 * Article de blog ["Mesurer l'impact du programme EIG" (juin 2019)](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/06/12/demarche-mesure-impact-eig.html)
@@ -167,7 +167,7 @@ Lors de la promotion 3, un partenariat avec Clément Mabi, enseignant-chercheur 
 
 ## Communiquer sur le programme et les défis [EN CONSTRUCTION]
 
-:::info
+::: info
 **Ressources** :book: 
 * [Page sur les bonnes pratiques de communication externe, sur le site de documentation](https://doc.eig-forever.org/communication-externe.html#les-outils-de-communication-externe-du-programme)
 :::
@@ -184,7 +184,7 @@ L'événement est composé de 2 séquences :
 * Des stands de démo parmi lesquels les participants à l'événement peuvent librement déambuler
 * Une séquence en "plénière" : prises de parole institutionnelles, intervention de l'équipe de coordination du programme, table-ronde avec des invités...
 
-:::warning
+::: warning
 **Info** :round_pushpin: 
 Un format différent a été adopté pour la promotion expérimentale des Designers d'Intérêt Général, car les défis ne finissent pas tous au même moment : des meetups sont organisés tous les deux mois environ, au rythme où les défis finissent.
 :::
@@ -197,7 +197,7 @@ A cette occasion, plusieurs contenus sont également produits :
 
 Ces contenus peuvent ensuite être réutilisés par les administrations pour promouvoir leurs défis. 
 
-:::info
+::: info
 **Ressources** :book: [EN CONSTRUCTION]
 * [Vidéos de restitution de la promotion 2](https://www.dailymotion.com/playlist/x6bp3l)
 * [Vidéos de restitution de la promotion 3](https://www.dailymotion.com/playlist/x6j4hc)
