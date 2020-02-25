@@ -1,3 +1,12 @@
+
+# 2020
+
+## Presse
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2020-02-25 | Challenges | [LexImpact, le simulateur fiscal qui guide les parlementaires](https://www.challenges.fr/economie/bapteme-du-feu-pour-leximpact-simulateur-fiscal-qui-aide-le-parlement-a-evaluer-ses-reformes_700325) | Public | LexImpact |
+
 # 2019
 
 ## Presse
