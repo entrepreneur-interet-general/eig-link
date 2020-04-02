@@ -1,3 +1,13 @@
+# 2020
+
+## Presse
+
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2020-03-18 | Horizons Publics | [L’approche ux design dans les services publics numériques : où en sommes-nous aujourd’hui ?](https://www.horizonspublics.fr/numerique/lapproche-ux-design-dans-les-services-publics-numeriques-ou-en-sommes-nous-aujourdhui) | Payant | EIG |
+
+
 # 2019
 
 ## Presse
