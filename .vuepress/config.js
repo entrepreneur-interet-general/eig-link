@@ -1,6 +1,6 @@
 sidebar = [
   {
-    title: 'Programme EIG',
+    title: 'Déroulement du programme',
     collapsable: true,
     children: [
       'accompagnement',
@@ -39,6 +39,13 @@ sidebar = [
       'checklist_depart',
       'design',
       'accessibilite',
+    ]
+  },
+  {
+    title: 'Organisation du programme',
+    collapsable: true,
+    children: [
+      'parametrage-liste-diffusion',
     ]
   },
 ]
