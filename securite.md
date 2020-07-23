@@ -1,17 +1,3 @@
-*[DoS]: Denial of Service
-*[DICP]: Indicateurs de sécurité des systèmes d'information : Disponibilité, Intégrité, Confidentialité, Preuve.
-*[analyse des risques]: Sous-processus de la gestion des risques visant à identifier, analyser et à évaluer les risques.
-*[besoin de sécurité]: Définition précise et non ambiguë du niveau d'exigences opérationnelles relatives à une valeur métier pour un critère de sécurité donné (disponibilité, confidentialité, intégrité…).
-*[valeur métier]: Information ou processus jugé comme important pour l'organisme. On appréciera ses besoins de sécurité mais pas ses vulnérabilités.
-*[événement redouté]: Situation crainte par l'organisme. Il s'exprime par la combinaison des sources de menaces susceptibles d'en être à l'origine, d'une valeur métier, du besoin de sécurité concerné et des impacts potentiels.
-*[homologation de sécurité]: Validation par une autorité dite d’homologation, que le niveau de sécurité est conforme aux attentes.
-*[impact]: Conséquence directe ou indirecte de l'insatisfaction des besoins de sécurité sur l'organisme et/ou sur son environnement.
-*[mesure de sécurité]: Moyen de traiter un risque de sécurité de l'information.
-*[risques résiduels]: Risque subsistant après le traitement du risque.
-*[scénario de menaces]: Scénario décrivant des modes opératoires. Il combine les sources de menaces susceptibles d'en être à l'origine, un composant du SI, un besoin de sécurité, des menaces et les vulnérabilités exploitables pour qu'elles se réalisent.
-*[source de menace]: Chose ou personne à l'origine de menaces.
-*[vulnérabilité]: Caractéristique d'un composant du SI qui peut constituer une faiblesse ou une faille au regard de la sécurité des systèmes d'information.
-
 # Sécurité des produits
 
 Les projets EIG sont le plus souvent exposés à un niveau de risque faible lors de la mise en service initiale : il s'agit en effet de valider la pertinence du produit en le testant auprès d'un petit nombre d'usagers, puis de procéder à un déploiement par vagues successives.
@@ -141,3 +127,19 @@ Cette page est inspirée des sources suivantes que nous recommandons pour aborde
 
 - [Politique de sécurité de l'Incubateur de Services Numériques de l'État français - beta.gouv.fr](https://github.com/betagouv/beta.ssi)
 - [Agilité et sécurité numériques - ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
+
+
+## Glossaire :
+*[DoS]: Denial of Service
+*[DICP]: Indicateurs de sécurité des systèmes d'information : Disponibilité, Intégrité, Confidentialité, Preuve.
+*[analyse des risques]: Sous-processus de la gestion des risques visant à identifier, analyser et à évaluer les risques.
+*[besoin de sécurité]: Définition précise et non ambiguë du niveau d'exigences opérationnelles relatives à une valeur métier pour un critère de sécurité donné (disponibilité, confidentialité, intégrité…).
+*[valeur métier]: Information ou processus jugé comme important pour l'organisme. On appréciera ses besoins de sécurité mais pas ses vulnérabilités.
+*[événement redouté]: Situation crainte par l'organisme. Il s'exprime par la combinaison des sources de menaces susceptibles d'en être à l'origine, d'une valeur métier, du besoin de sécurité concerné et des impacts potentiels.
+*[homologation de sécurité]: Validation par une autorité dite d’homologation, que le niveau de sécurité est conforme aux attentes.
+*[impact]: Conséquence directe ou indirecte de l'insatisfaction des besoins de sécurité sur l'organisme et/ou sur son environnement.
+*[mesure de sécurité]: Moyen de traiter un risque de sécurité de l'information.
+*[risques résiduels]: Risque subsistant après le traitement du risque.
+*[scénario de menaces]: Scénario décrivant des modes opératoires. Il combine les sources de menaces susceptibles d'en être à l'origine, un composant du SI, un besoin de sécurité, des menaces et les vulnérabilités exploitables pour qu'elles se réalisent.
+*[source de menace]: Chose ou personne à l'origine de menaces.
+*[vulnérabilité]: Caractéristique d'un composant du SI qui peut constituer une faiblesse ou une faille au regard de la sécurité des systèmes d'information.

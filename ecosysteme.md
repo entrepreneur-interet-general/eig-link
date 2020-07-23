@@ -1,4 +1,4 @@
-# Écosystème DINSIC et Etalab
+# Écosystème DINUM et Etalab
 
 Ce document synthétise les différentes ressources de la DINUM et d'Etalab.
 

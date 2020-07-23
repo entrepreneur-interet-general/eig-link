@@ -1,17 +1,6 @@
-# Références, ressources et pratiques du design dans l'administration
+# Ressources Design
 
-Ce document a pour vocation de guider les designers et les mentors ayant des designers dans leur défi dans la publication de leur production et la gestion de leur projet.
-
-## Références numériques de l'État
-
-En tant que designer, deux documents de référence du SI de l'État concernent directement votre travail : 
-
-- La **[Charte Internet de l'état](http://references.modernisation.gouv.fr/charte-internet-de-letat)**, publiée en Février 2012, définit les obligations auxquelles doivent se conformer les sites web et les services en ligne des administrations centrales et des services déconcentrés de l'État (voir la [circulaire](http://circulaire.legifrance.gouv.fr/pdf/2012/02/cir_34663.pdf)). Ce document a pour principes de garantir de la cohérence et de la lisibilité entre les services numérique de l'Etat. Malheureusement, ce document est devenu obsolète avec les années. Par exemple, il ne prend pas en considération la responsivité des écrans et impose la compatibilité avec IE6.
-- Le **[Référentiel général d’accessibilité pour les administrations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)** aussi nommé **RGAA**, est mis à jour régulièrement, et découle de l'obligation d'accessibilité imposée par l'[article 47 de la loi du 11 février 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257) pour « l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ». 
-
-::: tip 
-Poru plus d'information voir la page dédiée à l'**[accessibilité](accessibilite.md)**
-:::
+[[toc]]
 
 ## Ressources design de l'Etat
 

@@ -4,7 +4,7 @@ Le **programme d'accompagnement** comprend des sessions plénières mensuelles a
 Les sessions d'accompagnement se tiennent au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/nos-actions/le-lieu-de-la-transformation-publique).
 
 Un agenda partagé est visible et mis à jour : 
-_A définir_
+_A venir_
 
 [[toc]]
 
