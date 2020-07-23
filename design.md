@@ -7,7 +7,11 @@ Ce document a pour vocation de guider les designers et les mentors ayant des des
 En tant que designer, deux documents de référence du SI de l'État concernent directement votre travail : 
 
 - La **[Charte Internet de l'état](http://references.modernisation.gouv.fr/charte-internet-de-letat)**, publiée en Février 2012, définit les obligations auxquelles doivent se conformer les sites web et les services en ligne des administrations centrales et des services déconcentrés de l'État (voir la [circulaire](http://circulaire.legifrance.gouv.fr/pdf/2012/02/cir_34663.pdf)). Ce document a pour principes de garantir de la cohérence et de la lisibilité entre les services numérique de l'Etat. Malheureusement, ce document est devenu obsolète avec les années. Par exemple, il ne prend pas en considération la responsivité des écrans et impose la compatibilité avec IE6.
-- Le **[Référentiel général d’accessibilité pour les administrations](http://references.modernisation.gouv.fr/rgaa-accessibilite/)** aussi nommé **RGAA**, est mis à jour régulièrement, et découle de l'obligation d'accessibilité imposée par l'[article 47 de la loi du 11 février 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257) pour « l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ». Il est composé d'une introduction qui définit la problématique et les enjeux de l'accessibilité numérique, d'un « Guide d'accompagnement » et d'un « [Référentiel technique](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html) », découpé entre 6 parties.
+- Le **[Référentiel général d’accessibilité pour les administrations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)** aussi nommé **RGAA**, est mis à jour régulièrement, et découle de l'obligation d'accessibilité imposée par l'[article 47 de la loi du 11 février 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257) pour « l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ». 
+
+::: tip 
+Poru plus d'information voir la page dédiée à l'**[accessibilité](accessibilite.md)**
+:::
 
 ## Ressources design de l'Etat
 
@@ -26,7 +30,7 @@ En terme d'outils de conception d'interface utilisateur, les principaux outils u
 - [Figma](https://www.figma.com/) est une application web qui offre l'avantage d'être disponible en ligne, combine les fonctionnalités de Sketch ainsi que d'InVision et Zeplin (version gratuite à petite échelle).
 - [Adobe XD](https://www.adobe.com/fr/products/xd.html) est l'outil historique et complet du designer comportant également une version gratuite à périmètre fonctionnel réduit.
 
-Ces principaux outils sont cités également pour les mentors afin [préparer le poste de travail des EIG](./accueil-eig.md).
+Ces principaux outils sont cités également pour les mentors afin de [préparer le poste de travail des EIG](./accueil-eig.md).
 
 ## Communauté & ressources communautaires 
 

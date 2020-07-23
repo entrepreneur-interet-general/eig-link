@@ -5,7 +5,6 @@ sidebar = [
     children: [
       'accompagnement',
       'animation',
-      'contributions',
     ]
   },
   {
@@ -20,7 +19,9 @@ sidebar = [
       'serveur',
       'stack',
       'eig-link',
+      'animations-eig',
       'bulloterie',
+      'experience-parcours-eig',
     ]
   },
   {
@@ -30,11 +31,14 @@ sidebar = [
       'opensource',
       'opensource-licences',
       'opendata',
+      'algorithmes',
       'securite',
       'mesure-impact',
       'accueil-eig',
       'modele-note-perennisation',
+      'checklist_depart',
       'design',
+      'accessibilite',
     ]
   },
 ]

@@ -1,6 +1,6 @@
 # Écosystème DINSIC et Etalab
 
-Ce document synthétise les différentes ressources de la DINSIC et d'Etalab (présentées lors du bootcamp EIG 3, en février 2019). 
+Ce document synthétise les différentes ressources de la DINSIC et d'Etalab et reprend les présentations du bootcamp.
 
 [[toc]]
 
