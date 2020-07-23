@@ -1,10 +1,10 @@
-# Écosystème DINSIC et Etalab
+# L'écosystème DINUM et Etalab
 
-Ce document synthétise les différentes ressources de la DINSIC et d'Etalab (présentées lors du bootcamp EIG 3, en février 2019). 
+Ce document synthétise les différentes ressources de la DINUM et d'Etalab.
 
 [[toc]]
 
-## Équipes Etalab 
+## Les équipes Etalab 
 
 ### data.gouv.fr
 La plateforme [data.gouv.fr](https://www.data.gouv.fr/) est la plateforme nationale ouverte des données publiques françaises.
@@ -43,7 +43,7 @@ Dans le cadre de la [Loi pour une République Numérique](https://www.legifrance
 ### Cadre légal de l'ouverture et de la circulation des données publiques
 
 Il existe différentes catégories de documents administratifs, dont celle des documents « communicables à tous » qui nous intéresse particulièrement.     
-Il est possible que vous rencontriez des problématiques juridiques au cours de la réalisation de vos défis (rédactions de CGU, ouverture de nom de domaines, questions autour des données…). Si vous rencontrez un problème de nature juridique au sein de vos administrations, notamment (mais pas limité à) la gouvernance des données, adressez-vous en premier lieu à votre direction juridique. Dans un second temps, vous pouvez vous adresser à la direction juridique de la DINSIC (en passant par l’équipe EIG à Etalab).  
+Il est possible que vous rencontriez des problématiques juridiques au cours de la réalisation de vos défis (rédactions de CGU, ouverture de nom de domaines, questions autour des données…). Si vous rencontrez un problème de nature juridique au sein de vos administrations, notamment (mais pas limité à) la gouvernance des données, adressez-vous en premier lieu à votre direction juridique. Dans un second temps, vous pouvez vous adresser à la direction juridique de la DINUM (en passant par l’équipe EIG à Etalab).  
 Les autres institutions en lien avec les données :
 -	Pour l’accès à des documents publics, se rapprocher de la [CADA](https://www.cada.fr/) et de la [publication de ses avis](https://cada.data.gouv.fr/) pour voir si le type de document a fait l’objet d’une saisie. 
 -	La thématique des données personnelles est gérée par la [CNIL](https://www.cnil.fr/) 
@@ -79,7 +79,7 @@ De concert avec les acteurs de la Civic Tech, elle a construit et maintient une 
 
 **Contact :** amelie.banzet@modernisation.gouv.fr
 
-## Produits & méthodes Etalab - DINSIC
+## Produits & méthodes Etalab - DINUM
 
 ### beta.gouv.fr
 L’incubateur de services publics numériques [beta.gouv.fr](https://beta.gouv.fr/) a pour mission de créer des solutions numériques à partir d’irritants constatés sur le terrain par des agents publics, afin d’améliorer la qualité du service public rendu. C’est en quelque sorte un dispositif miroir du programme EIG, qui sort les agents publics des administrations là où le programme EIG permet à des professionnels extérieurs d'intégrer l'administration.
@@ -91,7 +91,7 @@ La [communauté](https://beta.gouv.fr/communaute/) de beta.gouv.fr compte des pr
 **Contact :** contact@beta.gouv.fr ; sur Slack @Ishan
 
 ### api.gouv.fr
-Différentes API sont développées au sein de la DINSIC pour simplifier et fiabiliser l’accès à certains jeux de données publics thématiques. Le catalogue des API est disponible [ici](https://api.gouv.fr/). 
+Différentes API sont développées au sein de la DINUM pour simplifier et fiabiliser l’accès à certains jeux de données publics thématiques. Le catalogue des API est disponible [ici](https://api.gouv.fr/). 
 
 **Ressources :** [documentation sur les outils d'exposition de données publiques](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#outils-dexposition-api-de-donn%C3%A9es-publiques)
 
@@ -117,21 +117,6 @@ Le service d’identité France Connect permet aux utilisateurs d’accéder plu
 
 **Contact :** florian.delezenne@beta.gouv.fr
 
-## Thématiques transverses 
-
-### Qualité des services en ligne
-Le service Qualité des services en ligne de la DINSIC propose différents outils pour améliorer l’accessibilité des sites internet en contact avec du public. 
-
-**Ce que vous pouvez faire avec le service Qualité des services en ligne :**
--	S’inspirer ou utiliser les travaux du [Pidila](https://pidila.gitlab.io/), dont une checklist qui permet d’anticiper la qualité d’un site web en amont du projet, et une bibliothèque de composants HTML/CSS/JS compatibles avec les exigences de qualité et d’accessibilité.
--	Utiliser le référentiel [RGAA](https://references.modernisation.gouv.fr/rgaa-accessibilite/). 
--	L’équipe peut également mobiliser un vivier d’utilisateurs en situation de handicap afin de tester des outils et des produits. 
--	Un projet en commun autour d’un lexique a été envisagé.
-
-**Présentation :** https://speakerdeck.com/eig2018/presentation-qualite-des-services-en-ligne 
-
-**Contact :** benedicte.roullier@modernisation.gouv.fr
-
 ## Open source / logiciel libre
 Pour toutes les questions liées aux logiciels libres et à l'open source, vous pouvez contacter le référent logiciel libre d’Etalab.
 
@@ -141,7 +126,7 @@ Retrouvez sa présentation lors du bootcamp [ici](https://speakerdeck.com/blueha
 
 ## Algorithmes publics
 La question des algorithmes publics et de l’éthique est source de réflexion au sein d’Etalab.  
-Dans ce cadre, Simon Chignard mène des travaux avec la [FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html) ([un atelier a été organisé avec les EIG l’année dernière sur ce thème](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html) et étudie différents algorithmes publics, comme [La Bonne Boîte](https://labonneboite.pole-emploi.fr/). Un partenariat a également été établi entre la DINSIC et la [chaire Innovation publique de l’ENA/ENSCI](https://www.ena.fr/L-ENA-se-presente/L-ENA-dans-l-actualite/Les-actualites-de-l-Ecole/Chaire-innovation-publique-ENA-ENSCI).
+Dans ce cadre, Simon Chignard mène des travaux avec la [FING](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html) ([un atelier a été organisé avec les EIG l’année dernière sur ce thème](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/10/15/fing-algo.html) et étudie différents algorithmes publics, comme [La Bonne Boîte](https://labonneboite.pole-emploi.fr/). Un partenariat a également été établi entre la DINUM et la [chaire Innovation publique de l’ENA/ENSCI](https://www.ena.fr/L-ENA-se-presente/L-ENA-dans-l-actualite/Les-actualites-de-l-Ecole/Chaire-innovation-publique-ENA-ENSCI).
 
 **Ce que vous pouvez faire dans le cadre du travail d’Etalab sur les algorithmes publics :**
 - Un groupe de travail impliquant certains défis EIG 3 où les enjeux éthiques sont apparents (Open Justice, DataJust, Open Chronic et CibNAV) a été lancé en mars. Les autres défis EIG intéressés par un tel suivi peuvent contacter l’équipe EIG à Etalab.
