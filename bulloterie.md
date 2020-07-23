@@ -1,4 +1,4 @@
-# Découvrer et intégrer votre bulloterie en ligne
+# Découvrer et intégrer votre Bulloterie en ligne
 
 > La Bulloterie est un outil ludique de mise en relation par intérêts et savoir-faire, en groupe affinitaire (bulles)
 

@@ -29,23 +29,33 @@ Pour rappel, les EIG participent à trois types d’événements :
 
 ## Liste des "EIG off"
 *(par ordre anti-chronologique)*
+
+> [**Présentation du défi IA Flash**](https://speakerdeck.com/eig2018/ia-flash-etalab-talk)<br/>
+> IA Flash, le 22 octobre à 12h30, à la DINSIC
+
+> [**Présentation du défi CibNav**](http://speakerdeck.com/eig2018)<br/>
+> CibNav, le 29 octobre à 12h30, à la DINSIC
+
+> [**Présentation du défi CartoBio**](http://speakerdeck.com/eig2018)<br/>
+> CartoBio, le 5 novembre à 12h30, à la DINSIC
+
 > [**Implementing an autosuggest module**](https://speakerdeck.com/eig2018/implementing-an-autosuggest-module)<br/>
-> par Armand Giraud le 2 Mai 2019 à 15h au LLL
+> par Armand Giraud le 2 mai 2019 à 15h au LLL
 
 > [**Communication et parties prenantes**](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)<br/>
-> par Nikos Peteinatos le 11 Avril 2019 à 14h30 au LLL
+> par Nikos Peteinatos le 11 avril 2019 à 14h30 au LLL
 
 > [**Anonymisation**](https://speakerdeck.com/eig2018/anonymisation)<br/>
-> par Pierre-Alain Jachiet le 4 Avril 2019 à 12h30 au 20, avenue de Segur
+> par Pierre-Alain Jachiet le 4 avril 2019 à 12h30 au 20, avenue de Segur
 
 > [**Introduction au Traitement Automatique du Langage Naturel**](https://speakerdeck.com/eig2018/introduction-au-traitement-automatique-du-langage-naturel)<br/>
-> par Valentin Barriere le 13 Mars 2019 à 10h30 au LLL
+> par Valentin Barriere le 13 mars 2019 à 10h30 au LLL
 
 > [**Présentation de Docker**](https://speakerdeck.com/eig2018/presentation-docker-par-thierry-razanajao)<br/>
-> par Thierry Razanajao le 6 Mars 2019 à 15h au LLL
+> par Thierry Razanajao le 6 mars 2019 à 15h au LLL
 
 > [**Présentation Apache Airflow Embulk**](https://speakerdeck.com/eig2018/apache-airflow-and-embulk)<br/>
-> par Antoine Augusti le 27 Février 2019 de 15h à 16h au LLL
+> par Antoine Augusti le 27 février 2019 de 15h à 16h au LLL
  
 > [**Présentation d'OpenScraper**](https://github.com/entrepreneur-interet-general/OpenScraper)<br/>
-> par Julien Paris le 20 Février 2019 à 14h au LLL
+> par Julien Paris le 20 février 2019 à 14h au LLL
