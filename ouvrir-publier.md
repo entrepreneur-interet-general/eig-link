@@ -42,17 +42,14 @@ parfois appelées « licences open source ».
 Votre code étant publié par une administration, il doit l'être sous
 une licence figurant dans [[https://www.data.gouv.fr/fr/licences][cette liste]].  Parmi ces licences figure
 celle publiée par Etalab, couvrant aussi bien les logiciels que les
-contenus autres, la [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][Licence Ouverte 2.0]] ([[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][pdf]]).
+contenus autres, la [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][Licence Ouverte 2.0]]([[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][pdf]]).
 
 ## Choisir une licence libre
 
 *Vous contribuez à un logiciel libre existant ?* La loi pour une
 République Numérique autorise les agents publics à contribuer à des
 logiciels libres existant.  Si vous êtes dans ce cas, veuillez vous
-référer à la [[https://disic.github.io/politique-de-contribution-open-source/*][Politique de Contribution Open source]], qui vient d’être
-publiée en version 1.  Les administrations sont en train de se
-familiariser avec cette politique : n’hésitez pas à faire part de vos
-remarques à votre administration.
+référer à la [politique de contribution open source](https://disic.github.io/politique-de-contribution-open-source/*). 
 
 *Vous créez un logiciel libre à partir d'un autre (vous /forkez/ un
 logiciel existant) ?* Si le logiciel parent est publié sous une licence
@@ -70,15 +67,15 @@ permissive ou copyleft se fera selon votre stratégie et/ou selon les
 choix faits par d’autres logiciels similaires écrits dans le même
 langage.
 
-Pour le détail sur la compatibilité des licences voir [[https://vvlibri.org/fr/guide-de-lauteur-libre-gerer-des-licences-differentes-compatibilites-de-licences/tableau-de][ce tableau]] et
-ces [[https://www.gnu.org/licenses/license-compatibility.fr.html][explications]] de la FSF.
+Pour le détail sur la compatibilité des licences voir [ce tableau](https://vvlibri.org/fr/guide-de-lauteur-libre-gerer-des-licences-differentes-compatibilites-de-licences/tableau-de][ce tableau]) et
+ces [explications](https://www.gnu.org/licenses/license-compatibility.fr.html][explications) de la FSF.
 
 ## Pour aller plus loin
 
-- Le [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org][guide d'ouverture logicielle d'EIG]] et sa [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org][foire aux questions]]
-- La [[https://www.data.gouv.fr/fr/licences][liste]] des licences libres pour l’administration
-- La [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][politique logiciel libre]] publiée par la DINSIC
-- La [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][licence ouverte 2.0]] publiée par Etalab
-- Des [[https://opensource.guide][guides sur l’open source]] en général
-- Le guide [[https://www.gov.uk/government/publications/open-source-guidance][Open source Guidance]] par le gouvernement britannique
-- [[https://open-source-guide.18f.gov/][18F Open Source Style Guide]] par l’agence états-unienne 18F
+- Le [guide d'ouverture logicielle d'EIG](https://guides.etalab.gouv.fr/logiciels/)
+- La [liste](https://www.data.gouv.fr/fr/licences) des licences libres pour l’administration
+- La [politique de contribution au logiciel libre](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/) publiée par la DINUM
+- La [licence ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence)licence ouverte 2.0 publiée par Etalab
+- Des [guides sur l'open source](https://opensource.guide) en général
+- Le guide [Open source Guidance](https://www.gov.uk/government/publications/open-source-guidance) par le gouvernement britannique
+- Le guide [18F Open Source Style Guide](https://open-source-guide.18f.gov/) par l’agence états-unienne 18F
