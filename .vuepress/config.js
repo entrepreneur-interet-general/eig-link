@@ -7,6 +7,7 @@ sidebar = [
        'planning',
        'outils-promotion',
        'tiers-lieu'
+       'communication-externe'
      ]
    },
   {
@@ -17,6 +18,7 @@ sidebar = [
       'ecosysteme',
       'ingenerie-programme',
       'reseau-eig'
+      'supports-communication'
     ]
   },
     {

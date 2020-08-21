@@ -15,8 +15,10 @@ Tous les mercredis après-midi, de 14h à 18h30, une salle est réservée de man
 
 
 ## Réserver des salles 
-Si vous voulez travailler ensemble dans une salle fermée un autre jour que le mercredi après-midi, ou y organiser un atelier pour votre défi, des salles ont réservables sur demande.
-**Pour ce faire** : envoyer un e-mail à <lelieu.ditp@modernisation.gouv.fr>, et <entrepreneur-interet-general@data.gouv.fr>. Une fois que le Lieu valide la réservation, le créneau réservé et la salle seront indiqués sur l'agenda de la promotion.
++Si vous voulez travailler ensemble dans une salle fermée un autre jour que le mercredi après-midi, ou y organiser un atelier pour votre défi, des salles ont réservables sur demande, en fonction des créneaux disponibles.
+**Pour ce faire** : envoyer un e-mail à <lelieu.ditp@modernisation.gouv.fr>, et <entrepreneur-interet-general@data.gouv.fr>. 
+
+La programmation du Lieu est remplie : assurez-vous d'anticiper la réservation ! 
 
 _NB : si vous souhaitez organiser un événement plus grand (meetup ou autre), n'hésitez pas à nous le faire savoir._
 

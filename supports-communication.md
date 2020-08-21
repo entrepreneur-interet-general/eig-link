@@ -31,3 +31,8 @@ Ce texte de huit pages (avec beaucoup de photos) présente l'ambition du program
 Il est destiné à un public large. Il peut être imprimé et servir pour présenter le programme à des étrangers. Il peut également servir pour piocher des éléments de langage en anglais. Il présente l'avantage d'être en anglais, donc.
 
 > [Mémo en anglais](https://entrepreneur-interet-general.etalab.gouv.fr/docs/Public-Interest-Entrepreneurs-EN-memo.pdf)
+
+### Eléments multimédia du programme
+
+_En construction._
+Les logos et la charte graphique du programme et des défis sont disponibles [ici]().

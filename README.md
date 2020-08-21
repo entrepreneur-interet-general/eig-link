@@ -1,8 +1,8 @@
-# Vous rejoignez la promotion 4 des Entrepreneurs d'Intérêt Général et vous venez d’arriver dans votre administration : bienvenu·e·s !
+# Vous rejoignez la promotion 4 des Entrepreneurs d'Intérêt Général et vous venez d’arriver dans votre administration : bienvenue !
 
 Vous y êtes pour une durée de 10 mois pour relever des "défis" : c'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation. Vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
 
-**C'est donc bien un défi qui s'offre à vous ! Les ressources présentées ici vont vous vous aider à le relever.**
+**C'est donc bien un défi qui s'offre à vous ! Les ressources présentées ici vont vous aider à le relever.**
 
 
 [[toc]]
@@ -18,22 +18,22 @@ La [liste et descriptions des défis](https://entrepreneur-interet-general.etala
 Pour connaitre qui relève les défis, rendez-vous sur la page [communauté](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html)
 
 
-### Comment sont accompagner les défis ? 
+### Comment sont accompagnés les défis ? 
 
 
-Pour vous suivre tout au long de vos défis, l'équipe a mis en place un programme d'accompagnement.
+Pour vous suivre tout au long de vos défis, l'équipe a mis en place un programme d'accompagnement. Pour plus de détails sur ce qui est proposé : [https://doc.eig-forever.org/accompagnement.html](https://doc.eig-forever.org/accompagnement.html)
 
-Il prend la forme de journées thématiques. Pour voir le calendrier et le détail des sessions d'accompagnement : [https://eig-forever.org/accompagnement.html](https://dig.eig-forever.org/accompagnement.html)
+Il prend notamment la forme de journées thématiques collectives. Pour voir le calendrier et le détail des sessions d'accompagnement : [https://doc.eig-forever.org/planning.html](https://doc.eig-forever.org/planning.html)
 
-Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](https://eig-forever.org/tiers-lieu.html), tous les mercredi après-midi.  
+Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](https://doc.eig-forever.org/tiers-lieu.html), tous les mercredi après-midi. 
 
-Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un bulletin de rétrospective hebdomadaire asynchrone.
+Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone](https://doc.eig-forever.org/outils.html).
 
 
 
 ### Ressources et documentation
 
-Le programme EIG tient un blog dans lequel on publie des articles sur la méthode EIG, les retours d'expérience des EIG (data scientists, développeur·euses, et designers) : https://entrepreneur-interet-general.etalab.gouv.fr/blog/
+Le programme EIG tient un [blog](https://entrepreneur-interet-general.etalab.gouv.fr/blog/) et y publie des articles sur la méthode EIG. 
 
 
 
