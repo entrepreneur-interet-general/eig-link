@@ -4,11 +4,12 @@
 
 Comment bien préparer et assurer la pérennisation des défis.
 
+[[toc]]
+
 ### Modèle de note stratégique de pérennisation pour un défi EIG
 
 Ce modèle de note est une base pour vous aider à rédiger un document de mi-parcours dans l'optique de pérenniser les outils développés pendant un défi EIG.
 Il propose une vision « macro » de l’état du projet et de ses suites potentielles. Il est bien sûr à adapter en fonction des interlocuteurs. 
-
 Il est particulièrement utile pour faire un point sur les besoins et opportunités identifiés et lister les scénarios de pérennisation entre lesquels arbitrer.
 
 #### I. Contexte / travail accompli / résultats

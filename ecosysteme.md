@@ -2,7 +2,6 @@
 
 Ce document synthétise les différentes ressources de la DINUM et d'Etalab.
 
-
 [[toc]]
 
 ## Équipes Etalab 
