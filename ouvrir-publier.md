@@ -42,7 +42,7 @@ parfois appelées « licences open source ».
 Votre code étant publié par une administration, il doit l'être sous
 une licence figurant dans [[https://www.data.gouv.fr/fr/licences][cette liste]].  Parmi ces licences figure
 celle publiée par Etalab, couvrant aussi bien les logiciels que les
-contenus autres, la [[https://www.etalab.gouv.fr/licence-ouverte-open-licence][Licence Ouverte 2.0]]([[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf][pdf]]).
+contenus autres, la (Licence Ouverte 2.0)[https://www.etalab.gouv.fr/licence-ouverte-open-licence].
 
 ## Choisir une licence libre
 
