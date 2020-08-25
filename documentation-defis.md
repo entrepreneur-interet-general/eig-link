@@ -1,5 +1,7 @@
 # Documenter les défis 
-                                                                                                                                                                                                                                                         
+     
+[[toc]]
+                                                                                                                                                                                                                                                    
 Ouvrir et publier ce que les EIG auront produit est une manière de valoriser le travail accompli, de partager un même niveau d’information entre toutes les parties prenantes et d’être redevable.
 
 Cette ouverture peut prendre plusieurs formes :

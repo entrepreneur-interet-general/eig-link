@@ -2,6 +2,8 @@
 
 Pour présenter le programme, vous pouvez vous appuyer sur différents supports de communication - en choisissant toujours le plus adapté à chaque situation. 
 
+[[toc]]
+
 ### Livret de présentation
 
 Ce livret présente à la fois le fonctionnement du programme, la troisième promotion du programme et les réalisations des promotions précédentes. 
