@@ -1,3 +1,13 @@
+# 2020
+
+## Presse
+
+
+| Date | Site | URL | Accès | Défis mentionnés |
+| --- | --- | --- | --- | --- |
+| 2020-03-18 | Horizons Publics | [L’approche ux design dans les services publics numériques : où en sommes-nous aujourd’hui ?](https://www.horizonspublics.fr/numerique/lapproche-ux-design-dans-les-services-publics-numeriques-ou-en-sommes-nous-aujourdhui) | Payant | EIG |
+
+
 # 2019
 
 ## Presse
@@ -38,8 +48,8 @@
 | 2019-03-18 | Nouvel Obs | [Des « X-Men » pour doper les services publics au numérique](https://www.nouvelobs.com/economie/20190315.OBS10759/des-x-men-pour-doper-les-services-publics-au-numerique.html) | Payant | EIG 3 |
 | 2019-03-07 | Acteurs Publics | [De nouveaux moyens d’évaluation et de contrôle pour les députés](https://www.acteurspublics.com/2019/03/07/de-nouveaux-moyens-d-evaluation-et-de-controle-pour-les-deputes) | Payant | LexImpact |
 | 2019-03-06 | Acteurs Publics | [24 heures en immersion avec les entrepreneurs d’intérêt général](https://www.acteurspublics.com/2019/03/06/24-heures-en-immersion-avec-les-entrepreneurs-d-interet-general) | Payant | EIG 3 |
-| 2019-03-06 | Acteurs Publics | [Anciens EIG : pourquoi ils sont restés dans l’administration](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Payant | EIG 1-2 |
-| 2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.acteurspublics.com/2019/03/06/anciens-eig-pourquoi-ils-sont-restes-dans-l-administration) | Public | Open Justice |
+| 2019-03-06 | Acteurs Publics | [Anciens EIG : pourquoi ils sont restés dans l’administration](https://www.acteurspublics.fr/articles/anciens-eig-pourquoi-ils-sont-restes-dans-ladministration) | Payant | EIG 1-2 |
+| 2019-02-25 | Horizons Publics | [Quand l’intelligence artificielle se met au service de l’anonymisation des décisions de justice](https://www.horizonspublics.fr/juridique/quand-lintelligence-artificielle-se-met-au-service-de-lanonymisation-des-decisions-de) | Public | Open Justice |
 | 2019-01-31 | Journal spécial des sociétés | [Entretien avec Bruno Pireyre, Président de chambre à la Cour de cassation](http://www.jss.fr/Entretien_avec_Bruno_Pireyre_President_de_chambre_a_la_Cour_de_cassation_directeur_du_service_de_documentation_des_etudes_et_du_rapport_des_services_des_relations_internationales_et_de_la_communication-1520.awp) | Public | Open Justice |
 | 2019-01-21 | Course au Large | [SNOSAN, un outil de mesure de l’accidentologie en mer](http://www.courseaularge.com/snosan-outil-de-mesure-de-laccidentologie-mer.html) | Public | PrédiSauvetage |
 | 2019-01-17 | Next INpact | [Contre les usurpations de plaques d’immatriculation, l’État mise sur l’intelligence artificielle](https://www.nextinpact.com/news/107516-contre-usurpations-plaques-dimmatriculation-letat-mise-sur-lintelligence-artificielle.htm) | Payant | IA Flash |
