@@ -5,6 +5,8 @@
 
 | Date | Site | URL | Accès | Défis mentionnés |
 | --- | --- | --- | --- | --- |
+| 2020-08-28 |  AEF | [Le programme "Entrepreneurs d'intérêt général" sélectionne 41 candidats pour sa quatrième promotion](https://www.aefinfo.fr/depeche/632961) | Payant | EIG |
+| 2020-06-17 | Horizons Publics | [Administration recherche designers, data scientists, développeuses et développeurs](https://www.horizonspublics.fr/numerique/administration-cherche-designers-data-scientists-developpeuses-et-developpeurs) | Gratuit |
 | 2020-03-18 | Horizons Publics | [L’approche ux design dans les services publics numériques : où en sommes-nous aujourd’hui ?](https://www.horizonspublics.fr/numerique/lapproche-ux-design-dans-les-services-publics-numeriques-ou-en-sommes-nous-aujourdhui) | Payant | EIG |
 
 
