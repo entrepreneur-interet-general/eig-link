@@ -6,8 +6,8 @@ sidebar = [
        'accompagnement',
        'planning',
        'outils-promotion',
-       'tiers-lieu'
-       'communication-externe'
+       'tiers-lieu',
+       'communication-externe',
      ]
    },
   {
@@ -17,8 +17,8 @@ sidebar = [
       'programme-eig',
       'ecosysteme',
       'ingenerie-programme',
-      'reseau-eig'
-      'supports-communication'
+      'reseau-eig',
+      'supports-communication',
     ]
   },
     {
@@ -31,7 +31,7 @@ sidebar = [
       'opensource-licences',
       'opendata',
       'algorithmes-publics',
-      'securite'
+      'securite',
     ]
   },
      {
@@ -46,7 +46,7 @@ sidebar = [
       'ouvrir-publier',
       'communication',
       'documentation-defis',
-      'perennisation-defis'
+      'perennisation-defis',
      ]
    },
 ]
