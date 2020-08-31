@@ -16,7 +16,7 @@ Les EIG et mentors sont inscrits sur des listes de diffusion :
 * Les mentors des EIG sont inscrits sur la liste [eig2020-mentors@framalistes.org](mailto:eig2020-mentors@framalistes.org)
 
 ### Bulletins
-Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone] (https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)
+Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)
 
 ## Ressources et bonnes pratiques
 
