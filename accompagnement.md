@@ -39,10 +39,10 @@ _En savoir plus sur l'outil [Bulletins](https://bulletins.eig-forever.org)_
 
 ## L'équipe d'encadrement
 
-*Soizic Pénicaud*, responsable du programme, en charge de la stratégie soizic.penicaud@modernisation.gouv.fr
-*Sophie Miljkovic*, chargée de communication du programme sophie.miljkovic@data.gouv.fr
-*Raphëlle Roffo*, EIG Link Tech raphaelle.roffo@data.gouv.fr
-*Coline Malivel*, EIG Link Design coline.malivel@data.gouv.fr
+- **Soizic Pénicaud**, responsable du programme, en charge de la stratégie soizic.penicaud@modernisation.gouv.fr
+- **Sophie Miljkovic**, chargée de communication du programme sophie.miljkovic@data.gouv.fr
+- **Raphëlle Roffo**, EIG Link Tech raphaelle.roffo@data.gouv.fr
+- **Coline Malivel**, EIG Link Design coline.malivel@data.gouv.fr
 
 
 Pour joindre l'équipe du programme, vous pouvez envoyer un mail à l'alias entrepreneur-interet-general@data.gouv.fr, ou bien la contacter sur Slack par message privé ou sur la chaîne #eig2020.
