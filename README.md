@@ -27,7 +27,7 @@ Il prend notamment la forme de journées thématiques collectives. Pour voir le 
 
 Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](https://doc.eig-forever.org/tiers-lieu.html), tous les mercredi après-midi. 
 
-Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone](https://doc.eig-forever.org/outils.html).
+Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone](https://doc.eig-forever.org/outils-promotion.html).
 
 
 

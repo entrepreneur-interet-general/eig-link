@@ -22,7 +22,7 @@ Le service Qualité des services en ligne de la DINUM propose différents outils
 - Le **[Référentiel général d’accessibilité pour les administrations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)** aussi nommé **RGAA**, est mis à jour régulièrement, et découle de l'obligation d'accessibilité imposée par l'[article 47 de la loi du 11 février 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257) pour « l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ». 
 
 ::: tip 
-Poru plus d'information voir la page dédiée à l'**[accessibilité](accessibilite.md)**
+Pour plus d'information voir la page dédiée à l'**[accessibilité](accessibilite.md)**
 :::
 
 ## Ressources design de l'Etat

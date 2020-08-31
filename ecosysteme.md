@@ -1,6 +1,6 @@
 # Écosystème DINUM et Etalab
 
-Ce document synthétise les différentes ressources de la DINUM et d'Etalab.
+Présentation des différentes missions et ressources de la DINUM et d'Etalab.
 
 [[toc]]
 

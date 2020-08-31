@@ -27,10 +27,12 @@ sidebar = [
     children: [
       'referentiels',
       'design',
+      'accessibilite',
       'developpement',
       'opensource-licences',
       'opendata',
       'algorithmes-publics',
+      'serveur',
       'securite',
     ]
   },
@@ -64,7 +66,7 @@ module.exports = {
     sidebarDepth: 1,
     logo: '/images/logo-eig.svg',
     docsDir: ".",
-    repo: 'entrepreneur-interet-general/dig',
+    repo: 'entrepreneur-interet-general/eig-link',
     repoLabel: 'Dépôt Git',
     editLinks: true,
     editLinkText: 'Modifier cette page',
