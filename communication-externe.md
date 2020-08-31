@@ -4,15 +4,18 @@
 
 ## Les outils de communication externe du programme  
 
-### Site web
+### Le site web EIG
+Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) concentre les informations concernant le programme, notamment
+les deéfis passés et les personnes qui ont participé à EIG. Il héberge également le blog du programme.
+Le programme utilise le site Etalab (etalab.gouv.fr) pour les communications institutionnelles. Le site de la DINUM joue le rôle de relai. 
+Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig) et est maintenu par l'équipe Etalab et les EIG Link.
 
-Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link. Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
-
-Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/).
-**Vous pouvez contribuer au blog ! Adressez-vous à Sophie Miljkovic si cela vous intéresse.**
+### Le blog EIG
+https://entrepreneur-interet-general.etalab.gouv.fr/blog/
+Le blog du programme est l’endroit où s’expriment tous ceux qui participent au programme EIG : équipe de coordination, mais aussi EIG, mentors, partenaires...
+**Vous pouvez contribuer au blog ! Adressez-vous à Sophie Miljkovic pour proposer des articles.**
 
 ### Réseaux sociaux
-
 Le programme possède un compte Twitter : [@eigforever](https://twitter.com/eigforever). 
 
 ### Speakerdeck
