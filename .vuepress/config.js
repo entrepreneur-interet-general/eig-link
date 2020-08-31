@@ -1,52 +1,60 @@
 sidebar = [
+   {
+     title: 'La Promotion',
+     collapsable: true,
+     children: [
+       'accompagnement',
+       'planning',
+       'outils-promotion',
+       'tiers-lieu',
+       'communication-externe',
+     ]
+   },
   {
     title: 'Programme EIG',
     collapsable: true,
     children: [
-      'accompagnement',
-      'animation',
+      'programme-eig',
+      'ecosysteme',
+      'ingenerie-programme',
+      'reseau-eig',
     ]
   },
-  {
+    {
     title: 'Ressources',
     collapsable: true,
     children: [
-      'ecosysteme',
-      'communication-interne',
-      'communication-externe',
-      'supports-communication',
-      'tiers-lieu',
-      'serveur',
-      'stack',
-      'eig-link',
-      'animations-eig',
-      'bulloterie',
-      'experience-parcours-eig',
-    ]
-  },
-  {
-    title: 'Bonnes pratiques',
-    collapsable: true,
-    children: [
-      'opensource',
-      'opensource-licences',
-      'opendata',
-      'algorithmes',
-      'securite',
-      'mesure-impact',
-      'accueil-eig',
-      'modele-note-perennisation',
-      'checklist_depart',
+      'referentiels',
       'design',
       'accessibilite',
+      'developpement',
+      'opensource-licences',
+      'opendata',
+      'algorithmes-publics',
+      'securite',
     ]
   },
+     {
+     title: 'Bonnes pratiques',
+     collapsable: true,
+     children: [
+      'accueil-eig',
+      'preparation-defi',
+      'mesure-impact',
+      'concevoir',
+      'prototyper',
+      'ouvrir-publier',
+      'communication',
+      'documentation-defis',
+      'perennisation-defis',
+     ]
+   },
 ]
 
 module.exports = {
   theme: 'gouv-fr',
   title: 'Documentation EIG',
-  description: "La documentation interne du programme Entrepreneurs d'Intérêt Général.",
+  description: "Cette documentation agrège les détails et ressources pratiques du programme Entrepreneurs d'Intérêt Général à destination de la communauté EIG",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#0053b3' }]
@@ -54,6 +62,7 @@ module.exports = {
   themeConfig: {
     sidebar: sidebar,
     sidebarDepth: 1,
+    logo: '/images/logo-eig.svg',
     docsDir: ".",
     repo: 'entrepreneur-interet-general/eig-link',
     repoLabel: 'Dépôt Git',
@@ -62,11 +71,5 @@ module.exports = {
     nav: [
       { text: 'Site web', link: 'https://entrepreneur-interet-general.etalab.gouv.fr' },
     ]
-  },
-  markdown: {
-    config: md => {
-      // use more markdown-it plugins!
-      md.use(require('markdown-it-abbr'))
-    }
   }
 }
