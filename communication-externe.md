@@ -29,7 +29,7 @@ Si des personnes de votre entourage sont intéressées par le programme, vous po
 ## Présenter le programme EIG
 
 ::: tip Supports de présentation
-Des supports-types (présentations ppt) et des contenus (livret de présentation du programme, vidéos, etc.) sont disponibles [ici](https://entrepreneur-interet-general.etalab.gouv.fr/supports-communication.html)
+Des supports-types (présentations ppt) et des contenus (livret de présentation du programme, vidéos, etc.) sont disponibles [ici](supports-communication.md)
 :::
 
 ### Parler du programme EIG

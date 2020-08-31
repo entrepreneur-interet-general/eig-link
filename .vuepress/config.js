@@ -18,7 +18,6 @@ sidebar = [
       'ecosysteme',
       'ingenerie-programme',
       'reseau-eig',
-      'supports-communication',
     ]
   },
     {
@@ -32,7 +31,6 @@ sidebar = [
       'opensource-licences',
       'opendata',
       'algorithmes-publics',
-      'serveur',
       'securite',
     ]
   },
