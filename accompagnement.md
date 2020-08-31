@@ -1,6 +1,6 @@
 # Accompagnement de la promotion
 
-Pour vous suivre tout au long de vos défis, l'équipe EIG a mis en place un programme d'accompagnement.
+Pour vous suivre tout au long de vos défis, un programme d'accompagnement est mis en place par l'équipe EIG.
 Ce programme s'organise suivants plusieurs axes d'animations et d’événements.
 
 [[toc]]
@@ -38,7 +38,6 @@ _En savoir plus sur l'outil [Bulletins](https://bulletins.eig-forever.org)_
 
 
 ## L'équipe d'encadrement
-
 
 *Soizic Pénicaud*, responsable du programme, en charge de la stratégie soizic.penicaud@modernisation.gouv.fr
 *Sophie Miljkovic*, chargée de communication du programme sophie.miljkovic@data.gouv.fr

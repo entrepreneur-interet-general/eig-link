@@ -21,11 +21,11 @@ Pour connaitre qui relève les défis, rendez-vous sur la page [communauté](htt
 ### Comment sont accompagnés les défis ? 
 
 
-Pour vous suivre tout au long de vos défis, l'équipe a mis en place un programme d'accompagnement. Pour plus de détails sur ce qui est proposé : [https://doc.eig-forever.org/accompagnement.html](https://doc.eig-forever.org/accompagnement.html)
+Pour vous suivre tout au long de vos défis, [un programme d'accompagnement](accompagnement.md) est mis en place par l'équipe EIG. 
 
-Il prend notamment la forme de journées thématiques collectives. Pour voir le calendrier et le détail des sessions d'accompagnement : [https://doc.eig-forever.org/planning.html](https://doc.eig-forever.org/planning.html)
+Il prend notamment la forme de journées thématiques collectives. [Voir le calendrier](https://doc.eig-forever.org/planning.html)
 
-Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](https://doc.eig-forever.org/tiers-lieu.html), tous les mercredi après-midi. 
+Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](https://doc.eig-forever.org/tiers-lieu.html), tous les mercredis après-midi. 
 
 
 
