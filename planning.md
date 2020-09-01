@@ -16,7 +16,7 @@ _A venir_
 | -------- | -------- | -------- | -------- | -------- |
 | EIG (+ mentors ponctuellement)     | 21 - 25 septembre     | [Voir la page du bootcamp](bootcamp.md)     |  |  |
 | Mentors seuls    | 1er octobre    | 14h - 16h    | En ligne | Point sur le premier mois des EIG |
-| EIG + mentors    | 15 octobre    | 9h30 - 18h pour les EIG, 14h - 17h30 pour les mentors    | à définir | /!\ Exceptionnellement, la session a lieu un vendredi |
+| EIG + mentors    | 15 octobre    | 9h30 - 18h pour les EIG, 14h - 17h30 pour les mentors    | à définir | |
 | EIG seuls     | 26 novembre     | Lieu de la Transformation publique     |  |  |
 | Mentors seuls     | 3 décembre     | Lieu de la Transformation publique      | 14h - 17h30 |  |
 | EIG seuls    | 10 & 11 décembre     | Lieu de la Transformation publique      |  | Séminaire de deux jours |
