@@ -11,7 +11,7 @@ C'est au Lieu de la Transformation Publique qu'ont lieu les sessions d'accompagn
 
 Pour vous permettre de vous retrouver et de travailler en dehors de vos administrations, vous disposez du Lieu une fois par semaine, tous les mercredis après-midi.
 
-Tous les mercredis après-midi, de 14h à 18h30, une salle est réservée de manière permanente. 
+Tous les mercredis, de 9h à 18h30, une salle est réservée de manière permanente. 
 
 
 ## Réserver des salles 
