@@ -1,82 +1,41 @@
-# À propos du programme EIG 
+# Vous rejoignez la promotion 4 des Entrepreneurs d'Intérêt Général et vous venez d’arriver dans votre administration : bienvenue !
 
-Le programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) est documenté à travers le [dépôt EIG Link](https://github.com/entrepreneur-interet-general/eig-link). Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme Entrepreneurs d'Intérêt Général à destination de la [communauté EIG](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html).
+Vous y êtes pour une durée de 10 mois pour relever des "défis" : c'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation. Vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
 
-Cette documentation est maintenue par les EIG Link. La mission des EIG Link est d'accompagner le développement d’un collectif numérique au sein de l’État ([en savoir plus.](eig-link.md)).
+**C'est donc bien un défi qui s'offre à vous ! Les ressources présentées ici vont vous aider à le relever.**
 
-Le programme Entrepreneurs d'Intérêt Général est porté par [Etalab](https://github.com/etalab) au sein de la [DINSIC](https://numerique.gouv.fr/).
 
 [[toc]]
 
-## Programme EIG
+Le programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) est documenté à travers ce mini site. Cette documentation agrège les détails pratiques de la promotion (planning, animation, contributions), les ressources et les bonnes pratiques du programme Entrepreneurs d'Intérêt Général à destination de l'ensemble des EIG et de leurs mentors.
 
-- [Le planning du programme](./accompagnement.md)
-- [Les rituels d'accompagnement](./animation.md)
-- [Les contributions des EIG](./contributions.md)
 
-## Ressources du programme
-- [L'écosystème du programme EIG](./ecosysteme.md)
-- Les outils de communication [au sein de la promotion](./communication-interne.md), [vers l'exterieur](./communication-externe.md) et [les supports de communication](./supports-communication.md)
-  - [L’agenda public des EIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/3DAPQwCmengcPLdm/EIG-Promo-3)
-  - [Blog EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog.html) via le [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml)
-- [Le tiers-lieu - Liberté Living Lab](./tiers-lieu.md)
-- [Les machines vituels (MV)](./serveur.md) de 32 Go (Proxmox VE) : déployer des containers et des machines virtuelles
-- [Les stacks techniques des défis](./stack.md)
-- [Le rôle EIG Link](./eig-link.md)
-- [La bulloterie](./bulloterie.md)
+### Qui sont les EIG et quels sont les défis ? 
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/eig-2019_277159?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+Vous faites partie d'une promotion : de nombreux autres défis sont relevés dans d'autres administrations. 
+La [liste et descriptions des défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) en cours et passés, est disponible sur le site du programme.
 
-## Bonnes pratiques
+Pour connaitre qui relève les défis, rendez-vous sur la page [communauté](https://entrepreneur-interet-general.etalab.gouv.fr/communaute.html)
 
-- [Ouvrir son code source](./opensource.md)
-- [Comprendre les licences libres](./opensource-licences.md)
-- [Publier et réutiliser des données](./opendata.md)
-- [Définir des indicateurs et mesurer son impact](./mesure-impact.md)
-- [Accueillir des EIG **(à destination des mentors)**](./accueil-eig.md)
-- [Guider les designers](./design.md)
 
-## Outils et tutoriels
+### Comment sont accompagnés les défis ? 
 
-* [Des tutoriels utiles](https://github.com/entrepreneur-interet-general/tutos-2018)
-* [La boîte à outils](./outils.md)
-* [Une revue de presse](./revue-de-presse.md)
 
-## Publication web
-Ce dépôt est publié en ligne à l'adresse [doc.eig-forever.org](https://doc.eig-forever.org). Il utilise [VuePress](https://vuepress.vuejs.org) et le [thème Gouv Fr](https://vuepress-gouv-fr-demo.eig-forever.org/).
+Pour vous suivre tout au long de vos défis, [un programme d'accompagnement](accompagnement.md) est mis en place par l'équipe EIG. 
 
-L'unique fichier de configuration se trouve à l'emplacement [`.vuepress/config.js`](.vuepress/config.js) et permet de modifier entre autres le menu.
+Il prend notamment la forme de journées thématiques collectives. [Voir le calendrier](planning.md)
 
-Développement en local :
-```bash
-yarn install
-yarn run vuepress dev
-```
+Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un [tiers-lieu](tiers-lieu.md), tous les mercredis après-midi. 
 
-## Maintenance de ce dépôt
 
-Ce projet est maintenu par Antoine Augusti et Jean-Baptiste Le Dévéhat, EIG Link 2019.
 
-Pour toute question : 
+### Ressources et documentation
 
-- [antoine.augusti@data.gouv.fr](mailto:antoine.augusti@data.gouv.fr)
-- [jean-baptiste.le-devehat@data.gouv.fr](mailto:jean-baptiste.le-devehat@data.gouv.fr)
+Plusieurs [outils](outils-promotion.md) sont mis en place pour communiquer aus ein de la promotion
 
-## Contributions sur ce dépôt
+Le programme EIG tient un [blog](https://entrepreneur-interet-general.etalab.gouv.fr/blog/) et y publie des articles sur la méthode EIG. 
 
-Ce dépôt est ouvert aux contributions - vous pouvez :
 
-- poser une question sur le contenu en ouvrant une issue ;
-- *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration.
 
-Merci !
+**Pour contacter l'équipe du programme EIG : <entrepreneur-interet-general@data.gouv.fr>.**
 
-## Licence
-
-© 2018 Direction interministérielle du numérique et du système d'information et de communication de l'État
-
-© 2018 Les contributeurs accessibles via l'historique du dépôt.
-
-Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENSE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
-
-![Logo](./images/logo-eig2.png)

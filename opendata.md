@@ -1,5 +1,13 @@
 # Publier et réutiliser des données
 
+:::tip Ressources
+Etalab a produit des guides très utiles sur l'ouverture des données :
+* [Quelles données doivent être publiées en open data ?](https://guides.etalab.gouv.fr/juridique/)
+* [Préparer les données à l'ouverture et la circulation](https://guides.etalab.gouv.fr/qualite/)
+* [L'ouverture des données](https://guides.etalab.gouv.fr/juridique/ouverture/)
+* [La réutilisation des données](https://guides.etalab.gouv.fr/juridique/ouverture/)
+:::
+
 [[toc]]
 
 ## Obligation de publication
