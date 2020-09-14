@@ -3,7 +3,7 @@
 ## Programme 
 
 | Date | Horaires | Thématique | Public | Lieu | 
-| -------- | -------- | -------- | -------- | 
+| -------- | -------- | -------- | -------- | -------- | 
 | Lundi 21 septembre | 9h - 17h | Accueil et premiers retours | | Le Lieu de la Transformation publique |
 | Mardi 22 septembre | 9h - 18h00 |  Étre EIG | | Zalthabar, Levallois-Perret |
 |  | 18h - 20h | AfterWork (optionnel) |  | Zalthabar, Levallois-Perret |
