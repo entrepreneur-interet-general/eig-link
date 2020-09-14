@@ -3,8 +3,9 @@
 Le **programme d'accompagnement** comprend des sessions plénières mensuelles avec les EIG seuls ou avec les EIG et leurs mentors.
 Les sessions d'accompagnement se tiennent au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/nos-actions/le-lieu-de-la-transformation-publique).
 
-Un agenda partagé est visible et mis à jour : 
-_A venir_
+Un agenda des évènements est partagé ici : 
+https://framagenda.org/apps/calendar/p/BYykHrqJgky9W4Hz
+
 
 [[toc]]
 
