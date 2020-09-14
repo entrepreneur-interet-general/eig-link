@@ -10,7 +10,8 @@
 ## Détails et informations pratiques
 
 
-### Lundi 21 septembre 9h - 17h
+### Lundi 21 septembre 
+#### 9h - 17h : Le Lieu de la Transformation publique
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
@@ -22,6 +23,7 @@
 
 
 ### Mardi 22 septembre
+#### 9h - 18h : Zalthabar, Levallois-Perret
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
