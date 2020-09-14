@@ -1,14 +1,13 @@
-# Bootcamp - EIG 2020
+# Bootcamp EIG4 - 21 au 25 septembre 2020
 
 [[toc]]
 
 ## Programme de la semaine
 
-
+[![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
 
 ## Détails et informations pratiques
-
 
 ### Lundi 21 septembre 
 #### 9h - 17h : Le Lieu de la Transformation publique
