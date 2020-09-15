@@ -1,6 +1,6 @@
-# Bootcamp EIG4 - 21 au 25 septembre 2020
+# Bootcamp de lancement de la promo EIG4 
 
-## Programme 
+## Programme du 21 au 25 septembre 2020
 
 | Date | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | -------- | 
