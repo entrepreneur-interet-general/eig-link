@@ -5,6 +5,7 @@ sidebar = [
      children: [
        'accompagnement',
        'planning',
+       'bootcamp',
        'outils-promotion',
        'tiers-lieu',
        'communication-externe',
