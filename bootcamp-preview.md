@@ -18,9 +18,7 @@
 les journées présentielles se dérouleront dans ces lieux :
 
 **Le Lieu de la Transformation Publique**
-77 avenue de Ségur 
-75015 Paris
+77 avenue de Ségur, 75015 Paris
 
 **Le Zalthabar**
-48 Rue de Villiers
-92300 Levallois-Perret
+48 Rue de Villiers, 92300 Levallois-Perret
