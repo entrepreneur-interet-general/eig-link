@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Séminaire de lancement
 
 [[toc]]
@@ -129,4 +128,3 @@ les journées présentielles se dérouleront dans ces lieux :
 **Le Zalthabar**
 48 Rue de Villiers
 92300 Levallois-Perret
->>>>>>> entrepreneur-interet-general/master
