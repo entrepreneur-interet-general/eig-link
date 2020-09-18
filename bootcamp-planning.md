@@ -1,13 +1,10 @@
 # Bootcamp EIG4 - 21 au 25 septembre 2020
 
-[[toc]]
-
-## Programme de la semaine
-
 [![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
+[[toc]]
 
-## Détails et informations pratiques
+## Programme de la semaine et informations pratiques
 
 ### Lundi 21 septembre, 9h - 17h
 **Le Lieu de la Transformation publique**, 77 avenue de Ségur, 75015 Paris
@@ -25,12 +22,14 @@
 ### Mardi 22 septembre, 9h - 18h00 + after work
 **Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
-| Horaires | Thématique | Public | Lieu | 
-| -------- | -------- | -------- | -------- | 
-| 9h - 12h30 | Échanger et se connaitre | | Zalthabar |
-| 12h30 - 14h | Déjeuner sur place | | - |
-| 14h - 16h00 | Programme et outils de la promotion | | - |
-| 16h - 18h00 | Être EIG | + EIG des anciennes promo | - |
+| Horaires | Thématique | 
+| -------- | -------- |
+| 9h - 9h30 | Accueil au Zalthabar |
+| 9h - 12h30 | Échanger et se connaitre |
+| 12h30 - 14h | Déjeuner sur place |
+| 14h - 16h | Programme et outils de la promotion |
+| 16h - 18h | Être EIG, rencontre des anciennes promos |
+| 18h - 20h| AfterWork (optionnel) |
 
 ### Mercredi 23 septembre, 9h30 - 17h30
 **En ligne** : Renontres et ateleirs en visioconférences
@@ -45,13 +44,14 @@
 ### Jeudi 24 septembre, 9h - 18h + after work
 **Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
-| Horaires | Thématique | Public | Lieu | 
-| -------- | -------- | -------- | -------- | 
-| 9h - 12h30 | Ateliers partage de pratiques | | Zalthabar |
-| 12h30 - 14h | Déjeuner sur place | | |
-| 14h - 17h00 | Visions des défis | + Mentors| - |
-| 17h - 18h00 | Forum des défis | + Mentors | - |
-| 18h - 20h00 | After Work | + Mentors | - |
+| Horaires | Thématique |
+| -------- | -------- |
+| 9h - 12h30 | Ateliers partage de pratiques |
+| 12h30 - 14h | Déjeuner sur place |
+| 14h - 14h30 | Accueil et partage avec les mentors|
+| 14h30 - 17h00 | Visions des défis, travail avec les mentors|
+| 17h - 18h00 | Forum des défis |
+| 18h - 20h00 | After Work (optionnel) |
 
 ### Vendredi 25 septembre, 9h30 - 18h00
 **Mixte** : en ligne / en physique
