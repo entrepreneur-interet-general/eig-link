@@ -68,8 +68,8 @@ Code d'accès dans le slack
 | Horaires | ATELIER 1 | ATELIER 2 | 
 | -------- | -------- | -------- |  
 | 14h - 15h | Open Data, Mathilde Hoang - Etalab | Numérique responsable, Richard Hanna - DINUM |
-| 9h50 - 10h10 | Open Source, Bastien Guerry - Etalab | Accessibilité, Benoît Dequick - Design.gouv |
-| 10h10 - 10h30 | LabIA, Kim Montalibet - Etalab | Design system, Jean-Charles Hourdeaux - SIG |
+| 15h - 16h | Open Source, Bastien Guerry - Etalab | Accessibilité, Benoît Dequick - Design.gouv |
+| 16h - 17h | LabIA, Kim Montalibet - Etalab | Design system, Jean-Charles Hourdeaux - SIG |
 
 **17h - 17h30 : Retours et Quizz de clôture**
 
