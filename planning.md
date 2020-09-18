@@ -1,4 +1,4 @@
-# Planning de la promotion
+# Calendrier de la promotion
 
 Le **programme d'accompagnement** comprend des sessions plénières mensuelles avec les EIG seuls ou avec les EIG et leurs mentors.
 Les sessions d'accompagnement se tiennent au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/nos-actions/le-lieu-de-la-transformation-publique).
