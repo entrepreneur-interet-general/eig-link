@@ -1,5 +1,5 @@
 # Séminaire de lancement
-###21 au 25 septembre 2020
+### 21 au 25 septembre 2020
 
 [![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
@@ -45,7 +45,7 @@
 ### Jeudi 24 septembre, 9h - 18h *+ after work*
 **Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
-| Horaires | Thématique |
+| Horaires |  |
 | -------- | -------- |
 | 9h - 12h30 | Ateliers partage de pratiques |
 | 12h30 - 14h | Déjeuner sur place |
@@ -58,7 +58,7 @@
 **Matinée** : Ateliers en ligne ou en physique
 **Après-midi : Ministère de la transformation et de la fonction publiques** : Hôtel de Rothelin-Charolais, 101 rue de Grenelle, 75007 Paris
 
-| Horaires | Thématique | 
+| Horaires | T | 
 | -------- | -------- | 
 | 9h30 - 12h30 | Ateliers d'entraide entre défis - Organisation libre en équipe |
 | 14h - 15h00 | Retours sur le bootcamp ( lieu à définir) |
