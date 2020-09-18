@@ -1,11 +1,10 @@
 # Séminaire de lancement
-### 21 au 25 septembre 2020
 
 [![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
 [[toc]]
 
-## Programme de la semaine et informations pratiques
+## Programme de la semaine
 
 ### Lundi 21 septembre, 9h - 16h *+ verre*
 **Le Lieu de la Transformation publique**, 77 avenue de Ségur, 75015 Paris
