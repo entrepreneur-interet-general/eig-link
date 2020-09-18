@@ -63,15 +63,15 @@ Code d'accès dans le slack
 * **11h - 12h : Présentation du laboratoire Linc, CNIL** - Régis Chattelier
 * **12h30 - 13h30 : *optionnel* Etalab-talk : Ioana Manolescu** - De l'accessibilité des statistiques aux entrepôts de données hétérogènes: outils pour le data journalisme
 
-* **14h - 17h00 : Ateliers thématiques - Découverte des ressources **
+* **14h - 17h00 : Ateliers thématiques - Découverte des ressources**
 
-| Horaires | Visio 1 | Visio 2 | 
+| Horaires | ATELIER 1 | ATELIER 2 | 
 | -------- | -------- | -------- |  
 | 14h - 15h | Open Data, Mathilde Hoang - Etalab | Numérique responsable, Richard Hanna - DINUM |
 | 9h50 - 10h10 | Open Source, Bastien Guerry - Etalab | Accessibilité, Benoît Dequick - Design.gouv |
 | 10h10 - 10h30 | LabIA, Kim Montalibet - Etalab | Design system, Jean-Charles Hourdeaux - SIG |
 
-**17h - 17h30 : Retours et Quizz de clôture **
+**17h - 17h30 : Retours et Quizz de clôture**
 
 
 
