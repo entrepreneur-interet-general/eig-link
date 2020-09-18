@@ -4,13 +4,14 @@
 
 [![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
+
 ## Les essentiels
 
-**Queslques temps forts à prévoir**
+**Quelques temps forts à prévoir**
 
-* Mardi matin, chacun.e sera invité à parler de soi et de son métier, un projet/événement qui vous tient à coeur, une compétence particulière ou autre. Venez avec quelques anecdotes !
-* Les mentors des défis seront présents jeudi après-midi. Ca sera un temps d'échange et de discussion sur la vision des défis, suivi d'une rencontre avec les autres équipes. Tout le monde est ensuite conviés à l'afterwork qui aura lieu sur place.
-* Les déjeuners du mardi et du jeudi sont fournis et servis au Zalthabar. Le lundi, c'est un déjeuner libre autour du Lieu de transformation publique.
+* **Mardi matin**, chacun.e sera invité à parler de soi et de son métier, un projet ou événement qui vous tient à coeur, une compétence particulière ou autre. Venez avec quelques anecdotes !
+* **Les mentors des défis seront présents jeudi après-midi**. Ça sera un temps d'échange et de discussion sur la vision des défis, suivi d'une rencontre avec les autres équipes. Tout le monde est ensuite conviés à l'afterwork qui aura lieu sur place.
+* **Les déjeuners** du mardi et du jeudi sont fournis et servis au Zalthabar. Lundi, c'est un déjeuner libre autour du Lieu de transformation publique. 
 
 **Contacts utiles :** Pendant le séminaire, vos points de contact seront les EIG Links - Raphaëlle et Coline. L'équipe sera joignable et disponible pour toutes les questions et remarques, sur le slack, téléphone ou directement sur place.
 
@@ -18,11 +19,10 @@
 
 
 
-
 ## Programme de la semaine
 
 ### Lundi 21 septembre, 9h - 16h *+ verre*
-**Le Lieu de la Transformation publique**, 77 avenue de Ségur, 75015 Paris
+**Le Lieu de la Transformation publique**, 77 avenue de Ségur, 75015 Paris.
 Code d'accès dans le slack
 
 | Horaires |  |
@@ -52,6 +52,7 @@ Code d'accès dans le slack
 **En ligne**
 
 * **9h30 - 12h : Rencontre des acteurs du numérique publics**
+
 | Horaires | Visio 1 | Visio 2 | Visio 3 |
 | -------- | -------- | -------- | -------- | 
 | 9h30 - 9h50 | API.gouv | | France Connect |
@@ -63,6 +64,7 @@ Code d'accès dans le slack
 * **12h30 - 13h30 : *optionnel* Etalab-talk : Ioana Manolescu** - De l'accessibilité des statistiques aux entrepôts de données hétérogènes: outils pour le data journalisme
 
 * **14h - 17h00 : Ateliers thématiques - Découverte des ressources **
+
 | Horaires | Visio 1 | Visio 2 | 
 | -------- | -------- | -------- |  
 | 14h - 15h | Open Data, Mathilde Hoang - Etalab | Numérique responsable, Richard Hanna - DINUM |
@@ -86,8 +88,8 @@ Code d'accès dans le slack
 | 18h - 20h00 | *optionnel* After Work  |
 
 ### Vendredi 25 septembre, 9h30 - 18h00
-**Matinée** : Ateliers en ligne ou en physique
-**Après-midi : Ministère de la Transformation et de la Fonction publiques** : Hôtel de Rothelin-Charolais, 101 rue de Grenelle, 75007 Paris
+* **Matinée** : Ateliers en ligne ou en physique
+* **Après-midi : Ministère de la Transformation et de la Fonction publiques** : Hôtel de Rothelin-Charolais, 101 rue de Grenelle, 75007 Paris
 Prévoir une pièce d'identité pour l'entrée.
 
 | Horaires |  | 
