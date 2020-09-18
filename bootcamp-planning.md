@@ -1,4 +1,5 @@
-# Bootcamp EIG4 - 21 au 25 septembre 2020
+# Séminaire de lancement
+###21 au 25 septembre 2020
 
 [![EIG4 Planning Bootcamp](./images/EIG4_Bootcamp_Planning.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/images/EIG4_Bootcamp_Planning.jpg)
 
