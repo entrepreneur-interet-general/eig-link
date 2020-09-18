@@ -34,12 +34,31 @@
 ### Mercredi 23 septembre, 9h30 - 17h30
 **En ligne** : Rencontres et ateliers en visioconférences
 
+**9h30 - 12h : Rencontre des acteurs du numérique publics**
+| Horaires | Visio 1 | Visio 2 | Visio 3 |
+| -------- | -------- | -------- | -------- | 
+| 9h30 - 9h50 | API.gouv | | France Connect |
+| 9h50 - 10h10 | Data.gouv | Juridique | Design.gouv |
+| 10h10 - 10h30 | Geo | Algorithmes publics| Designers Beta.gouv |
+| 10h30 - 10h50 |  | LabIA | Beta.gouv, startups d'État |
+
+| -------- | -------- | 
+| 11h00 - 12h00 | Laboratoire Linc, CNIL - Régis |
+
+
 | Horaires |  | 
 | -------- | -------- | 
 | 9h30 - 12h | Rencontre des acteurs du numérique publics | 
-| 12h30 - 13h30 | *optionnel* Etatlab-talk : Ioana Manolescu, "De l'accessibilité des statistiques aux entrepôts de données hétérogènes: outils pour le data journalisme" |
+| 12h30 - 13h30 | *optionnel* Etalab-talk : Ioana Manolescu, "De l'accessibilité des statistiques aux entrepôts de données hétérogènes: outils pour le data journalisme" |
 | 14h - 17h00 | Ateliers thématiques : Découverte des ressources | 
 | 17h - 17h30 | Quizz |
+
+Rencontre des acteurs du numérique publics :
+• 
+•
+• 
+•
+•
 
 ### Jeudi 24 septembre, 9h - 18h *+ after work*
 **Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
@@ -55,13 +74,13 @@
 
 ### Vendredi 25 septembre, 9h30 - 18h00
 **Matinée** : Ateliers en ligne ou en physique
-**Après-midi : Ministère de la transformation et de la fonction publiques** : Hôtel de Rothelin-Charolais, 101 rue de Grenelle, 75007 Paris
+**Après-midi : Ministère de la Transformation et de la Fonction publiques** : Hôtel de Rothelin-Charolais, 101 rue de Grenelle, 75007 Paris
 
-| Horaires | T | 
+| Horaires |  | 
 | -------- | -------- | 
 | 9h30 - 12h30 | Ateliers d'entraide entre défis - Organisation libre en équipe |
 | 14h - 15h00 | Retours sur le bootcamp ( lieu à définir) |
-| 15h - 17h30 | Rencontre avec Amélie de Montchalin, Ministre de la transformation et de la fonction publiques  |
+| 15h - 17h30 | Rencontre avec Amélie de Montchalin, Ministre de la Transformation et de la Fonction publiques  |
 | 17h30 - 18h00 | *optionnel* Clôture |
 
 
