@@ -9,20 +9,21 @@
 
 ## Détails et informations pratiques
 
-### Lundi 21 septembre 
-#### 9h - 17h : Le Lieu de la Transformation publique
+### Lundi 21 septembre, 9h - 17h
+**Le Lieu de la Transformation publique**, 77 avenue de Ségur, 75015 Paris
 
-| Horaires | Thématique | Public | Lieu | 
-| -------- | -------- | -------- | -------- | 
-| 9h - 12h |  Introduction du programme EIG | | Le Lieu de la Transformation publique |
-| 12h - 12h30 |  Mot de Bienvenue | | - |
-| 12h30 - 14h | Déjeuner libre |||
-| 14h - 16h | Premiers pas dans l'adminitsration | | - |
-| 16h00 - 18h | Échange libre entre EIG |||
+| Horaires |  |
+| -------- | -------- | 
+| 9h - 9h30 | Accueil au lieu de la Transformation publique |
+| 9h - 12h |  Introduction du programme EIG  |
+| 12h - 12h30 |  Mot de Bienvenue de Nadi Bou Hanna, Directeur du numérique et du système d'information et de communication de l'État |
+| 12h30 - 14h | Déjeuner libre |
+| 14h - 16h | Premiers pas dans l'adminitsration |
+| 16h00 - 18h | Échange libre entre EIG : Verre à coté du Lieu |
 
 
-### Mardi 22 septembre
-#### 9h - 18h : Zalthabar, Levallois-Perret
+### Mardi 22 septembre, 9h - 18h00 + after work
+**Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
@@ -31,8 +32,8 @@
 | 14h - 16h00 | Programme et outils de la promotion | | - |
 | 16h - 18h00 | Être EIG | + EIG des anciennes promo | - |
 
-### Mercredi 23 septembre
-**9h30 - 17h30 : En ligne**
+### Mercredi 23 septembre, 9h30 - 17h30
+**En ligne** : Renontres et ateleirs en visioconférences
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
@@ -41,8 +42,8 @@
 | 14h - 17h00 | Ateliers Découverte des ressources | | - |
 | 17h - 17h30 | Quizz | | - |
 
-### Jeudi 24 septembre
-#### 9h - 18h : Zalthabar, Levallois-Perret
+### Jeudi 24 septembre, 9h - 18h + after work
+**Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
@@ -52,8 +53,8 @@
 | 17h - 18h00 | Forum des défis | + Mentors | - |
 | 18h - 20h00 | After Work | + Mentors | - |
 
-### Vendredi 25 septembre
-**9h30 - 18h00 : Mixte, en ligne / en physique**
+### Vendredi 25 septembre, 9h30 - 18h00
+**Mixte** : en ligne / en physique
 
 | Horaires | Thématique | Public | Lieu | 
 | -------- | -------- | -------- | -------- | 
