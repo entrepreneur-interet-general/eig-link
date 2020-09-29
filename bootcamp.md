@@ -71,7 +71,6 @@ Code d'accès dans le slack
 | 15h - 16h | Open Source, Bastien Guerry - Etalab | Accessibilité, Benoît Dequick - Design.gouv |
 | 16h - 17h | LabIA, Kim Montalibet - Etalab | Design system, Jean-Charles Hourdeaux - SIG |
 
-
 ### Jeudi 24 septembre, 9h - 18h *+ after work*
 **Zalthabar**, 48 Rue de Villiers, 92300 Levallois-Perret
 
