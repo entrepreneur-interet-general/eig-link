@@ -15,7 +15,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Programme 2019
 
-| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | IMPACT / EVALUATION 
+| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | IMPACT / EVALUATION
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Bootcamp (EIG + mentors à certains moments)| 11 au 15 février| Voir la page du bootcamp | | |
 | Mentors | 21 février | 14h - 18h30 | LLL, Atelier C (rue du Caire) | Mini-bootcamp mentors |  |
@@ -42,14 +42,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - Thème : Rush de fin et restitution (vidéo)
 - **Support de préparation du Rush : [Lien du support](https://docs.google.com/spreadsheets/d/1jZ7nQFKkCqGixXvgDBYsk3xoWgwK69lgLlZmq8AMyEc/edit#gid=0)**
 
-#### Objectifs 
+#### Objectifs
 - Partager des problématiques de production liées au rush de fin
 - Challenger des réalisations et des indicateurs pour finalisation des contenus posters pour la restitution
 - Tourner les vidéos de restitution
 
 #### Programme
 - 9:15 - 9:45 - Accueil
-- 9:45 - 10:00 - Présentation de la journée 
+- 9:45 - 10:00 - Présentation de la journée
 - 10:00 - 10:30 - Standup
 - 10:30 - 12:30 - **Rush Dating**
 - 12:30 - 14:00 - Dej
@@ -87,19 +87,19 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 #### Atelier du séminaire EIG
 
-Les atliers du séminaire EIG ont été les suivants :
+Les ateliers du séminaire EIG ont été les suivants :
 
-- Atelier FailCon - Les échecs EIG (Quentin/JB) 
-- Mes motivations à rejoindre EIG - Pourquoi avoir rejoins EIG ? (JB) 
-- Atelier de lancement de projet (Hugo) 
-- Self branding (Antoine/Erica) 
-- Atelier retour sur le programme EIG (Seb/Hugo) 
+- Atelier FailCon - Les échecs EIG (Quentin/JB)
+- Mes motivations à rejoindre EIG - Pourquoi avoir rejoins EIG ? (JB)
+- Atelier de lancement de projet (Hugo)
+- Self branding (Antoine/Erica)
+- Atelier retour sur le programme EIG (Seb/Hugo)
 - Valoriser/Documenter le design d’un projet (JB)
-- Entrer dans l'administration (Erica) 
+- Entrer dans l'administration (Erica)
 
 #### Jeudi 5 septembre - Rétrospectif
 
-- 08h30 - 09h30 : Gare du Nord - Compiègne 
+- 08h30 - 09h30 : Gare du Nord - Compiègne
 - 09h30 - 10h05 : Voiture/Taxi - Compiègne - Autrêches
 - 10h00 - 10h45 : Arrivage sur le lieu - Installation - Café
 - 10h45 - 11h00 : Présentation du séminaire
@@ -109,8 +109,8 @@ Les atliers du séminaire EIG ont été les suivants :
 - 15h30 - 15h45 : Pause
 - **15h45 - 17h00 : Atelier**
 - 17h00 - 18h00 : Micro gamejam (Mourdjen Bari)
-- 18h00 - 19h00 : OFF // Apéro 
-- 20h00 : Dîner 
+- 18h00 - 19h00 : OFF // Apéro
+- 20h00 : Dîner
 
 #### Vendredi 6 septembre - Prospectif
 
@@ -119,14 +119,14 @@ Les atliers du séminaire EIG ont été les suivants :
 - 08h30 - 09h30 : Petit-dej
 - 09h30 - 10h00 : Présentation de la journée / Ice-breaking
 - **10h00 - 11h15 : Atelier**
-- 11h15 - 11h30 : Pause 
+- 11h15 - 11h30 : Pause
 - **11h30 - 12h30 : Atelier**
 - 12h30 - 14h00 : Déjeuner + intervention d'Adnène Trojette
-- **14h00 - 15h30 : Atelier** 
+- **14h00 - 15h30 : Atelier**
 - 15h30 - 15h45 : Pause
 - **15h45 - 17h00 : Plénière**
-- 17h00 - 18h00 : **OFF** 
-- 18h00 - 19h00 : OFF // Apéro // Retour 
+- 17h00 - 18h00 : **OFF**
+- 18h00 - 19h00 : OFF // Apéro // Retour
 - 20h00 : Dîner
 
 ### Session EIG | 29 août
@@ -145,11 +145,11 @@ Les atliers du séminaire EIG ont été les suivants :
 #### Programme
 
 - 9:15 - 9:45 - Accueil
-- 9:45 - 10:00 - Présentation de la journée 
+- 9:45 - 10:00 - Présentation de la journée
 - 10:00 - 10:30 - Standup >> Info à transmettre en + : Partage de bonnes nouvelles de pérennisation des défis / personnes (ex : ouverture de poste, prolongation comme independant...)
     - Actualité sur la pérennisation du programme et sur les DIG
     - Appel à gestion de la logistique / voiture pour le séminaire
-    - Message **positive attitude** > Engagement de moyen/contractuel, "on vous demande pas d'ouvrir un service à compétence nationale", message de BZG, que vous soyez tous content de votre défis 
+    - Message **positive attitude** > Engagement de moyen/contractuel, "on vous demande pas d'ouvrir un service à compétence nationale", message de BZG, que vous soyez tous content de votre défis
 - 10:30 - 12:30 - Atelier "Mesurer son impact"
     - Présentation rapide ([slide de la doc](https://doc.eig-forever.org/mesure-impact.html#pourquoi-mesurer-son-impact)) ?
     - Exemple d'inspiration : Poster, pages réalisations
@@ -157,7 +157,7 @@ Les atliers du séminaire EIG ont été les suivants :
 - 12:30 - 14:00 - Dej
 - 14:00 - 14:30 - Repartition pour l'aprem
 - 14:30 - 16:00 - Atelier
-    - Proposition d'atelier pour le seminaire 
+    - Proposition d'atelier pour le seminaire
 - 16:00 - 16:15 - Pause
 - 16:15 - 17:30 - Atelier
 - 17:30 - 18:00 - Restitution
@@ -166,10 +166,10 @@ Les atliers du séminaire EIG ont été les suivants :
 
 * Lieu : Liberté Living Lab, Atelier C (rue du Caire)
 * Qui va animer ? L'équipe EIG Core   
-* **Objectifs** : 
+* **Objectifs** :
     * Accueillir les mentors DIG et faire se rencontrer la communauté des mentors
     * Faire le point à mi-parcours sur les réussites, difficultés, prochaines étapes, pérennisation et mesure d'impact des défis
-    
+
 #### Programme de l'après-midi
 
 * 14h - 14h15 : accueil
@@ -187,15 +187,15 @@ Les atliers du séminaire EIG ont été les suivants :
 
 ### Session EIG & mentors | 4 juillet
 
-* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* Lieu : Liberté Living Lab, Grand Atelier et Atelier B
 * Qui va animer ? L'équipe EIG Core   
 * **Livrables** : fin des démos et ateliers collaboratifs sur les publications à mi-parcours
-* **Objectifs** : 
+* **Objectifs** :
     * Intégrer les DIG
     * Partager les avancées de son défi et recevoir des retours de la promotion
     * Faire un tour d'horizon des **publications** produites aux regards des objectifs fixés par le programme (open source, open data, com, accessibilité...)
 
-#### Programme de la journée 
+#### Programme de la journée
 
  - 9:15 - 9:45 - Accueil
  - 9:45 - 10:00 - Présentation de la journée / Présentation des DIG
@@ -211,24 +211,24 @@ Les atliers du séminaire EIG ont été les suivants :
         - EIG Link
         - Plume (Redaction/Exploration)
         - Polygraphe
-        - OpenChronic 
+        - OpenChronic
         - Karfu'R
  - 12:30 - 14:00 - Déjeuner
- - 14:00 - 14:30 
- 
+ - 14:00 - 14:30
+
  |TRACK EIG 3 (Grand Atelier) |TRACK DIG (Atelier B) |
  |-----|-----|
  |14:00 - 14:30 : Répartition ateliers (**publications**) (Grand Atelier) <br> 14:30 - 16:00 : Ateliers (Grand Atelier divisé) <br> - Open source / Open data | 14:00 - 14:15 : Rencontre avec Bastien Guerry (EIG 1) <br> 14:15 - 14:30 : Checklist arrivée dans l'administration <br> 14:30 - 16h : Présentation des outils et installation + questions et co-construction du programme d'accompagnement |
  - 16:00 - 16:30 - Pause
- - 16:30 - 17:30 - Atelier (Grand Atelier divisé) 
+ - 16:30 - 17:30 - Atelier (Grand Atelier divisé)
  - 17:30 : Restitution de la journée
 
 ### Session EIG & mentors | 6 juin
 
-* Lieu : Liberté Living Lab, Grand Atelier et Atelier B 
+* Lieu : Liberté Living Lab, Grand Atelier et Atelier B
 * Qui va animer ? L'équipe EIG Core et Hugo (défi Karfu'R)   
 * **Livrables** : des démos et des feuilles de route pour les défis
-* **Objectifs** : 
+* **Objectifs** :
     * Partager les avancées de son défi et recevoir des retours de la promotion
     * Faire un point à mi-parcours en équipe défi (mentors + EIG) et décider des prochaines étapes
 
@@ -237,8 +237,8 @@ Les atliers du séminaire EIG ont été les suivants :
 **9h30-10h** : Accueil, standup
 
 **10h00-12h** : Speed-dating défis
-* 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois. 
-* 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois. 
+* 10h - 11h : le groupe A présente, le groupe B écoute. Les défis du groupe A présentent leur défi 4 fois.
+* 11h - 12h : le groupe B présente, le groupe A écoute. Les défis du groupe B présentent leur défi 4 fois.
 
 **12h00 - 12h30** : Echange libre entre défis ou speed-dating ciblé
 
@@ -246,33 +246,33 @@ Les atliers du séminaire EIG ont été les suivants :
 
 **12h30 - 14h** : Déjeuner
 
-#### Format du speed-dating 
+#### Format du speed-dating
 
-Le format speed-dating défis est un nouveau format de présentation et de partage entre défis. 
+Le format speed-dating défis est un nouveau format de présentation et de partage entre défis.
 
-Sur un stand, chaque défi présente son projet à une autre équipe défi. 
+Sur un stand, chaque défi présente son projet à une autre équipe défi.
 - Le cycle de ce speed-dating défis est de **15min** :
     - Le défi pitche **5min** devant un autre défi.
     - Les 2 défis peuvent échanger pendant **10min**.
 
 **Important** au bout de 15min :
-- Le défi qui écoute passe à un autre défi 
+- Le défi qui écoute passe à un autre défi
 - Le défi qui présent reste sur place et voit un nouveau défi arriver   
 _Exemple : ACOSS Plateforme présente son défi à IA Flash. 15 minutes après, IA Flash part écouter Adler, et l'équipe ACOSS Plateforme présente à nouveau son défi, à Karfu'R cette fois._
 
-8 défis pitchent à la fois. 
-Les défis sont répartis en 2 groupes de 8 (A et B). 
+8 défis pitchent à la fois.
+Les défis sont répartis en 2 groupes de 8 (A et B).
 Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, les rôles s'inversent.
 
 **De 10h à 11h** :
 - Le **groupe A** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
 - Le **groupe B** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-**De 11h à 12h** : Nous inversons les rôles du groupe A et B 
+**De 11h à 12h** : Nous inversons les rôles du groupe A et B
 - Le **groupe B** est le groupe de défis qui *pitche*. Ils pourront présenter leur défis 4 fois.
 - Le **groupe A** est le groupe de défis qui écoute. Ils pourront échanger avec les défis qui pitcheront.
 
-**Groupe A** : 
+**Groupe A** :
 1. ACOSS Plateforme
 2. Adler
 3. CartoBio
@@ -282,7 +282,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 7. EIGLink
 8. ExploCode
 
-**Groupe B** : 
+**Groupe B** :
 1. IA Flash
 2. Karfu'R
 3. LexImpact
@@ -294,11 +294,11 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 **Planning des rotations de 10h à 11h :**
 
-| Stand Pitch | 10h | 10h15 | 10h30 | 10h45 | 
+| Stand Pitch | 10h | 10h15 | 10h30 | 10h45 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1. ACOSS Plateforme | IA Flash | Karfu'R| LexImpact | OpenChronic|
 | 2. Adler | Karfu'R | LexImpact | OpenChronic |OpenJustice|
-| 3. CartoBio | LexImpact | OpenChronic |OpenJustice|Plume (Redac) | 
+| 3. CartoBio | LexImpact | OpenChronic |OpenJustice|Plume (Redac) |
 | 4. CibNav | OpenChronic | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
 | 5. DataJust | OpenJustice |Plume (Redac) | Plume (Explo)| Polygraphe |
 | 6. DataReg | Plume (Redac) | Plume (Explo)| Polygraphe |IA Flash |
@@ -309,7 +309,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 **Planning des rotations de 11h à 12h :**
 
-| Stand Pitch | 11h | 11h15 | 11h30 | 11h45 | 
+| Stand Pitch | 11h | 11h15 | 11h30 | 11h45 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1. IA Flash | ExploCode | EIGLink | DataReg | DataJust |
 | 2. Karfu'R | EIGLink| DataReg| DataJust|CibNav|
@@ -318,7 +318,7 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 | 5. OpenJustice | CibNav| CartoBio| Adler| ACOSS Plateforme|
 | 6. Plume (Redac) | CartoBio| Adler| Accos| ExploCode|
 | 7. Plume (Explo) | Adler| Accos| ExploCode |EIGLink |
-| 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg | 
+| 8. Polygraphe | Accos| ExploCode |EIGLink |DataReg |
 
 #### Programme de l'apres-midi - mentors + EIG + invités (Etalab, beta.gouv.fr)
 
@@ -326,9 +326,9 @@ Pendant 1 heure, le groupe A présente et le groupe B écoute. Au bout d'1 h, le
 
 **14h - 17h30** : Démos + Atelier "Feuille de route" avec les mentors
 
-Nous avons 15 défis. Chauque défi doit pitcher devant 10/20 personnes. Le format de pitch est de 20 minutes par défi : 
-- 8 minutes de pitch 
-- 12 minutes de Q/R 
+Nous avons 15 défis. Chauque défi doit pitcher devant 10/20 personnes. Le format de pitch est de 20 minutes par défi :
+- 8 minutes de pitch
+- 12 minutes de Q/R
 
 Proposition du format pitch :
 1. Rappel de la problématique de départ (1min)
@@ -373,16 +373,16 @@ Liste des défis :
 ### Séminaire hors-les-murs | 16 et 17 mai
 
 Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur nos défis respectifs. Nous nous organiserons comme à son habitude en "Forum ouvert" où l'on pourra proposer des ateliers et partager nos compétences selon nos besoins du moment.
-- Jeudi sera sous l'axe de la **Production** 
-- Vendredi sera la journée de la **Transmission** 
+- Jeudi sera sous l'axe de la **Production**
+- Vendredi sera la journée de la **Transmission**
 
 #### Objectifs
 
 - Souder la promotion en passant un bon moment ensemble
-- Accelerer son défi 
+- Accelerer son défi
 - Préparer le démo day du 6 juin
-  
-#### Planning des 2 jours 
+
+#### Planning des 2 jours
 
 > Retours détaillés du séminaire voir : [Séminaire mai 2019](./seminaire-2019-05.md)
 
@@ -424,7 +424,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 
 * Lieu : Liberté Living Lab, Atelier C
 * Qui va animer ? L'équipe EIG Core
-* **Objectifs** : 
+* **Objectifs** :
     * Comprendre les facteurs d'une pérennisation réussie
     * Elaborer des scénarios de pérennisation et identifier les actions à mettre en oeuvre pour les atteindre
 
@@ -444,7 +444,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des EIG 3   
 * **Livrables** : TBC
-* **Objectifs** : 
+* **Objectifs** :
     * Comprendre le métier de designer
     * Savoir utiliser les outils du design dans son défi
     * Faire avancer son défi sur les aspects design (recherche utilisateur, user stories, interfaces...)
@@ -453,7 +453,7 @@ Notre séminaire sera un moment de sprint collectif pour avancer ensemble sur no
 [**Programme de la journée**](https://speakerdeck.com/eig2018/pleniere-design-and-com)
 
 09h30 : Accueil, standup, annonces transverses et présentation du programme de la journée  
-10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#)) 
+10h00 : Première séquence (les métiers du design) : 5 minutes de tour de table sur le parcours des designers puis ateliers en petits groupes ([retranscription des échanges](https://pad.etalab.studio/s/HJ7lnP7cE#))
 
 10h30 : Deuxième séquence : Recherche utilisateur (présentation de Coline [à confirmer])  
 11h00 : Pause  
@@ -465,16 +465,16 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 
 12h30 : Déjeuner    
 14h00 : 1ère session d'ateliers de l'après-midi
-* Clinique défis stratégique (Soizic) 
+* Clinique défis stratégique (Soizic)
 * Design Review (JB)
 * [**Communiquer avec ses parties prenantes** par Nikos](https://speakerdeck.com/eig2018/communication-et-parties-prenantes)
 * Atelier publications sur les réseaux sociaux (Antoine)  
 
 16H30 : 2nd session d'ateliers en auto-organisation  
-* Clinique défis stratégique (Soizic) 
+* Clinique défis stratégique (Soizic)
 * Design Review (JB)
 * Atelier documentation (Antoine)  
-* Atelier communication (Sophie) 
+* Atelier communication (Sophie)
 
 18h00 - 18h30 : Conclusion de la journée
 
@@ -483,7 +483,7 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 * Lieu : Liberté Living Lab, Grand Atelier
 * Qui va animer ? L'équipe EIG Core + des personnes d'Etalab
 * **Livrables** : TBC
-* **Objectifs** : 
+* **Objectifs** :
   * Avoir un aperçu du cadre légal de l'"open"
   * Identifier ce qui peut être mis en open source et open data dans les différents défis (et comment)
 
@@ -509,7 +509,7 @@ _Note : les séquences du matin sont composées d'une présentation de 5 à 10 m
 Intervenants/facilitateurs de l'après-midi (pressentis) :
 * Antoine Augusti : open source, open data, stratégie, tech
 * Bastien Guerry : open source, open data, Wikimédia, spécialité licences
-* Mathilde Bras : open data, spécialité stratégie 
+* Mathilde Bras : open data, spécialité stratégie
 * Romain Talès : open data, spécialité stratégie
 * Tamkien Duong : open source, open data, spécialité tech / data.gouv.fr
 
@@ -517,7 +517,7 @@ Intervenants/facilitateurs de l'après-midi (pressentis) :
 
 **Quels sont les objectifs de la session ?**  
 Permettre aux mentors de partager leurs expériences après quelques semaines de présence des EIG   
-Découvrir les bases du design et de la gestion de projet agile et mieux comprendre comment les mentors peuvent se positionner au sein des défis EIG 
+Découvrir les bases du design et de la gestion de projet agile et mieux comprendre comment les mentors peuvent se positionner au sein des défis EIG
 
 **Programme**  
 14h30 - 14h45: icebreaker (parler d'une expérience ou d'un projet qui nous tient à coeur)  

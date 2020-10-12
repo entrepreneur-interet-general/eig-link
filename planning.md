@@ -35,4 +35,29 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 
 ## Présentation détaillée des sessions
 
+### Session du 15 octobre 2020
+- Heures : 9h30 - 17h30
+- Lieu : En ligne
+- Thème : Prototypage, tests et indicateurs
 
+#### Objectifs
+- Intégrer une approche de prototypage / tests dans les défis
+- Organiser et mener des revues de projets
+- Définir et suivre des indicateurs de succès
+
+#### Programme
+- 9:30 - 10:00 - Accueil et Stand-up projets
+- 10:00-10:30 - Présentation : Prototyper et tester
+- 10:30-11:30	- **Ateliers**
+	- Formuler des hypothèses et prototyper
+	- Évaluer et prioriser des fonctionnalités
+	- Tester des prototypes
+	- Collaborer efficacement à distance
+	- Organiser des revues de code
+- 11:30-11:45	- Mise en commun
+- 12:00-12:30 -	Organisation des Revues de projet
+- 14:00-14:30 - Accueil des mentors
+- 14:30-15:00	- Présentation : Mener des revues de projets
+- 15:00-16:30	- **Revues de projets, groupes / 3 défis**
+- 16:30-16:45	- Mise en commun
+- 17:00-17:30 - Présentation : Indicateurs et suivi
