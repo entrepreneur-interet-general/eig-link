@@ -36,7 +36,7 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 ## Présentation détaillée des sessions
 
 ### Session du 15 octobre 2020
-- Heures : 9h30 - 17h30
+- Heures : 9h30-17h30
 - Lieu : En ligne
 - Thème : Prototypage, tests et indicateurs
 
@@ -46,7 +46,7 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - Définir et suivre des indicateurs de succès
 
 #### Programme
-- 9:30 - 10:00 - Accueil et Stand-up projets
+- 9:30-10:00 - Accueil et Stand-up projets
 - 10:00-10:30 - Présentation : Prototyper et tester
 - 10:30-11:30	- **Ateliers**
 	- Formuler des hypothèses et prototyper
@@ -61,3 +61,18 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - 15:00-16:30	- **Revues de projets, groupes / 3 défis**
 - 16:30-16:45	- Mise en commun
 - 17:00-17:30 - Présentation : Indicateurs et suivi
+
+### Session du 1er octobre 2020
+- Heures : 14h00-16h00
+- Lieu : En ligne
+- Thème : Partage d'expériences et présentation de l'accompagnement mentors à venir
+
+#### Programme
+- 14h00-14h10 - Accueil et questions
+- 14h10-15h00 - Atelier discussion/partage : premier mois EIG
+- 15h00-15h15 - Pause
+- 15h15-15h30 - Présentation de l'accompagnement EIG et des valeurs du programme
+- 15h30-16h00 - Discussion en plénière autour de l'accompagnement mentors
+- 16h00-17h00 - L'équipe EIG reste disponible si des mentors veulent discuter d'un point particulier de leur défi
+
+Le support de présentation est disponible [ici](https://speakerdeck.com/eig2020/session-daccompagnement-mentors-eig-4-1er-octobre). 
