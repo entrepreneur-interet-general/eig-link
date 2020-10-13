@@ -21,16 +21,16 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 | **Séminaire de lancement**  | EIG (+ mentors ponctuellement) | 21 - 25 septembre | [Voir le programme](bootcamp.md) | Mixte|
 | **Premier mois des EIG** | Mentors seuls | 1er octobre | 14h - 16h | En ligne |
 | **#1 Prototyper, tester et évaluer** | EIG + mentors | 15 octobre | EIG : 9h30-18h, mentors : 14h-17h30  | En ligne |
-| **#2** | EIG seuls | 26 novembre | 9h30 - 18h | Lieu de la Transformation publique |
-| | Mentors seuls | 3 décembre | 14h - 17h30 |Lieu de la Transformation publique |
-| **Séminaire : intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | Lieu de la Transformation publique |
-| **#3** | EIG seuls | 14 janvier | 9h30 - 18h | Lieu de la Transformation publique |
-| **#4** | EIG + mentors | 11 février | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
-|| Mentors seuls | 4 mars | 14h - 17h30 | Lieu de la Transformation publique |
+| **#2 Faciliter l'appropriation** | EIG seuls | 26 novembre | 9h30 - 18h | Lieu de la Transformation publique |
+| **Pérenniser les défis**| Mentors seuls | 3 décembre | 14h - 17h30 |Lieu de la Transformation publique |
+| **Séminaire intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | Lieu de la Transformation publique |
+| **#3 Journée Démo** | EIG seuls | 14 janvier | 9h30 - 18h | Lieu de la Transformation publique |
+| **#4 Bilan mi-parcours** | EIG + mentors | 11 février | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
+| **Ouvrir les défis** | Mentors seuls | 4 mars | 14h - 17h30 | Lieu de la Transformation publique |
 | **Séminaire** | EIG seuls | 11 - 12 mars | 9h30 - 18h | Lieu de la Transformation publique |
-| **#5** | EIG + mentors | 8 avril     | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
-| **#6** | EIG seuls | 6 mai | 9h30 - 18h | Lieu de la Transformation publique |
-| **#7** |EIG + mentors | 10 juin | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
+| **#5 Consolider** | EIG + mentors | 8 avril     | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
+| **#6 Documenter les défis** | EIG seuls | 6 mai | 9h30 - 18h | Lieu de la Transformation publique |
+| **#7 Évaluer et valoriser** |EIG + mentors | 10 juin | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
 | **Restitution finale** |Public | 17 juin | journée | Lieu de la Transformation publique |
 
 ## Présentation détaillée des sessions
