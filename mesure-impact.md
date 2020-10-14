@@ -7,20 +7,20 @@ Les défis ont une durée initiale de vie courte : 10 mois. Durant ce temps, il 
 
 En définissant des indicateurs à suivre, on fait preuve de transparence et on assure une vision commune des problématiques à résoudre. Si ces indicateurs atteignent les objectifs fixés, c'est un argument à faire valoir pour que les projets continuent.
 
-## Que mesurer ? 
+## Que mesurer ?
 
 Dans le programme EIG, on distingue les indicateurs propres au programme, qui sont communs à tous les défis, et les indicateurs propres à chaque défi, qui concernent les politiques publiques concernées par les projets ainsi que la performance des outils.
 
 ### Les indicateurs du programme
 
-Le programme EIG mesure deux indicateurs dans le cadre de la loi de finances, qui se concentrent sur **l'internalisation de compétences numériques dans l'administration** : 
+Le programme EIG mesure deux indicateurs dans le cadre de la loi de finances, qui se concentrent sur **l'internalisation de compétences numériques dans l'administration** :
 - Le nombre d'EIG recrutés chaque année par le programme
 - Le nombre d'EIG qui continue à travailler dans l'administration suite au programme
 
 Pour notre évaluation, nous nous intéressons à d'autres thématiques communes à tous les défis.
-- **Pérennisation des solutions** : état d'avancement des projets à l'issue des 10 mois (en production, prévu pour être en production, sans mise en production prévue), conditions de maintenance ; 
-- **Transformation numérique** : nombre de défis ayant organisé des formations, nombre de défis ayant développé des outils "annexes" (c'est-à-dire, des outils pas prévus dans le périmètre initial du défi) pendant les 10 mois ; 
-- **Ouverture** : nombre de défis ayant un ou des dépôt(s) de code en ligne, nombre de défis ayant publié des librairies, nombre de défis ayant ouvert des jeux de données, nombre de défis ayant contribué à des dépôts de code existants ; 
+- **Pérennisation des solutions** : état d'avancement des projets à l'issue des 10 mois (en production, prévu pour être en production, sans mise en production prévue), conditions de maintenance ;
+- **Transformation numérique** : nombre de défis ayant organisé des formations, nombre de défis ayant développé des outils "annexes" (c'est-à-dire, des outils pas prévus dans le périmètre initial du défi) pendant les 10 mois ;
+- **Ouverture** : nombre de défis ayant un ou des dépôt(s) de code en ligne, nombre de défis ayant publié des librairies, nombre de défis ayant ouvert des jeux de données, nombre de défis ayant contribué à des dépôts de code existants ;
 - **Accessibilité** : intégration des normes et référentiels de l'Etat aux projets.
 
 ### Les indicateurs propres à chaque défi
@@ -37,7 +37,7 @@ Ces thématiques peuvent aussi vous aider à déterminer des livrables qui ne fo
 
 > Nota : les indicateurs portant sur la transformation numérique et sur l'ouverture des défis font partie des **indicateurs du programme, communs à tous les défis** (voir ci-dessus).
 
-::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs). 
+::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs).
 :::  
 
 ## Comment mesurer ? Étapes à suivre pour définir vos indicateurs
@@ -58,12 +58,12 @@ Vous devez prendre en considération :
 
 Essayez de décrire l'objectif de votre défi en une seule phrase.
 
-> Le défi EIG 2 Signaux Faibles permet à l'administration de détecter plus en amont les entreprises en difficulté pour mieux les accompagner. 
+> Le défi EIG 2 Signaux Faibles permet à l'administration de détecter plus en amont les entreprises en difficulté pour mieux les accompagner.
 
 > GOV.UK Pay va permettre à l'administration de recevoir des paiements plus facilement et plus efficacement, permettant un gain de temps et d'efforts pour les différentes équipes.
 
 ### Définir les apports de votre défi
-Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent contribuer au fait que votre défi remplit ses objectifs. Utilisez pour ce faire la description de votre défi. 
+Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent contribuer au fait que votre défi remplit ses objectifs. Utilisez pour ce faire la description de votre défi.
 
 **Exemple du défi EIG 3 ACOSS Plateforme (qui se base sur les retours des utilisateurs)**
 
@@ -73,7 +73,7 @@ Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent cont
 > - Besoin : en tant que citoyen à l'étranger, j'ai besoin d'argent pour financer des soins médicaux rapidement.
 > - Apport de la solution : rendre plus facile et rapide l'accès à des soins médicaux à l'étranger en accélérant la procédure pour obtenir des financements.
 
-::: tip Nous vous conseillons d'identifier un apport du défi par l'entrée "utilisateurs", et un apport par l'entrée de la politique publique ou de l'administration d'accueil. L'atelier "vision" proposé lors du bootcamp a permi de travailler sur ces aspects du défi. 
+::: tip Nous vous conseillons d'identifier un apport du défi par l'entrée "utilisateurs", et un apport par l'entrée de la politique publique ou de l'administration d'accueil. L'atelier "vision" proposé lors du bootcamp a permi de travailler sur ces aspects du défi.
 :::  
 
 ### Imaginer des hypothèses à partir des apports
@@ -94,12 +94,12 @@ Vos hypothèses devraient vous guider sur ce qu'il est possible et pertinent de 
 Par exemple :
 > Nous allons mesurer combien de temps prend un utilisateur pour effectuer sa démarche en utilisant notre formulaire en ligne.
 
-Attention aux métriques trompeuses, qui ne permettent pas de mesurer des objectifs clairs ou qui détournent de l'objectif initial. 
+Attention aux métriques trompeuses, qui ne permettent pas de mesurer des objectifs clairs ou qui détournent de l'objectif initial.
 
 ### Trouver comment mesurer ses indicateurs
 Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comment réellement mesurer vos indicateurs. Vous pouvez vous reposer sur :
 
-- des outils de mesure d'audience 
+- des outils de mesure d'audience
 - des performances de votre produit
 - des questionnaires de satisfaction
 - des informations de support usager
@@ -108,13 +108,15 @@ Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comm
 
 Ne vous reposez pas que sur des outils numériques. Idéalement vous devez vous appuyer sur plusieurs sources, par exemple des bases de données, des entretiens utilisateurs et des éléments financiers.
 
-::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration. 
+::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration.
 :::  
+
+- [Fiche : Indicateurs du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Indicateurs.pdf)
 
 ## Exemple : défi PrédiSauvetage
 Pour illustrer ces consignes, nous prenons comme exemple le défi EIG 2 [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) dont l'objectif était de sauver des vies en mer en prévenant les accidents maritimes.
 
-Nous détaillons les objectifs et indicateurs associés mis en place. 
+Nous détaillons les objectifs et indicateurs associés mis en place.
 
 | Objectifs | Indicateurs |
 |----|-----|
@@ -132,4 +134,3 @@ Nous détaillons les objectifs et indicateurs associés mis en place.
 - [Évaluer un projet de transformation](https://eformation.fonction-publique.gouv.fr/course/view.php?id=14), sur la plateforme de la formation interministérielle (plateforme ouverte aux agents publics sur inscription)
 - [Description du projet Camino](https://camino.beta.gouv.fr/a-propos) et [statistiques du projet Camino](https://camino.beta.gouv.fr/statistiques)
 - Les [analyses d’impact relative à la protection des données (AIPD)](https://www.cnil.fr/fr/RGPD-analyse-impact-protection-des-donnees-pia) et l'[outil PIA](https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil) développé, pour permettre aux responsables de traitement d’analyser les risques que comportent leurs traitements.
-
