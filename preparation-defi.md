@@ -5,7 +5,7 @@
 
 La formulation initiale du défi pose la problématique de départ, les usagers visées, ainsi que le changement et les bénéfices espérés par la mise en place du projet.
 Cette vision, formulée collectivement en début de projet accompagnera les avancées du défi en s'assurant que l'ambition et les objectifs du défi soient partagés par l'équipe du projet.
-[Fiche : Vision du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_VisionDefi.pdf)
+- [Fiche : Vision du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_VisionDefi.pdf)
 
 ### Anticiper les freins et chercher des opportunités
 
