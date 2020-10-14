@@ -7,7 +7,39 @@ Les défis ont une durée initiale de vie courte : 10 mois. Durant ce temps, il 
 
 En définissant des indicateurs à suivre, on fait preuve de transparence et on assure une vision commune des problématiques à résoudre. Si ces indicateurs atteignent les objectifs fixés, c'est un argument à faire valoir pour que les projets continuent.
 
-## Étapes à suivre pour définir vos indicateurs
+## Que mesurer ? 
+
+Dans le programme EIG, on distingue les indicateurs propres au programme, qui sont communs à tous les défis, et les indicateurs propres à chaque défi, qui concernent les politiques publiques concernées par les projets ainsi que la performance des outils.
+
+### Les indicateurs du programme
+
+Le programme EIG mesure deux indicateurs dans le cadre de la loi de finances, qui se concentrent sur **l'internalisation de compétences numériques dans l'administration** : 
+- Le nombre d'EIG recrutés chaque année par le programme
+- Le nombre d'EIG qui continue à travailler dans l'administration suite au programme
+
+Pour notre évaluation, nous nous intéressons à d'autres thématiques communes à tous les défis.
+- **Pérennisation des solutions** : état d'avancement des projets à l'issue des 10 mois (en production, prévu pour être en production, sans mise en production prévue), conditions de maintenance ; 
+- **Transformation numérique** : nombre de défis ayant organisé des formations, nombre de défis ayant développé des outils "annexes" (c'est-à-dire, des outils pas prévus dans le périmètre initial du défi) pendant les 10 mois ; 
+- **Ouverture** : nombre de défis ayant un ou des dépôt(s) de code en ligne, nombre de défis ayant publié des librairies, nombre de défis ayant ouvert des jeux de données, nombre de défis ayant contribué à des dépôts de code existants ; 
+- **Accessibilité** : intégration des normes et référentiels de l'Etat aux projets.
+
+### Les indicateurs propres à chaque défi
+
+**Avoir plusieurs thématiques d'indicateurs**
+Nous vous recommandons d'avoir des indicateurs divers et variés, s'articulant autour de plusieurs thématiques.
+
+- La politique publique rattachée à votre défi : diminution de la fraude, économie réalisée, amélioration de la prise en charge
+- La performance de votre produit : taux de complétion, rapidité d'utilisation, satisfaction des usagers
+- La transformation numérique de votre administration : formations organisées
+- L'ouverture de votre défi : publication d'articles, de codes sources, de données, de modèles, etc.
+
+Ces thématiques peuvent aussi vous aider à déterminer des livrables qui ne font pas partie de la solution numérique que vous développez, mais qui doivent être tout autant valorisés. Par exemple, pour l'ouverture, l'ouverture d'un nouveau jeu de données peut être considérée comme un livrable. D'autres types de livrables incluent : la documentation du projet (dans une optique de passation et d'ouverture des méthodes), les supports de formation, les événements, etc.
+
+> Nota : les indicateurs portant sur la transformation numérique et sur l'ouverture des défis font partie des **indicateurs du programme, communs à tous les défis** (voir ci-dessus).
+
+::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs). :::
+
+## Comment mesurer ? Étapes à suivre pour définir vos indicateurs
 Afin de définir vos indicateurs, nous vous recommandons de suivre un processus en plusieurs étapes détaillé ci-après. Ces étapes sont les suivantes :
 
 1. Établir une description claire de votre défi
@@ -73,39 +105,9 @@ Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comm
 
 Ne vous reposez pas que sur des outils numériques. Idéalement vous devez vous appuyer sur plusieurs sources, par exemple des bases de données, des entretiens utilisateurs et des éléments financiers.
 
-::: tip **Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs**. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration. :::
+::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration. :::
 
 ## En pratique
-
-Dans le programme EIG, on distingue les indicateurs propres au programme, qui sont communs à tous les défis, et les indicateurs propres à chaque défi, qui concernent les politiques publiques concernées par les projets ainsi que la performance des outils.
-
-### Les indicateurs du programme
-
-Le programme EIG mesure deux indicateurs dans le cadre de la loi de finances, qui se concentrent sur **l'internalisation de compétences numériques dans l'administration** : 
-- Le nombre d'EIG recrutés chaque année par le programme
-- Le nombre d'EIG qui continue à travailler dans l'administration suite au programme
-
-Pour notre évaluation, nous nous intéressons à d'autres thématiques communes à tous les défis.
-- **Pérennisation des solutions** : état d'avancement des projets à l'issue des 10 mois (en production, prévu pour être en production, sans mise en production prévue), conditions de maintenance ; 
-- **Transformation numérique** : nombre de défis ayant organisé des formations, nombre de défis ayant développé des outils "annexes" (c'est-à-dire, des outils pas prévus dans le périmètre initial du défi) pendant les 10 mois ; 
-- **Ouverture** : nombre de défis ayant un ou des dépôt(s) de code en ligne, nombre de défis ayant publié des librairies, nombre de défis ayant ouvert des jeux de données, nombre de défis ayant contribué à des dépôts de code existants ; 
-- **Accessibilité** : intégration des normes et référentiels de l'Etat aux projets.
-
-### Les indicateurs propres à chaque défi
-
-**Avoir plusieurs thématiques d'indicateurs**
-Nous vous recommandons d'avoir des indicateurs divers et variés, s'articulant autour de plusieurs thématiques.
-
-- La politique publique rattachée à votre défi : diminution de la fraude, économie réalisée, amélioration de la prise en charge
-- La performance de votre produit : taux de complétion, rapidité d'utilisation, satisfaction des usagers
-- La transformation numérique de votre administration : formations organisées
-- L'ouverture de votre défi : publication d'articles, de codes sources, de données, de modèles, etc.
-
-Ces thématiques peuvent aussi vous aider à déterminer des livrables qui ne font pas partie de la solution numérique que vous développez, mais qui doivent être tout autant valorisés. Par exemple, pour l'ouverture, l'ouverture d'un nouveau jeu de données peut être considérée comme un livrable. D'autres types de livrables incluent : la documentation du projet (dans une optique de passation et d'ouverture des méthodes), les supports de formation, les événements, etc.
-
-> Nota : les indicateurs portant sur la transformation numérique et sur l'ouverture des défis font partie des **indicateurs du programme, communs à tous les défis** (voir ci-dessus).
-
-::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs). :::
 
 ## Exemple : défi PrédiSauvetage
 Pour illustrer ces consignes, nous prenons comme exemple le défi EIG 2 [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) dont l'objectif était de sauver des vies en mer en prévenant les accidents maritimes.
