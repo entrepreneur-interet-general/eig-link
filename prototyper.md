@@ -2,13 +2,15 @@
 
 [[toc]]
 
-### Expérimenter une solution
+Un processus itératif de recherche et d’expérimentation permettra d’explorer les solutions possibles et de prendre des décisions concernant les orientations du projets et des choix de conception ou techniques.
+
+### Incarner et rendre visible une solution
 Concevoir des prototypes dès le démarrage du projet aide à préfigurer le fonctionnement de la solution en situation réelle.
 Avec un prototype, vous proposez à vos usagers une première expérience, vous mesurez si la solution répond à leurs besoins et vous observez leur compréhension du service et leurs interactions afin d’améliorer votre solution. En rendant visible un début de solution, tôt dans le projet, vous permettez aussi aux parties prenantes du service de se projeter concrètement dans son fonctionnement et d’anticiper ses conditions de mise en œuvre.
 Les tests menés sur un prototype seront autant de retours et apprentissages à intégrer de façon itérative au projet.
 
-#### Déterminez ce que vous souhaitez apprendre
-Avant de construire un prototype, interrogez-vous sur ce que vous souhaitez en apprendre. Quelles seraient les idées ou les hypothèses a tester de la solution. Votre prototype permettra de les étayer, les corriger ou encore de les invalider.
+#### Expérimenter et recueillir des apprentissages
+En construisant un prototype, vous allez vous interroger sur ce que vous souhaitez en apprendre. Quelles seraient les idées ou les hypothèses a tester de la solution. Votre prototype permettra de les étayer, les corriger ou encore de les invalider.
 Selon le niveau de clareté ou d'avancement du projet, les prototypes peuvent répondre à plusieurs questions :
 • **Au stade de simple intention** : Afin de s'assurer que la vision du projet soit bien partagée par les parties prenantes, vous pouvez échanger sur une définition commune de la problématique et des objectifs visés. Cela permet d'identifier les divergences ou convergences.
 • **Une fois que le concept est arrêté** : Un premier prototype peut permettre de vérifier que la solution envisagée répond aux besoins identifiés. De préciser le cadrage et le périmètre choisit pour démarrer le projet, comme d'obtenir un premier retour des usagers sur la solution qui serait validée ou au contraire, réprouvée. La forme de ce prototype "concept" est souvent une première composante du projet : Un parcours utilisateurs, un scénario d'usage, un liste de fonctionnalités, une architecture de solution, etc...
