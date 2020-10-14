@@ -49,6 +49,8 @@ Afin de définir vos indicateurs, nous vous recommandons de suivre un processus 
 4. Décider ce que vous allez mesurer à partir de ces hypothèses
 5. Trouver comment mesurer vos indicateurs
 
+- [Fiche : Indicateurs du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Indicateurs.pdf)
+
 ### Déterminez vos indicateurs à partir d'une description claire de votre défi
 Des indicateurs pertinents doivent refléter si votre défi est une réussite. Il est nécessaire de commencer par bien définir l'objectif de votre défi.
 
@@ -110,8 +112,6 @@ Ne vous reposez pas que sur des outils numériques. Idéalement vous devez vous 
 
 ::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration.
 :::  
-
-- [Fiche : Indicateurs du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Indicateurs.pdf)
 
 ## Exemple : défi PrédiSauvetage
 Pour illustrer ces consignes, nous prenons comme exemple le défi EIG 2 [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html) dont l'objectif était de sauver des vies en mer en prévenant les accidents maritimes.
