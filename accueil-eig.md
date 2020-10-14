@@ -75,7 +75,7 @@ Pour réduire ce risque (vous pouvez aussi consulter le post sur la [pérennisat
     et les EIG.
 
 :::tip Ressource  
-Une checklist vous permettant de suivre les étapes de l'accueil des EIG est disponible [ici](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/checklist-arrivee-EIG.pdf). 
+Une checklist vous permettant de suivre les étapes de l'accueil des EIG est disponible [ici](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/checklist-arrivee-EIG.pdf).
 :::
 
 
@@ -96,7 +96,7 @@ Une checklist vous permettant de suivre les étapes de l'accueil des EIG est dis
 
 Une fois que vous avez identifié ces personnes, n'hésitez pas à leur présenter les EIG en personne (même de manière informelle).
 
-Vous pouvez utiliser cet outil de [cartographie des acteurs](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/template-carto-acteurs.pdf) pour identifier les parties prenantes de votre projet que les EIG devraient rencontrer.
+Vous pouvez utiliser cet outil de [cartographie des acteurs](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_CadrageDefi.pdf) pour identifier les parties prenantes de votre projet que les EIG devraient rencontrer.
 
 
 ### Aider les EIG à se familiariser avec le métier et à se faire connaître dans leur administration d'accueil
