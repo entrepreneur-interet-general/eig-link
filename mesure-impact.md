@@ -3,7 +3,7 @@
 [[toc]]
 
 ## Pourquoi mesurer son impact
-Les défis ont une durée initiale de vie courte : 10 mois. Durant ce temps, il est nécessaire de savoir à quels problèmes on s'attaque et comment on peut quantifier les améliorations amenées par le défi et son impact, notamment pour assurer la continuité des projets initiés.
+Les défis ont une durée initiale de vie courte : 10 mois. Durant ce temps, il est nécessaire de savoir à quels problèmes on s'attaque, suivre l'avancée des projets et faire des choix éclairés selon les objectifs définis. Cela permet également de savoir comment on peut quantifier les améliorations amenées par le défi et son impact, notamment pour assurer la continuité des projets initiés.
 
 En définissant des indicateurs à suivre, on fait preuve de transparence et on assure une vision commune des problématiques à résoudre. Si ces indicateurs atteignent les objectifs fixés, c'est un argument à faire valoir pour que les projets continuent.
 
@@ -37,7 +37,8 @@ Ces thématiques peuvent aussi vous aider à déterminer des livrables qui ne fo
 
 > Nota : les indicateurs portant sur la transformation numérique et sur l'ouverture des défis font partie des **indicateurs du programme, communs à tous les défis** (voir ci-dessus).
 
-::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs). :::
+::: tip Pour chaque thématique (politique publique, performance du produit, transformation numérique, ouverture), vous pouvez identifier un indicateur et son mode de mesure (soit environ 4 indicateurs). :::  
+
 
 ## Comment mesurer ? Étapes à suivre pour définir vos indicateurs
 Afin de définir vos indicateurs, nous vous recommandons de suivre un processus en plusieurs étapes détaillé ci-après. Ces étapes sont les suivantes :
@@ -72,8 +73,8 @@ Décrivez ce que votre défi va permettre de réaliser. Ces apports doivent cont
 > - Besoin : en tant que citoyen à l'étranger, j'ai besoin d'argent pour financer des soins médicaux rapidement.
 > - Apport de la solution : rendre plus facile et rapide l'accès à des soins médicaux à l'étranger en accélérant la procédure pour obtenir des financements.
 
-::: tip Nous vous conseillons d'identifier un apport du défi par l'entrée "utilisateurs", et un apport par l'entrée de la politique publique ou de l'administration d'accueil. 
-:::
+::: tip Nous vous conseillons d'identifier un apport du défi par l'entrée "utilisateurs", et un apport par l'entrée de la politique publique ou de l'administration d'accueil. L'atelier "vision" proposé lors du bootcamp a permi de travailler sur ces aspects du défi. :::  
+
 
 ### Imaginer des hypothèses à partir des apports
 Articuler comment ce que vous allez réaliser va permettre d'apporter quelque chose et pourquoi :
@@ -93,6 +94,8 @@ Vos hypothèses devraient vous guider sur ce qu'il est possible et pertinent de 
 Par exemple :
 > Nous allons mesurer combien de temps prend un utilisateur pour effectuer sa démarche en utilisant notre formulaire en ligne.
 
+Attention aux métriques trompeuses, qui ne permettent pas de mesurer des objectifs clairs ou qui détournent de l'objectif initial. 
+
 ### Trouver comment mesurer ses indicateurs
 Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comment réellement mesurer vos indicateurs. Vous pouvez vous reposer sur :
 
@@ -105,7 +108,8 @@ Après avoir choisi ce que vous allez mesurer, il est nécessaire de savoir comm
 
 Ne vous reposez pas que sur des outils numériques. Idéalement vous devez vous appuyer sur plusieurs sources, par exemple des bases de données, des entretiens utilisateurs et des éléments financiers.
 
-::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration. :::
+::: tip Nous vous conseillons de lier indicateurs quantitatifs à des indicateurs qualitatifs. Par exemple, vous pouvez récolter les retours de vos utilisateurs à propos de votre défi et/ou les retours d'agents publics illustrant comment votre travail a changé leur façon de travailler, les missions qu'ils doivent remplir ou comment ils interagissent avec l'administration. :::  
+
 
 ## En pratique
 
