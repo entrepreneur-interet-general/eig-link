@@ -20,7 +20,6 @@ Il est nécessaire de développer une connaissance fine des utilisateurs, de leu
 
 ### Outils
 En terme d'outils de conception d'interface utilisateur, les principaux outils utilisés par les designers du programme sont :
-
 - [Sketch](https://www.sketch.com/), disponible en version d'essai un mois, est l'un des outils offrant le plus de ressources partagées à la fois sur [SketchAppSources](https://www.sketchappsources.com/), sur GitHub et dans de nombreux *[design systems](https://github.com/entrepreneur-interet-general/design-system)*.
 - [Figma](https://www.figma.com/) est une application web qui offre l'avantage d'être disponible en ligne, combine les fonctionnalités de Sketch ainsi que d'InVision et Zeplin (version gratuite à petite échelle).
 - [Adobe XD](https://www.adobe.com/fr/products/xd.html) est l'outil historique et complet du designer comportant également une version gratuite à périmètre fonctionnel réduit.
@@ -39,7 +38,7 @@ La loi pour une République Numérique de 2016 demande également l'utilisation 
 
 Concernant les productions de design, il est donc préférable d'exporter son travail aux formats ouverts suivants `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.
 
-## Communauté & ressources communautaires
+## Communautés design
 Pour partager vos pratiques et vos ressources de designer il existe plusieurs espaces et moments d'échanges dans l'administration publique :
 - Le [Hub des communautés](https://www.modernisation.gouv.fr/le-hub-des-communautes), est une liste de communauté de professionnels innovants dans la transformation du secteur public dont certains ont une certaine expertise du design, comme la [communauté UX](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/).
 - La [CNIL a une communauté de designers et de professionnel du numérique](https://design.cnil.fr/) pour construire des parcours utilisateurs respectueux de la vie privée et des concepts du RGPD, et faisant suite au [cahier IP6 - La forme de  choix](https://linc.cnil.fr/fr/cahier-ip6-la-forme-des-choix-0).
