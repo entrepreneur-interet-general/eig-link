@@ -20,13 +20,13 @@ Les autres canaux à explorer :
 #help : si vous avez besoin d'aide (voir aussi les différentes chaînes "#domaine-" qui sont des chaînes thématiques)
 #offres-emploi : pour partager des offres d'emploi, de bénévolat et d'autres opportunités.
 #random : pour discuter de tout et de rien et partager vos meilleurs memes
-#accueil-general : pour les messages importants, susceptibles d'intéresser tout le monde 
+#accueil-general : pour les messages importants, susceptibles d'intéresser tout le monde
 
 Quelques règles d'utilisation de Slack :
 Réservez la mention @canal pour notifier tout le monde sur la chaîne qu'en cas d'exception majeure.
 Utilisez @ici pour notifier tout le monde connecté sur la chaîne.
 Préférer la fonction "répondre dans le fil de discussion" pour créer un fil sur un sujet. Cela permet de bien identifier les discussions en cours, surtout quand une chaîne est plutôt active.
-Vous pouvez contacter l'équipe de coordination du programme sur Slack ou par email. 
+Vous pouvez contacter l'équipe de coordination du programme sur Slack ou par email.
 
 ### Listes de diffusion
 
@@ -46,5 +46,11 @@ Les présentations des EIG et des mentors sont archivées sur [SpeakerDeck](http
 ### Dépôt GitHub des EIG Link
 https://github.com/entrepreneur-interet-general/eig-link/
 Il contient de nombreuses ressources, notamment sur le programme d’accompagnement, l’infrastructure mise à disposition, l’open source et l’open data. Elles sont listées sur le readme du dépôt. N’hésitez pas à fouiller !
+
+## Outils collaboratifs
+
+Il est possible de mettre en place Resana dans vos administrations. Cet outil vous propose différentes fonctionnalités : visioconférence, messagerie, agenda partagé, suivi de projets, partage de documents, sondages, ...
+Pour créer un espace de travail sur Resana, vous pouvez envoyer une demande à l'adresse resana.contact@modernisation.gouv.fr.
+Pour prendre connaissance de l'outil, vous avez à votre disposition ce webinaire disponible sur [youtube](https://www.youtube.com/watch?v=YPGzCqoi1NA&amp;amp;t=472s) ou [dailymotion](https://www.dailymotion.com/video/x7ufqeb).
 
 ## Contribuer
