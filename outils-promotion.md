@@ -49,7 +49,7 @@ Il contient de nombreuses ressources, notamment sur le programme d’accompagnem
 
 ## Outils collaboratifs
 
-Il est également possible de mettre en place Resana dans vos administrations. Cet outil vous propose différentes fonctionnalités : visioconférence, messagerie, agenda partagé, suivi de projets, partage de documents, sondages, ...
+Il est possible de mettre en place Resana dans vos administrations. Cet outil vous propose différentes fonctionnalités : visioconférence, messagerie, agenda partagé, suivi de projets, partage de documents, sondages, ...
 Pour créer un espace de travail sur Resana, vous pouvez envoyer une demande à l'adresse resana.contact@modernisation.gouv.fr.
 Pour prendre connaissance de l'outil, vous avez à votre disposition ce webinaire disponible sur [youtube](https://www.youtube.com/watch?v=YPGzCqoi1NA&amp;amp;t=472s) ou [dailymotion](https://www.dailymotion.com/video/x7ufqeb).
 
