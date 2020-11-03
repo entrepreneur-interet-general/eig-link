@@ -33,6 +33,7 @@ sidebar = [
       'opendata',
       'algorithmes-publics',
       'securite',
+      'travailler-distance',
     ]
   },
      {
