@@ -14,7 +14,7 @@ Le fonctionnement de l’outil est expliqué dans un webinaire sur [youtube](htt
 ### Les webconférences
 Pour organiser des réunions à distance, des conférences, des présentations, des formations ou des webinaires, deux outils sont recommandés :
 - **Le service de [webconférence de l’Etat](https://webconf.numerique.gouv.fr/)** : c’est un service interministériel opéré par le ministère de la Transition écologique et qui garantit notamment la confidentialité des échanges. Il s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).
-- **Big Blue Button** : Logiciel “prototype” géré par beta.gouv.fr. Pour l’utiliser, un compte peut être créé sur https://visio.incubateur.net/b.
+- **Big Blue Button** : Logiciel “prototype” géré par beta.gouv.fr. Pour l’utiliser, un compte peut être créé sur [Big Blue Button](https://visio.incubateur.net/b).
 Attention cependant, l'accès n'est pas garanti dans toutes les administrations et il n'existe pas de support technique.
 
 ### Klaxoon
@@ -31,4 +31,4 @@ Pour prendre connaissance de l’outil, il existe [une documentation](https://ww
 ## Méthodes
 
 ### Faciliter en ligne
-- Un guide de facilitation imaginé par la DITP(https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/teletravail-la-ditp-publie-un-guide-de-facilitation-a-distance), propose des méthodes pour concevoir et animer des ateliers de travail collaboratif à distance.
+- [Un guide de facilitation imaginé par la DITP](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/teletravail-la-ditp-publie-un-guide-de-facilitation-a-distance), propose des méthodes pour concevoir et animer des ateliers de travail collaboratif à distance.
