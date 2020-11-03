@@ -1,9 +1,11 @@
 # Outils de la promotion
 
-[[toc]]
-## Échanger au sein de la promotion : les canaux
 
 Pour accompagner les défis, partager les nouvelles du programme et dialoguer entre collègues, nous utilisons plusieurs outils de communication.
+
+[[toc]]
+
+## Échanger au sein de la promotion : les canaux
 
 ### Messagerie instantanée
 
@@ -25,7 +27,7 @@ Les autres canaux à explorer :
 Quelques règles d'utilisation de Slack :
 Réservez la mention @canal pour notifier tout le monde sur la chaîne qu'en cas d'exception majeure.
 Utilisez @ici pour notifier tout le monde connecté sur la chaîne.
-Préférer la fonction "répondre dans le fil de discussion" pour créer un fil sur un sujet. Cela permet de bien identifier les discussions en cours, surtout quand une chaîne est plutôt active.
+Préférer la fonction _"répondre dans le fil de discussion"_ pour créer un fil sur un sujet. Cela permet de bien identifier les discussions en cours, surtout quand une chaîne est plutôt active.
 Vous pouvez contacter l'équipe de coordination du programme sur Slack ou par email.
 
 ### Listes de diffusion
@@ -38,6 +40,9 @@ Toutes les annonces importantes de la part du programme seront faites par email.
 ### Bulletins
 Pour partager les victoires, les difficultés et les besoins des défis, nous remplissons et envoyons un [bulletin de rétrospective hebdomadaire asynchrone](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html)
 
+### La Gazette
+Chaque début de semaine, un mail est envoyé par les EIG Links pour partager les dates importantes, des infos utiles, ressources ou autres contenus. 
+
 ## Ressources et bonnes pratiques
 
 ### Speakerdeck
@@ -47,10 +52,5 @@ Les présentations des EIG et des mentors sont archivées sur [SpeakerDeck](http
 https://github.com/entrepreneur-interet-general/eig-link/
 Il contient de nombreuses ressources, notamment sur le programme d’accompagnement, l’infrastructure mise à disposition, l’open source et l’open data. Elles sont listées sur le readme du dépôt. N’hésitez pas à fouiller !
 
-## Outils collaboratifs
-
-Il est possible de mettre en place Resana dans vos administrations. Cet outil vous propose différentes fonctionnalités : visioconférence, messagerie, agenda partagé, suivi de projets, partage de documents, sondages, ...
-Pour créer un espace de travail sur Resana, vous pouvez envoyer une demande à l'adresse resana.contact@modernisation.gouv.fr.
-Pour prendre connaissance de l'outil, vous avez à votre disposition ce webinaire disponible sur [youtube](https://www.youtube.com/watch?v=YPGzCqoi1NA&amp;amp;t=472s) ou [dailymotion](https://www.dailymotion.com/video/x7ufqeb).
 
 ## Contribuer
