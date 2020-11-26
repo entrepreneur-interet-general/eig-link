@@ -75,4 +75,19 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - 15h30-16h00 - Discussion en plénière autour de l'accompagnement mentors
 - 16h00-17h00 - L'équipe EIG reste disponible si des mentors veulent discuter d'un point particulier de leur défi
 
-Le support de présentation est disponible [ici](https://speakerdeck.com/eig2020/session-daccompagnement-mentors-eig-4-1er-octobre). 
+Le support de présentation est disponible [ici](https://speakerdeck.com/eig2020/session-daccompagnement-mentors-eig-4-1er-octobre).
+
+### Session du 26 novembre 2020
+- Heures : 9h30-16h00
+- Lieu : En ligne
+- Thème : Fabriquer un argumentaire
+
+#### Programme
+- 9h30-10h00 - Accueil et Quizz
+- 10h00-10h30 - Introduction : pitcher et détourner
+- 10h30-12h30 - Atelier pitch
+- 13h30-15h30 - 3 ateliers en rotation :
+	- Donner forme à son propos
+	- Vulgariser la technique
+	- Renforcer l'argumentaire
+- 15h30-16h00 - Conclusion
