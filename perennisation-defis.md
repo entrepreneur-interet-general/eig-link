@@ -7,8 +7,8 @@ Comment bien préparer et assurer la pérennisation des défis.
 ## Qu’entend-on par pérenniser ? 
 
 :::tip Lexique
-Pérennisation : le défi continue à exister après la fin de son accompagnement par le programme EIG
-Mise en production : l’outil bénéficie d’un lancement officiel et/ou est intégré dans des processus de maintenance et de développement pérennes
+**Pérennisation** : le défi continue à exister après la fin de son accompagnement par le programme EIG.  
+**Mise en production** : l’outil bénéficie d’un lancement officiel et/ou est intégré dans des processus de maintenance et de développement pérennes.  
 :::  
 
 À la fin des 10 mois, les défis EIG se trouvent souvent à des stades différents, du fait des contextes divers dans lesquels ils sont relevés.
@@ -53,8 +53,8 @@ Quand les défis sont pérennisés, il existe plusieurs cas de figure :
 - **L’outil passe à un autre dispositif d’innovation** (exemple : le défi CartoBio, devenu une Startup d’Etat).  
 - **L’outil est porté par d’autres administrations ou acteurs**, soit selon quelque chose de prévu dès le départ (exemple : le défi MCC Orgues), soit en trouvant des partenaires pendant le défi (exemple : le défi LexImpact, développé par la DINUM et repris par l’Assemblée nationale, ou le défi Signaux Faibles, développé en DIRECCTE au niveau régional et repris par la DGE).   
 
-:::tip 
-En termes de temporalité : il faut savoir que beaucoup de projets “décollent” (par exemple, sont mis en production de manière pérenne) environ 6 à 8 mois après la fin des défis (janvier - mars 2020 pour les défis EIG 3, par exemple). Cela implique d’anticiper rapidement des scénarios de pérennisation. 
+:::tip Calendrier
+Beaucoup de projets “décollent” (par exemple, sont mis en production de manière pérenne) environ 6 à 8 mois après la fin des défis (janvier - mars 2020 pour les défis EIG 3, par exemple). Cela implique d’anticiper rapidement des scénarios de pérennisation. 
 :::  
 
 ## Comment impliquer les EIG post-défi ? 
@@ -78,9 +78,10 @@ Vous pouvez démontrer l’utilité de l’outil :
 - **En communiquant avec les utilisateurs** pour avoir des retours et donner des arguments.   
 - **En communiquant avec les parties prenantes** : ce qui implique d’avoir une démo et un pitch (d’autres actions : événements, meetups, relai dans l’écosystème spécialisé…).  
 
-:::tip Ressource :books:  
+:::tip Ressource  
 
-[Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee).:::
+:books: [Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee). 
+:::  
 
 ### 2.Définir un modèle de financement/de gouvernance
 
