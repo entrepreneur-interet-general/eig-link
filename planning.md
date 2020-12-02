@@ -35,6 +35,20 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 
 ## Présentation détaillée des sessions
 
+#### Programme
+- 14:00-14:30 : Accueil et stand-up des projets
+- 14:30-14:50 : Rencontre avec Hugues Martin, Procédure pénale numérique, Ministère de la Justice
+- 14:50-15:10 : Tour de table autour du document ["Pérennisation"](https://doc.eig-forever.org/perennisation-defis.html) et présentation de l'atelier de travail
+- 15:10-15:25 : Travail individuel sur les scénarios de pérennisation
+- 15h25-15:50 : Mise en commun des scénarios de pérennisation par petits groupes
+- 15:50-16:00 : Pause
+- 16:00-16:15 : Mise en commun des discussions 
+- 16:15-16:30 : Où en sont les défis EIG 4 ? Par les EIG Link
+- 16:30-17:00 : Ouverture : convaincre pour pérenniser, par Corine Waroquiers
+
+### Session du 26 novembre 2020
+[A mettre à jour]
+
 ### Session du 15 octobre 2020
 - Heures : 9h30-17h30
 - Lieu : En ligne
