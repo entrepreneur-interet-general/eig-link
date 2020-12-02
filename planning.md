@@ -21,9 +21,9 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 | **Séminaire de lancement**  | EIG (+ mentors ponctuellement) | 21 - 25 septembre | [Voir le programme](bootcamp.md) | Mixte|
 | **Premier mois des EIG** | Mentors seuls | 1er octobre | 14h - 16h | En ligne |
 | **#1 Prototyper, tester et évaluer** | EIG + mentors | 15 octobre | EIG : 9h30-18h, mentors : 14h-17h30  | En ligne |
-| **#2 Faciliter l'appropriation** | EIG seuls | 26 novembre | 9h30 - 18h | Lieu de la Transformation publique |
-| **Pérenniser les défis**| Mentors seuls | 3 décembre | 14h - 17h30 |Lieu de la Transformation publique |
-| **Séminaire intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | Lieu de la Transformation publique |
+| **#2 Faciliter l'appropriation** | EIG seuls | 26 novembre | 9h30 - 18h | En ligne |
+| **Pérenniser les défis**| Mentors seuls | 3 décembre | 14h - 17h30 | En ligne |
+| **Séminaire intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | En ligne |
 | **#3 Journée Démo** | EIG seuls | 14 janvier | 9h30 - 18h | Lieu de la Transformation publique |
 | **#4 Bilan mi-parcours** | EIG + mentors | 11 février | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
 | **Ouvrir les défis** | Mentors seuls | 4 mars | 14h - 17h30 | Lieu de la Transformation publique |
@@ -34,6 +34,21 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 | **Restitution finale** |Public | 17 juin | journée | Lieu de la Transformation publique |
 
 ## Présentation détaillée des sessions
+
+### Session du 3 décembre 2020
+#### Programme
+- 14:00-14:30 : Accueil et stand-up des projets
+- 14:30-14:50 : Rencontre avec Hugues Martin, Procédure pénale numérique, Ministère de la Justice
+- 14:50-15:10 : Tour de table autour du document ["Pérennisation"](https://doc.eig-forever.org/perennisation-defis.html) et présentation de l'atelier de travail
+- 15:10-15:25 : Travail individuel sur les scénarios de pérennisation
+- 15h25-15:50 : Mise en commun des scénarios de pérennisation par petits groupes
+- 15:50-16:00 : Pause
+- 16:00-16:15 : Mise en commun des discussions 
+- 16:15-16:30 : Où en sont les défis EIG 4 ? Par les EIG Link
+- 16:30-17:00 : Ouverture : convaincre pour pérenniser, par Corine Waroquiers
+
+### Session du 26 novembre 2020
+[A mettre à jour]
 
 ### Session du 15 octobre 2020
 - Heures : 9h30-17h30
