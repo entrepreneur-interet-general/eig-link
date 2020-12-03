@@ -43,7 +43,7 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - 15:10-15:25 : Travail individuel sur les scénarios de pérennisation
 - 15h25-15:50 : Mise en commun des scénarios de pérennisation par petits groupes
 - 15:50-16:00 : Pause
-- 16:00-16:15 : Mise en commun des discussions 
+- 16:00-16:15 : Mise en commun des discussions
 - 16:15-16:30 : Où en sont les défis EIG 4 ? Par les EIG Link
 - 16:30-17:00 : Ouverture : convaincre pour pérenniser, par Corine Waroquiers
 
@@ -106,3 +106,18 @@ Le support de présentation est disponible [ici](https://speakerdeck.com/eig2020
 	- Vulgariser la technique
 	- Renforcer l'argumentaire
 - 15h30-16h00 - Conclusion
+
+### Session du 3 décembre 2020
+- Heures : 14h00-17h00
+- Lieu : En ligne
+- Thème : Pérenniser les défis
+
+#### Programme
+- 14h00-14h30 - Accueil et Stand-up des projets
+- 14h30-15h00 - Rencontre avec Hugues Martin (Procédure Pénale Numérique, Ministère de la Justice)
+- 15h00-15h40 - Tour de table autour du document "Pérennisation"
+- 15h40-16h00 - Ateliers "Scénarios de pérennisation"
+- 16h00-16h30 - Où en sous les défis EIG4 ?
+- 16h30-17h00 - Ouverture : Convaincre pour pérenniser
+
+Le support de présentation est disponible [ici](https://speakerdeck.com/thanhha7/12-33a6e7bd-fbd0-4949-aa4b-e3a90ed02bdf). 
