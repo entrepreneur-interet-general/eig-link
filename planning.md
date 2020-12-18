@@ -35,31 +35,62 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 
 ## Présentation détaillée des sessions
 
-### Session du 3 décembre 2020
+### Séminaire des 10 et 11 décembre 2020
+- Heures : 9h30-12h00
+- Lieu : En ligne
+- Thème : Les "challenges"
 #### Programme
-- 14:00-14:30 : Accueil et stand-up des projets
-- 14:30-14:50 : Rencontre avec Hugues Martin, Procédure pénale numérique, Ministère de la Justice
-- 14:50-15:10 : Tour de table autour du document ["Pérennisation"](https://doc.eig-forever.org/perennisation-defis.html) et présentation de l'atelier de travail
-- 15:10-15:25 : Travail individuel sur les scénarios de pérennisation
-- 15h25-15:50 : Mise en commun des scénarios de pérennisation par petits groupes
-- 15:50-16:00 : Pause
-- 16:00-16:15 : Mise en commun des discussions
-- 16:15-16:30 : Où en sont les défis EIG 4 ? Par les EIG Link
-- 16:30-17:00 : Ouverture : convaincre pour pérenniser, par Corine Waroquiers
+##### 10/12
+- 9:30-9:45 - Accueil et introduction
+- 9:45-11:00 - Le challenge "indicateurs" avec Léry Jicquel, BetaGouv
+- 11:00-11:15 - Pause
+- 11:15-12:00 - Revue des défis et préparation des challenges du 11/12
+- 12h00-12:05 - Conclusion
+- 12:05+ - GatherTown
+##### 11/12
+- 9:30-9:50 - Accueil et rencontre avec nos 10 invités
+- 9:50-11:00 - Les 8 challenges avec Etalab, BetaGouv, Data et DesignGouv
+- 11:00-11:15 - Pause
+- 11:15-12:00 - Pitch vidéo
+- 12:00-12:30 - Blind test musical
+
+### Session du 3 décembre 2020
+- Heures : 14:00-17:00
+- Lieu : En ligne
+- Thème : Pérenniser les défis
+#### Programme
+- 14:00-14:30 - Accueil et stand-up des projets
+- 14:30-14:50 - Rencontre avec Hugues Martin, Procédure pénale numérique, Ministère de la Justice
+- 14:50-15:10 - Tour de table autour du document ["Pérennisation"](https://doc.eig-forever.org/perennisation-defis.html) et présentation de l'atelier de travail
+- 15:10-15:25 - Travail individuel sur les scénarios de pérennisation
+- 15h25-15:50 - Mise en commun des scénarios de pérennisation par petits groupes
+- 15:50-16:00 - Pause
+- 16:00-16:15 - Mise en commun des discussions
+- 16:15-16:30 - Où en sont les défis EIG 4 ? Par les EIG Link
+- 16:30-17:00 - Ouverture : convaincre pour pérenniser, par Corine Waroquiers
 
 ### Session du 26 novembre 2020
-[A mettre à jour]
+- Heures : 9:30-16:00
+- Lieu : En ligne
+- Thème : Fabriquer un argumentaire
+#### Programme
+- 9:30-10:00 - Accueil et Quizz
+- 10:00-10:30 - Introduction : pitcher et détourner
+- 10:30-12:30 - Atelier pitch
+- 13:30-15:30 - 3 ateliers en rotation :
+	- Donner forme à son propos
+	- Vulgariser la technique
+	- Renforcer l'argumentaire
+- 15:30-16:00 - Conclusion
 
 ### Session du 15 octobre 2020
-- Heures : 9h30-17h30
+- Heures : 9:30-17:30
 - Lieu : En ligne
 - Thème : Prototypage, tests et indicateurs
-
 #### Objectifs
 - Intégrer une approche de prototypage / tests dans les défis
 - Organiser et mener des revues de projets
 - Définir et suivre des indicateurs de succès
-
 #### Programme
 - 9:30-10:00 - Accueil et Stand-up projets
 - 10:00-10:30 - Présentation : Prototyper et tester
@@ -78,46 +109,15 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - 17:00-17:30 - Présentation : Indicateurs et suivi
 
 ### Session du 1er octobre 2020
-- Heures : 14h00-16h00
+- Heures : 14:00-16:00
 - Lieu : En ligne
 - Thème : Partage d'expériences et présentation de l'accompagnement mentors à venir
-
 #### Programme
-- 14h00-14h10 - Accueil et questions
-- 14h10-15h00 - Atelier discussion/partage : premier mois EIG
-- 15h00-15h15 - Pause
-- 15h15-15h30 - Présentation de l'accompagnement EIG et des valeurs du programme
-- 15h30-16h00 - Discussion en plénière autour de l'accompagnement mentors
-- 16h00-17h00 - L'équipe EIG reste disponible si des mentors veulent discuter d'un point particulier de leur défi
+- 14:00-14:10 - Accueil et questions
+- 14:10-15:00 - Atelier discussion/partage : premier mois EIG
+- 15:00-15:15 - Pause
+- 15:15-15:30 - Présentation de l'accompagnement EIG et des valeurs du programme
+- 15:30-16:00 - Discussion en plénière autour de l'accompagnement mentors
+- 16:00-17:00 - L'équipe EIG reste disponible si des mentors veulent discuter d'un point particulier de leur défi
 
 Le support de présentation est disponible [ici](https://speakerdeck.com/eig2020/session-daccompagnement-mentors-eig-4-1er-octobre).
-
-### Session du 26 novembre 2020
-- Heures : 9h30-16h00
-- Lieu : En ligne
-- Thème : Fabriquer un argumentaire
-
-#### Programme
-- 9h30-10h00 - Accueil et Quizz
-- 10h00-10h30 - Introduction : pitcher et détourner
-- 10h30-12h30 - Atelier pitch
-- 13h30-15h30 - 3 ateliers en rotation :
-	- Donner forme à son propos
-	- Vulgariser la technique
-	- Renforcer l'argumentaire
-- 15h30-16h00 - Conclusion
-
-### Session du 3 décembre 2020
-- Heures : 14h00-17h00
-- Lieu : En ligne
-- Thème : Pérenniser les défis
-
-#### Programme
-- 14h00-14h30 - Accueil et Stand-up des projets
-- 14h30-15h00 - Rencontre avec Hugues Martin (Procédure Pénale Numérique, Ministère de la Justice)
-- 15h00-15h40 - Tour de table autour du document "Pérennisation"
-- 15h40-16h00 - Ateliers "Scénarios de pérennisation"
-- 16h00-16h30 - Où en sous les défis EIG4 ?
-- 16h30-17h00 - Ouverture : Convaincre pour pérenniser
-
-Le support de présentation est disponible [ici](https://speakerdeck.com/thanhha7/12-33a6e7bd-fbd0-4949-aa4b-e3a90ed02bdf). 
