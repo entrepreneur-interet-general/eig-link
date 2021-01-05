@@ -24,7 +24,7 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 | **#2 Faciliter l'appropriation** | EIG seuls | 26 novembre | 9h30 - 18h | En ligne |
 | **Pérenniser les défis**| Mentors seuls | 3 décembre | 14h - 17h30 | En ligne |
 | **Séminaire intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | En ligne |
-| ~~**#3 Journée Démo** [ANNULE]~~ | ~~EIG seuls~~ | ~~14 janvier~~ | ~~9h30 - 18h~~ | ~~Lieu de la Transformation publique~~ |
+| ~~**#3 Journée Démo**~~ [ANNULE] | ~~EIG seuls~~ | ~~14 janvier~~ | ~~9h30 - 18h~~ | ~~Lieu de la Transformation publique~~ |
 | **#4 Bilan mi-parcours** | EIG + mentors | 11 février | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
 | **Ouvrir les défis** | Mentors seuls | 4 mars | 14h - 17h30 | Lieu de la Transformation publique |
 | **Séminaire** | EIG seuls | 11 - 12 mars | 9h30 - 18h | Lieu de la Transformation publique |
