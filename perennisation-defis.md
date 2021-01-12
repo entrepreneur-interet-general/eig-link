@@ -4,7 +4,7 @@ Comment bien préparer et assurer la pérennisation des défis.
 
 [[toc]]
 
-## Qu’entend-on par pérenniser ? 
+## Qu’entend-on par pérenniser ?
 
 :::tip Lexique
 **Pérennisation** : le défi continue à exister après la fin de son accompagnement par le programme EIG.  
@@ -21,11 +21,11 @@ Le terme “pérennisation” englobe ainsi plusieurs cas de figure non exclusif
 
 :books: _Extrait du blogpost [“Quelles suites pour les défis EIG ?”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/05/20/session-perennisation-defis-eig-3.html), avril 2019._
 
-Ainsi, pérennisation ne veut pas nécessairement dire passage à l’échelle. 
+Ainsi, pérennisation ne veut pas nécessairement dire passage à l’échelle.
 
-## Pérennisation : enjeux techniques 
+## Pérennisation : enjeux techniques
 
-Le premier niveau de la pérennisation est le niveau “technique” : s’assurer avec ses interlocuteurs techniques qu’un outil sera maintenu dans le temps. 
+Le premier niveau de la pérennisation est le niveau “technique” : s’assurer avec ses interlocuteurs techniques qu’un outil sera maintenu dans le temps.
 
 ![Pyramide avec, au centre, la pérennisation, et trois autres triangles pointant vers le centre, indiquant : déploiement, fiabilisation, transmission](https://d33wubrfki0l68.cloudfront.net/132e0a03628867c8a83cc12dcffbfe66ff751461/3e598/img/blog/dsi-pyramide-perennisation.jpg)
 
@@ -36,34 +36,34 @@ Nous avons proposé de classer les enjeux de pérennisation selon trois axes :
 
 :books: _Extrait du blogpost [“Pérenniser un projet EIG - retour sur le séminaire avec les DSI des ministères”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/24/atelier-construction-plan-actions-avec-les-dsi.html), mai 2018._  
 
-Vous pouvez utiliser ces catégories pour organiser votre propre atelier de pérennisation avec votre DSI (ou les “repreneurs techniques”) de votre défi. 
+Vous pouvez utiliser ces catégories pour organiser votre propre atelier de pérennisation avec votre DSI (ou les “repreneurs techniques”) de votre défi.
 
-Au-delà des aspects techniques, plusieurs scénarios de pérennisation sont possibles pour les défis EIG, qui déterminent ensuite avec qui les aspects techniques du défi seront abordés. 
+Au-delà des aspects techniques, plusieurs scénarios de pérennisation sont possibles pour les défis EIG, qui déterminent ensuite avec qui les aspects techniques du défi seront abordés.
 
-## Scénarios de pérennisation 
+## Scénarios de pérennisation
 
-Parmi les défis, qui ont été accompagnés par le programme, on constate plusieurs cas de figure : 
+Parmi les défis, qui ont été accompagnés par le programme, on constate plusieurs cas de figure :
 - **La plupart (90% pour la promotion EIG 3) dépassent le stade de “proof of concept” et sont pérennisés**, c’est-à-dire qu’ils continuent après les 10 mois du programme.     
 - **Certains aboutissent à des preuves de concept et ne sont pas pérennisés dans leurs administrations**, mais les briques open source servent de base à la réalisation d’autres outils dans les administrations (exemple : Graph Explorer, développé par les EIG de Hopkins en 2018).    
 - **Certains projets sont abandonnés pour des raisons techniques ou (plus souvent) organisationnelles** -cela fait aussi partie du droit à l’erreur des cadres d’innovation.  
 
-Quand les défis sont pérennisés, il existe plusieurs cas de figure : 
+Quand les défis sont pérennisés, il existe plusieurs cas de figure :
 - **L’outil est maintenu en interne par une équipe internalisée** (exemple : le défi Open Justice à la Cour de Cassation, où deux postes de data scientists ont été créés et un EIG est resté).  
 - **L’outil est maintenu en interne à travers des prestataires ou par un marché public** (exemple : le défi Karfu’R, devenu réfugiés.info).  
 - **L’outil passe à un autre dispositif d’innovation** (exemple : le défi CartoBio, devenu une Startup d’Etat).  
 - **L’outil est porté par d’autres administrations ou acteurs**, soit selon quelque chose de prévu dès le départ (exemple : le défi MCC Orgues), soit en trouvant des partenaires pendant le défi (exemple : le défi LexImpact, développé par la DINUM et repris par l’Assemblée nationale, ou le défi Signaux Faibles, développé en DIRECCTE au niveau régional et repris par la DGE).   
 
 :::tip Calendrier
-Beaucoup de projets “décollent” (par exemple, sont mis en production de manière pérenne) environ 6 à 8 mois après la fin des défis (janvier - mars 2020 pour les défis EIG 3, par exemple). Cela implique d’anticiper rapidement des scénarios de pérennisation. 
+Beaucoup de projets “décollent” (par exemple, sont mis en production de manière pérenne) environ 6 à 8 mois après la fin des défis (janvier - mars 2020 pour les défis EIG 3, par exemple). Cela implique d’anticiper rapidement des scénarios de pérennisation.
 :::  
 
-## Comment impliquer les EIG post-défi ? 
+## Comment impliquer les EIG post-défi ?
 
-Si vous souhaitez que les EIG restent impliqués dans votre défi post-programme, plusieurs cas de figure : 
+Si vous souhaitez que les EIG restent impliqués dans votre défi post-programme, plusieurs cas de figure :
 - **Statut** : elles ou ils peuvent rester en tant que contractuels (se pose alors la question de la rémunération) ou en tant que prestataires ;  
 - **Fréquence** : à temps plein ou à temps partiel.
 
-Dans un premier temps, il est possible de prolonger le contrat des EIG de quelques mois. 
+Dans un premier temps, il est possible de prolonger le contrat des EIG de quelques mois.
 
 Il est également possible, indépendamment de la place des EIG dans le projet à long-terme, de former des agents à la reprise de l’outil en interne.
 
@@ -71,7 +71,7 @@ Il est également possible, indépendamment de la place des EIG dans le projet �
 
 ### 1.Démontrer l’utilité de l’outil
 
-Une fois l’utilité prouvée, il est plus simple de trouver un modèle de financement / de gouvernance en fonction des différents potentiels identifiés. 
+Une fois l’utilité prouvée, il est plus simple de trouver un modèle de financement / de gouvernance en fonction des différents potentiels identifiés.
 
 Vous pouvez démontrer l’utilité de l’outil :
 - **En encourageant l’open data et l’open source** dans votre défi pour favoriser la réutilisation et la contribution.  
@@ -80,7 +80,7 @@ Vous pouvez démontrer l’utilité de l’outil :
 
 :::tip Ressource  
 
-:books: [Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee). 
+:books: [Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi). 
 :::  
 
 ### 2.Définir un modèle de financement/de gouvernance
@@ -91,12 +91,12 @@ Pour ce faire :
 
 Ces parties prenantes pourront être mobilisées pour répondre aux enjeux techniques et humains du projet.
 
-## Documents ressources 
+## Documents ressources
 
 ### Modèle de note stratégique de pérennisation pour un défi EIG
 
 Ce modèle de note est une base pour vous aider à rédiger un document de mi-parcours dans l'optique de pérenniser les outils développés pendant un défi EIG.
-Il propose une vision « macro » de l’état du projet et de ses suites potentielles. Il est bien sûr à adapter en fonction des interlocuteurs. 
+Il propose une vision « macro » de l’état du projet et de ses suites potentielles. Il est bien sûr à adapter en fonction des interlocuteurs.
 Il est particulièrement utile pour faire un point sur les besoins et opportunités identifiés et lister les scénarios de pérennisation entre lesquels arbitrer.
 
 #### I. Contexte / travail accompli / résultats
@@ -137,7 +137,7 @@ Une page qui recense une liste non exhaustive de la documentation à rassembler 
 - L'état des lieux : flux de données au sein de l'administration, architecture existante
 
 #### En lien avec la/les applications développées
-- Descriptif fonctionnel de l'application, fiche de lancement 
+- Descriptif fonctionnel de l'application, fiche de lancement
 - Le manuel utilisateur
 - La documentation technique : au sein du code ou dans un document à part
 - La documentation d'installation
@@ -158,4 +158,4 @@ Une page qui recense une liste non exhaustive de la documentation à rassembler 
 
 #### Feedback du projet
 - Réaliser un atelier de feedback avec son équipe et son mentor sur les 10 mois écoulés
-- Communiquer sur les réalisations : auprès de sa hiérarchie, de son service, de l'administration, des interlocuteurs rencontrés lors du recueil des besoins, à l'externe (équipe communication) 
+- Communiquer sur les réalisations : auprès de sa hiérarchie, de son service, de l'administration, des interlocuteurs rencontrés lors du recueil des besoins, à l'externe (équipe communication)
