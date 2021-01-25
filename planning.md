@@ -25,15 +25,28 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 | **Pérenniser les défis**| Mentors seuls | 3 décembre | 14h - 17h30 | En ligne |
 | **Séminaire intermédiaire** | EIG seuls | 10 - 11 décembre | _A venir_ | En ligne |
 | ~~**#3 Journée Démo**~~ [ANNULE] | ~~EIG seuls~~ | ~~14 janvier~~ | ~~9h30 - 18h~~ | ~~Lieu de la Transformation publique~~ |
-| **#4 Bilan mi-parcours** | EIG + mentors | 11 février | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
-| **Ouvrir les défis** | Mentors seuls | 4 mars | 14h - 17h30 | Lieu de la Transformation publique |
-| **Séminaire** | EIG seuls | 11 - 12 mars | 9h30 - 18h | Lieu de la Transformation publique |
+| **#4 Journée Démo** | EIG + mentors | 11 février | EIG : 9h30-17h, mentors : 14h-17h00 | En ligne |
+| **Ouvrir les défis** | Mentors seuls | 4 mars | 14h - 17h30 | En ligne |
+| **Séminaire mi-parcours** | EIG seuls | 11 - 12 mars | 9h30 - 18h | Lieu de la Transformation publique |
 | **#5 Consolider** | EIG + mentors | 8 avril     | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
 | **#6 Documenter les défis** | EIG seuls | 6 mai | 9h30 - 18h | Lieu de la Transformation publique |
 | **#7 Évaluer et valoriser** |EIG + mentors | 10 juin | EIG : 9h30-18h, mentors : 14h-17h30 | Lieu de la Transformation publique |
 | **Restitution finale** |Public | 17 juin | journée | Lieu de la Transformation publique |
 
 ## Présentation détaillée des sessions
+
+### Journée Démo du 11 février 2021
+- Heures : 9:30-17:00
+- Lieu : En ligne
+- Thème : Pitch et démonstration des défis
+#### Programme
+- 9:30-10:00 - Accueil et présentation de la journée
+- 10:00-12:00 - Ateliers : Répétition et enrichissements thématiques
+- 14:00-14:15 - Accueil des participants
+- 14:15-15:15 - Démonstrations ouverte des défis
+- 15:15-15:30 - Pause
+- 15:30-16:30 - Échange et retours entre les défis, en sous-groupes
+- 16:30-17:00 - Retour sur la journée et conclusion
 
 ### Séminaire des 10 et 11 décembre 2020
 - Heures : 9h30-12h00
