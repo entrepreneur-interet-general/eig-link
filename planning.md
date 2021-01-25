@@ -41,7 +41,7 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 - Thème : Pitch et démonstration des défis
 #### Programme
 - 9:30-10:00 - Accueil et présentation de la journée
-- 10:00-12:00 - Ateliers Répétition et enrichissement thématiques
+- 10:00-12:00 - Ateliers : Répétition et enrichissements thématiques
 - 14:00-14:15 - Accueil des participants
 - 14:15-15:15 - Démonstrations ouverte des défis
 - 15:15-15:30 - Pause
