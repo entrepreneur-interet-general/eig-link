@@ -35,6 +35,14 @@ Pour l'intégrer à un agenda, il suffit de l'ajouter à partir de l'URL suivant
 
 ## Présentation détaillée des sessions
 
+### Session du 04 mars 2021
+- Heures : 14:00-16:00
+- Lieu : En ligne
+- Thème : Ouvrir les défis
+#### Programme
+- 14:00-14:45 - Ouverture des données : risques et opportunités. Rencontre avec Simon Chignard, conseiller stratégique à Etalab sur la valorisation des données
+- 14:45-16:00 - Scénarios d’ouverture et de pérennisation des défis
+
 ### Journée Démo du 11 février 2021
 - Heures : 9:30-17:00
 - Lieu : En ligne
