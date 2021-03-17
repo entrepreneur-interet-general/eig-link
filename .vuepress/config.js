@@ -34,6 +34,7 @@ sidebar = [
       'algorithmes-publics',
       'securite',
       'travailler-distance',
+      'ecriture-inclusive',
     ]
   },
      {
