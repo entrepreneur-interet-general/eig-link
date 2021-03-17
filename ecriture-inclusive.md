@@ -26,8 +26,8 @@ On critique souvent l'écriture inclusive en disant qu'elle alourdit le discours
 * **Utiliser des formules englobantes**. *Par exemple : les spécialistes en développement plutôt que "les développeurs et les développeuses"*.
 * **Décomposer les termes quand ils sont genrés**. *Par exemple : "entrepreneures et entrepreneurs" ou "développeuses et développeurs".*
 * **Faire des périphrases**. *Par exemple : "si votre candidature est retenue" au lieu de "si vous êtes sélectionné".* 
-* **Choisir l'ordre alphabétique pour l'énumération des deux genres**. _Par exemple : "les Français et les Françaises", "elles et ils" au lieu de "ils et elles")_. Cela peut choquer au début car la tournure est moins usitée... pour l'instant ;) #innovation #disruptif
-* **Utiliser l'accord de proximité** qui consiste à accorder un adjectif en fonction du genre du nom qui lui est le plus proche. _Par exemple : "toutes celles et ceux" ou "les développeurs et développeuses se sont présentées".
+* **Choisir l'ordre alphabétique pour l'énumération des deux genres**. _Par exemple : "les Français et les Françaises", "elles et ils" au lieu de "ils et elles")_. Cela peut choquer au début car la tournure est moins usitée... pour l'instant ;)  #innovation #disruptif
+* **Utiliser l'accord de proximité** qui consiste à accorder un adjectif en fonction du genre du nom qui lui est le plus proche. _Par exemple : "toutes celles et ceux" ou "les développeurs et développeuses se sont présentées"_.
 
 ## Ressources
 
