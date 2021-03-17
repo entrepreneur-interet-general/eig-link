@@ -17,7 +17,7 @@ Dans un contexte où nous œuvrons à recruter des femmes et des personnes sensi
 
 ## Comment écrire en écriture inclusive sans point médian ?
 
-On critique souvent l'écriture inclusive en disant qu'elle alourdit le discours. Pourtant, il existe des méthodes qui permettent de minimiser cet effet. 
+On critique souvent l'écriture inclusive en disant qu'elle alourdit le discours. Pourtant, des méthodes permettent de minimiser cet effet. 
 
 * **Utiliser des termes épicènes/neutres** (qui n'ont pas de marque de genre). *Par exemple : "spécialiste" au lieu de "expert".*  
 * **Utiliser des formules englobantes**. *Par exemple : les spécialistes en développement plutôt que "les développeurs et les développeuses"*.
