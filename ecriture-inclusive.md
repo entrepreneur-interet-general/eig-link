@@ -6,7 +6,7 @@ Conventions d'écriture dans le cadre du programme Entrepreneurs d'Intérêt Gé
 
 ## C'est quoi l'écriture inclusive ? Pourquoi écrire en écriture inclusive dans le contexte EIG ?  
 
-:::Définition “L’écriture inclusive, dite aussi écriture épicène (en Suisse et au Canada), écriture non sexiste ou écriture égalitaire, représente un ensemble de techniques qui visent à faire apparaître une égalité, ou une symétrie, entre les femmes et les hommes dans les textes et à adopter un langage non discriminant par rapport aux femmes."
+:::tip Définition “L’écriture inclusive, dite aussi écriture épicène (en Suisse et au Canada), écriture non sexiste ou écriture égalitaire, représente un ensemble de techniques qui visent à faire apparaître une égalité, ou une symétrie, entre les femmes et les hommes dans les textes et à adopter un langage non discriminant par rapport aux femmes."
 :::
 
 [Source : "Écriture inclusive, un premier bilan de la controverse".](https://theconversation.com/ecriture-inclusive-un-premier-bilan-de-la-controverse-147630)
