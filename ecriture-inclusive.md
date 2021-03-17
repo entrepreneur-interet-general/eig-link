@@ -6,12 +6,14 @@ Conventions d'écriture dans le cadre du programme Entrepreneurs d'Intérêt Gé
 
 ## C'est quoi l'écriture inclusive ? Pourquoi écrire en écriture inclusive dans le contexte EIG ?  
 
-:::tip “L’écriture inclusive, dite aussi écriture épicène (en Suisse et au Canada), écriture non sexiste ou écriture égalitaire, représente un ensemble de techniques qui visent à faire apparaître une égalité, ou une symétrie, entre les femmes et les hommes dans les textes et à adopter un langage non discriminant par rapport aux femmes." ([source](https://theconversation.com/ecriture-inclusive-un-premier-bilan-de-la-controverse-147630))
+:::Définition “L’écriture inclusive, dite aussi écriture épicène (en Suisse et au Canada), écriture non sexiste ou écriture égalitaire, représente un ensemble de techniques qui visent à faire apparaître une égalité, ou une symétrie, entre les femmes et les hommes dans les textes et à adopter un langage non discriminant par rapport aux femmes."
 :::
+
+[Source : "Écriture inclusive, un premier bilan de la controverse".](https://theconversation.com/ecriture-inclusive-un-premier-bilan-de-la-controverse-147630)
 
 **L'écriture inclusive, ce n'est donc pas nécessairement utiliser le point médian.**
 
-Dans un contexte où nous oeuvrons pour recruter des femmes et des personnes sensibles aux problématiques d'égalité dans nos promotions EIG, il est important d'envoyer un message d'inclusion et de prise en compte de ces enjeux dans la rédaction de nos contenus.
+Dans un contexte où nous œuvrons à recruter des femmes et des personnes sensibles aux problématiques d'égalité dans nos promotions EIG, il est important d'envoyer un message d'inclusion et de prise en compte de ces enjeux dans la rédaction de nos contenus.
 
 ## Comment écrire en écriture inclusive sans point médian ?
 
@@ -24,11 +26,13 @@ On critique souvent l'écriture inclusive en disant qu'elle alourdit le discours
 * **Choisir l'ordre alphabétique pour l'énumération des deux genres**. _Par exemple : "les Français et les Françaises", "elles et ils" au lieu de "ils et elles")_. Cela peut choquer au début car la tournure est moins usitée... pour l'instant ;) #innovation #disruptif
 * **Utiliser l'accord de proximité** qui consiste à accorder un adjectif en fonction du genre du nom qui lui est le plus proche. _Par exemple : "toutes celles et ceux" ou "les développeurs et développeuses se sont présentées".
 
-### Pour connaître la forme féminine d'un terme : 
+## Ressources
+
+### Pour connaître la forme féminine d'un terme
 * Annexe ["Pistes pour une écriture inclusive"](https://revueladeferlante.fr/wp-content/uploads/2021/02/ladeferlante_orthotypo.pdf) de la publication Les Déferlantes ; 
 * Manuel d'écriture inclusive, [téléchargeable ici](https://www.motscles.net/ecriture-inclusive).
 
-## Ressources
+### Ressources générales
 
 * Épisode ["Ecriture inclusive : pourquoi tant de haine ?"](https://www.binge.audio/podcast/parler-comme-jamais/ecriture-inclusive-pourquoi-tant-de-haine) du podcast Parler comme jamais.
 * Un [memo personnel](https://blog.hello-bokeh.fr/2021/02/25/memo-de-lecriture-inclusive/) d'Anne Sophie Tranchet.
