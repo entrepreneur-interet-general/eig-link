@@ -99,7 +99,7 @@ Ces parties prenantes pourront être mobilisées pour répondre aux enjeux techn
 Pour anticiper les différents aspects de la suite du défi, vous pouvez utiliser cette fiche pour identifier les actions à mener sur la fin du défi et projeter la suite du projet.
 
 ![EIG Template Consolidation](./images/EIG_Template_Consolidation.jpg)
-[Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Consolidation.pdf)
+[Fiche : Consolidation de fin de défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Consolidation.pdf)
 
 
 ## Documents ressources
