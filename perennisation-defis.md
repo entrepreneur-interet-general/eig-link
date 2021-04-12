@@ -36,7 +36,9 @@ Nous avons proposé de classer les enjeux de pérennisation selon trois axes :
 
 :books: _Extrait du blogpost [“Pérenniser un projet EIG - retour sur le séminaire avec les DSI des ministères”](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/24/atelier-construction-plan-actions-avec-les-dsi.html), mai 2018._  
 
-Vous pouvez utiliser ces catégories pour organiser votre propre atelier de pérennisation avec votre DSI (ou les “repreneurs techniques”) de votre défi.
+Vous pouvez utiliser ces catégories pour organiser votre propre atelier de pérennisation avec l'équipe du défi.
+
+- [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Perennisation.pdf)
 
 Au-delà des aspects techniques, plusieurs scénarios de pérennisation sont possibles pour les défis EIG, qui déterminent ensuite avec qui les aspects techniques du défi seront abordés.
 
@@ -80,7 +82,7 @@ Vous pouvez démontrer l’utilité de l’outil :
 
 :::tip Ressource  
 
-:books: [Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi). 
+:books: [Billet de blog Etalab “Signaux Faibles, de l’open data camp à une politique publique fondée sur la donnée”](https://www.etalab.gouv.fr/signaux-faibles-de-lopen-data-camp-a-une-politique-publique-fondee-sur-la-donnee-recit-dun-passage-a-lechelle-reussi).
 :::  
 
 ### 2.Définir un modèle de financement/de gouvernance
@@ -90,6 +92,12 @@ Pour ce faire :
 - **Identifier les acteurs importants pour le projet**, y compris d’un point de vue stratégique. Parmi eux : la direction porteuse (et sa DSI), le ministère de tutelle, un autre programme d’innovation, une autre administration, une structure ad hoc, etc.
 
 Ces parties prenantes pourront être mobilisées pour répondre aux enjeux techniques et humains du projet.
+
+### 3.Consolider la fin du défi en vue de sa pérennisation
+
+[![EIG Template Consolidation](./images/EIG_Template_consolidation.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/docs/EIG_Template_Perennisation.pdf)
+- [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Perennisation.pdf)
+
 
 ## Documents ressources
 
