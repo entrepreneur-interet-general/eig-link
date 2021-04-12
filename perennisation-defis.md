@@ -38,6 +38,7 @@ Nous avons proposé de classer les enjeux de pérennisation selon trois axes :
 
 Vous pouvez utiliser ces catégories pour organiser votre propre atelier de pérennisation avec l'équipe du défi.
 
+[![EIG Template Pérennisation](./images/EIG_Template_Perennisation.jpg)]
 - [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Perennisation.pdf)
 
 Au-delà des aspects techniques, plusieurs scénarios de pérennisation sont possibles pour les défis EIG, qui déterminent ensuite avec qui les aspects techniques du défi seront abordés.
@@ -95,8 +96,10 @@ Ces parties prenantes pourront être mobilisées pour répondre aux enjeux techn
 
 ### 3.Consolider la fin du défi en vue de sa pérennisation
 
-[![EIG Template Consolidation](./images/EIG_Template_Consolidation.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/docs/EIG_Template_Perennisation.pdf)
-- [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Perennisation.pdf)
+Pour anticiper les différents aspects de la suite du défi, vous pouvez utiliser cette fiche pour identifier les actions à mener sur la fin du défi et projeter la suite du projet.
+
+[![EIG Template Consolidation](./images/EIG_Template_Consolidation.jpg)]
+- [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Consolidation.pdf)
 
 
 ## Documents ressources
