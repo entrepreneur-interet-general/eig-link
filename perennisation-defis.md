@@ -95,7 +95,7 @@ Ces parties prenantes pourront être mobilisées pour répondre aux enjeux techn
 
 ### 3.Consolider la fin du défi en vue de sa pérennisation
 
-[![EIG Template Consolidation](./images/EIG_Template_consolidation.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/docs/EIG_Template_Perennisation.pdf)
+[![EIG Template Consolidation](./images/EIG_Template_Consolidation.jpg)](https://raw.githubusercontent.com/entrepreneur-interet-general/eig-link/master/docs/EIG_Template_Perennisation.pdf)
 - [Fiche : Scénarios de pérennisation du défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Perennisation.pdf)
 
 
