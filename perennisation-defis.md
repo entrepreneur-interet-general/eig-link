@@ -102,6 +102,7 @@ Pour anticiper les différents aspects de la suite du défi, vous pouvez utilise
 [Fiche : Consolidation de fin de défi](https://github.com/entrepreneur-interet-general/eig-link/blob/master/docs/EIG_Template_Consolidation.pdf)
 
 
+
 ## Documents ressources
 
 ### Modèle de note stratégique de pérennisation pour un défi EIG
