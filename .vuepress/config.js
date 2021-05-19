@@ -62,17 +62,12 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#0053b3' }]
   ],
+
   themeConfig: {
     sidebar: sidebar,
     sidebarDepth: 1,
-    logo: '/images/logo-eig.svg',
+    logo: '/images/Logo EIG 2019.png',
     docsDir: ".",
-    repo: 'entrepreneur-interet-general/eig-link',
-    repoLabel: 'Dépôt Git',
-    editLinks: true,
-    editLinkText: 'Modifier cette page',
-    nav: [
-      { text: 'Site web', link: 'https://entrepreneur-interet-general.etalab.gouv.fr' },
-    ]
+    nav: []
   }
 }
