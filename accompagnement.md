@@ -7,7 +7,7 @@ Ce programme s'organise suivants plusieurs axes d'animations et d’événements
 
 ## Les formats d'accompagnement
 ### Bootcamp
-_Une fois en début de promotion, durée d'une semaine._
+_Une seule fois en début de promotion, durée d'une semaine._
 En début d'année, lorsque les entrepreneurs rejoignent le programme et après quelques jours dans leur organisme d'accueil, nous organisons une semaine d'embarquement. C'est l'occasion de faire connaissance avec les autres membres de la promotion, découvrir l'accompagnement proposé par le programme, et présenter les premières problématiques auxquelles ils vont s'attaquer. 
 
 ### Accompagnement collectif 
