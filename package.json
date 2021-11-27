@@ -6,11 +6,12 @@
     "remark-lint": "^6.0.4",
     "remark-lint-no-dead-urls": "^0.4.1",
     "remark-validate-links": "^8.0.0",
-    "vuepress": "^0.14.11",
-    "vuepress-theme-gouv-fr": "^0.7.0"
+    "vuepress": "^1.8.2",
+    "vuepress-theme-gouv-fr": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {
+    "dev": "vuepress dev",
     "lint-md": "remark --frail --use remark-validate-links *.md",
     "extended-lint-md": "remark --frail --use remark-validate-links --use remark-lint-no-dead-urls *.md"
   }
