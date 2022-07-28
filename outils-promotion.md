@@ -9,7 +9,7 @@ Pour accompagner les défis, partager les nouvelles du programme et dialoguer en
 
 ### Messagerie instantanée
 
-Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
+Le programme EIG utilise la messagerie [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
 https://eig-hq.slack.com
 
 Ce Slack réunit les EIG de toutes promotions confondues, actuelle et précédentes.
